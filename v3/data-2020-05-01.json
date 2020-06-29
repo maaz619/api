@@ -4820,7 +4820,8 @@
   "UT": {
     "delta": {
       "deceased": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 477
     },
     "districts": {
       "Almora": {
@@ -4872,19 +4873,25 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "http://health.uk.gov.in/files/2020.05.01_Health_Bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 57,
       "deceased": 1,
-      "recovered": 37
+      "recovered": 37,
+      "tested": 7042
     }
   },
   "WB": {
     "delta": {
       "confirmed": 37,
       "deceased": 8,
-      "recovered": 15
+      "recovered": 15,
+      "tested": 2041
     },
     "districts": {
       "Darjeeling": {
@@ -4978,12 +4985,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.05_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 795,
       "deceased": 41,
-      "recovered": 139
+      "recovered": 139,
+      "tested": 18566
     }
   }
 }

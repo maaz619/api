@@ -557,11 +557,15 @@
       "recovered": 1
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-04-07"
+      }
     },
     "total": {
       "confirmed": 35,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 1289
     }
   },
   "WB": {
@@ -570,12 +574,17 @@
       "deceased": 2
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-07",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_07.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 99,
       "deceased": 5,
-      "recovered": 13
+      "recovered": 13,
+      "tested": 1487
     }
   }
 }

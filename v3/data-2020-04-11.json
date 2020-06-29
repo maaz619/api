@@ -622,25 +622,39 @@
     }
   },
   "UT": {
+    "delta": {
+      "tested": 17
+    },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "http://health.uk.gov.in/files/11.04.2020_Daily_Bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 35,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 1705
     }
   },
   "WB": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 10,
+      "tested": 191
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_11.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 126,
       "deceased": 5,
-      "recovered": 16
+      "recovered": 16,
+      "tested": 2286
     }
   }
 }

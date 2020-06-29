@@ -927,7 +927,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T21:23:16+05:30",
+      "last_updated": "2020-06-29T21:27:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1457,7 +1457,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T21:23:19+05:30",
+      "last_updated": "2020-06-29T21:27:18+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -1951,6 +1951,10 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2084,
+      "tested": 16157
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -2011,8 +2015,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2084
+        },
         "total": {
-          "confirmed": 82289,
+          "confirmed": 84373,
           "deceased": 2622,
           "recovered": 52607
         }
@@ -2024,19 +2031,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:42:21+05:30",
+      "last_updated": "2020-06-29T21:36:16+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-06-28",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/714"
+        "last_updated": "2020-06-29"
       }
     },
     "total": {
-      "confirmed": 83077,
+      "confirmed": 85161,
       "deceased": 2623,
       "recovered": 52607,
-      "tested": 498416
+      "tested": 514573
     }
   },
   "DN": {
@@ -3362,7 +3368,8 @@
     "delta": {
       "confirmed": 144,
       "deceased": 1,
-      "recovered": 269
+      "recovered": 269,
+      "tested": 6665
     },
     "districts": {
       "Anantnag": {
@@ -3598,15 +3605,14 @@
       "last_updated": "2020-06-29T21:15:10+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2020-06-28",
-        "source": "https://twitter.com/diprjk/status/1277245162230411265?s=20"
+        "last_updated": "2020-06-29"
       }
     },
     "total": {
       "confirmed": 7237,
       "deceased": 95,
       "recovered": 4585,
-      "tested": 351865
+      "tested": 358530
     }
   },
   "KA": {
@@ -4084,19 +4090,20 @@
       "Udupi": {
         "delta": {
           "confirmed": 18,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 35
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-28",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/741"
+            "last_updated": "2020-06-29",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/750"
           }
         },
         "total": {
           "confirmed": 1197,
           "deceased": 2,
           "recovered": 1045,
-          "tested": 14233
+          "tested": 14268
         }
       },
       "Uttara Kannada": {
@@ -4156,7 +4163,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T21:24:15+05:30",
+      "last_updated": "2020-06-29T21:35:17+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
@@ -5029,7 +5036,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:55:17+05:30",
+      "last_updated": "2020-06-29T21:36:25+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -6769,7 +6776,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T19:23:19+05:30",
+      "last_updated": "2020-06-29T21:36:18+05:30",
       "population": 29859000,
       "tested": {
         "last_updated": "2020-06-29"
@@ -6785,7 +6792,8 @@
   "PY": {
     "delta": {
       "confirmed": 42,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 587
     },
     "districts": {
       "Karaikal": {
@@ -6830,7 +6838,7 @@
       "last_updated": "2020-06-29T19:16:20+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-06-28",
+        "last_updated": "2020-06-29",
         "source": "https://covid19dashboard.py.gov.in/LabTestReport"
       }
     },
@@ -6838,14 +6846,15 @@
       "confirmed": 690,
       "deceased": 11,
       "recovered": 263,
-      "tested": 15892
+      "tested": 16479
     }
   },
   "RJ": {
     "delta": {
       "confirmed": 121,
       "deceased": 3,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 9563
     },
     "districts": {
       "Ajmer": {
@@ -7411,15 +7420,14 @@
       "last_updated": "2020-06-29T12:03:14+05:30",
       "population": 77264000,
       "tested": {
-        "last_updated": "2020-06-28",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/728"
+        "last_updated": "2020-06-29"
       }
     },
     "total": {
       "confirmed": 17392,
       "deceased": 402,
       "recovered": 13618,
-      "tested": 800214
+      "tested": 809777
     }
   },
   "SK": {
@@ -8626,13 +8634,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 14365,
+      "confirmed": 16449,
       "deceased": 329,
       "migrated": 4,
       "recovered": 7954
     },
     "meta": {
-      "last_updated": "2020-06-29T21:24:14+05:30",
+      "last_updated": "2020-06-29T21:36:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8640,7 +8648,7 @@
       }
     },
     "total": {
-      "confirmed": 563562,
+      "confirmed": 565646,
       "deceased": 16816,
       "migrated": 60,
       "recovered": 329728,
@@ -8660,6 +8668,9 @@
     }
   },
   "UP": {
+    "delta": {
+      "tested": 23543
+    },
     "districts": {
       "Agra": {
         "meta": {
@@ -9303,15 +9314,15 @@
       "last_updated": "2020-06-28T20:25:14+05:30",
       "population": 224979000,
       "tested": {
-        "last_updated": "2020-06-28",
-        "source": "https://twitter.com/UPGovt/status/1277202425590411264?s=20"
+        "last_updated": "2020-06-29",
+        "source": "https://twitter.com/UPGovt/status/1277604949568876545?s=20"
       }
     },
     "total": {
       "confirmed": 22147,
       "deceased": 660,
       "recovered": 14808,
-      "tested": 684296
+      "tested": 707839
     }
   },
   "UT": {
@@ -9319,7 +9330,8 @@
       "confirmed": 8,
       "deceased": 1,
       "migrated": 4,
-      "recovered": 93
+      "recovered": 93,
+      "tested": 1412
     },
     "districts": {
       "Almora": {
@@ -9569,20 +9581,26 @@
     "meta": {
       "last_updated": "2020-06-29T19:54:18+05:30",
       "notes": "22 Migrated cases reduced from Active count",
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-06-29",
+        "source": "https://health.uk.gov.in/files/2020.06.29_Health_Bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 2831,
       "deceased": 39,
       "migrated": 22,
-      "recovered": 2108
+      "recovered": 2108,
+      "tested": 66396
     }
   },
   "WB": {
     "delta": {
       "confirmed": 624,
       "deceased": 14,
-      "recovered": 526
+      "recovered": 526,
+      "tested": 9513
     },
     "districts": {
       "Alipurduar": {
@@ -9845,12 +9863,17 @@
     },
     "meta": {
       "last_updated": "2020-06-29T20:16:16+05:30",
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-06-29",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_29th_JUNE_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 17907,
       "deceased": 653,
-      "recovered": 11719
+      "recovered": 11719,
+      "tested": 478419
     }
   }
 }
