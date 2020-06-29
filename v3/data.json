@@ -1987,6 +1987,10 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 53,
+      "recovered": 46
+    },
     "districts": {
       "North Goa": {
         "meta": {
@@ -2011,14 +2015,18 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 53,
+          "recovered": 46
+        },
         "total": {
-          "confirmed": 336,
-          "recovered": 290
+          "confirmed": 389,
+          "recovered": 336
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T23:53:15+05:30",
+      "last_updated": "2020-06-29T19:53:16+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -2026,9 +2034,9 @@
       }
     },
     "total": {
-      "confirmed": 1198,
+      "confirmed": 1251,
       "deceased": 3,
-      "recovered": 478,
+      "recovered": 524,
       "tested": 62945
     }
   },
@@ -3856,6 +3864,7 @@
       "Malappuram": {
         "delta": {
           "confirmed": 13,
+          "deceased": 1,
           "recovered": 7
         },
         "meta": {
@@ -3863,7 +3872,7 @@
         },
         "total": {
           "confirmed": 468,
-          "deceased": 3,
+          "deceased": 4,
           "recovered": 244
         }
       },
@@ -3914,14 +3923,6 @@
           "confirmed": 399,
           "deceased": 3,
           "recovered": 214
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
-        "total": {
-          "deceased": 1
         }
       },
       "Wayanad": {
@@ -4403,7 +4404,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T19:43:14+05:30",
+      "last_updated": "2020-06-29T19:52:15+05:30",
       "notes": "15 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -8154,13 +8155,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10655,
+      "confirmed": 10713,
       "deceased": 270,
       "migrated": 4,
-      "recovered": 5741
+      "recovered": 5787
     },
     "meta": {
-      "last_updated": "2020-06-29T19:43:13+05:30",
+      "last_updated": "2020-06-29T19:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8168,10 +8169,10 @@
       }
     },
     "total": {
-      "confirmed": 559852,
+      "confirmed": 559910,
       "deceased": 16757,
       "migrated": 60,
-      "recovered": 327515,
+      "recovered": 327561,
       "tested": 8398362
     }
   },
@@ -9080,7 +9081,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T19:43:17+05:30",
+      "last_updated": "2020-06-29T19:52:17+05:30",
       "notes": "22 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
@@ -9097,6 +9098,9 @@
     }
   },
   "WB": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Alipurduar": {
         "total": {
@@ -9118,8 +9122,11 @@
         }
       },
       "Cooch Behar": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 298,
+          "confirmed": 303,
           "recovered": 289
         }
       },
@@ -9284,7 +9291,7 @@
       }
     },
     "total": {
-      "confirmed": 17283,
+      "confirmed": 17288,
       "deceased": 639,
       "recovered": 11193,
       "tested": 468906
