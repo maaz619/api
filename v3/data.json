@@ -329,6 +329,11 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 5,
+      "recovered": 1,
+      "tested": 698
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -354,6 +359,10 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-28",
@@ -361,8 +370,8 @@
           }
         },
         "total": {
-          "confirmed": 78,
-          "recovered": 26,
+          "confirmed": 81,
+          "recovered": 27,
           "tested": 4052
         }
       },
@@ -540,6 +549,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-28",
@@ -547,7 +559,7 @@
           }
         },
         "total": {
-          "confirmed": 46,
+          "confirmed": 48,
           "recovered": 8,
           "tested": 469
         }
@@ -655,18 +667,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T21:07:18+05:30",
+      "last_updated": "2020-06-29T22:36:19+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-06-28",
-        "source": "https://twitter.com/DirectorateofHS/status/1277261909167767552?s=20"
+        "last_updated": "2020-06-29"
       }
     },
     "total": {
-      "confirmed": 182,
+      "confirmed": 187,
       "deceased": 1,
-      "recovered": 60,
-      "tested": 23011
+      "recovered": 61,
+      "tested": 23709
     }
   },
   "AS": {
@@ -2906,7 +2917,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T22:23:16+05:30",
+      "last_updated": "2020-06-29T22:36:18+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3222,7 +3233,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 22,
+      "confirmed": 62,
       "deceased": 1
     },
     "districts": {
@@ -3243,20 +3254,23 @@
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 41,
+          "confirmed": 42,
           "recovered": 30
         }
       },
       "Dhanbad": {
         "delta": {
-          "confirmed": 20
+          "confirmed": 22
         },
         "meta": {
           "population": 2684487
         },
         "total": {
-          "confirmed": 151,
+          "confirmed": 153,
           "recovered": 109
         }
       },
@@ -3268,16 +3282,19 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 12
         },
         "total": {
-          "confirmed": 370,
+          "confirmed": 381,
           "recovered": 214
         }
       },
       "Garhwa": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 101,
+          "confirmed": 103,
           "recovered": 97
         }
       },
@@ -3308,8 +3325,11 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 191,
+          "confirmed": 192,
           "deceased": 2,
           "recovered": 135
         }
@@ -3330,8 +3350,11 @@
         }
       },
       "Koderma": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 175,
+          "confirmed": 176,
           "deceased": 1,
           "recovered": 138
         }
@@ -3343,11 +3366,14 @@
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 461790
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 57,
           "recovered": 44
         }
       },
@@ -3373,38 +3399,47 @@
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 14
+        },
         "meta": {
           "population": 2914253
         },
         "total": {
-          "confirmed": 207,
+          "confirmed": 221,
           "deceased": 5,
           "recovered": 159
         }
       },
       "Sahibganj": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "deceased": 1
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 9,
           "deceased": 1,
           "recovered": 3
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1065056
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 53,
           "recovered": 32
         }
       },
       "Simdega": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 350,
+          "confirmed": 353,
           "recovered": 302
         }
       },
@@ -3416,7 +3451,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T14:15:17+05:30",
+      "last_updated": "2020-06-29T22:36:15+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -3424,7 +3459,7 @@
       }
     },
     "total": {
-      "confirmed": 2386,
+      "confirmed": 2426,
       "deceased": 13,
       "recovered": 1793,
       "tested": 137438
@@ -8821,7 +8856,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T22:23:15+05:30",
+      "last_updated": "2020-06-29T22:36:16+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8837,13 +8872,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17689,
+      "confirmed": 17734,
       "deceased": 412,
       "migrated": 4,
-      "recovered": 13132
+      "recovered": 13133
     },
     "meta": {
-      "last_updated": "2020-06-29T22:23:13+05:30",
+      "last_updated": "2020-06-29T22:36:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8851,10 +8886,10 @@
       }
     },
     "total": {
-      "confirmed": 566886,
+      "confirmed": 566931,
       "deceased": 16899,
       "migrated": 60,
-      "recovered": 334906,
+      "recovered": 334907,
       "tested": 8398362
     }
   },
