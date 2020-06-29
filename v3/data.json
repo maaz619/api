@@ -2331,6 +2331,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 16
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2339,17 +2343,24 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "migrated": 1,
           "recovered": 41
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 16
+        },
         "total": {
-          "confirmed": 238,
+          "confirmed": 239,
           "deceased": 1,
-          "recovered": 120
+          "recovered": 136
         }
       },
       "Kangra": {
@@ -2375,6 +2386,14 @@
         "total": {
           "confirmed": 5,
           "recovered": 4
+        }
+      },
+      "Lahaul and Spiti": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
         }
       },
       "Mandi": {
@@ -2425,7 +2444,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T21:55:22+05:30",
+      "last_updated": "2020-06-29T13:36:16+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2434,10 +2453,10 @@
       }
     },
     "total": {
-      "confirmed": 916,
+      "confirmed": 919,
       "deceased": 8,
       "migrated": 13,
-      "recovered": 518,
+      "recovered": 534,
       "tested": 76556
     }
   },
@@ -7449,12 +7468,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -162,
+      "confirmed": -159,
       "deceased": 5,
-      "recovered": 7
+      "recovered": 23
     },
     "meta": {
-      "last_updated": "2020-06-29T12:03:13+05:30",
+      "last_updated": "2020-06-29T13:36:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -7462,10 +7481,10 @@
       }
     },
     "total": {
-      "confirmed": 549035,
+      "confirmed": 549038,
       "deceased": 16492,
       "migrated": 56,
-      "recovered": 321781,
+      "recovered": 321797,
       "tested": 8398362
     }
   },
@@ -8480,7 +8499,7 @@
           "population": 5913457
         },
         "total": {
-          "confirmed": 355,
+          "confirmed": 362,
           "deceased": 4,
           "recovered": 316
         }
@@ -8513,11 +8532,6 @@
           "confirmed": 955,
           "deceased": 25,
           "recovered": 446
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": 7
         }
       },
       "Uttar Dinajpur": {
