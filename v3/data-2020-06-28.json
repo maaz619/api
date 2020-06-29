@@ -7892,8 +7892,11 @@
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 27,
+          "confirmed": 28,
           "recovered": 1
         }
       },
@@ -7909,11 +7912,7 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 1
-        },
         "total": {
-          "confirmed": 1,
           "recovered": 20
         }
       },
@@ -9134,13 +9133,13 @@
     "delta": {
       "confirmed": 19610,
       "deceased": 384,
-      "recovered": 11628
+      "recovered": 11628,
+      "tested": 170560
     },
     "meta": {
       "population": 1332900000,
       "tested": {
-        "last_updated": "2020-06-27",
-        "source": "https://twitter.com/ICMRDELHI/status/1277084645016797190"
+        "last_updated": "2020-06-28"
       }
     },
     "total": {
@@ -9148,7 +9147,7 @@
       "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,
-      "tested": 8227802
+      "tested": 8398362
     }
   },
   "UN": {
