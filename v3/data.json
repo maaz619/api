@@ -3762,8 +3762,16 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 30
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 21
+        },
         "meta": {
           "population": 140802,
           "tested": {
@@ -3772,12 +3780,15 @@
           }
         },
         "total": {
-          "confirmed": 701,
-          "recovered": 432,
+          "confirmed": 702,
+          "recovered": 453,
           "tested": 6436
         }
       },
       "Leh": {
+        "delta": {
+          "recovered": 9
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-27",
@@ -3787,13 +3798,13 @@
         "total": {
           "confirmed": 262,
           "deceased": 1,
-          "recovered": 154,
+          "recovered": 163,
           "tested": 7281
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T18:16:19+05:30",
+      "last_updated": "2020-06-29T17:53:16+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -3801,9 +3812,9 @@
       }
     },
     "total": {
-      "confirmed": 963,
+      "confirmed": 964,
       "deceased": 1,
-      "recovered": 586,
+      "recovered": 616,
       "tested": 13717
     }
   },
@@ -7631,12 +7642,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 794,
+      "confirmed": 795,
       "deceased": 17,
-      "recovered": 596
+      "recovered": 626
     },
     "meta": {
-      "last_updated": "2020-06-29T17:26:13+05:30",
+      "last_updated": "2020-06-29T17:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -7644,10 +7655,10 @@
       }
     },
     "total": {
-      "confirmed": 549991,
+      "confirmed": 549992,
       "deceased": 16504,
       "migrated": 56,
-      "recovered": 322370,
+      "recovered": 322400,
       "tested": 8398362
     }
   },
