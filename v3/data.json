@@ -6219,14 +6219,21 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 42,
+      "recovered": 1
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 200222
         },
         "total": {
           "confirmed": 39,
-          "recovered": 4
+          "recovered": 5
         }
       },
       "Mahe": {
@@ -6236,11 +6243,14 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 42
+        },
         "meta": {
           "population": 950289
         },
         "total": {
-          "confirmed": 597,
+          "confirmed": 639,
           "deceased": 11,
           "recovered": 239
         }
@@ -6252,7 +6262,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T12:35:17+05:30",
+      "last_updated": "2020-06-29T18:53:17+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -6260,9 +6270,9 @@
       }
     },
     "total": {
-      "confirmed": 648,
+      "confirmed": 690,
       "deceased": 11,
-      "recovered": 252,
+      "recovered": 253,
       "tested": 15892
     }
   },
@@ -7851,7 +7861,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T18:43:16+05:30",
+      "last_updated": "2020-06-29T18:50:15+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -7997,12 +8007,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5147,
+      "confirmed": 5189,
       "deceased": 81,
-      "recovered": 3137
+      "recovered": 3138
     },
     "meta": {
-      "last_updated": "2020-06-29T18:43:13+05:30",
+      "last_updated": "2020-06-29T18:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -8010,10 +8020,10 @@
       }
     },
     "total": {
-      "confirmed": 554344,
+      "confirmed": 554386,
       "deceased": 16568,
       "migrated": 56,
-      "recovered": 324911,
+      "recovered": 324912,
       "tested": 8398362
     }
   },
