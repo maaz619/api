@@ -3292,7 +3292,8 @@
     "delta": {
       "confirmed": 82,
       "deceased": 4,
-      "recovered": 223
+      "recovered": 223,
+      "tested": 4839
     },
     "districts": {
       "Ajmer": {
@@ -3608,12 +3609,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://t.me/indiacovid/3768"
+      }
     },
     "total": {
       "confirmed": 2666,
       "deceased": 62,
-      "recovered": 1116
+      "recovered": 1116,
+      "tested": 108543
     }
   },
   "TG": {
@@ -3836,19 +3842,25 @@
       }
     },
     "meta": {
-      "population": 37220000
+      "population": 37220000,
+      "tested": {
+        "last_updated": "2020-04-29",
+        "source": "http://124.124.103.93/COVID/home.htm"
+      }
     },
     "total": {
       "confirmed": 1044,
       "deceased": 28,
-      "recovered": 464
+      "recovered": 464,
+      "tested": 19278
     }
   },
   "TN": {
     "delta": {
       "confirmed": 203,
       "deceased": 1,
-      "recovered": 54
+      "recovered": 54,
+      "tested": 9615
     },
     "districts": {
       "Ariyalur": {
@@ -4178,15 +4190,23 @@
       }
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-01.05.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 2526,
       "deceased": 28,
-      "recovered": 1312
+      "recovered": 1312,
+      "tested": 129363
     }
   },
   "TR": {
+    "delta": {
+      "tested": 1613
+    },
     "districts": {
       "Gomati": {
         "total": {
@@ -4202,11 +4222,16 @@
       }
     },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://tripura.gov.in/covid-test"
+      }
     },
     "total": {
       "confirmed": 3,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 4828
     }
   },
   "TT": {
@@ -4235,7 +4260,8 @@
     "delta": {
       "confirmed": 117,
       "deceased": 2,
-      "recovered": 103
+      "recovered": 103,
+      "tested": 4446
     },
     "districts": {
       "Agra": {
@@ -4778,12 +4804,17 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://t.me/indiacovid/3728?single"
+      }
     },
     "total": {
       "confirmed": 2328,
       "deceased": 42,
-      "recovered": 654
+      "recovered": 654,
+      "tested": 82459
     }
   },
   "UT": {

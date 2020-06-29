@@ -511,7 +511,8 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 71
+      "confirmed": 71,
+      "tested": 2932
     },
     "districts": {
       "Jaipur": {
@@ -559,12 +560,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-15",
+        "source": "https://t.me/indiacovid/2376"
+      }
     },
     "total": {
       "confirmed": 1076,
       "deceased": 11,
-      "recovered": 147
+      "recovered": 147,
+      "tested": 37860
     }
   },
   "TG": {
@@ -585,27 +591,39 @@
     "delta": {
       "confirmed": 38,
       "deceased": 2,
-      "recovered": 37
+      "recovered": 37,
+      "tested": 2739
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-15",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-15.04.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 1242,
       "deceased": 14,
-      "recovered": 118
+      "recovered": 118,
+      "tested": 21994
     }
   },
   "TR": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 401
     },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-15",
+        "source": "https://www.facebook.com/bjpbiplab/posts/2424173307684330"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 738
     }
   },
   "TT": {
@@ -634,15 +652,21 @@
     "delta": {
       "confirmed": 75,
       "deceased": 3,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 3592
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-15",
+        "source": "https://t.me/indiacovid/2356"
+      }
     },
     "total": {
       "confirmed": 735,
       "deceased": 11,
-      "recovered": 57
+      "recovered": 57,
+      "tested": 19506
     }
   },
   "UT": {

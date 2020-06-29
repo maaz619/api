@@ -530,7 +530,8 @@
     "delta": {
       "confirmed": 159,
       "deceased": 1,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 4202
     },
     "districts": {
       "Jaipur": {
@@ -578,12 +579,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-21",
+        "source": "https://t.me/indiacovid/2888"
+      }
     },
     "total": {
       "confirmed": 1735,
       "deceased": 26,
-      "recovered": 274
+      "recovered": 274,
+      "tested": 61492
     }
   },
   "TG": {
@@ -592,36 +598,55 @@
       "recovered": 8
     },
     "meta": {
-      "population": 37220000
+      "population": 37220000,
+      "tested": {
+        "last_updated": "2020-04-19",
+        "source": "https://t.me/indiacovid/2688?single"
+      }
     },
     "total": {
       "confirmed": 928,
       "deceased": 23,
-      "recovered": 194
+      "recovered": 194,
+      "tested": 14962
     }
   },
   "TN": {
     "delta": {
       "confirmed": 76,
       "deceased": 1,
-      "recovered": 178
+      "recovered": 178,
+      "tested": 6060
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-21",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-21.04.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 1596,
       "deceased": 18,
-      "recovered": 635
+      "recovered": 635,
+      "tested": 53045
     }
   },
   "TR": {
+    "delta": {
+      "tested": 1842
+    },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-21",
+        "source": "https://t.me/indiacovid/2898?single"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 2604
     }
   },
   "TT": {
@@ -650,15 +675,21 @@
     "delta": {
       "confirmed": 153,
       "deceased": 3,
-      "recovered": 22
+      "recovered": 22,
+      "tested": 3607
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-21",
+        "source": "https://twitter.com/ANINewsUP/status/1252619570222731265?s=19"
+      }
     },
     "total": {
       "confirmed": 1337,
       "deceased": 21,
-      "recovered": 162
+      "recovered": 162,
+      "tested": 37933
     }
   },
   "UT": {

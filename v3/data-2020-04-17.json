@@ -518,7 +518,8 @@
     "delta": {
       "confirmed": 98,
       "deceased": 6,
-      "recovered": 19
+      "recovered": 19,
+      "tested": 2069
     },
     "districts": {
       "Jaipur": {
@@ -563,12 +564,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://t.me/indiacovid/2516"
+      }
     },
     "total": {
       "confirmed": 1229,
       "deceased": 17,
-      "recovered": 183
+      "recovered": 183,
+      "tested": 42847
     }
   },
   "TG": {
@@ -587,24 +593,35 @@
   "TN": {
     "delta": {
       "confirmed": 56,
-      "recovered": 103
+      "recovered": 103,
+      "tested": 3668
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-17.04.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 1323,
       "deceased": 15,
-      "recovered": 283
+      "recovered": 283,
+      "tested": 29673
     }
   },
   "TR": {
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2466"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 762
     }
   },
   "TT": {
@@ -633,15 +650,21 @@
     "delta": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 14
+      "recovered": 14,
+      "tested": 3259
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://t.me/indiacovid/2504?single"
+      }
     },
     "total": {
       "confirmed": 849,
       "deceased": 14,
-      "recovered": 82
+      "recovered": 82,
+      "tested": 24643
     }
   },
   "UT": {

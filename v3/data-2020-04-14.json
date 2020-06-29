@@ -508,7 +508,8 @@
   "RJ": {
     "delta": {
       "confirmed": 108,
-      "recovered": 26
+      "recovered": 26,
+      "tested": 3124
     },
     "districts": {
       "Jaipur": {
@@ -556,12 +557,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-14",
+        "source": "https://t.me/indiacovid/2309"
+      }
     },
     "total": {
       "confirmed": 1005,
       "deceased": 11,
-      "recovered": 147
+      "recovered": 147,
+      "tested": 34928
     }
   },
   "TG": {
@@ -583,23 +589,34 @@
     "delta": {
       "confirmed": 31,
       "deceased": 1,
-      "recovered": 23
+      "recovered": 23,
+      "tested": 6509
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-14",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-14.04.2020-4-Pages-English-175-KB.pdf"
+      }
     },
     "total": {
       "confirmed": 1204,
       "deceased": 12,
-      "recovered": 81
+      "recovered": 81,
+      "tested": 19255
     }
   },
   "TR": {
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://m.facebook.com/story.php?story_fbid=2415546905213637&id=632536300181382"
+      }
     },
     "total": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 337
     }
   },
   "TT": {
@@ -628,15 +645,21 @@
     "delta": {
       "confirmed": 102,
       "deceased": 3,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 2627
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-14",
+        "source": "https://t.me/indiacovid/2294?single"
+      }
     },
     "total": {
       "confirmed": 660,
       "deceased": 8,
-      "recovered": 50
+      "recovered": 50,
+      "tested": 15914
     }
   },
   "UT": {

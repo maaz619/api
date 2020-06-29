@@ -426,7 +426,8 @@
   },
   "RJ": {
     "delta": {
-      "confirmed": 42
+      "confirmed": 42,
+      "tested": 5359
     },
     "districts": {
       "Jaipur": {
@@ -465,12 +466,16 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-07"
+      }
     },
     "total": {
       "confirmed": 343,
       "deceased": 2,
-      "recovered": 25
+      "recovered": 25,
+      "tested": 17638
     }
   },
   "TG": {
@@ -493,12 +498,17 @@
       "recovered": 6
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-03",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-03-04-20-COVID-19-6-PM.pdf"
+      }
     },
     "total": {
       "confirmed": 690,
       "deceased": 7,
-      "recovered": 19
+      "recovered": 19,
+      "tested": 3684
     }
   },
   "TR": {
@@ -536,12 +546,16 @@
       "confirmed": 27
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-05"
+      }
     },
     "total": {
       "confirmed": 332,
       "deceased": 3,
-      "recovered": 21
+      "recovered": 21,
+      "tested": 5255
     }
   },
   "UT": {

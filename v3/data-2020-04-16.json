@@ -513,7 +513,8 @@
   "RJ": {
     "delta": {
       "confirmed": 55,
-      "recovered": 17
+      "recovered": 17,
+      "tested": 2918
     },
     "districts": {
       "Jaipur": {
@@ -558,12 +559,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2402"
+      }
     },
     "total": {
       "confirmed": 1131,
       "deceased": 11,
-      "recovered": 164
+      "recovered": 164,
+      "tested": 40778
     }
   },
   "TG": {
@@ -584,24 +590,38 @@
     "delta": {
       "confirmed": 25,
       "deceased": 1,
-      "recovered": 62
+      "recovered": 62,
+      "tested": 4011
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin16.04.2020-4-Pages-English-174-KB.pdf"
+      }
     },
     "total": {
       "confirmed": 1267,
       "deceased": 15,
-      "recovered": 180
+      "recovered": 180,
+      "tested": 26005
     }
   },
   "TR": {
+    "delta": {
+      "tested": 24
+    },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2466"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 762
     }
   },
   "TT": {
@@ -630,15 +650,21 @@
     "delta": {
       "confirmed": 70,
       "deceased": 2,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 1878
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2448"
+      }
     },
     "total": {
       "confirmed": 805,
       "deceased": 13,
-      "recovered": 68
+      "recovered": 68,
+      "tested": 21384
     }
   },
   "UT": {

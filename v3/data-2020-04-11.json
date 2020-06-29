@@ -471,7 +471,8 @@
     "delta": {
       "confirmed": 139,
       "deceased": 6,
-      "recovered": 56
+      "recovered": 56,
+      "tested": 2508
     },
     "districts": {
       "Jaipur": {
@@ -513,12 +514,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "http://www.rajswasthya.nic.in/"
+      }
     },
     "total": {
       "confirmed": 700,
       "deceased": 9,
-      "recovered": 116
+      "recovered": 116,
+      "tested": 24857
     }
   },
   "TG": {
@@ -539,23 +545,37 @@
   "TN": {
     "delta": {
       "confirmed": 58,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 1432
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11.04.2020.pdf"
+      }
     },
     "total": {
       "confirmed": 969,
       "deceased": 10,
-      "recovered": 44
+      "recovered": 44,
+      "tested": 9842
     }
   },
   "TR": {
+    "delta": {
+      "tested": 337
+    },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://m.facebook.com/story.php?story_fbid=2415546905213637&id=632536300181382"
+      }
     },
     "total": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 337
     }
   },
   "TT": {
@@ -584,15 +604,21 @@
     "delta": {
       "confirmed": 19,
       "deceased": 1,
-      "recovered": 13
+      "recovered": 13,
+      "tested": 1263
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://t.me/c/1428198946/1882"
+      }
     },
     "total": {
       "confirmed": 452,
       "deceased": 5,
-      "recovered": 45
+      "recovered": 45,
+      "tested": 10595
     }
   },
   "UT": {

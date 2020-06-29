@@ -455,12 +455,17 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-04-08",
+        "source": "http://www.rajswasthya.nic.in/"
+      }
     },
     "total": {
       "confirmed": 383,
       "deceased": 3,
-      "recovered": 45
+      "recovered": 45,
+      "tested": 17638
     }
   },
   "TG": {
@@ -480,15 +485,21 @@
     "delta": {
       "confirmed": 48,
       "deceased": 1,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1621
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-04-08",
+        "source": "https://stopcorona.tn.gov.in/"
+      }
     },
     "total": {
       "confirmed": 738,
       "deceased": 8,
-      "recovered": 21
+      "recovered": 21,
+      "tested": 5305
     }
   },
   "TR": {
@@ -528,12 +539,16 @@
       "recovered": 10
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-05"
+      }
     },
     "total": {
       "confirmed": 361,
       "deceased": 4,
-      "recovered": 31
+      "recovered": 31,
+      "tested": 5255
     }
   },
   "UT": {
