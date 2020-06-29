@@ -2409,7 +2409,7 @@
   "HP": {
     "delta": {
       "confirmed": 3,
-      "recovered": 16
+      "recovered": 18
     },
     "districts": {
       "Bilaspur": {
@@ -2498,13 +2498,16 @@
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 580320
         },
         "total": {
           "confirmed": 98,
           "migrated": 4,
-          "recovered": 49
+          "recovered": 51
         }
       },
       "Una": {
@@ -2520,7 +2523,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T13:46:15+05:30",
+      "last_updated": "2020-06-29T18:03:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2532,7 +2535,7 @@
       "confirmed": 919,
       "deceased": 8,
       "migrated": 13,
-      "recovered": 534,
+      "recovered": 536,
       "tested": 76556
     }
   },
@@ -3804,7 +3807,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T17:53:16+05:30",
+      "last_updated": "2020-06-29T18:03:17+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7644,10 +7647,10 @@
     "delta": {
       "confirmed": 795,
       "deceased": 17,
-      "recovered": 626
+      "recovered": 628
     },
     "meta": {
-      "last_updated": "2020-06-29T17:53:13+05:30",
+      "last_updated": "2020-06-29T18:03:14+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -7658,7 +7661,7 @@
       "confirmed": 549992,
       "deceased": 16504,
       "migrated": 56,
-      "recovered": 322400,
+      "recovered": 322402,
       "tested": 8398362
     }
   },
