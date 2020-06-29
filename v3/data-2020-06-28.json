@@ -1,7 +1,7 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 11,
+      "confirmed": 18,
       "recovered": 2
     },
     "districts": {
@@ -22,11 +22,11 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 18,
           "recovered": 2
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 54,
           "recovered": 12
         }
       }
@@ -39,7 +39,7 @@
       }
     },
     "total": {
-      "confirmed": 83,
+      "confirmed": 90,
       "recovered": 45,
       "tested": 14583
     }
@@ -4899,19 +4899,20 @@
       "Palghar": {
         "delta": {
           "confirmed": 387,
-          "recovered": 259
+          "recovered": 259,
+          "tested": 1925
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/4"
+            "last_updated": "2020-06-28",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/2020-06-29/2"
           }
         },
         "total": {
           "confirmed": 5267,
           "deceased": 101,
           "recovered": 1767,
-          "tested": 26797
+          "tested": 28722
         }
       },
       "Parbhani": {
@@ -5043,13 +5044,14 @@
         "delta": {
           "confirmed": 1522,
           "deceased": 26,
-          "recovered": 533
+          "recovered": 533,
+          "tested": 1892
         },
         "meta": {
           "population": 11060148,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/1"
+            "last_updated": "2020-06-28",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/2020-06-29/1"
           }
         },
         "total": {
@@ -5057,7 +5059,7 @@
           "deceased": 845,
           "migrated": 1,
           "recovered": 14335,
-          "tested": 96093
+          "tested": 97985
         }
       },
       "Wardha": {
@@ -5683,19 +5685,19 @@
         "delta": {
           "confirmed": 40,
           "deceased": 4,
-          "recovered": 18
+          "recovered": 18,
+          "tested": 1512
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/tarun28988/status/1276940604371423232?s=20"
+            "last_updated": "2020-06-28"
           }
         },
         "total": {
           "confirmed": 4615,
           "deceased": 222,
           "recovered": 3415,
-          "tested": 81624
+          "tested": 83136
         }
       },
       "Jabalpur": {
@@ -8965,7 +8967,7 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 12,
+      "confirmed": 13,
       "recovered": 8,
       "tested": 1084
     },
@@ -9040,7 +9042,7 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 8,
+          "confirmed": 9,
           "recovered": 6,
           "tested": 84
         },
@@ -9051,7 +9053,7 @@
           }
         },
         "total": {
-          "confirmed": 560,
+          "confirmed": 561,
           "recovered": 514,
           "tested": 7548
         }
@@ -9121,7 +9123,7 @@
       }
     },
     "total": {
-      "confirmed": 1351,
+      "confirmed": 1352,
       "deceased": 1,
       "recovered": 1086,
       "tested": 62278
@@ -9129,7 +9131,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19610,
+      "confirmed": 19618,
       "deceased": 384,
       "recovered": 11628
     },
@@ -9141,7 +9143,7 @@
       }
     },
     "total": {
-      "confirmed": 549197,
+      "confirmed": 549205,
       "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,

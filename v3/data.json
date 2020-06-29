@@ -1,8 +1,5 @@
 {
   "AN": {
-    "delta": {
-      "confirmed": 7
-    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -20,9 +17,6 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 7
-        },
         "total": {
           "confirmed": 54,
           "recovered": 12
@@ -30,7 +24,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T10:13:21+05:30",
+      "last_updated": "2020-06-29T10:22:18+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -3849,15 +3843,15 @@
       "Palghar": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/4"
+            "last_updated": "2020-06-28",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/2020-06-29/2"
           }
         },
         "total": {
           "confirmed": 5267,
           "deceased": 101,
           "recovered": 1767,
-          "tested": 26797
+          "tested": 28722
         }
       },
       "Parbhani": {
@@ -3953,8 +3947,8 @@
         "meta": {
           "population": 11060148,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/-1/1"
+            "last_updated": "2020-06-28",
+            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Thane/2020-06-29/1"
           }
         },
         "total": {
@@ -3962,7 +3956,7 @@
           "deceased": 845,
           "migrated": 1,
           "recovered": 14335,
-          "tested": 96093
+          "tested": 97985
         }
       },
       "Wardha": {
@@ -4487,15 +4481,14 @@
       "Indore": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/tarun28988/status/1276940604371423232?s=20"
+            "last_updated": "2020-06-28"
           }
         },
         "total": {
           "confirmed": 4615,
           "deceased": 222,
           "recovered": 3415,
-          "tested": 81624
+          "tested": 83136
         }
       },
       "Jabalpur": {
@@ -7091,6 +7084,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": -1
+    },
     "districts": {
       "Dhalai": {
         "meta": {
@@ -7153,7 +7149,7 @@
           }
         },
         "total": {
-          "confirmed": 560,
+          "confirmed": 561,
           "recovered": 514,
           "tested": 7548
         }
@@ -7190,6 +7186,9 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": -1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-28",
@@ -7197,7 +7196,7 @@
           }
         },
         "total": {
-          "confirmed": 152,
+          "confirmed": 151,
           "deceased": 1,
           "recovered": 85,
           "tested": 17423
@@ -7220,10 +7219,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -547
+      "confirmed": -555
     },
     "meta": {
-      "last_updated": "2020-06-29T10:13:13+05:30",
+      "last_updated": "2020-06-29T10:22:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7243,7 +7242,7 @@
       "confirmed": -554
     },
     "meta": {
-      "last_updated": "2020-06-29T10:13:15+05:30",
+      "last_updated": "2020-06-29T10:22:15+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 554 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
