@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 7
+    },
     "districts": {
       "North and Middle Andaman": {
         "total": {
@@ -17,6 +20,9 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 7
+        },
         "total": {
           "confirmed": 54,
           "recovered": 12
@@ -24,7 +30,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T10:22:18+05:30",
+      "last_updated": "2020-06-29T10:25:27+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -4481,7 +4487,8 @@
       "Indore": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-28"
+            "last_updated": "2020-06-28",
+            "source": "https://twitter.com/tarun28988/status/1277303789561606144/photo/1"
           }
         },
         "total": {
@@ -4968,6 +4975,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 19
+    },
     "districts": {
       "Dimapur": {
         "meta": {
@@ -5084,7 +5094,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 19
+        },
         "total": {
+          "confirmed": 19,
           "recovered": 135
         }
       },
@@ -5108,7 +5122,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-28T17:31:22+05:30",
+      "last_updated": "2020-06-29T10:35:16+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-06-28",
@@ -5116,7 +5130,7 @@
       }
     },
     "total": {
-      "confirmed": 415,
+      "confirmed": 434,
       "recovered": 164,
       "tested": 15240
     }
@@ -7084,9 +7098,6 @@
     }
   },
   "TR": {
-    "delta": {
-      "confirmed": -1
-    },
     "districts": {
       "Dhalai": {
         "meta": {
@@ -7186,9 +7197,6 @@
         }
       },
       "West Tripura": {
-        "delta": {
-          "confirmed": -1
-        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-28",
@@ -7219,10 +7227,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -555
+      "confirmed": -528
     },
     "meta": {
-      "last_updated": "2020-06-29T10:22:13+05:30",
+      "last_updated": "2020-06-29T10:35:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-27",
@@ -7230,7 +7238,7 @@
       }
     },
     "total": {
-      "confirmed": 548650,
+      "confirmed": 548669,
       "deceased": 16487,
       "migrated": 56,
       "recovered": 321774,
@@ -7242,7 +7250,7 @@
       "confirmed": -554
     },
     "meta": {
-      "last_updated": "2020-06-29T10:22:15+05:30",
+      "last_updated": "2020-06-29T10:25:15+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 554 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
