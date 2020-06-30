@@ -604,6 +604,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 41
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -616,11 +619,14 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 1693622
         },
         "total": {
-          "confirmed": 147,
+          "confirmed": 150,
           "recovered": 55
         }
       },
@@ -664,8 +670,11 @@
         }
       },
       "Dhemaji": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 95,
+          "confirmed": 96,
           "recovered": 6
         }
       },
@@ -721,8 +730,11 @@
         }
       },
       "Jorhat": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 139,
+          "confirmed": 145,
           "recovered": 54
         }
       },
@@ -736,18 +748,24 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 1284,
+          "confirmed": 1289,
           "deceased": 5,
           "recovered": 383
         }
       },
       "Karbi Anglong": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 956313
         },
         "total": {
-          "confirmed": 39,
+          "confirmed": 41,
           "recovered": 7
         }
       },
@@ -767,8 +785,11 @@
         }
       },
       "Lakhimpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "total": {
-          "confirmed": 82,
+          "confirmed": 85,
           "recovered": 6
         }
       },
@@ -784,11 +805,14 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 2823768
         },
         "total": {
-          "confirmed": 327,
+          "confirmed": 330,
           "recovered": 25
         }
       },
@@ -811,11 +835,14 @@
         }
       },
       "Sonitpur": {
+        "delta": {
+          "confirmed": 18
+        },
         "meta": {
           "population": 1924110
         },
         "total": {
-          "confirmed": 104,
+          "confirmed": 122,
           "recovered": 35
         }
       },
@@ -855,7 +882,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T00:14:15+05:30",
+      "last_updated": "2020-06-30T12:36:17+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -864,7 +891,7 @@
       }
     },
     "total": {
-      "confirmed": 7795,
+      "confirmed": 7836,
       "deceased": 11,
       "migrated": 3,
       "recovered": 5334,
@@ -7458,12 +7485,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 34,
+      "confirmed": 75,
       "deceased": 6,
       "recovered": 27
     },
     "meta": {
-      "last_updated": "2020-06-30T11:47:13+05:30",
+      "last_updated": "2020-06-30T12:36:14+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7471,7 +7498,7 @@
       }
     },
     "total": {
-      "confirmed": 567570,
+      "confirmed": 567611,
       "deceased": 16910,
       "migrated": 60,
       "recovered": 335298,
