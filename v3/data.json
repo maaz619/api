@@ -2553,7 +2553,8 @@
   },
   "HP": {
     "delta": {
-      "recovered": 2
+      "confirmed": 6,
+      "recovered": 13
     },
     "districts": {
       "Bilaspur": {
@@ -2573,20 +2574,27 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 243,
+          "confirmed": 245,
           "deceased": 1,
           "recovered": 139
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 5
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 268,
+          "confirmed": 272,
           "deceased": 3,
-          "recovered": 153
+          "recovered": 158
         }
       },
       "Kinnaur": {
@@ -2617,6 +2625,9 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 814010
         },
@@ -2624,7 +2635,7 @@
           "confirmed": 40,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 17
+          "recovered": 20
         }
       },
       "Sirmaur": {
@@ -2635,13 +2646,16 @@
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 580320
         },
         "total": {
           "confirmed": 108,
           "migrated": 4,
-          "recovered": 51
+          "recovered": 54
         }
       },
       "Una": {
@@ -2657,7 +2671,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T14:43:17+05:30",
+      "last_updated": "2020-06-30T18:23:19+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2666,10 +2680,10 @@
       }
     },
     "total": {
-      "confirmed": 942,
+      "confirmed": 948,
       "deceased": 8,
       "migrated": 13,
-      "recovered": 558,
+      "recovered": 569,
       "tested": 77384
     }
   },
@@ -2921,7 +2935,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T18:13:15+05:30",
+      "last_updated": "2020-06-30T18:23:16+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -5343,6 +5357,9 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5350,7 +5367,7 @@
           }
         },
         "total": {
-          "confirmed": 84,
+          "confirmed": 85,
           "recovered": 19,
           "tested": 896
         }
@@ -5390,6 +5407,9 @@
         }
       },
       "Mokokchung": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5397,6 +5417,7 @@
           }
         },
         "total": {
+          "confirmed": 1,
           "tested": 63
         }
       },
@@ -5414,8 +5435,11 @@
         }
       },
       "Others": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 40
+          "confirmed": 46
         }
       },
       "Peren": {
@@ -5445,6 +5469,9 @@
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 17
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5452,16 +5479,15 @@
           }
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 30,
           "tested": 1
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 8
+          "confirmed": -17
         },
         "total": {
-          "confirmed": 25,
           "recovered": 139
         }
       },
@@ -5485,7 +5511,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T11:06:19+05:30",
+      "last_updated": "2020-06-30T18:22:19+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7794,12 +7820,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1107,
+      "confirmed": 1113,
       "deceased": 15,
-      "recovered": 666
+      "recovered": 677
     },
     "meta": {
-      "last_updated": "2020-06-30T18:13:13+05:30",
+      "last_updated": "2020-06-30T18:23:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7807,10 +7833,10 @@
       }
     },
     "total": {
-      "confirmed": 568643,
+      "confirmed": 568649,
       "deceased": 16919,
       "migrated": 60,
-      "recovered": 335937,
+      "recovered": 335948,
       "tested": 8608654
     }
   },
