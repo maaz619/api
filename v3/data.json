@@ -2178,11 +2178,14 @@
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 18
+        },
         "meta": {
           "population": 818008
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 93,
           "deceased": 1,
           "recovered": 28
         }
@@ -2193,20 +2196,24 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 30
+        },
         "total": {
-          "confirmed": 806,
+          "confirmed": 807,
           "deceased": 2,
-          "recovered": 183
+          "recovered": 213
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 64,
-          "recovered": 72
+          "confirmed": 45,
+          "recovered": 42
         },
         "total": {
-          "confirmed": 430,
-          "recovered": 385
+          "confirmed": 411,
+          "recovered": 355
         }
       }
     },
