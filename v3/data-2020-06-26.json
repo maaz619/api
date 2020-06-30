@@ -6966,20 +6966,20 @@
     "districts": {
       "Amritsar": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "tested": 15709
         },
         "meta": {
           "population": 2490656,
           "tested": {
-            "last_updated": "2020-05-27",
-            "source": "https://drive.google.com/file/d/1w3lm9PWcWs6ZODBOt4z64IdmnHGWMplz/view"
+            "last_updated": "2020-06-26"
           }
         },
         "total": {
           "confirmed": 852,
           "deceased": 36,
           "recovered": 547,
-          "tested": 4797
+          "tested": 20506
         }
       },
       "Barnala": {
@@ -7068,10 +7068,19 @@
         }
       },
       "Jalandhar": {
+        "delta": {
+          "tested": 21352
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-26"
+          }
+        },
         "total": {
           "confirmed": 668,
           "deceased": 18,
-          "recovered": 315
+          "recovered": 315,
+          "tested": 21352
         }
       },
       "Kapurthala": {
@@ -7083,12 +7092,19 @@
       },
       "Ludhiana": {
         "delta": {
-          "confirmed": 67
+          "confirmed": 67,
+          "tested": 32260
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-26"
+          }
         },
         "total": {
           "confirmed": 730,
           "deceased": 19,
-          "recovered": 446
+          "recovered": 446,
+          "tested": 32260
         }
       },
       "Mansa": {
