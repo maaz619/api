@@ -5186,7 +5186,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T10:53:16+05:30",
+      "last_updated": "2020-06-30T11:03:18+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -5201,7 +5201,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 206
+      "confirmed": 206,
+      "deceased": 2
     },
     "districts": {
       "Angul": {
@@ -5359,7 +5360,8 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "deceased": 2
         },
         "meta": {
           "population": 3529031,
@@ -5370,7 +5372,7 @@
         },
         "total": {
           "confirmed": 1370,
-          "deceased": 12,
+          "deceased": 14,
           "recovered": 952,
           "tested": 6632
         }
@@ -5649,7 +5651,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T10:26:17+05:30",
+      "last_updated": "2020-06-30T11:03:15+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -5659,7 +5661,7 @@
     },
     "total": {
       "confirmed": 7065,
-      "deceased": 30,
+      "deceased": 32,
       "recovered": 4946,
       "tested": 260428
     }
@@ -7397,10 +7399,11 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -60
+      "confirmed": -60,
+      "deceased": 2
     },
     "meta": {
-      "last_updated": "2020-06-30T10:53:13+05:30",
+      "last_updated": "2020-06-30T11:03:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7409,7 +7412,7 @@
     },
     "total": {
       "confirmed": 567476,
-      "deceased": 16904,
+      "deceased": 16906,
       "migrated": 60,
       "recovered": 335271,
       "tested": 8608654
