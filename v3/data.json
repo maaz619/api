@@ -907,15 +907,15 @@
         "meta": {
           "population": 2970541,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/DM_Begusarai/status/1276826902896902150/photo/1"
+            "last_updated": "2020-06-29",
+            "source": "https://twitter.com/DM_Begusarai/status/1277564206217191426?s=20"
           }
         },
         "total": {
           "confirmed": 416,
           "deceased": 4,
           "recovered": 343,
-          "tested": 7476
+          "tested": 8104
         }
       },
       "Bhagalpur": {
@@ -1008,15 +1008,15 @@
         "meta": {
           "population": 1666886,
           "tested": {
-            "last_updated": "2020-06-26",
-            "source": "https://twitter.com/KhagariaDm/status/1276594484449443840/photo/1"
+            "last_updated": "2020-06-29",
+            "source": "https://twitter.com/KhagariaDm/status/1277672325861658624?s=20"
           }
         },
         "total": {
           "confirmed": 299,
           "deceased": 3,
           "recovered": 293,
-          "tested": 4765
+          "tested": 5360
         }
       },
       "Kishanganj": {
@@ -1108,14 +1108,14 @@
         "meta": {
           "population": 3264619,
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "https://twitter.com/dmpurnea/status/1276745144960790528?s=20"
+            "last_updated": "2020-06-29",
+            "source": "https://twitter.com/dmpurnea/status/1277516558726770694?s=20"
           }
         },
         "total": {
           "confirmed": 295,
           "recovered": 258,
-          "tested": 5318
+          "tested": 5657
         }
       },
       "Rohtas": {
@@ -1902,7 +1902,7 @@
         },
         "total": {
           "confirmed": 177,
-          "deceased": 12,
+          "deceased": 10,
           "recovered": 151,
           "tested": 8224
         }
@@ -1917,7 +1917,7 @@
         },
         "total": {
           "confirmed": 220,
-          "deceased": 7,
+          "deceased": 9,
           "recovered": 104,
           "tested": 4308
         }
@@ -2182,7 +2182,7 @@
         },
         "total": {
           "confirmed": 173,
-          "deceased": 15,
+          "deceased": 14,
           "recovered": 133,
           "tested": 6006
         }
@@ -2196,7 +2196,7 @@
         },
         "total": {
           "confirmed": 195,
-          "deceased": 14,
+          "deceased": 15,
           "recovered": 113,
           "tested": 4678
         }
@@ -5039,6 +5039,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 8
+    },
     "districts": {
       "Dimapur": {
         "meta": {
@@ -5155,8 +5158,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 8
+        },
         "total": {
-          "confirmed": 17,
+          "confirmed": 25,
           "recovered": 139
         }
       },
@@ -5180,7 +5186,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T19:16:23+05:30",
+      "last_updated": "2020-06-30T10:53:16+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -5188,7 +5194,7 @@
       }
     },
     "total": {
-      "confirmed": 451,
+      "confirmed": 459,
       "recovered": 168,
       "tested": 15905
     }
@@ -7391,10 +7397,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -68
+      "confirmed": -60
     },
     "meta": {
-      "last_updated": "2020-06-30T10:26:13+05:30",
+      "last_updated": "2020-06-30T10:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7402,7 +7408,7 @@
       }
     },
     "total": {
-      "confirmed": 567468,
+      "confirmed": 567476,
       "deceased": 16904,
       "migrated": 60,
       "recovered": 335271,
