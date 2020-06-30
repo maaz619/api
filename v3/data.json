@@ -4242,7 +4242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T14:14:17+05:30",
+      "last_updated": "2020-06-30T14:24:18+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -5992,6 +5992,11 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 24,
+      "deceased": 1,
+      "recovered": 10
+    },
     "districts": {
       "Karaikal": {
         "meta": {
@@ -6003,19 +6008,27 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 3
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 9
+          "recovered": 12
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 24,
+          "deceased": 1,
+          "recovered": 7
+        },
         "meta": {
           "population": 950289
         },
         "total": {
-          "confirmed": 639,
-          "deceased": 11,
-          "recovered": 249
+          "confirmed": 663,
+          "deceased": 12,
+          "recovered": 256
         }
       },
       "Yanam": {
@@ -6025,7 +6038,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T23:36:17+05:30",
+      "last_updated": "2020-06-30T14:24:16+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -6033,9 +6046,9 @@
       }
     },
     "total": {
-      "confirmed": 690,
-      "deceased": 11,
-      "recovered": 262,
+      "confirmed": 714,
+      "deceased": 12,
+      "recovered": 272,
       "tested": 16479
     }
   },
@@ -7585,12 +7598,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 786,
-      "deceased": 14,
-      "recovered": 373
+      "confirmed": 810,
+      "deceased": 15,
+      "recovered": 383
     },
     "meta": {
-      "last_updated": "2020-06-30T14:14:13+05:30",
+      "last_updated": "2020-06-30T14:24:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7598,10 +7611,10 @@
       }
     },
     "total": {
-      "confirmed": 568322,
-      "deceased": 16918,
+      "confirmed": 568346,
+      "deceased": 16919,
       "migrated": 60,
-      "recovered": 335644,
+      "recovered": 335654,
       "tested": 8608654
     }
   },
