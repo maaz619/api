@@ -7301,37 +7301,71 @@
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "tested": 2433
+        },
         "meta": {
-          "population": 200222
+          "population": 200222,
+          "tested": {
+            "last_updated": "2020-06-29",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+          }
         },
         "total": {
           "confirmed": 39,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 2433
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 795
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-29",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+          }
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 9
+          "recovered": 9,
+          "tested": 795
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 42,
-          "recovered": 10
+          "recovered": 10,
+          "tested": 13115
         },
         "meta": {
-          "population": 950289
+          "population": 950289,
+          "tested": {
+            "last_updated": "2020-06-29",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+          }
         },
         "total": {
           "confirmed": 639,
           "deceased": 11,
-          "recovered": 249
+          "recovered": 249,
+          "tested": 13115
         }
       },
       "Yanam": {
+        "delta": {
+          "tested": 938
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-29",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+          }
+        },
         "total": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 938
         }
       }
     },
