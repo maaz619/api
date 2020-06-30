@@ -332,6 +332,11 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 1,
+      "tested": 528
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -629,6 +634,10 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-29",
@@ -636,9 +645,9 @@
           }
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 19,
           "deceased": 1,
-          "recovered": 3,
+          "recovered": 4,
           "tested": 1095
         }
       },
@@ -658,18 +667,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T22:46:18+05:30",
+      "last_updated": "2020-06-30T22:53:16+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-06-29",
-        "source": "https://twitter.com/DirectorateofHS/status/1277645844968140804?s=20"
+        "last_updated": "2020-06-30",
+        "source": "https://twitter.com/DirectorateofHS/status/1278013300161167362?s=20"
       }
     },
     "total": {
-      "confirmed": 187,
+      "confirmed": 191,
       "deceased": 1,
-      "recovered": 61,
-      "tested": 23709
+      "recovered": 62,
+      "tested": 24237
     }
   },
   "AS": {
@@ -3477,7 +3486,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T22:43:18+05:30",
+      "last_updated": "2020-06-30T22:52:17+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -3777,7 +3786,8 @@
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-30"
+            "last_updated": "2020-06-30",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/787"
           }
         },
         "total": {
@@ -3933,12 +3943,13 @@
       "Dakshina Kannada": {
         "delta": {
           "confirmed": 44,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 316
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/753"
+            "last_updated": "2020-06-30",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/780"
           }
         },
         "total": {
@@ -3946,7 +3957,7 @@
           "deceased": 12,
           "migrated": 2,
           "recovered": 385,
-          "tested": 13440
+          "tested": 13756
         }
       },
       "Davanagere": {
@@ -4046,19 +4057,20 @@
       "Kalaburagi": {
         "delta": {
           "confirmed": 15,
-          "recovered": 47
+          "recovered": 47,
+          "tested": 1598
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/773"
+            "last_updated": "2020-06-30",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/788"
           }
         },
         "total": {
           "confirmed": 1436,
           "deceased": 18,
           "recovered": 1095,
-          "tested": 60459
+          "tested": 62057
         }
       },
       "Kodagu": {
@@ -6940,15 +6952,14 @@
         "meta": {
           "population": 2490656,
           "tested": {
-            "last_updated": "2020-05-27",
-            "source": "https://drive.google.com/file/d/1w3lm9PWcWs6ZODBOt4z64IdmnHGWMplz/view"
+            "last_updated": "2020-06-27"
           }
         },
         "total": {
           "confirmed": 911,
           "deceased": 42,
           "recovered": 740,
-          "tested": 4797
+          "tested": 21011
         }
       },
       "Barnala": {
@@ -7033,10 +7044,16 @@
           "deceased": 1,
           "recovered": 40
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-27"
+          }
+        },
         "total": {
           "confirmed": 738,
           "deceased": 21,
-          "recovered": 411
+          "recovered": 411,
+          "tested": 21896
         }
       },
       "Kapurthala": {
@@ -7054,10 +7071,16 @@
           "confirmed": 45,
           "deceased": 1
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-27"
+          }
+        },
         "total": {
           "confirmed": 840,
           "deceased": 21,
-          "recovered": 570
+          "recovered": 570,
+          "tested": 33412
         }
       },
       "Mansa": {
@@ -7099,10 +7122,16 @@
           "deceased": 1,
           "recovered": 24
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-27"
+          }
+        },
         "total": {
           "confirmed": 329,
           "deceased": 9,
-          "recovered": 168
+          "recovered": 168,
+          "tested": 20275
         }
       },
       "Rupnagar": {
@@ -7134,12 +7163,16 @@
           "confirmed": 22
         },
         "meta": {
-          "population": 1655169
+          "population": 1655169,
+          "tested": {
+            "last_updated": "2020-06-27"
+          }
         },
         "total": {
           "confirmed": 490,
           "deceased": 13,
-          "recovered": 221
+          "recovered": 221,
+          "tested": 15183
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -7911,6 +7944,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -7929,6 +7965,14 @@
           "recovered": 26
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 1
+        },
+        "total": {
+          "recovered": 1
+        }
+      },
       "West Sikkim": {
         "total": {
           "confirmed": 21,
@@ -7937,7 +7981,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T00:44:17+05:30",
+      "last_updated": "2020-06-30T22:53:17+05:30",
       "population": 664000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7946,7 +7990,7 @@
     },
     "total": {
       "confirmed": 88,
-      "recovered": 49,
+      "recovered": 50,
       "tested": 10440
     }
   },
@@ -9114,13 +9158,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 17661,
+      "confirmed": 17665,
       "deceased": 506,
       "migrated": 6,
-      "recovered": 12531
+      "recovered": 12533
     },
     "meta": {
-      "last_updated": "2020-06-30T22:43:13+05:30",
+      "last_updated": "2020-06-30T22:53:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -9128,10 +9172,10 @@
       }
     },
     "total": {
-      "confirmed": 585197,
+      "confirmed": 585201,
       "deceased": 17410,
       "migrated": 66,
-      "recovered": 347802,
+      "recovered": 347804,
       "tested": 8608654
     }
   },
@@ -10093,14 +10137,18 @@
       "confirmed": 50,
       "deceased": 2,
       "migrated": 5,
-      "recovered": 120
+      "recovered": 120,
+      "tested": 2628
     },
     "districts": {
       "Almora": {
+        "delta": {
+          "tested": 55
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
@@ -10108,60 +10156,63 @@
           "deceased": 2,
           "migrated": 1,
           "recovered": 153,
-          "tested": 3109
+          "tested": 3164
         }
       },
       "Bageshwar": {
         "delta": {
           "confirmed": 2,
-          "recovered": 5
+          "recovered": 5,
+          "tested": 42
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 83,
           "deceased": 1,
           "recovered": 66,
-          "tested": 1429
+          "tested": 1471
         }
       },
       "Chamoli": {
         "delta": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 91
         },
         "meta": {
           "population": 391605,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 74,
           "recovered": 62,
-          "tested": 2564
+          "tested": 2655
         }
       },
       "Champawat": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 120
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 55,
           "deceased": 1,
           "recovered": 44,
-          "tested": 1216
+          "tested": 1336
         }
       },
       "Dehradun": {
@@ -10169,50 +10220,53 @@
           "confirmed": 11,
           "deceased": 2,
           "migrated": 2,
-          "recovered": 25
+          "recovered": -7,
+          "tested": 508
         },
         "meta": {
           "population": 1696694,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 692,
           "deceased": 24,
           "migrated": 18,
-          "recovered": 583,
-          "tested": 19493
+          "recovered": 551,
+          "tested": 20001
         }
       },
       "Haridwar": {
         "delta": {
           "migrated": 3,
-          "recovered": 50
+          "recovered": 82,
+          "tested": 173
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 313,
           "migrated": 7,
-          "recovered": 204,
-          "tested": 10234
+          "recovered": 236,
+          "tested": 10407
         }
       },
       "Nainital": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "tested": 329
         },
         "meta": {
           "population": 954605,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
@@ -10220,109 +10274,117 @@
           "deceased": 3,
           "migrated": 1,
           "recovered": 340,
-          "tested": 7469
+          "tested": 7798
         }
       },
       "Pauri Garhwal": {
         "delta": {
           "confirmed": 1,
-          "recovered": 6
+          "recovered": 6,
+          "tested": 860
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 142,
           "deceased": 3,
           "recovered": 91,
-          "tested": 3407
+          "tested": 4267
         }
       },
       "Pithoragarh": {
+        "delta": {
+          "tested": 41
+        },
         "meta": {
           "population": 483439,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 65,
           "recovered": 52,
-          "tested": 1720
+          "tested": 1761
         }
       },
       "Rudraprayag": {
         "delta": {
-          "recovered": 3
+          "recovered": 3,
+          "tested": 33
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 66,
           "deceased": 1,
           "recovered": 59,
-          "tested": 1633
+          "tested": 1666
         }
       },
       "Tehri Garhwal": {
         "delta": {
-          "recovered": 28
+          "recovered": 28,
+          "tested": 13
         },
         "meta": {
           "population": 618931,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 416,
           "deceased": 2,
           "recovered": 383,
-          "tested": 4016
+          "tested": 4029
         }
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 28
+          "confirmed": 28,
+          "tested": 288
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 259,
           "deceased": 3,
           "recovered": 147,
-          "tested": 8119
+          "tested": 8407
         }
       },
       "Uttarkashi": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 75
         },
         "meta": {
           "population": 330086,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-06-30",
+            "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 66,
           "deceased": 1,
           "recovered": 44,
-          "tested": 1987
+          "tested": 2062
         }
       }
     },
@@ -10331,8 +10393,8 @@
       "notes": "27 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
-        "last_updated": "2020-06-29",
-        "source": "https://health.uk.gov.in/files/2020.06.29_Health_Bulletin.pdf"
+        "last_updated": "2020-06-30",
+        "source": "https://health.uk.gov.in/files/2020.06.30_Health_Bulletin.pdf"
       }
     },
     "total": {
@@ -10340,7 +10402,7 @@
       "deceased": 41,
       "migrated": 27,
       "recovered": 2228,
-      "tested": 66396
+      "tested": 69024
     }
   },
   "WB": {

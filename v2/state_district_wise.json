@@ -583,14 +583,14 @@
       {
         "district": "West Kameng",
         "notes": "",
-        "active": 11,
-        "confirmed": 15,
+        "active": 14,
+        "confirmed": 19,
         "deceased": 1,
-        "recovered": 3,
+        "recovered": 4,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
-          "recovered": 0
+          "recovered": 1
         }
       },
       {
@@ -7670,6 +7670,19 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      {
+        "district": "Unknown",
+        "notes": "",
+        "active": -1,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     ]
   },
@@ -9836,27 +9849,27 @@
       {
         "district": "Dehradun",
         "notes": "",
-        "active": 67,
+        "active": 99,
         "confirmed": 692,
         "deceased": 24,
-        "recovered": 583,
+        "recovered": 551,
         "delta": {
           "confirmed": 11,
           "deceased": 2,
-          "recovered": 25
+          "recovered": -7
         }
       },
       {
         "district": "Haridwar",
         "notes": "",
-        "active": 102,
+        "active": 70,
         "confirmed": 313,
         "deceased": 0,
-        "recovered": 204,
+        "recovered": 236,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
-          "recovered": 50
+          "recovered": 82
         }
       },
       {
