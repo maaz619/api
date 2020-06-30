@@ -818,11 +818,12 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "deceased": 1
         },
         "total": {
           "confirmed": 1289,
-          "deceased": 5,
+          "deceased": 6,
           "recovered": 383
         }
       },
@@ -937,12 +938,9 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
         "total": {
           "confirmed": 3176,
-          "deceased": 6,
+          "deceased": 5,
           "migrated": 3,
           "recovered": 4418
         }
@@ -954,7 +952,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T13:53:21+05:30",
+      "last_updated": "2020-06-30T14:03:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1848,12 +1846,20 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 6
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 101,
+          "confirmed": 107,
           "migrated": 1,
-          "recovered": 48
+          "recovered": 54
         }
       },
       "Daman": {
@@ -1873,7 +1879,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T17:01:19+05:30",
+      "last_updated": "2020-06-30T14:06:16+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-26",
@@ -1881,9 +1887,9 @@
       }
     },
     "total": {
-      "confirmed": 203,
+      "confirmed": 209,
       "migrated": 1,
-      "recovered": 75,
+      "recovered": 81,
       "tested": 30768
     }
   },
@@ -4163,7 +4169,18 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
+      "East Jaintia Hills": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
+      },
       "East Khasi Hills": {
         "meta": {
           "population": 825922
@@ -4225,7 +4242,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T00:14:17+05:30",
+      "last_updated": "2020-06-30T14:14:17+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4234,7 +4251,7 @@
       }
     },
     "total": {
-      "confirmed": 51,
+      "confirmed": 52,
       "deceased": 1,
       "recovered": 42,
       "tested": 18707
@@ -5140,7 +5157,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T13:53:24+05:30",
+      "last_updated": "2020-06-30T14:03:21+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7568,12 +7585,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 779,
+      "confirmed": 786,
       "deceased": 14,
-      "recovered": 367
+      "recovered": 373
     },
     "meta": {
-      "last_updated": "2020-06-30T13:53:16+05:30",
+      "last_updated": "2020-06-30T14:14:13+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7581,10 +7598,10 @@
       }
     },
     "total": {
-      "confirmed": 568315,
+      "confirmed": 568322,
       "deceased": 16918,
       "migrated": 60,
-      "recovered": 335638,
+      "recovered": 335644,
       "tested": 8608654
     }
   },
