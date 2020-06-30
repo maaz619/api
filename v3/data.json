@@ -673,7 +673,8 @@
   },
   "AS": {
     "delta": {
-      "confirmed": 41
+      "confirmed": 41,
+      "deceased": 1
     },
     "districts": {
       "Airport Quarantine": {
@@ -936,9 +937,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 3176,
-          "deceased": 5,
+          "deceased": 6,
           "migrated": 3,
           "recovered": 4418
         }
@@ -950,7 +954,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T12:46:17+05:30",
+      "last_updated": "2020-06-30T13:53:21+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -960,7 +964,7 @@
     },
     "total": {
       "confirmed": 7836,
-      "deceased": 11,
+      "deceased": 12,
       "migrated": 3,
       "recovered": 5334,
       "tested": 399393
@@ -5043,11 +5047,17 @@
     }
   },
   "MZ": {
+    "delta": {
+      "recovered": 61
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 38,
-          "recovered": 24
+          "recovered": 31
         }
       },
       "Champhai": {
@@ -5066,9 +5076,12 @@
         }
       },
       "Kolasib": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 11,
-          "recovered": 10
+          "recovered": 11
         }
       },
       "Lawngtlai": {
@@ -5081,17 +5094,24 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "recovered": 45
+        },
         "meta": {
           "population": 161428
         },
         "total": {
-          "confirmed": 47
+          "confirmed": 47,
+          "recovered": 45
         }
       },
       "Mamit": {
+        "delta": {
+          "recovered": 8
+        },
         "total": {
           "confirmed": 20,
-          "recovered": 1
+          "recovered": 9
         }
       },
       "Saiha": {
@@ -5120,7 +5140,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-29T17:26:16+05:30",
+      "last_updated": "2020-06-30T13:53:24+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -5129,7 +5149,7 @@
     },
     "total": {
       "confirmed": 151,
-      "recovered": 61,
+      "recovered": 122,
       "tested": 13072
     }
   },
@@ -5677,7 +5697,7 @@
           "notes": "Includes NDRF-ODRF returnees after West Bengal Amphan duty"
         },
         "total": {
-          "confirmed": 3
+          "confirmed": 1
         }
       },
       "Puri": {
@@ -5742,11 +5762,6 @@
         "total": {
           "confirmed": 193,
           "recovered": 147
-        }
-      },
-      "Unknown": {
-        "total": {
-          "confirmed": -2
         }
       }
     },
@@ -7554,11 +7569,11 @@
   "TT": {
     "delta": {
       "confirmed": 779,
-      "deceased": 13,
-      "recovered": 306
+      "deceased": 14,
+      "recovered": 367
     },
     "meta": {
-      "last_updated": "2020-06-30T12:56:13+05:30",
+      "last_updated": "2020-06-30T13:53:16+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -7567,9 +7582,9 @@
     },
     "total": {
       "confirmed": 568315,
-      "deceased": 16917,
+      "deceased": 16918,
       "migrated": 60,
-      "recovered": 335577,
+      "recovered": 335638,
       "tested": 8608654
     }
   },
