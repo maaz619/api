@@ -604,6 +604,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "confirmed": 140
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -736,8 +739,11 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 122
+        },
         "total": {
-          "confirmed": 1669,
+          "confirmed": 1791,
           "deceased": 6,
           "recovered": 383
         }
@@ -841,8 +847,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 18
+        },
         "total": {
-          "confirmed": 3368,
+          "confirmed": 3386,
           "deceased": 5,
           "migrated": 3,
           "recovered": 4732
@@ -864,7 +873,7 @@
       }
     },
     "total": {
-      "confirmed": 8408,
+      "confirmed": 8548,
       "deceased": 12,
       "migrated": 3,
       "recovered": 5648,
@@ -7465,7 +7474,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 264,
+      "confirmed": 404,
       "deceased": 1,
       "recovered": 12
     },
@@ -7478,7 +7487,7 @@
       }
     },
     "total": {
-      "confirmed": 586056,
+      "confirmed": 586196,
       "deceased": 17411,
       "migrated": 66,
       "recovered": 347851,
