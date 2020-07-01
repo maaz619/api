@@ -1915,8 +1915,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 15,
-      "recovered": 19
+      "confirmed": 16,
+      "recovered": 27
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1944,14 +1944,18 @@
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 8
+        },
         "total": {
-          "confirmed": 13,
-          "recovered": 2
+          "confirmed": 14,
+          "recovered": 10
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T13:56:56+05:30",
+      "last_updated": "2020-07-01T16:53:29+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -1959,9 +1963,9 @@
       }
     },
     "total": {
-      "confirmed": 228,
+      "confirmed": 229,
       "migrated": 1,
-      "recovered": 101,
+      "recovered": 109,
       "tested": 32031
     }
   },
@@ -5906,7 +5910,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T16:33:27+05:30",
+      "last_updated": "2020-07-01T16:36:27+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -7847,12 +7851,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1325,
+      "confirmed": 1326,
       "deceased": 7,
-      "recovered": 812
+      "recovered": 820
     },
     "meta": {
-      "last_updated": "2020-07-01T16:36:25+05:30",
+      "last_updated": "2020-07-01T16:53:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -7860,10 +7864,10 @@
       }
     },
     "total": {
-      "confirmed": 587117,
+      "confirmed": 587118,
       "deceased": 17417,
       "migrated": 66,
-      "recovered": 348651,
+      "recovered": 348659,
       "tested": 8826585
     }
   },
