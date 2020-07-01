@@ -7428,43 +7428,69 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "recovered": 1
+          "recovered": 1,
+          "tested": 2292
         },
         "meta": {
-          "population": 200222
+          "population": 200222,
+          "tested": {
+            "last_updated": "2020-06-28"
+          }
         },
         "total": {
           "confirmed": 39,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 2292
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 775
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-28"
+          }
+        },
         "total": {
           "confirmed": 10,
-          "recovered": 9
+          "recovered": 9,
+          "tested": 775
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 28,
           "deceased": 1,
-          "recovered": 30
+          "recovered": 30,
+          "tested": 12557
         },
         "meta": {
-          "population": 950289
+          "population": 950289,
+          "tested": {
+            "last_updated": "2020-06-28"
+          }
         },
         "total": {
           "confirmed": 597,
           "deceased": 11,
-          "recovered": 239
+          "recovered": 239,
+          "tested": 12557
         }
       },
       "Yanam": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 855
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-28"
+          }
         },
         "total": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 855
         }
       }
     },
