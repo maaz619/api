@@ -1381,8 +1381,16 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 3
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 3
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1391,15 +1399,15 @@
           }
         },
         "total": {
-          "confirmed": 440,
+          "confirmed": 446,
           "deceased": 6,
-          "recovered": 364,
+          "recovered": 367,
           "tested": 7689
         }
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T17:16:19+05:30",
+      "last_updated": "2020-07-01T15:36:28+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -1407,9 +1415,9 @@
       }
     },
     "total": {
-      "confirmed": 440,
+      "confirmed": 446,
       "deceased": 6,
-      "recovered": 364,
+      "recovered": 367,
       "tested": 7689
     }
   },
@@ -2870,7 +2878,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T15:19:43+05:30",
+      "last_updated": "2020-07-01T15:25:26+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -5275,7 +5283,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 21
+      "confirmed": 42,
+      "recovered": 14
     },
     "districts": {
       "Dimapur": {
@@ -5395,11 +5404,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 21
+          "confirmed": 42,
+          "recovered": 14
         },
         "total": {
-          "confirmed": 21,
-          "recovered": 139
+          "confirmed": 42,
+          "recovered": 153
         }
       },
       "Wokha": {
@@ -5422,7 +5432,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T10:35:18+05:30",
+      "last_updated": "2020-07-01T15:36:29+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -5430,8 +5440,8 @@
       }
     },
     "total": {
-      "confirmed": 480,
-      "recovered": 168,
+      "confirmed": 501,
+      "recovered": 182,
       "tested": 16563
     }
   },
@@ -7816,12 +7826,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1273,
+      "confirmed": 1300,
       "deceased": 7,
-      "recovered": 631
+      "recovered": 648
     },
     "meta": {
-      "last_updated": "2020-07-01T15:19:41+05:30",
+      "last_updated": "2020-07-01T15:36:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -7829,10 +7839,10 @@
       }
     },
     "total": {
-      "confirmed": 587065,
+      "confirmed": 587092,
       "deceased": 17417,
       "migrated": 66,
-      "recovered": 348470,
+      "recovered": 348487,
       "tested": 8826585
     }
   },
