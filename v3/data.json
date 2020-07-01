@@ -2679,7 +2679,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T19:36:29+05:30",
+      "last_updated": "2020-07-01T19:43:30+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3966,7 +3966,8 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-01"
+        "last_updated": "2020-07-01",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-1.pdf"
       }
     },
     "total": {
@@ -4020,7 +4021,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T19:36:28+05:30",
+      "last_updated": "2020-07-01T19:43:28+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -4523,6 +4524,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 26,
+      "recovered": 26
+    },
     "districts": {
       "Bishnupur": {
         "meta": {
@@ -4555,17 +4560,23 @@
         }
       },
       "Imphal West": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 517992
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "recovered": 52
         }
       },
       "Jiribam": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 2
         }
       },
@@ -4576,8 +4587,11 @@
         }
       },
       "Kamjong": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 81,
+          "confirmed": 87,
           "recovered": 17
         }
       },
@@ -4600,14 +4614,20 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 103,
+          "confirmed": 114,
           "recovered": 21
         }
       },
       "Tamenglong": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 176,
+          "confirmed": 178,
           "recovered": 32
         }
       },
@@ -4618,23 +4638,33 @@
         }
       },
       "Thoubal": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 422168
         },
         "total": {
-          "confirmed": 53,
+          "confirmed": 55,
           "recovered": 23
         }
       },
       "Ukhrul": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 150,
-          "recovered": 18
+          "confirmed": 153,
+          "recovered": 19
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 25
+        },
         "total": {
-          "recovered": 160
+          "recovered": 185
         }
       }
     },
@@ -4647,8 +4677,8 @@
       }
     },
     "total": {
-      "confirmed": 1234,
-      "recovered": 553,
+      "confirmed": 1260,
+      "recovered": 579,
       "tested": 49882
     }
   },
@@ -8295,12 +8325,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5649,
+      "confirmed": 5675,
       "deceased": 85,
-      "recovered": 4400
+      "recovered": 4426
     },
     "meta": {
-      "last_updated": "2020-07-01T19:36:25+05:30",
+      "last_updated": "2020-07-01T19:43:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -8308,10 +8338,10 @@
       }
     },
     "total": {
-      "confirmed": 591441,
+      "confirmed": 591467,
       "deceased": 17495,
       "migrated": 66,
-      "recovered": 352239,
+      "recovered": 352265,
       "tested": 8826585
     }
   },
