@@ -47,7 +47,8 @@
     "delta": {
       "confirmed": 657,
       "deceased": 6,
-      "recovered": 477
+      "recovered": 477,
+      "tested": 28239
     },
     "districts": {
       "Anantapur": {
@@ -313,15 +314,15 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://twitter.com/ArogyaAndhra/status/1277857517318504451?s=20"
+        "last_updated": "2020-07-01",
+        "source": "https://twitter.com/ArogyaAndhra/status/1278233653672198144?s=20"
       }
     },
     "total": {
       "confirmed": 15252,
       "deceased": 193,
       "recovered": 6988,
-      "tested": 890190
+      "tested": 918429
     }
   },
   "AR": {
@@ -3284,17 +3285,20 @@
         }
       },
       "Ballari": {
+        "delta": {
+          "tested": 374
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/787"
+            "last_updated": "2020-07-01",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/812"
           }
         },
         "total": {
           "confirmed": 834,
           "deceased": 29,
           "recovered": 405,
-          "tested": 16512
+          "tested": 16886
         }
       },
       "Belagavi": {
@@ -4304,6 +4308,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 2
+    },
     "districts": {
       "East Jaintia Hills": {
         "total": {
@@ -4311,11 +4318,14 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 825922
         },
         "total": {
-          "confirmed": 29,
+          "confirmed": 31,
           "deceased": 1,
           "recovered": 17
         }
@@ -4371,7 +4381,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T23:56:16+05:30",
+      "last_updated": "2020-07-01T17:38:31+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4380,7 +4390,7 @@
       }
     },
     "total": {
-      "confirmed": 53,
+      "confirmed": 55,
       "deceased": 1,
       "recovered": 42,
       "tested": 19294
@@ -5194,6 +5204,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -5241,9 +5254,12 @@
         }
       },
       "Mamit": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 20,
-          "recovered": 9
+          "recovered": 10
         }
       },
       "Saiha": {
@@ -5272,7 +5288,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T23:46:17+05:30",
+      "last_updated": "2020-07-01T17:38:30+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -5281,7 +5297,7 @@
     },
     "total": {
       "confirmed": 160,
-      "recovered": 122,
+      "recovered": 123,
       "tested": 13746
     }
   },
@@ -5453,7 +5469,8 @@
     "delta": {
       "confirmed": 251,
       "deceased": 1,
-      "recovered": 164
+      "recovered": 164,
+      "tested": 5247
     },
     "districts": {
       "Angul": {
@@ -5914,15 +5931,15 @@
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/800?single"
+        "last_updated": "2020-07-01",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/811"
       }
     },
     "total": {
       "confirmed": 7316,
       "deceased": 33,
       "recovered": 5353,
-      "tested": 265431
+      "tested": 270678
     }
   },
   "PB": {
@@ -7851,12 +7868,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1326,
+      "confirmed": 1328,
       "deceased": 7,
-      "recovered": 820
+      "recovered": 821
     },
     "meta": {
-      "last_updated": "2020-07-01T17:03:25+05:30",
+      "last_updated": "2020-07-01T17:38:27+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -7864,10 +7881,10 @@
       }
     },
     "total": {
-      "confirmed": 587118,
+      "confirmed": 587120,
       "deceased": 17417,
       "migrated": 66,
-      "recovered": 348659,
+      "recovered": 348660,
       "tested": 8826585
     }
   },
