@@ -309,7 +309,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T13:37:28+05:30",
+      "last_updated": "2020-07-01T13:46:27+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
@@ -1366,7 +1366,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T13:35:27+05:30",
+      "last_updated": "2020-07-01T13:40:33+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -1906,21 +1906,33 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 15,
+      "recovered": 19
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "total": {
-          "confirmed": 107,
+          "confirmed": 109,
           "migrated": 1,
-          "recovered": 54
+          "recovered": 58
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 13,
+          "recovered": 15
+        },
         "meta": {
           "population": 191173
         },
         "total": {
-          "confirmed": 93,
-          "recovered": 26
+          "confirmed": 106,
+          "recovered": 41
         }
       },
       "Diu": {
@@ -1931,7 +1943,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T17:16:21+05:30",
+      "last_updated": "2020-07-01T13:47:30+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -1939,9 +1951,9 @@
       }
     },
     "total": {
-      "confirmed": 213,
+      "confirmed": 228,
       "migrated": 1,
-      "recovered": 82,
+      "recovered": 101,
       "tested": 31602
     }
   },
@@ -7752,12 +7764,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1149,
+      "confirmed": 1164,
       "deceased": 7,
-      "recovered": 518
+      "recovered": 537
     },
     "meta": {
-      "last_updated": "2020-07-01T13:37:25+05:30",
+      "last_updated": "2020-07-01T13:47:27+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -7765,10 +7777,10 @@
       }
     },
     "total": {
-      "confirmed": 586941,
+      "confirmed": 586956,
       "deceased": 17417,
       "migrated": 66,
-      "recovered": 348357,
+      "recovered": 348376,
       "tested": 8826585
     }
   },
