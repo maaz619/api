@@ -5900,8 +5900,14 @@
     }
   },
   "PY": {
+    "delta": {
+      "recovered": 29
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "recovered": 10
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -5911,11 +5917,14 @@
         },
         "total": {
           "confirmed": 39,
-          "recovered": 4,
+          "recovered": 14,
           "tested": 2433
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-29",
@@ -5924,11 +5933,14 @@
         },
         "total": {
           "confirmed": 13,
-          "recovered": 9,
+          "recovered": 10,
           "tested": 795
         }
       },
       "Puducherry": {
+        "delta": {
+          "recovered": 18
+        },
         "meta": {
           "population": 950289,
           "tested": {
@@ -5939,7 +5951,7 @@
         "total": {
           "confirmed": 660,
           "deceased": 12,
-          "recovered": 259,
+          "recovered": 277,
           "tested": 13115
         }
       },
@@ -5963,7 +5975,7 @@
     "total": {
       "confirmed": 714,
       "deceased": 12,
-      "recovered": 272
+      "recovered": 301
     }
   },
   "RJ": {
@@ -7476,7 +7488,7 @@
     "delta": {
       "confirmed": 404,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 41
     },
     "meta": {
       "last_updated": "2020-07-01T11:33:14+05:30",
@@ -7490,7 +7502,7 @@
       "confirmed": 586196,
       "deceased": 17411,
       "migrated": 66,
-      "recovered": 347851,
+      "recovered": 347880,
       "tested": 8826585
     }
   },
