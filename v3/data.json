@@ -1115,15 +1115,15 @@
         "meta": {
           "population": 1666886,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://twitter.com/KhagariaDm/status/1277672325861658624?s=20"
+            "last_updated": "2020-06-30",
+            "source": "https://twitter.com/KhagariaDm/status/1278214527427817473/photo/1"
           }
         },
         "total": {
           "confirmed": 304,
           "deceased": 3,
           "recovered": 293,
-          "tested": 5360
+          "tested": 5595
         }
       },
       "Kishanganj": {
@@ -2500,10 +2500,17 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 6
+    },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 44,
+          "confirmed": 46,
           "recovered": 28
         }
       },
@@ -2515,10 +2522,13 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "recovered": 5
+        },
         "total": {
           "confirmed": 245,
           "deceased": 2,
-          "recovered": 139
+          "recovered": 144
         }
       },
       "Kangra": {
@@ -2559,14 +2569,18 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "meta": {
           "population": 814010
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 21
+          "recovered": 22
         }
       },
       "Sirmaur": {
@@ -2599,7 +2613,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T22:43:22+05:30",
+      "last_updated": "2020-07-01T14:37:07+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2608,10 +2622,10 @@
       }
     },
     "total": {
-      "confirmed": 953,
+      "confirmed": 956,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 575,
+      "recovered": 581,
       "tested": 79499
     }
   },
@@ -3901,14 +3915,14 @@
         "meta": {
           "population": 1200334,
           "tested": {
-            "last_updated": "2020-06-25",
-            "source": "https://twitter.com/ravigite5/status/1276116219981172737?s=20"
+            "last_updated": "2020-06-30",
+            "source": "https://twitter.com/ravigite5/status/1277929209197969409/photo/1"
           }
         },
         "total": {
           "confirmed": 80,
           "recovered": 71,
-          "tested": 3884
+          "tested": 4196
         }
       },
       "Buldhana": {
@@ -4119,8 +4133,8 @@
         "meta": {
           "population": 2634200,
           "tested": {
-            "last_updated": "2020-05-27",
-            "source": "https://www.facebook.com/pg/collector.raigad/posts/?ref=page_internal"
+            "last_updated": "2020-06-30",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HNMU_20200701_1_10&width=73px"
           }
         },
         "total": {
@@ -4128,7 +4142,7 @@
           "deceased": 102,
           "migrated": 2,
           "recovered": 2127,
-          "tested": 3101
+          "tested": 3946
         }
       },
       "Ratnagiri": {
@@ -7764,12 +7778,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1164,
+      "confirmed": 1167,
       "deceased": 7,
-      "recovered": 537
+      "recovered": 543
     },
     "meta": {
-      "last_updated": "2020-07-01T13:56:54+05:30",
+      "last_updated": "2020-07-01T14:36:57+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -7777,10 +7791,10 @@
       }
     },
     "total": {
-      "confirmed": 586956,
+      "confirmed": 586959,
       "deceased": 17417,
       "migrated": 66,
-      "recovered": 348376,
+      "recovered": 348382,
       "tested": 8826585
     }
   },
