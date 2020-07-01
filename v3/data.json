@@ -1426,7 +1426,8 @@
   "CH": {
     "delta": {
       "confirmed": 6,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 103
     },
     "districts": {
       "Chandigarh": {
@@ -1453,15 +1454,14 @@
       "last_updated": "2020-07-01T15:48:27+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/775"
+        "last_updated": "2020-07-01"
       }
     },
     "total": {
       "confirmed": 446,
       "deceased": 6,
       "recovered": 367,
-      "tested": 7689
+      "tested": 7792
     }
   },
   "CT": {
@@ -1951,7 +1951,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T20:23:26+05:30",
+      "last_updated": "2020-07-01T20:36:27+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -2065,7 +2065,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T20:23:28+05:30",
+      "last_updated": "2020-07-01T20:36:30+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -3432,7 +3432,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T21:03:19+05:30",
+      "last_updated": "2020-07-01T20:36:28+05:30",
       "population": 13203000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -4006,7 +4006,8 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-07-01"
+        "last_updated": "2020-07-01",
+        "source": "https://drive.google.com/file/d/1SMiDsxwGys05AizWPaDV7HXWZxA5E0eN/view"
       }
     },
     "total": {
@@ -4280,6 +4281,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 5537,
+      "deceased": 198,
+      "recovered": 2243,
       "tested": 25182
     },
     "districts": {
@@ -4630,6 +4634,18 @@
           "tested": 104569
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5537,
+          "deceased": 198,
+          "recovered": 2243
+        },
+        "total": {
+          "confirmed": 5537,
+          "deceased": 198,
+          "recovered": 2243
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 19,
@@ -4656,7 +4672,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T21:25:14+05:30",
+      "last_updated": "2020-07-01T20:36:26+05:30",
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -4665,10 +4681,10 @@
       }
     },
     "total": {
-      "confirmed": 174761,
-      "deceased": 7855,
+      "confirmed": 180298,
+      "deceased": 8053,
       "migrated": 16,
-      "recovered": 90911,
+      "recovered": 93154,
       "tested": 995343
     }
   },
@@ -5840,6 +5856,9 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5847,7 +5866,7 @@
           }
         },
         "total": {
-          "confirmed": 85,
+          "confirmed": 86,
           "recovered": 19,
           "tested": 896
         }
@@ -5866,6 +5885,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5873,7 +5895,7 @@
           }
         },
         "total": {
-          "confirmed": 46,
+          "confirmed": 48,
           "recovered": 4,
           "tested": 485
         }
@@ -5917,6 +5939,9 @@
         }
       },
       "Peren": {
+        "delta": {
+          "confirmed": 31
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5924,12 +5949,15 @@
           }
         },
         "total": {
-          "confirmed": 165,
+          "confirmed": 196,
           "recovered": 6,
           "tested": 11
         }
       },
       "Phek": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "population": 163418,
           "tested": {
@@ -5938,7 +5966,7 @@
           }
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 10,
           "tested": 28
         }
       },
@@ -5956,11 +5984,9 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 42,
           "recovered": 14
         },
         "total": {
-          "confirmed": 42,
           "recovered": 153
         }
       },
@@ -8568,12 +8594,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10623,
-      "deceased": 177,
-      "recovered": 7346
+      "confirmed": 16160,
+      "deceased": 375,
+      "recovered": 9589
     },
     "meta": {
-      "last_updated": "2020-07-01T20:23:25+05:30",
+      "last_updated": "2020-07-01T20:36:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -8581,10 +8607,10 @@
       }
     },
     "total": {
-      "confirmed": 596415,
-      "deceased": 17587,
+      "confirmed": 601952,
+      "deceased": 17785,
       "migrated": 66,
-      "recovered": 355185,
+      "recovered": 357428,
       "tested": 8826585
     }
   },
@@ -9507,7 +9533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T20:22:30+05:30",
+      "last_updated": "2020-07-01T20:26:30+05:30",
       "notes": "27 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
