@@ -2556,8 +2556,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 3,
-      "recovered": 6
+      "confirmed": 7,
+      "recovered": 28
     },
     "districts": {
       "Bilaspur": {
@@ -2578,22 +2578,27 @@
       },
       "Hamirpur": {
         "delta": {
-          "recovered": 5
+          "confirmed": 2,
+          "recovered": 22
         },
         "total": {
-          "confirmed": 245,
+          "confirmed": 247,
           "deceased": 2,
-          "recovered": 144
+          "recovered": 161
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 272,
+          "confirmed": 273,
           "deceased": 3,
-          "recovered": 158
+          "recovered": 162
         }
       },
       "Kinnaur": {
@@ -2617,10 +2622,13 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 30,
           "deceased": 2,
-          "recovered": 21
+          "recovered": 22
         }
       },
       "Shimla": {
@@ -2639,8 +2647,11 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 38,
+          "confirmed": 39,
           "migrated": 7,
           "recovered": 23
         }
@@ -2668,7 +2679,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T14:41:27+05:30",
+      "last_updated": "2020-07-01T19:36:29+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2677,10 +2688,10 @@
       }
     },
     "total": {
-      "confirmed": 956,
+      "confirmed": 960,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 581,
+      "recovered": 603,
       "tested": 79499
     }
   },
@@ -3773,7 +3784,8 @@
     "delta": {
       "confirmed": 151,
       "deceased": 1,
-      "recovered": 132
+      "recovered": 132,
+      "tested": 7447
     },
     "districts": {
       "Alappuzha": {
@@ -3954,8 +3966,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/06/Bulletin-HFWD-English-June-30.pdf"
+        "last_updated": "2020-07-01"
       }
     },
     "total": {
@@ -3963,12 +3974,20 @@
       "deceased": 26,
       "migrated": 2,
       "recovered": 2436,
-      "tested": 231570
+      "tested": 239017
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 17,
+      "recovered": 46
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 46
+        },
         "meta": {
           "population": 140802,
           "tested": {
@@ -3977,12 +3996,15 @@
           }
         },
         "total": {
-          "confirmed": 702,
-          "recovered": 485,
+          "confirmed": 714,
+          "recovered": 531,
           "tested": 6512
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-29",
@@ -3990,7 +4012,7 @@
           }
         },
         "total": {
-          "confirmed": 271,
+          "confirmed": 276,
           "deceased": 1,
           "recovered": 163,
           "tested": 7374
@@ -3998,7 +4020,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T23:15:23+05:30",
+      "last_updated": "2020-07-01T19:36:28+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-06-29",
@@ -4006,9 +4028,9 @@
       }
     },
     "total": {
-      "confirmed": 973,
+      "confirmed": 990,
       "deceased": 1,
-      "recovered": 648,
+      "recovered": 694,
       "tested": 13886
     }
   },
@@ -6497,67 +6519,69 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "recovered": 10
+          "recovered": 10,
+          "tested": 119
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+            "last_updated": "2020-07-01"
           }
         },
         "total": {
           "confirmed": 39,
           "recovered": 14,
-          "tested": 2433
+          "tested": 2552
         }
       },
       "Mahe": {
         "delta": {
           "confirmed": 5,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 26
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+            "last_updated": "2020-07-01"
           }
         },
         "total": {
           "confirmed": 18,
           "recovered": 10,
-          "tested": 795
+          "tested": 821
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 20,
-          "recovered": 18
+          "recovered": 18,
+          "tested": 634
         },
         "meta": {
           "population": 950289,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+            "last_updated": "2020-07-01"
           }
         },
         "total": {
           "confirmed": 680,
           "deceased": 12,
           "recovered": 277,
-          "tested": 13115
+          "tested": 13749
         }
       },
       "Yanam": {
+        "delta": {
+          "tested": 32
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/30.06.2020%20bulletin_0.pdf"
+            "last_updated": "2020-07-01"
           }
         },
         "total": {
           "confirmed": 2,
-          "tested": 938
+          "tested": 970
         }
       }
     },
@@ -8271,12 +8295,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5628,
+      "confirmed": 5649,
       "deceased": 85,
-      "recovered": 4332
+      "recovered": 4400
     },
     "meta": {
-      "last_updated": "2020-07-01T19:23:25+05:30",
+      "last_updated": "2020-07-01T19:36:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -8284,10 +8308,10 @@
       }
     },
     "total": {
-      "confirmed": 591420,
+      "confirmed": 591441,
       "deceased": 17495,
       "migrated": 66,
-      "recovered": 352171,
+      "recovered": 352239,
       "tested": 8826585
     }
   },
