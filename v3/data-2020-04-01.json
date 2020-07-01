@@ -65,7 +65,8 @@
   },
   "DL": {
     "delta": {
-      "confirmed": 32
+      "confirmed": 32,
+      "tested": 2621
     },
     "districts": {
       "New Delhi": {
@@ -84,12 +85,17 @@
       }
     },
     "meta": {
-      "population": 19814000
+      "population": 19814000,
+      "tested": {
+        "last_updated": "2020-04-01",
+        "source": "http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7"
+      }
     },
     "total": {
       "confirmed": 152,
       "deceased": 2,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 2621
     }
   },
   "GA": {
@@ -175,15 +181,21 @@
   "KL": {
     "delta": {
       "confirmed": 24,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 7965
     },
     "meta": {
-      "population": 35125000
+      "population": 35125000,
+      "tested": {
+        "last_updated": "2020-04-01",
+        "source": "https://dashboard.kerala.gov.in/testing-view-public.php"
+      }
     },
     "total": {
       "confirmed": 265,
       "deceased": 2,
-      "recovered": 26
+      "recovered": 26,
+      "tested": 7965
     }
   },
   "LA": {
@@ -422,13 +434,21 @@
     }
   },
   "WB": {
+    "delta": {
+      "tested": 659
+    },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-01",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_01.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 37,
       "deceased": 3,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 659
     }
   }
 }
