@@ -669,7 +669,8 @@
   "AS": {
     "delta": {
       "confirmed": 140,
-      "recovered": 184
+      "recovered": 184,
+      "tested": 7664
     },
     "districts": {
       "Airport Quarantine": {
@@ -933,8 +934,8 @@
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://twitter.com/nhm_assam/status/1277992775904972801?s=20"
+        "last_updated": "2020-07-01",
+        "source": "https://twitter.com/nhm_assam/status/1278368986845986816?s=20"
       }
     },
     "total": {
@@ -942,7 +943,7 @@
       "deceased": 12,
       "migrated": 3,
       "recovered": 5832,
-      "tested": 412214
+      "tested": 419878
     }
   },
   "BR": {
@@ -1733,6 +1734,7 @@
       },
       "Korba": {
         "delta": {
+          "confirmed": -2,
           "recovered": 5
         },
         "meta": {
@@ -1742,7 +1744,7 @@
           }
         },
         "total": {
-          "confirmed": 309,
+          "confirmed": 307,
           "recovered": 269,
           "tested": 10034
         }
@@ -1822,6 +1824,7 @@
       },
       "Raigarh": {
         "delta": {
+          "confirmed": 2,
           "recovered": 6
         },
         "meta": {
@@ -1831,7 +1834,7 @@
           }
         },
         "total": {
-          "confirmed": 121,
+          "confirmed": 123,
           "deceased": 1,
           "recovered": 92,
           "tested": 5084
@@ -1918,17 +1921,9 @@
           "tested": 2008
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 1
-        },
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Uttar Bastar Kanker": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 4
         },
         "meta": {
           "tested": {
@@ -1937,7 +1932,7 @@
           }
         },
         "total": {
-          "confirmed": 54,
+          "confirmed": 55,
           "recovered": 49,
           "tested": 2051
         }
@@ -7395,7 +7390,8 @@
     "delta": {
       "confirmed": 304,
       "deceased": 8,
-      "recovered": 354
+      "recovered": 354,
+      "tested": 15157
     },
     "districts": {
       "Ajmer": {
@@ -8051,15 +8047,14 @@
       "last_updated": "2020-07-01T21:49:38+05:30",
       "population": 77264000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/782"
+        "last_updated": "2020-07-01"
       }
     },
     "total": {
       "confirmed": 18312,
       "deceased": 421,
       "recovered": 14574,
-      "tested": 824213
+      "tested": 839370
     }
   },
   "SK": {
