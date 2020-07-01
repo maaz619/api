@@ -6725,10 +6725,16 @@
         "delta": {
           "confirmed": 1
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 49,
           "deceased": 1,
-          "recovered": 45
+          "recovered": 45,
+          "tested": 3388
         }
       },
       "Gurdaspur": {
@@ -6736,10 +6742,16 @@
           "confirmed": 2,
           "recovered": 6
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 168,
           "deceased": 3,
-          "recovered": 144
+          "recovered": 144,
+          "tested": 3909
         }
       },
       "Hoshiarpur": {
@@ -6748,12 +6760,16 @@
           "recovered": 1
         },
         "meta": {
-          "population": 1586625
+          "population": 1586625,
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
         },
         "total": {
           "confirmed": 139,
           "deceased": 5,
-          "recovered": 130
+          "recovered": 130,
+          "tested": 2802
         }
       },
       "Jalandhar": {
@@ -6761,39 +6777,61 @@
           "confirmed": 1,
           "recovered": 3
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 324,
           "deceased": 10,
-          "recovered": 255
+          "recovered": 255,
+          "tested": 8269
         }
       },
       "Kapurthala": {
         "delta": {
           "recovered": 1
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 42,
           "deceased": 3,
-          "recovered": 38
+          "recovered": 38,
+          "tested": 2851
         }
       },
       "Ludhiana": {
         "delta": {
           "confirmed": 21
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 354,
           "deceased": 10,
-          "recovered": 175
+          "recovered": 175,
+          "tested": 9040
         }
       },
       "Mansa": {
         "meta": {
-          "population": 769751
+          "population": 769751,
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
         },
         "total": {
           "confirmed": 34,
-          "recovered": 32
+          "recovered": 32,
+          "tested": 2470
         }
       },
       "Moga": {
@@ -6801,9 +6839,15 @@
           "confirmed": 1,
           "recovered": 1
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 70,
-          "recovered": 68
+          "recovered": 68,
+          "tested": 4337
         }
       },
       "Pathankot": {
@@ -6812,10 +6856,16 @@
           "deceased": 1,
           "recovered": 4
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 143,
           "deceased": 5,
-          "recovered": 79
+          "recovered": 79,
+          "tested": 2183
         }
       },
       "Patiala": {
@@ -6823,10 +6873,16 @@
           "confirmed": 10,
           "recovered": 5
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 159,
           "deceased": 3,
-          "recovered": 121
+          "recovered": 121,
+          "tested": 6019
         }
       },
       "Rupnagar": {
@@ -6834,22 +6890,32 @@
           "confirmed": 1
         },
         "meta": {
-          "population": 684627
+          "population": 684627,
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
         },
         "total": {
           "confirmed": 79,
           "deceased": 1,
-          "recovered": 68
+          "recovered": 68,
+          "tested": 3493
         }
       },
       "S.A.S. Nagar": {
         "delta": {
           "confirmed": 10
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 164,
           "deceased": 3,
-          "recovered": 114
+          "recovered": 114,
+          "tested": 5244
         }
       },
       "Sangrur": {
@@ -6859,28 +6925,44 @@
           "recovered": 4
         },
         "meta": {
-          "population": 1655169
+          "population": 1655169,
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
         },
         "total": {
           "confirmed": 143,
           "deceased": 3,
-          "recovered": 107
+          "recovered": 107,
+          "tested": 4937
         }
       },
       "Shahid Bhagat Singh Nagar": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 119,
           "deceased": 1,
-          "recovered": 104
+          "recovered": 104,
+          "tested": 3328
         }
       },
       "Sri Muktsar Sahib": {
         "delta": {
           "confirmed": 1
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 73,
-          "recovered": 71
+          "recovered": 71,
+          "tested": 2918
         }
       },
       "Tarn Taran": {
@@ -6888,10 +6970,16 @@
           "confirmed": 3,
           "recovered": 2
         },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-06-01"
+          }
+        },
         "total": {
           "confirmed": 167,
           "deceased": 1,
-          "recovered": 159
+          "recovered": 159,
+          "tested": 3393
         }
       }
     },
