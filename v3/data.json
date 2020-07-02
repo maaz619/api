@@ -1958,7 +1958,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:14:32+05:30",
+      "last_updated": "2020-07-02T22:21:33+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -5076,7 +5076,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:14:26+05:30",
+      "last_updated": "2020-07-02T22:21:26+05:30",
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -8014,7 +8014,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:14:29+05:30",
+      "last_updated": "2020-07-02T22:21:29+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-02"
@@ -8397,7 +8397,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:14:31+05:30",
+      "last_updated": "2020-07-02T22:21:31+05:30",
       "population": 37220000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -9264,7 +9264,7 @@
       "recovered": 19883
     },
     "meta": {
-      "last_updated": "2020-07-02T22:14:25+05:30",
+      "last_updated": "2020-07-02T22:21:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -10253,12 +10253,13 @@
     "districts": {
       "Almora": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 74
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
@@ -10266,65 +10267,73 @@
           "deceased": 2,
           "migrated": 1,
           "recovered": 158,
-          "tested": 3195
+          "tested": 3269
         }
       },
       "Bageshwar": {
         "delta": {
-          "recovered": 5
+          "recovered": 5,
+          "tested": 50
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 83,
           "deceased": 1,
           "recovered": 72,
-          "tested": 1511
+          "tested": 1561
         }
       },
       "Chamoli": {
+        "delta": {
+          "tested": 34
+        },
         "meta": {
           "population": 391605,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 74,
           "recovered": 62,
-          "tested": 2696
+          "tested": 2730
         }
       },
       "Champawat": {
+        "delta": {
+          "tested": 164
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 57,
           "deceased": 1,
           "recovered": 47,
-          "tested": 1459
+          "tested": 1623
         }
       },
       "Dehradun": {
         "delta": {
           "confirmed": 1,
           "deceased": 1,
-          "recovered": 10
+          "recovered": 10,
+          "tested": 251
         },
         "meta": {
           "population": 1696694,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
@@ -10332,35 +10341,37 @@
           "deceased": 25,
           "migrated": 18,
           "recovered": 565,
-          "tested": 20302
+          "tested": 20553
         }
       },
       "Haridwar": {
         "delta": {
-          "recovered": 27
+          "recovered": 27,
+          "tested": 118
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 315,
           "migrated": 7,
           "recovered": 268,
-          "tested": 10550
+          "tested": 10668
         }
       },
       "Nainital": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "tested": 227
         },
         "meta": {
           "population": 954605,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
@@ -10368,113 +10379,119 @@
           "deceased": 3,
           "migrated": 1,
           "recovered": 345,
-          "tested": 7981
+          "tested": 8208
         }
       },
       "Pauri Garhwal": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 649
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 143,
           "deceased": 3,
           "recovered": 93,
-          "tested": 4267
+          "tested": 4916
         }
       },
       "Pithoragarh": {
         "delta": {
           "confirmed": 1,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 30
         },
         "meta": {
           "population": 483439,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 66,
           "recovered": 61,
-          "tested": 1794
+          "tested": 1824
         }
       },
       "Rudraprayag": {
         "delta": {
-          "recovered": 1
+          "recovered": 1,
+          "tested": 130
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 66,
           "deceased": 1,
           "recovered": 60,
-          "tested": 1720
+          "tested": 1850
         }
       },
       "Tehri Garhwal": {
         "delta": {
-          "recovered": 19
+          "recovered": 19,
+          "tested": 35
         },
         "meta": {
           "population": 618931,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 420,
           "deceased": 2,
           "recovered": 402,
-          "tested": 4031
+          "tested": 4066
         }
       },
       "Udham Singh Nagar": {
         "delta": {
           "confirmed": 16,
-          "recovered": 23
+          "recovered": 23,
+          "tested": 238
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 277,
           "deceased": 3,
           "recovered": 213,
-          "tested": 8407
+          "tested": 8645
         }
       },
       "Uttarkashi": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": 72
         },
         "meta": {
           "population": 330086,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://health.uk.gov.in/files/2020.07.01_Health_Bulletin.pdf"
+            "last_updated": "2020-07-02",
+            "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
           }
         },
         "total": {
           "confirmed": 75,
           "deceased": 1,
           "recovered": 59,
-          "tested": 2119
+          "tested": 2191
         }
       }
     },
