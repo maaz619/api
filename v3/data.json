@@ -686,6 +686,10 @@
     }
   },
   "AS": {
+    "delta": {
+      "deceased": 2,
+      "recovered": 275
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -923,11 +927,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 2,
+          "recovered": 275
+        },
         "total": {
           "confirmed": 3538,
-          "deceased": 5,
+          "deceased": 7,
           "migrated": 3,
-          "recovered": 4916
+          "recovered": 5191
         }
       },
       "West Karbi Anglong": {
@@ -937,7 +945,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T01:14:29+05:30",
+      "last_updated": "2020-07-02T19:24:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -947,9 +955,9 @@
     },
     "total": {
       "confirmed": 8956,
-      "deceased": 12,
+      "deceased": 14,
       "migrated": 3,
-      "recovered": 5832,
+      "recovered": 6107,
       "tested": 419878
     }
   },
@@ -3487,10 +3495,13 @@
         }
       },
       "Dakshina Kannada": {
+        "delta": {
+          "tested": 293
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/831"
+            "last_updated": "2020-07-02",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/845"
           }
         },
         "total": {
@@ -3498,7 +3509,7 @@
           "deceased": 13,
           "migrated": 2,
           "recovered": 402,
-          "tested": 14137
+          "tested": 14430
         }
       },
       "Davanagere": {
@@ -3803,7 +3814,8 @@
   "KL": {
     "delta": {
       "confirmed": 160,
-      "recovered": 202
+      "recovered": 202,
+      "tested": 7782
     },
     "districts": {
       "Alappuzha": {
@@ -3979,8 +3991,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-01",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-1.pdf"
+        "last_updated": "2020-07-02"
       }
     },
     "total": {
@@ -3988,7 +3999,7 @@
       "deceased": 26,
       "migrated": 2,
       "recovered": 2638,
-      "tested": 239017
+      "tested": 246799
     }
   },
   "LA": {
@@ -4653,7 +4664,8 @@
     "delta": {
       "confirmed": 245,
       "deceased": 8,
-      "recovered": 160
+      "recovered": 160,
+      "tested": 7844
     },
     "districts": {
       "Agar Malwa": {
@@ -5454,15 +5466,15 @@
       "last_updated": "2020-07-02T19:06:27+05:30",
       "population": 82232000,
       "tested": {
-        "last_updated": "2020-07-01",
-        "source": "https://twitter.com/healthminmp/status/1278320772679786501?s=20"
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/healthminmp/status/1278674577334218753?s=20"
       }
     },
     "total": {
       "confirmed": 14106,
       "deceased": 589,
       "recovered": 10815,
-      "tested": 372811
+      "tested": 380655
     }
   },
   "MZ": {
@@ -5568,7 +5580,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 34
+      "confirmed": 34,
+      "recovered": 15
     },
     "districts": {
       "Dimapur": {
@@ -5696,8 +5709,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 15
+        },
         "total": {
-          "recovered": 153
+          "recovered": 168
         }
       },
       "Wokha": {
@@ -5720,7 +5736,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T09:56:29+05:30",
+      "last_updated": "2020-07-02T19:24:31+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -5729,7 +5745,7 @@
     },
     "total": {
       "confirmed": 535,
-      "recovered": 182,
+      "recovered": 197,
       "tested": 17177
     }
   },
@@ -8192,11 +8208,11 @@
   "TT": {
     "delta": {
       "confirmed": 2123,
-      "deceased": 25,
-      "recovered": 1205
+      "deceased": 27,
+      "recovered": 1495
     },
     "meta": {
-      "last_updated": "2020-07-02T19:06:25+05:30",
+      "last_updated": "2020-07-02T19:24:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -8205,9 +8221,9 @@
     },
     "total": {
       "confirmed": 607344,
-      "deceased": 17873,
+      "deceased": 17875,
       "migrated": 66,
-      "recovered": 361108,
+      "recovered": 361398,
       "tested": 9056173
     }
   },
