@@ -2543,12 +2543,16 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 32,
+      "recovered": 12
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 46,
+          "confirmed": 47,
           "recovered": 28
         }
       },
@@ -2560,28 +2564,39 @@
         }
       },
       "Hamirpur": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 250,
+          "confirmed": 253,
           "deceased": 2,
-          "recovered": 161
+          "recovered": 166
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
         },
         "total": {
-          "confirmed": 278,
+          "confirmed": 280,
           "deceased": 3,
-          "recovered": 167
+          "recovered": 168
         }
       },
       "Kinnaur": {
+        "delta": {
+          "confirmed": 17
+        },
         "meta": {
           "population": 84121
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 30,
           "recovered": 3
         }
       },
@@ -2592,26 +2607,36 @@
         }
       },
       "Lahaul and Spiti": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 3
+          "confirmed": 4
         }
       },
       "Mandi": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 32,
+          "confirmed": 33,
           "deceased": 2,
           "recovered": 22
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 1
+        },
         "meta": {
           "population": 814010
         },
         "total": {
-          "confirmed": 41,
+          "confirmed": 47,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 22
+          "recovered": 23
         }
       },
       "Sirmaur": {
@@ -2625,19 +2650,25 @@
         }
       },
       "Solan": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 580320
         },
         "total": {
           "confirmed": 110,
           "migrated": 4,
-          "recovered": 56
+          "recovered": 59
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 110,
-          "recovered": 85
+          "recovered": 87
         }
       },
       "Unknown": {
@@ -2647,7 +2678,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T12:55:27+05:30",
+      "last_updated": "2020-07-02T18:23:27+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2656,10 +2687,10 @@
       }
     },
     "total": {
-      "confirmed": 980,
+      "confirmed": 1011,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 617,
+      "recovered": 629,
       "tested": 81516
     }
   },
@@ -7954,12 +7985,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1686,
+      "confirmed": 1717,
       "deceased": 17,
-      "recovered": 810
+      "recovered": 822
     },
     "meta": {
-      "last_updated": "2020-07-02T17:34:25+05:30",
+      "last_updated": "2020-07-02T18:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7967,10 +7998,10 @@
       }
     },
     "total": {
-      "confirmed": 606907,
+      "confirmed": 606938,
       "deceased": 17865,
       "migrated": 66,
-      "recovered": 360713,
+      "recovered": 360725,
       "tested": 9056173
     }
   },
