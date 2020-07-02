@@ -2164,12 +2164,16 @@
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 17,
+          "deceased": 1
+        },
         "meta": {
           "population": 818008
         },
         "total": {
-          "confirmed": 93,
-          "deceased": 1,
+          "confirmed": 110,
+          "deceased": 2,
           "recovered": 28
         }
       },
@@ -2179,22 +2183,24 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 33
+        },
         "total": {
-          "confirmed": 807,
+          "confirmed": 811,
           "deceased": 2,
-          "recovered": 213
+          "recovered": 246
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 72,
-          "deceased": 1,
-          "recovered": 74
+          "confirmed": 51,
+          "recovered": 41
         },
         "total": {
-          "confirmed": 483,
-          "deceased": 1,
-          "recovered": 429
+          "confirmed": 462,
+          "recovered": 396
         }
       }
     },
@@ -3107,20 +3113,21 @@
         "delta": {
           "confirmed": 116,
           "deceased": 1,
-          "recovered": 117
+          "recovered": 117,
+          "tested": 2030
         },
         "meta": {
           "population": 902112,
           "tested": {
-            "last_updated": "2020-06-28",
-            "source": "https://cdn.s3waas.gov.in/s325b2822c2f5a3230abfadd476e8b04c9/uploads/2020/06/2020062928.pdf"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DirectorateofHS/status/1278380929153556480?s=20"
           }
         },
         "total": {
           "confirmed": 5463,
           "deceased": 92,
           "recovered": 4079,
-          "tested": 30106
+          "tested": 34771
         }
       },
       "Hisar": {
@@ -5795,38 +5802,40 @@
         "delta": {
           "confirmed": 25,
           "deceased": 3,
-          "recovered": 100
+          "recovered": 100,
+          "tested": 1259
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://twitter.com/tarun28988/status/1278035048856313857?s=19"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DirectorateofHS/status/1278380929153556480?s=20"
           }
         },
         "total": {
           "confirmed": 4734,
           "deceased": 232,
           "recovered": 3552,
-          "tested": 86235
+          "tested": 87494
         }
       },
       "Jabalpur": {
         "delta": {
           "confirmed": 4,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 510
         },
         "meta": {
           "population": 2463289,
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://epaper.naidunia.com/mepaper/01-jul-2020-74-indore-edition-indore-page-13.html"
+            "last_updated": "2020-07-01",
+            "source": "https://epaper.naidunia.com/mepaper/02-jul-2020-74-indore-edition-indore-page-10.html"
           }
         },
         "total": {
           "confirmed": 405,
           "deceased": 14,
           "recovered": 322,
-          "tested": 12618
+          "tested": 13128
         }
       },
       "Jhabua": {
@@ -5855,19 +5864,20 @@
       },
       "Khandwa": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 302
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://epaper.naidunia.com/mepaper/01-jul-2020-74-indore-edition-indore-page-13.html"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DirectorateofHS/status/1278380929153556480?s=20"
           }
         },
         "total": {
           "confirmed": 317,
           "deceased": 17,
           "recovered": 263,
-          "tested": 5926
+          "tested": 6228
         }
       },
       "Khargone": {
@@ -5952,19 +5962,20 @@
       "Neemuch": {
         "delta": {
           "confirmed": 3,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 1287
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://epaper.naidunia.com/mepaper/01-jul-2020-74-indore-edition-indore-page-13.html"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DirectorateofHS/status/1278380929153556480?s=20"
           }
         },
         "total": {
           "confirmed": 446,
           "deceased": 7,
           "recovered": 418,
-          "tested": 5581
+          "tested": 6868
         }
       },
       "Niwari": {
@@ -6230,20 +6241,21 @@
       },
       "Ujjain": {
         "delta": {
-          "recovered": 5
+          "recovered": 5,
+          "tested": 1074
         },
         "meta": {
           "population": 1986864,
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://epaper.naidunia.com/mepaper/01-jul-2020-74-indore-edition-indore-page-13.html"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DirectorateofHS/status/1278380929153556480?s=20"
           }
         },
         "total": {
           "confirmed": 859,
           "deceased": 71,
           "recovered": 769,
-          "tested": 20204
+          "tested": 21278
         }
       },
       "Umaria": {
