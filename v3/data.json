@@ -25,12 +25,12 @@
         },
         "total": {
           "confirmed": 57,
-          "recovered": 12
+          "recovered": 17
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T09:50:30+05:30",
+      "last_updated": "2020-07-02T12:46:30+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -39,7 +39,7 @@
     },
     "total": {
       "confirmed": 109,
-      "recovered": 45,
+      "recovered": 50,
       "tested": 15709
     }
   },
@@ -1812,6 +1812,9 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 10
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1821,11 +1824,14 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 10
+        },
         "meta": {
           "population": 191173
         },
         "total": {
-          "confirmed": 106,
+          "confirmed": 116,
           "recovered": 41
         }
       },
@@ -1837,7 +1843,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T17:03:28+05:30",
+      "last_updated": "2020-07-02T12:46:29+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -1845,7 +1851,7 @@
       }
     },
     "total": {
-      "confirmed": 229,
+      "confirmed": 239,
       "migrated": 1,
       "recovered": 109,
       "tested": 32031
@@ -2396,6 +2402,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2466,8 +2475,11 @@
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 39,
+          "confirmed": 40,
           "migrated": 7,
           "recovered": 23
         }
@@ -2495,7 +2507,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T21:49:46+05:30",
+      "last_updated": "2020-07-02T12:46:27+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2504,7 +2516,7 @@
       }
     },
     "total": {
-      "confirmed": 979,
+      "confirmed": 980,
       "deceased": 9,
       "migrated": 13,
       "recovered": 617,
@@ -7692,12 +7704,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 555,
+      "confirmed": 566,
       "deceased": 7,
       "recovered": 99
     },
     "meta": {
-      "last_updated": "2020-07-02T12:26:25+05:30",
+      "last_updated": "2020-07-02T12:46:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7705,10 +7717,10 @@
       }
     },
     "total": {
-      "confirmed": 605775,
+      "confirmed": 605786,
       "deceased": 17855,
       "migrated": 66,
-      "recovered": 359995,
+      "recovered": 360000,
       "tested": 9056173
     }
   },
