@@ -907,15 +907,15 @@
         "meta": {
           "population": 2970541,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://twitter.com/DM_Begusarai/status/1277564206217191426?s=20"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/DM_Begusarai/status/1278283625671176194?s=20"
           }
         },
         "total": {
           "confirmed": 459,
           "deceased": 4,
           "recovered": 359,
-          "tested": 8104
+          "tested": 8706
         }
       },
       "Bhagalpur": {
@@ -1008,15 +1008,15 @@
         "meta": {
           "population": 1666886,
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://twitter.com/KhagariaDm/status/1278214527427817473/photo/1"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/KhagariaDm/status/1278392002594275328?s=20"
           }
         },
         "total": {
           "confirmed": 305,
           "deceased": 3,
           "recovered": 293,
-          "tested": 5595
+          "tested": 5805
         }
       },
       "Kishanganj": {
@@ -1108,14 +1108,14 @@
         "meta": {
           "population": 3264619,
           "tested": {
-            "last_updated": "2020-06-30",
-            "source": "https://twitter.com/dmpurnea/status/1278008248893943816?s=20"
+            "last_updated": "2020-07-01",
+            "source": "https://twitter.com/dmpurnea/status/1278369198599811072?s=20"
           }
         },
         "total": {
           "confirmed": 301,
           "recovered": 266,
-          "tested": 6172
+          "tested": 6433
         }
       },
       "Rohtas": {
@@ -5979,8 +5979,15 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 63,
+      "recovered": 30
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -5988,7 +5995,7 @@
           }
         },
         "total": {
-          "confirmed": 39,
+          "confirmed": 42,
           "recovered": 14,
           "tested": 2552
         }
@@ -6006,6 +6013,10 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 60,
+          "recovered": 30
+        },
         "meta": {
           "population": 950289,
           "tested": {
@@ -6013,9 +6024,9 @@
           }
         },
         "total": {
-          "confirmed": 680,
+          "confirmed": 740,
           "deceased": 12,
-          "recovered": 277,
+          "recovered": 307,
           "tested": 13749
         }
       },
@@ -6032,7 +6043,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T16:26:28+05:30",
+      "last_updated": "2020-07-02T11:03:28+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -6040,9 +6051,9 @@
       }
     },
     "total": {
-      "confirmed": 739,
+      "confirmed": 802,
       "deceased": 12,
-      "recovered": 301,
+      "recovered": 331,
       "tested": 18092
     }
   },
@@ -7534,11 +7545,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 189,
-      "deceased": 2
+      "confirmed": 252,
+      "deceased": 2,
+      "recovered": 30
     },
     "meta": {
-      "last_updated": "2020-07-02T10:48:26+05:30",
+      "last_updated": "2020-07-02T11:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7546,10 +7558,10 @@
       }
     },
     "total": {
-      "confirmed": 605409,
+      "confirmed": 605472,
       "deceased": 17850,
       "migrated": 66,
-      "recovered": 359896,
+      "recovered": 359926,
       "tested": 9056173
     }
   },
