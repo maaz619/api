@@ -6732,6 +6732,10 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 2
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -6750,6 +6754,16 @@
           "recovered": 26
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 2
+        },
+        "total": {
+          "confirmed": 1,
+          "recovered": 2
+        }
+      },
       "West Sikkim": {
         "total": {
           "confirmed": 21,
@@ -6758,7 +6772,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-06-30T23:06:21+05:30",
+      "last_updated": "2020-07-02T13:23:28+05:30",
       "population": 664000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -6766,8 +6780,8 @@
       }
     },
     "total": {
-      "confirmed": 88,
-      "recovered": 50,
+      "confirmed": 89,
+      "recovered": 52,
       "tested": 10723
     }
   },
@@ -7704,12 +7718,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 566,
+      "confirmed": 567,
       "deceased": 7,
-      "recovered": 99
+      "recovered": 101
     },
     "meta": {
-      "last_updated": "2020-07-02T12:55:24+05:30",
+      "last_updated": "2020-07-02T13:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7717,10 +7731,10 @@
       }
     },
     "total": {
-      "confirmed": 605786,
+      "confirmed": 605787,
       "deceased": 17855,
       "migrated": 66,
-      "recovered": 360000,
+      "recovered": 360002,
       "tested": 9056173
     }
   },
