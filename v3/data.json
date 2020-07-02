@@ -5214,6 +5214,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "recovered": 3
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -5252,12 +5255,15 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 161428
         },
         "total": {
           "confirmed": 47,
-          "recovered": 45
+          "recovered": 46
         }
       },
       "Mamit": {
@@ -5282,17 +5288,20 @@
         }
       },
       "Serchhip": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 64937
         },
         "total": {
           "confirmed": 3,
-          "recovered": 1
+          "recovered": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T17:52:29+05:30",
+      "last_updated": "2020-07-02T17:23:31+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -5301,7 +5310,7 @@
     },
     "total": {
       "confirmed": 160,
-      "recovered": 123,
+      "recovered": 126,
       "tested": 13886
     }
   },
@@ -5937,7 +5946,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T17:13:27+05:30",
+      "last_updated": "2020-07-02T17:22:27+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -7917,10 +7926,10 @@
     "delta": {
       "confirmed": 1686,
       "deceased": 17,
-      "recovered": 807
+      "recovered": 810
     },
     "meta": {
-      "last_updated": "2020-07-02T17:13:25+05:30",
+      "last_updated": "2020-07-02T17:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7931,7 +7940,7 @@
       "confirmed": 606907,
       "deceased": 17865,
       "migrated": 66,
-      "recovered": 360710,
+      "recovered": 360713,
       "tested": 9056173
     }
   },
