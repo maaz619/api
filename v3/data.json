@@ -32,7 +32,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T20:53:32+05:30",
+      "last_updated": "2020-07-02T21:03:32+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -2699,7 +2699,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T20:53:30+05:30",
+      "last_updated": "2020-07-02T20:56:29+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -4394,8 +4394,15 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 35
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 16
+        },
         "meta": {
           "population": 140802,
           "tested": {
@@ -4405,11 +4412,15 @@
         },
         "total": {
           "confirmed": 714,
-          "recovered": 531,
+          "recovered": 547,
           "tested": 6653
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 19
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-01",
@@ -4417,15 +4428,15 @@
           }
         },
         "total": {
-          "confirmed": 276,
+          "confirmed": 277,
           "deceased": 1,
-          "recovered": 163,
+          "recovered": 182,
           "tested": 7423
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T19:48:29+05:30",
+      "last_updated": "2020-07-02T21:03:30+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -4433,9 +4444,9 @@
       }
     },
     "total": {
-      "confirmed": 990,
+      "confirmed": 991,
       "deceased": 1,
-      "recovered": 694,
+      "recovered": 729,
       "tested": 14076
     }
   },
@@ -5074,7 +5085,8 @@
       "last_updated": "2020-07-02T20:47:31+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-02"
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/DiprManipur/status/1278704336055332864?s=20"
       }
     },
     "total": {
@@ -8730,7 +8742,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T20:53:28+05:30",
+      "last_updated": "2020-07-02T21:03:27+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -8870,12 +8882,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 12403,
+      "confirmed": 12404,
       "deceased": 224,
-      "recovered": 9884
+      "recovered": 9919
     },
     "meta": {
-      "last_updated": "2020-07-02T20:53:27+05:30",
+      "last_updated": "2020-07-02T21:03:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -8883,10 +8895,10 @@
       }
     },
     "total": {
-      "confirmed": 617624,
+      "confirmed": 617625,
       "deceased": 18072,
       "migrated": 66,
-      "recovered": 369787,
+      "recovered": 369822,
       "tested": 9056173
     }
   },
