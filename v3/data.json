@@ -1426,7 +1426,8 @@
   "CH": {
     "delta": {
       "confirmed": 1,
-      "recovered": 21
+      "recovered": 21,
+      "tested": 146
     },
     "districts": {
       "Chandigarh": {
@@ -1453,15 +1454,14 @@
       "last_updated": "2020-07-02T19:06:31+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-01",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/814"
+        "last_updated": "2020-07-02"
       }
     },
     "total": {
       "confirmed": 447,
       "deceased": 6,
       "recovered": 388,
-      "tested": 7792
+      "tested": 7938
     }
   },
   "CT": {
@@ -3000,10 +3000,11 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T19:37:28+05:30",
+      "last_updated": "2020-07-02T19:44:28+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-02"
+        "last_updated": "2020-07-02",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2002-07-20%20Evening.pdf"
       }
     },
     "total": {
@@ -5776,7 +5777,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T19:36:56+05:30",
+      "last_updated": "2020-07-02T19:37:35+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -6641,7 +6642,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T19:37:33+05:30",
+      "last_updated": "2020-07-02T19:44:30+05:30",
       "population": 29859000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -8323,11 +8324,11 @@
   "TT": {
     "delta": {
       "confirmed": 3196,
-      "deceased": 49,
+      "deceased": 57,
       "recovered": 2631
     },
     "meta": {
-      "last_updated": "2020-07-02T19:37:25+05:30",
+      "last_updated": "2020-07-02T19:44:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -8336,7 +8337,7 @@
     },
     "total": {
       "confirmed": 608417,
-      "deceased": 17897,
+      "deceased": 17905,
       "migrated": 66,
       "recovered": 362534,
       "tested": 9056173
@@ -9223,7 +9224,7 @@
   "WB": {
     "delta": {
       "confirmed": 649,
-      "deceased": 8,
+      "deceased": 16,
       "recovered": 509,
       "tested": 10405
     },
@@ -9342,6 +9343,7 @@
       "Kolkata": {
         "delta": {
           "confirmed": 218,
+          "deceased": 8,
           "recovered": 162
         },
         "meta": {
@@ -9349,7 +9351,7 @@
         },
         "total": {
           "confirmed": 6440,
-          "deceased": 386,
+          "deceased": 394,
           "recovered": 4040
         }
       },
@@ -9488,7 +9490,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T19:37:26+05:30",
+      "last_updated": "2020-07-02T19:44:27+05:30",
       "population": 96906000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9497,7 +9499,7 @@
     },
     "total": {
       "confirmed": 19819,
-      "deceased": 691,
+      "deceased": 699,
       "recovered": 13037,
       "tested": 508001
     }
