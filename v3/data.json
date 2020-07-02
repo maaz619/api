@@ -1813,12 +1813,16 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 10
+      "confirmed": 25,
+      "recovered": 3
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 15
+        },
         "total": {
-          "confirmed": 109,
+          "confirmed": 124,
           "migrated": 1,
           "recovered": 58
         }
@@ -1840,10 +1844,18 @@
           "confirmed": 14,
           "recovered": 10
         }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 3
+        },
+        "total": {
+          "recovered": 3
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T12:55:29+05:30",
+      "last_updated": "2020-07-02T14:03:27+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -1851,9 +1863,9 @@
       }
     },
     "total": {
-      "confirmed": 239,
+      "confirmed": 254,
       "migrated": 1,
-      "recovered": 109,
+      "recovered": 112,
       "tested": 32435
     }
   },
@@ -7712,12 +7724,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 566,
+      "confirmed": 581,
       "deceased": 7,
-      "recovered": 99
+      "recovered": 102
     },
     "meta": {
-      "last_updated": "2020-07-02T13:38:25+05:30",
+      "last_updated": "2020-07-02T14:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7725,10 +7737,10 @@
       }
     },
     "total": {
-      "confirmed": 605787,
+      "confirmed": 605802,
       "deceased": 17855,
       "migrated": 66,
-      "recovered": 360002,
+      "recovered": 360005,
       "tested": 9056173
     }
   },
