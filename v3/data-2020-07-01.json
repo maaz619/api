@@ -337,6 +337,8 @@
   },
   "AR": {
     "delta": {
+      "confirmed": 4,
+      "recovered": 4,
       "tested": 619
     },
     "districts": {
@@ -364,6 +366,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-30",
@@ -372,7 +377,7 @@
         },
         "total": {
           "confirmed": 81,
-          "recovered": 27,
+          "recovered": 30,
           "tested": 4315
         }
       },
@@ -500,6 +505,9 @@
         }
       },
       "Lower Siang": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-30",
@@ -507,7 +515,7 @@
           }
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 3,
           "tested": 455
         }
       },
@@ -524,6 +532,9 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-30",
@@ -531,7 +542,7 @@
           }
         },
         "total": {
-          "confirmed": 11,
+          "confirmed": 12,
           "recovered": 3,
           "tested": 1444
         }
@@ -550,6 +561,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-30",
@@ -557,7 +571,7 @@
           }
         },
         "total": {
-          "confirmed": 48,
+          "confirmed": 49,
           "recovered": 8,
           "tested": 538
         }
@@ -636,6 +650,9 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-30",
@@ -645,7 +662,7 @@
         "total": {
           "confirmed": 19,
           "deceased": 1,
-          "recovered": 4,
+          "recovered": 5,
           "tested": 1098
         }
       },
@@ -672,9 +689,9 @@
       }
     },
     "total": {
-      "confirmed": 191,
+      "confirmed": 195,
       "deceased": 1,
-      "recovered": 62,
+      "recovered": 66,
       "tested": 24856
     }
   },
@@ -8090,15 +8107,10 @@
           "recovered": 26
         }
       },
-      "Unknown": {
-        "total": {
-          "recovered": 1
-        }
-      },
       "West Sikkim": {
         "total": {
           "confirmed": 21,
-          "recovered": 11
+          "recovered": 12
         }
       }
     },
@@ -9157,6 +9169,7 @@
   "TR": {
     "delta": {
       "confirmed": 8,
+      "recovered": 1,
       "tested": 1071
     },
     "districts": {
@@ -9179,7 +9192,7 @@
       },
       "Gomati": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 2,
           "tested": 74
         },
         "meta": {
@@ -9189,7 +9202,7 @@
           }
         },
         "total": {
-          "confirmed": 162,
+          "confirmed": 163,
           "recovered": 101,
           "tested": 6593
         }
@@ -9214,6 +9227,7 @@
       "North Tripura": {
         "delta": {
           "confirmed": 1,
+          "recovered": 2,
           "tested": 157
         },
         "meta": {
@@ -9224,13 +9238,13 @@
         },
         "total": {
           "confirmed": 28,
-          "recovered": 13,
+          "recovered": 15,
           "tested": 12890
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 1,
+          "recovered": 4,
           "tested": 74
         },
         "meta": {
@@ -9240,14 +9254,15 @@
           }
         },
         "total": {
-          "confirmed": 563,
-          "recovered": 517,
+          "confirmed": 562,
+          "recovered": 521,
           "tested": 7797
         }
       },
       "South Tripura": {
         "delta": {
           "confirmed": 1,
+          "recovered": 1,
           "tested": 165
         },
         "meta": {
@@ -9258,13 +9273,13 @@
         },
         "total": {
           "confirmed": 135,
-          "recovered": 76,
+          "recovered": 77,
           "tested": 7034
         }
       },
       "Unknown": {
-        "total": {
-          "recovered": -1
+        "delta": {
+          "recovered": -7
         }
       },
       "Unokoti": {
@@ -9286,6 +9301,7 @@
       "West Tripura": {
         "delta": {
           "confirmed": 3,
+          "recovered": 1,
           "tested": 451
         },
         "meta": {
@@ -9297,7 +9313,7 @@
         "total": {
           "confirmed": 161,
           "deceased": 1,
-          "recovered": 88,
+          "recovered": 89,
           "tested": 18911
         }
       }
@@ -9312,29 +9328,30 @@
     "total": {
       "confirmed": 1401,
       "deceased": 1,
-      "recovered": 1084,
+      "recovered": 1093,
       "tested": 65549
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 19424,
+      "confirmed": 19428,
       "deceased": 438,
-      "recovered": 12052
+      "recovered": 12057,
+      "tested": 229588
     },
     "meta": {
       "population": 1332900000,
       "tested": {
-        "last_updated": "2020-06-30",
-        "source": "https://twitter.com/ICMRDELHI/status/1278172186612609025?s=20)"
+        "last_updated": "2020-07-01",
+        "source": "https://twitter.com/ICMRDELHI/status/1278529927797551104?s=20)"
       }
     },
     "total": {
-      "confirmed": 605216,
+      "confirmed": 605220,
       "deceased": 17848,
       "migrated": 66,
-      "recovered": 359883,
-      "tested": 8826585
+      "recovered": 359896,
+      "tested": 9056173
     }
   },
   "UN": {
