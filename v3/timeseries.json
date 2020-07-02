@@ -10215,13 +10215,14 @@
     "2020-07-01": {
       "delta": {
         "confirmed": 16,
-        "recovered": 27
+        "recovered": 27,
+        "tested": 404
       },
       "total": {
         "confirmed": 229,
         "migrated": 1,
         "recovered": 109,
-        "tested": 32031
+        "tested": 32435
       }
     },
     "2020-07-02": {
@@ -10232,7 +10233,7 @@
         "confirmed": 239,
         "migrated": 1,
         "recovered": 109,
-        "tested": 32031
+        "tested": 32435
       }
     }
   },
@@ -23537,12 +23538,15 @@
       }
     },
     "2020-07-02": {
+      "delta": {
+        "tested": 27953
+      },
       "total": {
         "confirmed": 180298,
         "deceased": 8053,
         "migrated": 16,
         "recovered": 93154,
-        "tested": 995343
+        "tested": 1023296
       }
     }
   },
@@ -34144,19 +34148,17 @@
     },
     "2020-07-01": {
       "delta": {
+        "confirmed": 1,
+        "recovered": 2,
         "tested": 188
       },
       "total": {
-        "confirmed": 88,
-        "recovered": 50,
+        "confirmed": 89,
+        "recovered": 52,
         "tested": 10723
       }
     },
     "2020-07-02": {
-      "delta": {
-        "confirmed": 1,
-        "recovered": 2
-      },
       "total": {
         "confirmed": 89,
         "recovered": 52,
@@ -39665,24 +39667,24 @@
     },
     "2020-07-01": {
       "delta": {
-        "confirmed": 19428,
+        "confirmed": 19429,
         "deceased": 438,
-        "recovered": 12062,
+        "recovered": 12064,
         "tested": 229588
       },
       "total": {
-        "confirmed": 605220,
+        "confirmed": 605221,
         "deceased": 17848,
         "migrated": 66,
-        "recovered": 359901,
+        "recovered": 359903,
         "tested": 9056173
       }
     },
     "2020-07-02": {
       "delta": {
-        "confirmed": 567,
+        "confirmed": 566,
         "deceased": 7,
-        "recovered": 101
+        "recovered": 99
       },
       "total": {
         "confirmed": 605787,
