@@ -8185,14 +8185,21 @@
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "recovered": 12
         }
       },
       "North Sikkim": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         }
       },
       "South Sikkim": {
@@ -8203,12 +8210,10 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 1,
-          "recovered": 2
+          "recovered": 1
         },
         "total": {
-          "confirmed": 1,
-          "recovered": 2
+          "recovered": 1
         }
       },
       "West Sikkim": {

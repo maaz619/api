@@ -6289,48 +6289,53 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 71
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-01"
+            "last_updated": "2020-07-02"
           }
         },
         "total": {
           "confirmed": 42,
           "recovered": 14,
-          "tested": 2552
+          "tested": 2623
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 45
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01"
+            "last_updated": "2020-07-02"
           }
         },
         "total": {
           "confirmed": 18,
           "recovered": 10,
-          "tested": 821
+          "tested": 866
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 60,
-          "recovered": 30
+          "recovered": 30,
+          "tested": 583
         },
         "meta": {
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-01"
+            "last_updated": "2020-07-02"
           }
         },
         "total": {
           "confirmed": 740,
           "deceased": 12,
           "recovered": 307,
-          "tested": 13749
+          "tested": 14332
         }
       },
       "Yanam": {
@@ -6963,13 +6968,14 @@
     "districts": {
       "East Sikkim": {
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "recovered": 12
         }
       },
       "North Sikkim": {
         "total": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         }
       },
       "South Sikkim": {
@@ -6980,8 +6986,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 1,
-          "recovered": 2
+          "recovered": 1
         }
       },
       "West Sikkim": {
