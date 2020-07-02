@@ -30,7 +30,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T09:37:27+05:30",
+      "last_updated": "2020-07-02T09:46:32+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-06-30",
@@ -5054,6 +5054,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 34
+    },
     "districts": {
       "Dimapur": {
         "meta": {
@@ -5171,7 +5174,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 34
+        },
         "total": {
+          "confirmed": 34,
           "recovered": 153
         }
       },
@@ -5195,7 +5202,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-01T15:48:29+05:30",
+      "last_updated": "2020-07-02T09:46:30+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -5203,7 +5210,7 @@
       }
     },
     "total": {
-      "confirmed": 501,
+      "confirmed": 535,
       "recovered": 182,
       "tested": 17177
     }
@@ -7463,10 +7470,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 9
+      "confirmed": -40
     },
     "meta": {
-      "last_updated": "2020-07-02T09:37:25+05:30",
+      "last_updated": "2020-07-02T09:47:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -7474,7 +7481,7 @@
       }
     },
     "total": {
-      "confirmed": 605229,
+      "confirmed": 605180,
       "deceased": 17848,
       "migrated": 66,
       "recovered": 359896,
@@ -7482,12 +7489,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -83
+    },
     "meta": {
-      "last_updated": "2020-07-01T09:56:16+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-07-02T09:46:27+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 83 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
-      "confirmed": 6915
+      "confirmed": 6832
     }
   },
   "UP": {
