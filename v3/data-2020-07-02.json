@@ -1059,38 +1059,31 @@
       },
       "Banka": {
         "delta": {
-          "recovered": 3,
-          "tested": 8847
+          "recovered": 3
+        },
+        "total": {
+          "confirmed": 238,
+          "recovered": 215
+        }
+      },
+      "Begusarai": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 5,
+          "tested": 141
         },
         "meta": {
+          "population": 2970541,
           "tested": {
             "last_updated": "2020-07-02",
             "source": "https://twitter.com/DM_Begusarai/status/1278625995038191616/photo/1"
           }
         },
         "total": {
-          "confirmed": 238,
-          "recovered": 215,
-          "tested": 8847
-        }
-      },
-      "Begusarai": {
-        "delta": {
-          "confirmed": 4,
-          "recovered": 5
-        },
-        "meta": {
-          "population": 2970541,
-          "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://twitter.com/DM_Begusarai/status/1278283625671176194?s=20"
-          }
-        },
-        "total": {
           "confirmed": 463,
           "deceased": 4,
           "recovered": 364,
-          "tested": 8706
+          "tested": 8847
         }
       },
       "Bhagalpur": {
@@ -4639,37 +4632,39 @@
     "districts": {
       "Kargil": {
         "delta": {
-          "recovered": 16
+          "recovered": 16,
+          "tested": 7
         },
         "meta": {
           "population": 140802,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://www.facebook.com/114874993303412/photos/pcb.194002695390641/194002515390659/?type=3&theater"
+            "last_updated": "2020-07-02",
+            "source": "https://www.facebook.com/114874993303412/photos/pcb.194309242026653/194309088693335/?type=3&theater"
           }
         },
         "total": {
           "confirmed": 714,
           "recovered": 547,
-          "tested": 6653
+          "tested": 6660
         }
       },
       "Leh": {
         "delta": {
           "confirmed": 1,
-          "recovered": 19
+          "recovered": 19,
+          "tested": 189
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://www.facebook.com/114874993303412/photos/pcb.194002695390641/194002515390659/?type=3&theater"
+            "last_updated": "2020-07-02",
+            "source": "https://www.facebook.com/114874993303412/photos/pcb.194309242026653/194309088693335/?type=3&theater"
           }
         },
         "total": {
           "confirmed": 277,
           "deceased": 1,
           "recovered": 182,
-          "tested": 7423
+          "tested": 7612
         }
       }
     },
