@@ -3365,17 +3365,20 @@
         }
       },
       "Ballari": {
+        "delta": {
+          "tested": 234
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/844"
+            "last_updated": "2020-07-03",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/868"
           }
         },
         "total": {
           "confirmed": 984,
           "deceased": 33,
           "recovered": 467,
-          "tested": 17292
+          "tested": 17526
         }
       },
       "Belagavi": {
@@ -3808,7 +3811,8 @@
   "KL": {
     "delta": {
       "confirmed": 211,
-      "recovered": 201
+      "recovered": 201,
+      "tested": 6212
     },
     "districts": {
       "Alappuzha": {
@@ -3982,8 +3986,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-2.pdf"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
@@ -3991,7 +3994,7 @@
       "deceased": 26,
       "migrated": 2,
       "recovered": 2839,
-      "tested": 246799
+      "tested": 253011
     }
   },
   "LA": {
@@ -4038,12 +4041,17 @@
     },
     "meta": {
       "last_updated": "2020-07-03T17:52:29+05:30",
-      "population": 293000
+      "population": 293000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://www.facebook.com/114874993303412/photos/pcb.194309242026653/194309088693335/?type=3&__tn__=HH-R&eid=ARDN2NDbWBm41AO8yMnwHj1bxK7d-ud9xQ0gSp0BsCjJPxxcYaoRHGTQQv2jN8cKlO9VU2TvbIRbRHYB&__xts__%5B0%5D=68.ARDIPX86ElEETVxNqTtvnFGr4A5OqKkjJth2ciZNQB63vtri9SadaDnvzNCf4H0vr-TSoPm6R4Zg77rJHt2zJvkzQujLme-GV99zMeJKdGpW0U4LejF9ZusjXq9oUzbO2NVaugT3EmD9fp-VJrew2koFLxKqP6qqMftL5vvb22dU4_HgRY9NOlkHyPwuNMgO6JRS77zgilftL-Az1mxPvkSpQxgop_SefcJrbKT7uDYGXPWBkBbbyO67s7VJBEsBSyhPmbp52ad_294NCPo-gAqPndKgHAMGYDbyArxpsHzVSfW_AImiwZ0wNnaTb7vdasqR-nnQ9rkshb2JC_XV0tI"
+      }
     },
     "total": {
       "confirmed": 1002,
       "deceased": 1,
-      "recovered": 776
+      "recovered": 776,
+      "tested": 14272
     }
   },
   "LD": {
@@ -4052,6 +4060,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 29347
+    },
     "districts": {
       "Ahmednagar": {
         "total": {
@@ -4428,13 +4439,17 @@
     "meta": {
       "last_updated": "2020-07-02T22:21:26+05:30",
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-07-03"
+      }
     },
     "total": {
       "confirmed": 186626,
       "deceased": 8178,
       "migrated": 16,
-      "recovered": 101172
+      "recovered": 101172,
+      "tested": 1052643
     }
   },
   "ML": {
@@ -4519,12 +4534,17 @@
     "meta": {
       "last_updated": "2020-07-03T14:58:28+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/861"
+      }
     },
     "total": {
       "confirmed": 62,
       "deceased": 1,
-      "recovered": 43
+      "recovered": 43,
+      "tested": 19732
     }
   },
   "MN": {
@@ -4645,11 +4665,16 @@
     },
     "meta": {
       "last_updated": "2020-07-02T20:47:31+05:30",
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/DiprManipur/status/1278704336055332864?s=20"
+      }
     },
     "total": {
       "confirmed": 1279,
-      "recovered": 616
+      "recovered": 616,
+      "tested": 53030
     }
   },
   "MP": {
@@ -5462,18 +5487,24 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T19:23:29+05:30",
-      "population": 82232000
+      "last_updated": "2020-07-03T19:25:27+05:30",
+      "population": 82232000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/healthminmp/status/1278674577334218753?s=20"
+      }
     },
     "total": {
       "confirmed": 14297,
       "deceased": 593,
-      "recovered": 11049
+      "recovered": 11049,
+      "tested": 380655
     }
   },
   "MZ": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 439
     },
     "districts": {
       "Aizawl": {
@@ -5557,11 +5588,16 @@
     },
     "meta": {
       "last_updated": "2020-07-03T17:15:30+05:30",
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-07-03",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-272020-500pm-372020-500-pm"
+      }
     },
     "total": {
       "confirmed": 162,
-      "recovered": 127
+      "recovered": 127,
+      "tested": 14370
     }
   },
   "NL": {
@@ -5728,11 +5764,16 @@
     },
     "meta": {
       "last_updated": "2020-07-03T16:56:28+05:30",
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/MyGovNagaland/status/1278679710243807232?s=20"
+      }
     },
     "total": {
       "confirmed": 539,
-      "recovered": 228
+      "recovered": 228,
+      "tested": 17887
     }
   },
   "OR": {
@@ -6208,12 +6249,17 @@
     "meta": {
       "last_updated": "2020-07-03T17:20:27+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
-      "population": 43671000
+      "population": 43671000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/860?single"
+      }
     },
     "total": {
       "confirmed": 8106,
       "deceased": 37,
-      "recovered": 5705
+      "recovered": 5705,
+      "tested": 274672
     }
   },
   "PB": {
@@ -6591,13 +6637,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T19:23:32+05:30",
-      "population": 29859000
+      "last_updated": "2020-07-03T19:25:29+05:30",
+      "population": 29859000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2002-07-2020.pdf"
+      }
     },
     "total": {
       "confirmed": 5937,
       "deceased": 157,
-      "recovered": 4266
+      "recovered": 4266,
+      "tested": 317802
     }
   },
   "PY": {
@@ -6676,12 +6727,17 @@
     },
     "meta": {
       "last_updated": "2020-07-03T13:26:29+05:30",
-      "population": 1504000
+      "population": 1504000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/02.07.2020%20bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 824,
       "deceased": 13,
-      "recovered": 384
+      "recovered": 384,
+      "tested": 18791
     }
   },
   "RJ": {
@@ -7260,12 +7316,17 @@
     },
     "meta": {
       "last_updated": "2020-07-03T11:53:27+05:30",
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/851"
+      }
     },
     "total": {
       "confirmed": 18785,
       "deceased": 435,
-      "recovered": 15043
+      "recovered": 15043,
+      "tested": 854274
     }
   },
   "SK": {
@@ -7297,11 +7358,16 @@
     },
     "meta": {
       "last_updated": "2020-07-02T23:05:31+05:30",
-      "population": 664000
+      "population": 664000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/858"
+      }
     },
     "total": {
       "confirmed": 101,
-      "recovered": 52
+      "recovered": 52,
+      "tested": 10900
     }
   },
   "TG": {
@@ -7540,19 +7606,25 @@
     },
     "meta": {
       "last_updated": "2020-07-02T22:21:31+05:30",
-      "population": 37220000
+      "population": 37220000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/IPRTelangana/status/1278727939702456320?s=20"
+      }
     },
     "total": {
       "confirmed": 18570,
       "deceased": 275,
-      "recovered": 9069
+      "recovered": 9069,
+      "tested": 98153
     }
   },
   "TN": {
     "delta": {
       "confirmed": 4329,
       "deceased": 64,
-      "recovered": 2357
+      "recovered": 2357,
+      "tested": 35028
     },
     "districts": {
       "Airport Quarantine": {
@@ -8257,12 +8329,17 @@
     "meta": {
       "last_updated": "2020-07-03T18:47:28+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-07-03",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/07/Media-Bulletin-03.07.2020-25-Pages-English-469-KB.pdf"
+      }
     },
     "total": {
       "confirmed": 102721,
       "deceased": 1385,
-      "recovered": 58378
+      "recovered": 58378,
+      "tested": 1270720
     }
   },
   "TR": {
@@ -8386,13 +8463,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T19:23:35+05:30",
-      "population": 3992000
+      "last_updated": "2020-07-03T19:25:32+05:30",
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/855"
+      }
     },
     "total": {
       "confirmed": 1440,
       "deceased": 1,
-      "recovered": 1199
+      "recovered": 1199,
+      "tested": 67255
     }
   },
   "TT": {
@@ -8402,7 +8484,7 @@
       "recovered": 4034
     },
     "meta": {
-      "last_updated": "2020-07-03T19:23:26+05:30",
+      "last_updated": "2020-07-03T19:25:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9073,12 +9155,17 @@
     },
     "meta": {
       "last_updated": "2020-07-02T21:20:28+05:30",
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/UPGovt/status/1278692810057629696?s=20"
+      }
     },
     "total": {
       "confirmed": 24825,
       "deceased": 735,
-      "recovered": 17221
+      "recovered": 17221,
+      "tested": 781584
     }
   },
   "UT": {
@@ -9276,13 +9363,18 @@
     "meta": {
       "last_updated": "2020-07-02T20:25:38+05:30",
       "notes": "27 Migrated cases reduced from Active count",
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
+      }
     },
     "total": {
       "confirmed": 2984,
       "deceased": 42,
       "migrated": 27,
-      "recovered": 2405
+      "recovered": 2405,
+      "tested": 72104
     }
   },
   "WB": {
@@ -9467,12 +9559,17 @@
     },
     "meta": {
       "last_updated": "2020-07-02T20:25:35+05:30",
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-07-02",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_2nd_JULY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 19819,
       "deceased": 699,
-      "recovered": 13037
+      "recovered": 13037,
+      "tested": 508001
     }
   }
 }
