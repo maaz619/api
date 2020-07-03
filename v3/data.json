@@ -334,6 +334,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 20,
+      "recovered": 4
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -359,6 +363,10 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 3
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -366,8 +374,8 @@
           }
         },
         "total": {
-          "confirmed": 83,
-          "recovered": 34,
+          "confirmed": 89,
+          "recovered": 37,
           "tested": 4479
         }
       },
@@ -545,6 +553,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -552,7 +563,7 @@
           }
         },
         "total": {
-          "confirmed": 83,
+          "confirmed": 89,
           "recovered": 8,
           "tested": 630
         }
@@ -631,6 +642,10 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -638,9 +653,9 @@
           }
         },
         "total": {
-          "confirmed": 19,
+          "confirmed": 27,
           "deceased": 1,
-          "recovered": 5,
+          "recovered": 6,
           "tested": 1179
         }
       },
@@ -660,7 +675,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T23:49:30+05:30",
+      "last_updated": "2020-07-04T00:12:28+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -668,14 +683,15 @@
       }
     },
     "total": {
-      "confirmed": 232,
+      "confirmed": 252,
       "deceased": 1,
-      "recovered": 71,
+      "recovered": 75,
       "tested": 25440
     }
   },
   "AS": {
     "delta": {
+      "confirmed": 365,
       "recovered": 221,
       "tested": 10016
     },
@@ -811,8 +827,11 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 134
+        },
         "total": {
-          "confirmed": 2285,
+          "confirmed": 2419,
           "deceased": 6,
           "recovered": 383
         }
@@ -917,10 +936,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 231,
           "recovered": 221
         },
         "total": {
-          "confirmed": 3779,
+          "confirmed": 4010,
           "deceased": 7,
           "migrated": 3,
           "recovered": 5412
@@ -933,7 +953,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T20:52:33+05:30",
+      "last_updated": "2020-07-04T00:12:26+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -942,7 +962,7 @@
       }
     },
     "total": {
-      "confirmed": 9435,
+      "confirmed": 9800,
       "deceased": 14,
       "migrated": 3,
       "recovered": 6328,
@@ -2910,7 +2930,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T23:53:26+05:30",
+      "last_updated": "2020-07-04T00:07:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -5207,7 +5227,8 @@
   "MN": {
     "delta": {
       "confirmed": 37,
-      "recovered": 23
+      "recovered": 23,
+      "tested": 578
     },
     "districts": {
       "Bishnupur": {
@@ -5347,14 +5368,13 @@
       "last_updated": "2020-07-03T20:48:30+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/DiprManipur/status/1278704336055332864?s=20"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
       "confirmed": 1316,
       "recovered": 639,
-      "tested": 53030
+      "tested": 53608
     }
   },
   "MP": {
@@ -8065,7 +8085,8 @@
   },
   "SK": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 172
     },
     "districts": {
       "East Sikkim": {
@@ -8105,21 +8126,21 @@
       "last_updated": "2020-07-03T23:08:32+05:30",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/858"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
       "confirmed": 102,
       "recovered": 52,
-      "tested": 10900
+      "tested": 11072
     }
   },
   "TG": {
     "delta": {
       "confirmed": 1892,
       "deceased": 8,
-      "recovered": 1126
+      "recovered": 1126,
+      "tested": 5965
     },
     "districts": {
       "Adilabad": {
@@ -8434,15 +8455,15 @@
       "last_updated": "2020-07-03T23:25:27+05:30",
       "population": 37220000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/IPRTelangana/status/1278727939702456320?s=20"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/Eatala_Rajender/status/1279105961479729152?s=20"
       }
     },
     "total": {
       "confirmed": 20462,
       "deceased": 283,
       "recovered": 10195,
-      "tested": 98153
+      "tested": 104118
     }
   },
   "TN": {
@@ -9171,104 +9192,111 @@
   "TR": {
     "delta": {
       "confirmed": 93,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 1379
     },
     "districts": {
       "Dhalai": {
         "delta": {
-          "confirmed": 24
+          "confirmed": 24,
+          "tested": 24
         },
         "meta": {
           "population": 378230,
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 242,
           "recovered": 201,
-          "tested": 6814
+          "tested": 6838
         }
       },
       "Gomati": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 15,
+          "tested": 160
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 179,
           "recovered": 110,
-          "tested": 6716
+          "tested": 6876
         }
       },
       "Khowai": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "tested": 112
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 79,
           "recovered": 32,
-          "tested": 3097
+          "tested": 3209
         }
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 13,
+          "tested": 273
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 47,
           "recovered": 16,
-          "tested": 13037
+          "tested": 13310
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 11
+          "confirmed": 11,
+          "tested": 56
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 579,
           "recovered": 522,
-          "tested": 7904
+          "tested": 7960
         }
       },
       "South Tripura": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 120
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 138,
           "recovered": 79,
-          "tested": 7288
+          "tested": 7408
         }
       },
       "Unknown": {
@@ -9281,27 +9309,29 @@
       },
       "Unokoti": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 24
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 73,
           "recovered": 65,
-          "tested": 2688
+          "tested": 2712
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 17
+          "confirmed": 17,
+          "tested": 610
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
+            "last_updated": "2020-07-03",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -9309,7 +9339,7 @@
           "confirmed": 196,
           "deceased": 1,
           "recovered": 121,
-          "tested": 19711
+          "tested": 20321
         }
       }
     },
@@ -9317,25 +9347,24 @@
       "last_updated": "2020-07-03T23:37:27+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/855"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
       "confirmed": 1533,
       "deceased": 1,
       "recovered": 1199,
-      "tested": 67255
+      "tested": 68634
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 22336,
+      "confirmed": 22721,
       "deceased": 444,
-      "recovered": 14413
+      "recovered": 14417
     },
     "meta": {
-      "last_updated": "2020-07-03T23:53:25+05:30",
+      "last_updated": "2020-07-04T00:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9343,10 +9372,10 @@
       }
     },
     "total": {
-      "confirmed": 649504,
+      "confirmed": 649889,
       "deceased": 18669,
       "migrated": 66,
-      "recovered": 394315,
+      "recovered": 394319,
       "tested": 9297749
     }
   },
@@ -9366,7 +9395,8 @@
     "delta": {
       "confirmed": 972,
       "deceased": 14,
-      "recovered": 376
+      "recovered": 376,
+      "tested": 29407
     },
     "districts": {
       "Agra": {
@@ -10300,15 +10330,15 @@
       "last_updated": "2020-07-03T19:56:27+05:30",
       "population": 224979000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/UPGovt/status/1278692810057629696?s=20"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/UPGovt/status/1279053155863416834?s=20"
       }
     },
     "total": {
       "confirmed": 25797,
       "deceased": 749,
       "recovered": 17597,
-      "tested": 781584
+      "tested": 810991
     }
   },
   "UT": {
