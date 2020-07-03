@@ -1398,13 +1398,13 @@
 	],
 	"statewise": [
 		{
-			"active": "228975",
-			"confirmed": "627168",
+			"active": "228174",
+			"confirmed": "626367",
 			"deaths": "18225",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-801",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "03/07/2020 01:05:25",
+			"lastupdatedtime": "03/07/2020 09:36:25",
 			"migratedother": "66",
 			"recovered": "379902",
 			"state": "Total",
@@ -1538,18 +1538,18 @@
 			"statenotes": ""
 		},
 		{
-			"active": "6832",
-			"confirmed": "6832",
+			"active": "6031",
+			"confirmed": "6031",
 			"deaths": "0",
-			"deltaconfirmed": "0",
+			"deltaconfirmed": "-801",
 			"deltadeaths": "0",
 			"deltarecovered": "0",
-			"lastupdatedtime": "02/07/2020 09:56:26",
+			"lastupdatedtime": "03/07/2020 09:36:27",
 			"migratedother": "0",
 			"recovered": "0",
 			"state": "State Unassigned",
 			"statecode": "UN",
-			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. "
+			"statenotes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 801 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
 		},
 		{
 			"active": "9404",
@@ -3754,6 +3754,22 @@
 			"totalpositivecases": "",
 			"totalsamplestested": "9056173",
 			"updatetimestamp": "02/07/2020 09:00:00"
+		},
+		{
+			"individualstestedperconfirmedcase": "",
+			"positivecasesfromsamplesreported": "",
+			"samplereportedtoday": "241576",
+			"source": "https://twitter.com/ICMRDELHI/status/1278893457470222337?s=20",
+			"source1": "https://t.me/Covid19india_Auxiliary_Test_Data/866",
+			"testedasof": "02/07/2020",
+			"testpositivityrate": "",
+			"testsconductedbyprivatelabs": "",
+			"testsperconfirmedcase": "",
+			"testspermillion": "6976",
+			"totalindividualstested": "",
+			"totalpositivecases": "",
+			"totalsamplestested": "9297749",
+			"updatetimestamp": "03/07/2020 09:00:00"
 		}
 	]
 }
