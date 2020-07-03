@@ -872,6 +872,9 @@
     }
   },
   "BR": {
+    "delta": {
+      "confirmed": 232
+    },
     "districts": {
       "Araria": {
         "meta": {
@@ -1191,6 +1194,14 @@
           "recovered": 225
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 232
+        },
+        "total": {
+          "confirmed": 232
+        }
+      },
       "Vaishali": {
         "meta": {
           "population": 3495021
@@ -1210,7 +1221,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T21:59:30+05:30",
+      "last_updated": "2020-07-03T13:03:27+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -1218,7 +1229,7 @@
       }
     },
     "total": {
-      "confirmed": 10682,
+      "confirmed": 10914,
       "deceased": 78,
       "recovered": 7994,
       "tested": 235980
@@ -2333,6 +2344,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 5
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2341,10 +2356,14 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 52,
+          "confirmed": 54,
           "migrated": 1,
-          "recovered": 45
+          "recovered": 46
         }
       },
       "Hamirpur": {
@@ -2392,6 +2411,9 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "recovered": 4
+        },
         "meta": {
           "population": 814010
         },
@@ -2399,7 +2421,7 @@
           "confirmed": 47,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 23
+          "recovered": 27
         }
       },
       "Sirmaur": {
@@ -2432,7 +2454,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T18:35:28+05:30",
+      "last_updated": "2020-07-03T13:03:30+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2441,10 +2463,10 @@
       }
     },
     "total": {
-      "confirmed": 1014,
+      "confirmed": 1016,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 632,
+      "recovered": 637,
       "tested": 83553
     }
   },
@@ -2866,7 +2888,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T12:53:28+05:30",
+      "last_updated": "2020-07-03T12:56:28+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -7641,12 +7663,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -56,
+      "confirmed": 178,
       "deceased": 7,
-      "recovered": 95
+      "recovered": 100
     },
     "meta": {
-      "last_updated": "2020-07-03T12:53:25+05:30",
+      "last_updated": "2020-07-03T13:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -7654,10 +7676,10 @@
       }
     },
     "total": {
-      "confirmed": 627112,
+      "confirmed": 627346,
       "deceased": 18232,
       "migrated": 66,
-      "recovered": 379997,
+      "recovered": 380002,
       "tested": 9297749
     }
   },
