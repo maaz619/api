@@ -5230,10 +5230,14 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 31
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "recovered": 10
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5242,7 +5246,7 @@
         },
         "total": {
           "confirmed": 87,
-          "recovered": 19,
+          "recovered": 29,
           "tested": 896
         }
       },
@@ -5260,6 +5264,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "recovered": 10
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5268,7 +5275,7 @@
         },
         "total": {
           "confirmed": 49,
-          "recovered": 4,
+          "recovered": 14,
           "tested": 485
         }
       },
@@ -5311,6 +5318,9 @@
         }
       },
       "Peren": {
+        "delta": {
+          "recovered": 10
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5319,11 +5329,14 @@
         },
         "total": {
           "confirmed": 228,
-          "recovered": 6,
+          "recovered": 16,
           "tested": 11
         }
       },
       "Phek": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 163418,
           "tested": {
@@ -5333,6 +5346,7 @@
         },
         "total": {
           "confirmed": 10,
+          "recovered": 1,
           "tested": 28
         }
       },
@@ -5377,7 +5391,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T10:05:28+05:30",
+      "last_updated": "2020-07-03T16:44:27+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -5386,7 +5400,7 @@
     },
     "total": {
       "confirmed": 539,
-      "recovered": 197,
+      "recovered": 228,
       "tested": 17887
     }
   },
@@ -7800,10 +7814,10 @@
     "delta": {
       "confirmed": 1277,
       "deceased": 16,
-      "recovered": 540
+      "recovered": 571
     },
     "meta": {
-      "last_updated": "2020-07-03T15:16:25+05:30",
+      "last_updated": "2020-07-03T16:44:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -7814,7 +7828,7 @@
       "confirmed": 628445,
       "deceased": 18241,
       "migrated": 66,
-      "recovered": 380442,
+      "recovered": 380473,
       "tested": 9297749
     }
   },
