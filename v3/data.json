@@ -944,7 +944,8 @@
     "delta": {
       "confirmed": 229,
       "deceased": 6,
-      "recovered": 217
+      "recovered": 217,
+      "tested": 7187
     },
     "districts": {
       "Araria": {
@@ -1409,23 +1410,31 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T18:44:32+05:30",
+      "last_updated": "2020-07-03T18:51:28+05:30",
       "population": 119520000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/PIB_Patna/status/1278643406491672576"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/PIB_Patna/status/1279032483967692801"
       }
     },
     "total": {
       "confirmed": 10911,
       "deceased": 84,
       "recovered": 8211,
-      "tested": 235980
+      "tested": 243167
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 4
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 4
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1434,9 +1443,9 @@
           }
         },
         "total": {
-          "confirmed": 450,
+          "confirmed": 454,
           "deceased": 6,
-          "recovered": 389,
+          "recovered": 393,
           "tested": 7938
         }
       }
@@ -1450,9 +1459,9 @@
       }
     },
     "total": {
-      "confirmed": 450,
+      "confirmed": 454,
       "deceased": 6,
-      "recovered": 389,
+      "recovered": 393,
       "tested": 7938
     }
   },
@@ -1950,15 +1959,19 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 14,
-      "recovered": 13
+      "confirmed": 49,
+      "recovered": 20
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 35,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 124,
+          "confirmed": 159,
           "migrated": 1,
-          "recovered": 61
+          "recovered": 68
         }
       },
       "Daman": {
@@ -1982,7 +1995,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T15:16:30+05:30",
+      "last_updated": "2020-07-03T18:53:29+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -1990,9 +2003,9 @@
       }
     },
     "total": {
-      "confirmed": 268,
+      "confirmed": 303,
       "migrated": 1,
-      "recovered": 125,
+      "recovered": 132,
       "tested": 32834
     }
   },
@@ -3965,7 +3978,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T18:44:40+05:30",
+      "last_updated": "2020-07-03T18:51:30+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -8083,7 +8096,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T18:44:27+05:30",
+      "last_updated": "2020-07-03T18:47:28+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -8224,12 +8237,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5830,
+      "confirmed": 5869,
       "deceased": 86,
-      "recovered": 3614
+      "recovered": 3625
     },
     "meta": {
-      "last_updated": "2020-07-03T18:44:25+05:30",
+      "last_updated": "2020-07-03T18:53:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -8237,10 +8250,10 @@
       }
     },
     "total": {
-      "confirmed": 632998,
+      "confirmed": 633037,
       "deceased": 18311,
       "migrated": 66,
-      "recovered": 383516,
+      "recovered": 383527,
       "tested": 9297749
     }
   },
