@@ -320,7 +320,8 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-07-03"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/ArogyaAndhra/status/1278951104764493825?s=20"
       }
     },
     "total": {
@@ -2547,7 +2548,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T17:51:30+05:30",
+      "last_updated": "2020-07-03T17:52:31+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3850,7 +3851,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T17:51:28+05:30",
+      "last_updated": "2020-07-03T17:52:29+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -6239,64 +6240,68 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 77
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/02.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-03"
           }
         },
         "total": {
           "confirmed": 43,
           "recovered": 14,
-          "tested": 2623
+          "tested": 2700
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 22
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/02.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-03"
           }
         },
         "total": {
           "confirmed": 18,
           "recovered": 10,
-          "tested": 866
+          "tested": 888
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 21,
           "deceased": 1,
-          "recovered": 53
+          "recovered": 53,
+          "tested": 633
         },
         "meta": {
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/02.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-03"
           }
         },
         "total": {
           "confirmed": 761,
           "deceased": 13,
           "recovered": 360,
-          "tested": 14332
+          "tested": 14965
         }
       },
       "Yanam": {
+        "delta": {
+          "tested": 37
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/02.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-03"
           }
         },
         "total": {
           "confirmed": 2,
-          "tested": 970
+          "tested": 1007
         }
       }
     },
