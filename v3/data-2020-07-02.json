@@ -2176,13 +2176,17 @@
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 21,
+          "recovered": 10
+        },
         "meta": {
           "population": 818008
         },
         "total": {
-          "confirmed": 110,
+          "confirmed": 131,
           "deceased": 2,
-          "recovered": 28
+          "recovered": 38
         }
       },
       "Other State": {
@@ -2191,20 +2195,24 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "confirmed": 33,
+          "recovered": 14
+        },
         "total": {
-          "confirmed": 811,
+          "confirmed": 844,
           "deceased": 2,
-          "recovered": 246
+          "recovered": 260
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 95,
-          "recovered": 64
+          "confirmed": 41,
+          "recovered": 40
         },
         "total": {
-          "confirmed": 557,
-          "recovered": 460
+          "confirmed": 503,
+          "recovered": 436
         }
       }
     },
@@ -8200,9 +8208,13 @@
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 2
+        },
         "total": {
-          "confirmed": 29,
-          "recovered": 12
+          "confirmed": 41,
+          "recovered": 14
         }
       },
       "North Sikkim": {
@@ -8219,17 +8231,16 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 12
-        },
-        "total": {
-          "confirmed": 12,
-          "recovered": 1
+          "recovered": -1
         }
       },
       "West Sikkim": {
+        "delta": {
+          "recovered": -1
+        },
         "total": {
           "confirmed": 21,
-          "recovered": 12
+          "recovered": 11
         }
       }
     },
