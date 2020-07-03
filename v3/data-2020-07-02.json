@@ -6414,7 +6414,7 @@
     "districts": {
       "Dimapur": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 96
         },
         "meta": {
           "tested": {
@@ -6423,12 +6423,15 @@
           }
         },
         "total": {
-          "confirmed": 87,
+          "confirmed": 182,
           "recovered": 19,
           "tested": 896
         }
       },
       "Kiphire": {
+        "delta": {
+          "confirmed": -4
+        },
         "meta": {
           "population": 74004,
           "tested": {
@@ -6437,13 +6440,12 @@
           }
         },
         "total": {
-          "confirmed": 4,
           "tested": 18
         }
       },
       "Kohima": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 73
         },
         "meta": {
           "tested": {
@@ -6452,17 +6454,17 @@
           }
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 121,
           "recovered": 4,
           "tested": 485
         }
       },
       "Longleng": {
+        "delta": {
+          "confirmed": -2
+        },
         "meta": {
           "population": 50484
-        },
-        "total": {
-          "confirmed": 2
         }
       },
       "Mokokchung": {
@@ -6478,6 +6480,9 @@
         }
       },
       "Mon": {
+        "delta": {
+          "confirmed": -22
+        },
         "meta": {
           "population": 250260,
           "tested": {
@@ -6486,18 +6491,18 @@
           }
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 41,
           "tested": 45
         }
       },
       "Others": {
-        "total": {
-          "confirmed": 46
+        "delta": {
+          "confirmed": -46
         }
       },
       "Peren": {
         "delta": {
-          "confirmed": 32
+          "confirmed": -43
         },
         "meta": {
           "tested": {
@@ -6506,12 +6511,15 @@
           }
         },
         "total": {
-          "confirmed": 228,
+          "confirmed": 153,
           "recovered": 6,
           "tested": 11
         }
       },
       "Phek": {
+        "delta": {
+          "confirmed": -1
+        },
         "meta": {
           "population": 163418,
           "tested": {
@@ -6520,11 +6528,14 @@
           }
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 9,
           "tested": 28
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": -5
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -6532,7 +6543,7 @@
           }
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 25,
           "tested": 1
         }
       },
@@ -6545,6 +6556,9 @@
         }
       },
       "Wokha": {
+        "delta": {
+          "confirmed": -10
+        },
         "meta": {
           "population": 166343,
           "tested": {
@@ -6553,13 +6567,15 @@
           }
         },
         "total": {
-          "confirmed": 10,
           "tested": 7
         }
       },
       "Zunheboto": {
+        "delta": {
+          "confirmed": -2
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 3
         }
       }
     },

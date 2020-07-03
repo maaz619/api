@@ -32,7 +32,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T20:45:30+05:30",
+      "last_updated": "2020-07-03T20:52:37+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-01",
@@ -932,7 +932,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T20:45:27+05:30",
+      "last_updated": "2020-07-03T20:52:33+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -5062,7 +5062,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T20:44:28+05:30",
+      "last_updated": "2020-07-03T20:48:30+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -6008,6 +6008,7 @@
     "districts": {
       "Dimapur": {
         "delta": {
+          "confirmed": 4,
           "recovered": 10
         },
         "meta": {
@@ -6017,7 +6018,7 @@
           }
         },
         "total": {
-          "confirmed": 87,
+          "confirmed": 186,
           "recovered": 29,
           "tested": 896
         }
@@ -6031,7 +6032,6 @@
           }
         },
         "total": {
-          "confirmed": 4,
           "tested": 18
         }
       },
@@ -6046,17 +6046,9 @@
           }
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 121,
           "recovered": 14,
           "tested": 485
-        }
-      },
-      "Longleng": {
-        "meta": {
-          "population": 50484
-        },
-        "total": {
-          "confirmed": 2
         }
       },
       "Mokokchung": {
@@ -6080,13 +6072,8 @@
           }
         },
         "total": {
-          "confirmed": 63,
+          "confirmed": 41,
           "tested": 45
-        }
-      },
-      "Others": {
-        "total": {
-          "confirmed": 46
         }
       },
       "Peren": {
@@ -6100,7 +6087,7 @@
           }
         },
         "total": {
-          "confirmed": 228,
+          "confirmed": 153,
           "recovered": 16,
           "tested": 11
         }
@@ -6117,7 +6104,7 @@
           }
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 9,
           "recovered": 1,
           "tested": 28
         }
@@ -6130,16 +6117,12 @@
           }
         },
         "total": {
-          "confirmed": 30,
+          "confirmed": 25,
           "tested": 1
         }
       },
       "Unknown": {
-        "delta": {
-          "confirmed": 4
-        },
         "total": {
-          "confirmed": 4,
           "recovered": 168
         }
       },
@@ -6152,21 +6135,21 @@
           }
         },
         "total": {
-          "confirmed": 10,
           "tested": 7
         }
       },
       "Zunheboto": {
         "total": {
-          "confirmed": 5
+          "confirmed": 3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T16:56:28+05:30",
+      "last_updated": "2020-07-03T20:50:31+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2020-07-03"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/MyGovNagaland/status/1279047412707819521?s=20"
       }
     },
     "total": {
@@ -6665,7 +6648,8 @@
     "delta": {
       "confirmed": 153,
       "deceased": 5,
-      "recovered": 122
+      "recovered": 122,
+      "tested": 6252
     },
     "districts": {
       "Amritsar": {
@@ -7039,15 +7023,15 @@
       "last_updated": "2020-07-03T19:25:29+05:30",
       "population": 29859000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2002-07-2020.pdf"
+        "last_updated": "2020-07-03",
+        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2003-07-2020.pdf"
       }
     },
     "total": {
       "confirmed": 5937,
       "deceased": 157,
       "recovered": 4266,
-      "tested": 317802
+      "tested": 324054
     }
   },
   "PY": {
@@ -8883,7 +8867,7 @@
       "recovered": 6834
     },
     "meta": {
-      "last_updated": "2020-07-03T20:45:25+05:30",
+      "last_updated": "2020-07-03T20:52:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
