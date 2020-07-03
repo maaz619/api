@@ -937,7 +937,8 @@
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-07-03"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/nhm_assam/status/1279085918721171456?s=20"
       }
     },
     "total": {
@@ -1474,6 +1475,9 @@
     }
   },
   "CT": {
+    "delta": {
+      "tested": 10898
+    },
     "districts": {
       "Balod": {
         "meta": {
@@ -1865,22 +1869,23 @@
       "last_updated": "2020-07-02T22:21:33+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/HealthCgGov/status/1278697371405172736?s=20"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/HealthCgGov/status/1279062111981727750?s=20"
       }
     },
     "total": {
       "confirmed": 3013,
       "deceased": 14,
       "recovered": 2362,
-      "tested": 166656
+      "tested": 177554
     }
   },
   "DL": {
     "delta": {
       "confirmed": 2520,
       "deceased": 59,
-      "recovered": 2617
+      "recovered": 2617,
+      "tested": 24165
     },
     "districts": {
       "Central Delhi": {
@@ -1964,15 +1969,14 @@
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/850"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
       "confirmed": 94695,
       "deceased": 2923,
       "recovered": 65624,
-      "tested": 572530
+      "tested": 596695
     }
   },
   "DN": {
