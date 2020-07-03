@@ -1967,8 +1967,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 49,
-      "recovered": 20
+      "confirmed": 50,
+      "recovered": 21
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -1996,9 +1996,13 @@
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "total": {
-          "confirmed": 14,
-          "recovered": 10
+          "confirmed": 15,
+          "recovered": 11
         }
       }
     },
@@ -2011,9 +2015,9 @@
       }
     },
     "total": {
-      "confirmed": 303,
+      "confirmed": 304,
       "migrated": 1,
-      "recovered": 132,
+      "recovered": 133,
       "tested": 32834
     }
   },
@@ -4436,6 +4440,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 6364,
+      "deceased": 198,
+      "recovered": 3515,
       "tested": 29347
     },
     "districts": {
@@ -4786,6 +4793,18 @@
           "tested": 111540
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 6364,
+          "deceased": 198,
+          "recovered": 3515
+        },
+        "total": {
+          "confirmed": 6364,
+          "deceased": 198,
+          "recovered": 3515
+        }
+      },
       "Wardha": {
         "total": {
           "confirmed": 16,
@@ -4812,7 +4831,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:21:26+05:30",
+      "last_updated": "2020-07-03T21:23:27+05:30",
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -4820,10 +4839,10 @@
       }
     },
     "total": {
-      "confirmed": 186626,
-      "deceased": 8178,
+      "confirmed": 192990,
+      "deceased": 8376,
       "migrated": 16,
-      "recovered": 101172,
+      "recovered": 104687,
       "tested": 1052643
     }
   },
@@ -8881,12 +8900,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10871,
-      "deceased": 174,
-      "recovered": 6834
+      "confirmed": 17236,
+      "deceased": 372,
+      "recovered": 10350
     },
     "meta": {
-      "last_updated": "2020-07-03T20:52:26+05:30",
+      "last_updated": "2020-07-03T21:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -8894,10 +8913,10 @@
       }
     },
     "total": {
-      "confirmed": 638039,
-      "deceased": 18399,
+      "confirmed": 644404,
+      "deceased": 18597,
       "migrated": 66,
-      "recovered": 386736,
+      "recovered": 390252,
       "tested": 9297749
     }
   },
@@ -9865,7 +9884,8 @@
   "UT": {
     "delta": {
       "confirmed": 64,
-      "recovered": 76
+      "recovered": 76,
+      "tested": 1634
     },
     "districts": {
       "Almora": {
@@ -10103,8 +10123,7 @@
       "notes": "27 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/PIBDehradun/status/1278730904576200704?s=20"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
@@ -10112,7 +10131,7 @@
       "deceased": 42,
       "migrated": 27,
       "recovered": 2481,
-      "tested": 72104
+      "tested": 73738
     }
   },
   "WB": {
