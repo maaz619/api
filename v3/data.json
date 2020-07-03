@@ -1221,7 +1221,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T13:03:27+05:30",
+      "last_updated": "2020-07-03T13:13:28+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -2454,7 +2454,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T13:03:30+05:30",
+      "last_updated": "2020-07-03T13:13:31+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -6022,8 +6022,16 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 22,
+      "deceased": 1,
+      "recovered": 53
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -6032,7 +6040,7 @@
           }
         },
         "total": {
-          "confirmed": 42,
+          "confirmed": 43,
           "recovered": 14,
           "tested": 2623
         }
@@ -6051,6 +6059,11 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 21,
+          "deceased": 1,
+          "recovered": 53
+        },
         "meta": {
           "population": 950289,
           "tested": {
@@ -6059,9 +6072,9 @@
           }
         },
         "total": {
-          "confirmed": 740,
-          "deceased": 12,
-          "recovered": 307,
+          "confirmed": 761,
+          "deceased": 13,
+          "recovered": 360,
           "tested": 14332
         }
       },
@@ -6079,7 +6092,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T11:14:27+05:30",
+      "last_updated": "2020-07-03T13:13:33+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -6087,9 +6100,9 @@
       }
     },
     "total": {
-      "confirmed": 802,
-      "deceased": 12,
-      "recovered": 331,
+      "confirmed": 824,
+      "deceased": 13,
+      "recovered": 384,
       "tested": 18791
     }
   },
@@ -7663,12 +7676,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 178,
-      "deceased": 7,
-      "recovered": 100
+      "confirmed": 200,
+      "deceased": 8,
+      "recovered": 153
     },
     "meta": {
-      "last_updated": "2020-07-03T13:03:25+05:30",
+      "last_updated": "2020-07-03T13:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -7676,10 +7689,10 @@
       }
     },
     "total": {
-      "confirmed": 627346,
-      "deceased": 18232,
+      "confirmed": 627368,
+      "deceased": 18233,
       "migrated": 66,
-      "recovered": 380002,
+      "recovered": 380055,
       "tested": 9297749
     }
   },
