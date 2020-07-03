@@ -1427,7 +1427,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T23:12:27+05:30",
+      "last_updated": "2020-07-03T23:16:27+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -3722,7 +3722,8 @@
     "delta": {
       "confirmed": 1694,
       "deceased": 21,
-      "recovered": 471
+      "recovered": 471,
+      "tested": 18307
     },
     "districts": {
       "Bagalkote": {
@@ -4285,8 +4286,7 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-07-02",
-        "source": "https://twitter.com/DHFWKA/status/1278691238544158720?s=20"
+        "last_updated": "2020-07-03"
       }
     },
     "total": {
@@ -4294,7 +4294,7 @@
       "deceased": 293,
       "migrated": 4,
       "recovered": 8807,
-      "tested": 653627
+      "tested": 671934
     }
   },
   "KL": {
@@ -8422,7 +8422,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T23:13:27+05:30",
+      "last_updated": "2020-07-03T23:23:26+05:30",
       "population": 37220000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9161,10 +9161,14 @@
   },
   "TR": {
     "delta": {
+      "confirmed": 93,
       "recovered": 53
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 24
+        },
         "meta": {
           "population": 378230,
           "tested": {
@@ -9173,12 +9177,15 @@
           }
         },
         "total": {
-          "confirmed": 218,
+          "confirmed": 242,
           "recovered": 201,
           "tested": 6814
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 15
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9186,12 +9193,15 @@
           }
         },
         "total": {
-          "confirmed": 164,
+          "confirmed": 179,
           "recovered": 110,
           "tested": 6716
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9199,12 +9209,15 @@
           }
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 79,
           "recovered": 32,
           "tested": 3097
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9212,12 +9225,15 @@
           }
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 47,
           "recovered": 16,
           "tested": 13037
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 11
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9225,12 +9241,15 @@
           }
         },
         "total": {
-          "confirmed": 568,
+          "confirmed": 579,
           "recovered": 522,
           "tested": 7904
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9238,7 +9257,7 @@
           }
         },
         "total": {
-          "confirmed": 136,
+          "confirmed": 138,
           "recovered": 79,
           "tested": 7288
         }
@@ -9252,6 +9271,9 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9259,12 +9281,15 @@
           }
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 73,
           "recovered": 65,
           "tested": 2688
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 17
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-02",
@@ -9272,7 +9297,7 @@
           }
         },
         "total": {
-          "confirmed": 179,
+          "confirmed": 196,
           "deceased": 1,
           "recovered": 121,
           "tested": 19711
@@ -9280,7 +9305,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T19:25:32+05:30",
+      "last_updated": "2020-07-03T23:23:28+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9288,7 +9313,7 @@
       }
     },
     "total": {
-      "confirmed": 1440,
+      "confirmed": 1533,
       "deceased": 1,
       "recovered": 1199,
       "tested": 67255
@@ -9296,12 +9321,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22231,
+      "confirmed": 22324,
       "deceased": 444,
       "recovered": 14396
     },
     "meta": {
-      "last_updated": "2020-07-03T23:13:25+05:30",
+      "last_updated": "2020-07-03T23:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-02",
@@ -9309,7 +9334,7 @@
       }
     },
     "total": {
-      "confirmed": 649399,
+      "confirmed": 649492,
       "deceased": 18669,
       "migrated": 66,
       "recovered": 394298,
