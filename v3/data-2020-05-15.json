@@ -2470,7 +2470,8 @@
     "delta": {
       "confirmed": 1576,
       "deceased": 49,
-      "recovered": 475
+      "recovered": 475,
+      "tested": 10416
     },
     "districts": {
       "Ahmednagar": {
@@ -2855,15 +2856,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://twitter.com/Maha_MEDD/status/1261173248508588032?s=19"
+      }
     },
     "total": {
       "confirmed": 29100,
       "deceased": 1068,
-      "recovered": 6564
+      "recovered": 6564,
+      "tested": 250898
     }
   },
   "ML": {
+    "delta": {
+      "tested": 232
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -2877,15 +2886,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/21"
+      }
     },
     "total": {
       "confirmed": 13,
       "deceased": 1,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 2712
     }
   },
   "MN": {
+    "delta": {
+      "tested": 93
+    },
     "districts": {
       "Imphal East": {
         "total": {
@@ -2904,11 +2921,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://twitter.com/DiprManipur/status/1261295108625850373?s=09"
+      }
     },
     "total": {
       "confirmed": 3,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1799
     }
   },
   "MP": {
@@ -3347,11 +3369,31 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1452020-500pm-1552020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 273
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 19
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/23?single"
+      }
+    },
+    "total": {
+      "tested": 910
     }
   },
   "OR": {

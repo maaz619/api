@@ -297,12 +297,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-07",
+        "source": "https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf"
+      }
     },
     "total": {
       "confirmed": 1135,
       "deceased": 72,
-      "recovered": 117
+      "recovered": 117,
+      "tested": 20877
     }
   },
   "MN": {
@@ -336,11 +341,31 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 16
+    },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-08",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-842020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 74
+    }
+  },
+  "NL": {
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-06",
+        "source": "http://morungexpress.com/nagaland-covid-19-update-2"
+      }
+    },
+    "total": {
+      "tested": 60
     }
   },
   "OR": {

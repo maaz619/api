@@ -2565,7 +2565,8 @@
     "delta": {
       "confirmed": 2347,
       "deceased": 63,
-      "recovered": 600
+      "recovered": 600,
+      "tested": 12225
     },
     "districts": {
       "Ahmednagar": {
@@ -2957,12 +2958,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-17",
+        "source": "https://twitter.com/Maha_MEDD/status/1261891603557265414?s=19"
+      }
     },
     "total": {
       "confirmed": 33053,
       "deceased": 1198,
-      "recovered": 7688
+      "recovered": 7688,
+      "tested": 274040
     }
   },
   "ML": {
@@ -2979,12 +2985,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/21"
+      }
     },
     "total": {
       "confirmed": 13,
       "deceased": 1,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 2712
     }
   },
   "MN": {
@@ -3014,11 +3025,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-16",
+        "source": "https://twitter.com/DiprManipur/status/1261559349551513602?s=19"
+      }
     },
     "total": {
       "confirmed": 7,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1900
     }
   },
   "MP": {
@@ -3454,11 +3470,31 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-17",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1652020-500pm-1752020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 282
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 35
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-17",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/37"
+      }
+    },
+    "total": {
+      "tested": 952
     }
   },
   "OR": {

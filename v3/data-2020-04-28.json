@@ -1995,7 +1995,8 @@
     "delta": {
       "confirmed": 728,
       "deceased": 31,
-      "recovered": 106
+      "recovered": 106,
+      "tested": 5473
     },
     "districts": {
       "Ahmednagar": {
@@ -2330,15 +2331,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://twitter.com/Maha_MEDD/status/1255016183411077121"
+      }
     },
     "total": {
       "confirmed": 9318,
       "deceased": 400,
-      "recovered": 1388
+      "recovered": 1388,
+      "tested": 120620
     }
   },
   "ML": {
+    "delta": {
+      "tested": 128
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -2351,11 +2360,16 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://twitter.com/ANI/status/1255184343103766532?s=19"
+      }
     },
     "total": {
       "confirmed": 12,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 1382
     }
   },
   "MN": {
@@ -2377,11 +2391,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-25",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_250420.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 416
     }
   },
   "MP": {
@@ -2682,6 +2701,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 12
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -2690,10 +2712,30 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2842020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 158
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 10
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 639
     }
   },
   "OR": {

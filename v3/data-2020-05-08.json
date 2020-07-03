@@ -2279,7 +2279,8 @@
     "delta": {
       "confirmed": 1089,
       "deceased": 37,
-      "recovered": 169
+      "recovered": 169,
+      "tested": 11257
     },
     "districts": {
       "Ahmednagar": {
@@ -2633,12 +2634,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-08",
+        "source": "https://twitter.com/Maha_MEDD/status/1258632735834300416?s=19"
+      }
     },
     "total": {
       "confirmed": 19063,
       "deceased": 731,
-      "recovered": 3470
+      "recovered": 3470,
+      "tested": 200477
     }
   },
   "ML": {
@@ -2655,15 +2661,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-07",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 2054
     }
   },
   "MN": {
+    "delta": {
+      "tested": 72
+    },
     "districts": {
       "Imphal East": {
         "total": {
@@ -2682,11 +2696,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-08",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_080520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 756
     }
   },
   "MP": {
@@ -3057,6 +3076,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 2
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -3066,11 +3088,31 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-08",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-752020-500pm-852020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 199
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 19
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-08",
+        "source": "https://t.me/indiacovid/4317"
+      }
+    },
+    "total": {
+      "tested": 805
     }
   },
   "OR": {

@@ -2123,7 +2123,8 @@
     "delta": {
       "confirmed": 678,
       "deceased": 27,
-      "recovered": 115
+      "recovered": 115,
+      "tested": 8669
     },
     "districts": {
       "Ahmednagar": {
@@ -2468,12 +2469,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-03",
+        "source": "https://twitter.com/Maha_MEDD/status/1256823671122915328?s=19"
+      }
     },
     "total": {
       "confirmed": 12974,
       "deceased": 548,
-      "recovered": 2115
+      "recovered": 2115,
+      "tested": 159754
     }
   },
   "ML": {
@@ -2490,12 +2496,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1707
     }
   },
   "MN": {
@@ -2517,11 +2528,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_020520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 468
     }
   },
   "MP": {
@@ -2877,10 +2893,30 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-03",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-252020-500pm-352020-500-pm"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 183
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 10
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-03",
+        "source": "https://covid19.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 684
     }
   },
   "OR": {

@@ -2150,7 +2150,8 @@
     "delta": {
       "confirmed": 1233,
       "deceased": 34,
-      "recovered": 275
+      "recovered": 275,
+      "tested": 6423
     },
     "districts": {
       "Ahmednagar": {
@@ -2517,12 +2518,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-06",
+        "source": "https://twitter.com/Maha_MEDD/status/1257913159588777985?s=19"
+      }
     },
     "total": {
       "confirmed": 16758,
       "deceased": 651,
-      "recovered": 3094
+      "recovered": 3094,
+      "tested": 181746
     }
   },
   "ML": {
@@ -2539,12 +2545,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-05",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1944
     }
   },
   "MN": {
@@ -2566,11 +2577,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-04",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_040520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 571
     }
   },
   "MP": {
@@ -2935,6 +2951,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 7
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -2944,11 +2963,31 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-06",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-552020-500pm-652020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 195
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 39
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-06",
+        "source": "https://twitter.com/HealthNagaland/status/1258019443202052158"
+      }
+    },
+    "total": {
+      "tested": 763
     }
   },
   "OR": {

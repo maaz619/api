@@ -2097,7 +2097,8 @@
     "delta": {
       "confirmed": 1008,
       "deceased": 26,
-      "recovered": 106
+      "recovered": 106,
+      "tested": 8465
     },
     "districts": {
       "Ahmednagar": {
@@ -2449,12 +2450,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://twitter.com/Maha_MEDD/status/1256099194437132288?s=19"
+      }
     },
     "total": {
       "confirmed": 11506,
       "deceased": 485,
-      "recovered": 1879
+      "recovered": 1879,
+      "tested": 144159
     }
   },
   "ML": {
@@ -2477,15 +2483,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-30",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1595
     }
   },
   "MN": {
+    "delta": {
+      "tested": 2
+    },
     "districts": {
       "Imphal East": {
         "total": {
@@ -2504,11 +2518,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_010520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 461
     }
   },
   "MP": {
@@ -2852,10 +2871,30 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-3042020-500pm-152020-500-pm"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 180
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 11
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-01",
+        "source": "https://covid19.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 664
     }
   },
   "OR": {

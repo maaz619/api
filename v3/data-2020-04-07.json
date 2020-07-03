@@ -283,7 +283,8 @@
     "delta": {
       "confirmed": 150,
       "deceased": 12,
-      "recovered": 9
+      "recovered": 9,
+      "tested": 3314
     },
     "districts": {
       "Aurangabad": {
@@ -303,12 +304,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-07",
+        "source": "https://arogya.maharashtra.gov.in/pdf/covidepressnote07.pdf"
+      }
     },
     "total": {
       "confirmed": 1018,
       "deceased": 64,
-      "recovered": 79
+      "recovered": 79,
+      "tested": 20877
     }
   },
   "MN": {
@@ -343,10 +349,27 @@
   },
   "MZ": {
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-07",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-742020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 58
+    }
+  },
+  "NL": {
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-06",
+        "source": "http://morungexpress.com/nagaland-covid-19-update-2"
+      }
+    },
+    "total": {
+      "tested": 60
     }
   },
   "OR": {

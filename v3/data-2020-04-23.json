@@ -356,7 +356,8 @@
     "delta": {
       "confirmed": 778,
       "deceased": 14,
-      "recovered": 51
+      "recovered": 51,
+      "tested": 6893
     },
     "districts": {
       "Aurangabad": {
@@ -376,30 +377,48 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://twitter.com/Maha_MEDD/status/1253199854890713089"
+      }
     },
     "total": {
       "confirmed": 6427,
       "deceased": 283,
-      "recovered": 840
+      "recovered": 840,
+      "tested": 89197
     }
   },
   "ML": {
+    "delta": {
+      "tested": 63
+    },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 12,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 1109
     }
   },
   "MN": {
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 311
     }
   },
   "MP": {
@@ -424,11 +443,34 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 2
+    },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2342020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 137
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 64
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-23",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 607
     }
   },
   "OR": {

@@ -350,7 +350,8 @@
     "delta": {
       "confirmed": 120,
       "deceased": 7,
-      "recovered": 31
+      "recovered": 31,
+      "tested": 4796
     },
     "districts": {
       "Aurangabad": {
@@ -370,30 +371,51 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://twitter.com/Maha_MEDD/status/1251045031869214720"
+      }
     },
     "total": {
       "confirmed": 3321,
       "deceased": 201,
-      "recovered": 331
+      "recovered": 331,
+      "tested": 55678
     }
   },
   "ML": {
+    "delta": {
+      "tested": 65
+    },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "http://meghalaya.gov.in/megcms/sites/default/files/press_release/CM%20Media%20Brief_0.pdf"
+      }
     },
     "total": {
       "confirmed": 9,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 617
     }
   },
   "MN": {
+    "delta": {
+      "tested": 35
+    },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 311
     }
   },
   "MP": {
@@ -418,10 +440,30 @@
   },
   "MZ": {
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1642020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 94
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 90
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 274
     }
   },
   "OR": {

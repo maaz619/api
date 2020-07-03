@@ -330,7 +330,8 @@
     "delta": {
       "confirmed": 187,
       "deceased": 17,
-      "recovered": 20
+      "recovered": 20,
+      "tested": 1841
     },
     "districts": {
       "Aurangabad": {
@@ -350,12 +351,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "https://twitter.com/Maha_MEDD/status/1248859409419132929?s=19"
+      }
     },
     "total": {
       "confirmed": 1761,
       "deceased": 127,
-      "recovered": 208
+      "recovered": 208,
+      "tested": 31841
     }
   },
   "MN": {
@@ -390,10 +396,27 @@
   },
   "MZ": {
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-09",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-942020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 84
+    }
+  },
+  "NL": {
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-11",
+        "source": "http://morungexpress.com/nagaland-covid-19-update-5"
+      }
+    },
+    "total": {
+      "tested": 70
     }
   },
   "OR": {

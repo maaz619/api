@@ -351,7 +351,8 @@
     "delta": {
       "confirmed": 466,
       "deceased": 9,
-      "recovered": 65
+      "recovered": 65,
+      "tested": 4525
     },
     "districts": {
       "Aurangabad": {
@@ -371,21 +372,34 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-20",
+        "source": "https://twitter.com/Maha_MEDD/status/1252114391090130947"
+      }
     },
     "total": {
       "confirmed": 4666,
       "deceased": 232,
-      "recovered": 572
+      "recovered": 572,
+      "tested": 71321
     }
   },
   "ML": {
+    "delta": {
+      "tested": 72
+    },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-20",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 11,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 838
     }
   },
   "MN": {
@@ -393,11 +407,16 @@
       "recovered": 1
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-17",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/170420_status.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 311
     }
   },
   "MP": {
@@ -422,11 +441,34 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 16
+    },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-20",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2042020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 132
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 30
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-20",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 434
     }
   },
   "OR": {

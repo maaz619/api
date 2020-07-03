@@ -3704,7 +3704,8 @@
     "delta": {
       "confirmed": 2598,
       "deceased": 85,
-      "recovered": 698
+      "recovered": 698,
+      "tested": 15453
     },
     "districts": {
       "Ahmednagar": {
@@ -4156,12 +4157,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-28",
+        "source": "https://twitter.com/Maha_MEDD/status/1265887553405640705?s=19"
+      }
     },
     "total": {
       "confirmed": 59546,
       "deceased": 1982,
-      "recovered": 18616
+      "recovered": 18616,
+      "tested": 420473
     }
   },
   "ML": {
@@ -4197,17 +4203,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-27",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/206"
+      }
     },
     "total": {
       "confirmed": 21,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 6685
     }
   },
   "MN": {
     "delta": {
-      "confirmed": 11
+      "confirmed": 11,
+      "tested": 922
     },
     "districts": {
       "Churachandpur": {
@@ -4249,11 +4261,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-28",
+        "source": "https://twitter.com/DiprManipur/status/1266005531430248448"
+      }
     },
     "total": {
       "confirmed": 55,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 7758
     }
   },
   "MP": {
@@ -4765,6 +4782,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 78
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -4774,16 +4794,22 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-28",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2752020-500pm-2852020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 516
     }
   },
   "NL": {
     "delta": {
-      "confirmed": 9
+      "confirmed": 9,
+      "tested": 211
     },
     "districts": {
       "Dimapur": {
@@ -4903,10 +4929,15 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-28",
+        "source": "https://t.me/indiacovid/5722?single"
+      }
     },
     "total": {
-      "confirmed": 18
+      "confirmed": 18,
+      "tested": 1765
     }
   },
   "OR": {

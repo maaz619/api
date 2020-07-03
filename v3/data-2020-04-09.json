@@ -340,12 +340,17 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-09",
+        "source": "https://twitter.com/Maha_MEDD/status/1248156898894811136"
+      }
     },
     "total": {
       "confirmed": 1364,
       "deceased": 97,
-      "recovered": 125
+      "recovered": 125,
+      "tested": 20877
     }
   },
   "MN": {
@@ -378,11 +383,31 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 10
+    },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-09",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-942020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 84
+    }
+  },
+  "NL": {
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-06",
+        "source": "http://morungexpress.com/nagaland-covid-19-update-2"
+      }
+    },
+    "total": {
+      "tested": 60
     }
   },
   "OR": {

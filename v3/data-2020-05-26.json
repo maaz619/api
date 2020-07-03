@@ -3697,7 +3697,8 @@
     "delta": {
       "confirmed": 2091,
       "deceased": 97,
-      "recovered": 1168
+      "recovered": 1168,
+      "tested": 11572
     },
     "districts": {
       "Ahmednagar": {
@@ -4147,17 +4148,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-26",
+        "source": "https://twitter.com/Maha_MEDD/status/1265168327833382913?s=19"
+      }
     },
     "total": {
       "confirmed": 54758,
       "deceased": 1792,
-      "recovered": 16954
+      "recovered": 16954,
+      "tested": 390757
     }
   },
   "ML": {
     "delta": {
-      "confirmed": 5
+      "confirmed": 5,
+      "tested": 2871
     },
     "districts": {
       "East Khasi Hills": {
@@ -4188,17 +4195,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-26",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/166"
+      }
     },
     "total": {
       "confirmed": 20,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 6553
     }
   },
   "MN": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 1192
     },
     "districts": {
       "Churachandpur": {
@@ -4240,11 +4253,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-26",
+        "source": "https://twitter.com/DiprManipur/status/1265268692042088449?s=19"
+      }
     },
     "total": {
       "confirmed": 39,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 6233
     }
   },
   "MP": {
@@ -4782,6 +4800,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 79
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -4791,11 +4812,16 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-26",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-2552020-500pm-2652020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 438
     }
   },
   "NL": {
@@ -4929,10 +4955,15 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-26",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/171?single"
+      }
     },
     "total": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 1366
     }
   },
   "OR": {

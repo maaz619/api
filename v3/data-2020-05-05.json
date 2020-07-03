@@ -2173,7 +2173,8 @@
     "delta": {
       "confirmed": 984,
       "deceased": 34,
-      "recovered": 354
+      "recovered": 354,
+      "tested": 6949
     },
     "districts": {
       "Ahmednagar": {
@@ -2526,15 +2527,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-05",
+        "source": "https://twitter.com/Maha_MEDD/status/1257621289625194496?s=19"
+      }
     },
     "total": {
       "confirmed": 15525,
       "deceased": 617,
-      "recovered": 2819
+      "recovered": 2819,
+      "tested": 175323
     }
   },
   "ML": {
+    "delta": {
+      "tested": 60
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -2548,12 +2557,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-05",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1944
     }
   },
   "MN": {
@@ -2575,11 +2589,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-04",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_040520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 571
     }
   },
   "MP": {
@@ -2923,7 +2942,8 @@
   },
   "MZ": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 5
     },
     "districts": {
       "Aizawl": {
@@ -2937,11 +2957,31 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-05",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-452020-500pm-552020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 188
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 16
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-05",
+        "source": "https://covid19.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 724
     }
   },
   "OR": {

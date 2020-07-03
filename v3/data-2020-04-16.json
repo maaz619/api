@@ -350,7 +350,8 @@
     "delta": {
       "confirmed": 285,
       "deceased": 7,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 5740
     },
     "districts": {
       "Aurangabad": {
@@ -370,33 +371,49 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://twitter.com/Maha_MEDD/status/1250659519840968704"
+      }
     },
     "total": {
       "confirmed": 3201,
       "deceased": 194,
-      "recovered": 300
+      "recovered": 300,
+      "tested": 50882
     }
   },
   "ML": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 552
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://t.me/indiacovid/2463"
+      }
     },
     "total": {
       "confirmed": 9,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 552
     }
   },
   "MN": {
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-14",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/03/PHOTO-2020-04-14-21-19-48.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 276
     }
   },
   "MP": {
@@ -422,10 +439,27 @@
   },
   "MZ": {
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-16",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-1642020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 94
+    }
+  },
+  "NL": {
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-15",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 184
     }
   },
   "OR": {

@@ -1992,7 +1992,8 @@
     "delta": {
       "confirmed": 522,
       "deceased": 27,
-      "recovered": 94
+      "recovered": 94,
+      "tested": 7168
     },
     "districts": {
       "Ahmednagar": {
@@ -2337,15 +2338,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-04-27",
+        "source": "https://twitter.com/Maha_MEDD/status/1254647537991991297"
+      }
     },
     "total": {
       "confirmed": 8590,
       "deceased": 369,
-      "recovered": 1282
+      "recovered": 1282,
+      "tested": 115147
     }
   },
   "ML": {
+    "delta": {
+      "tested": 85
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -2358,11 +2367,16 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-04-27",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 12,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 1254
     }
   },
   "MN": {
@@ -2384,11 +2398,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-04-25",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_250420.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 416
     }
   },
   "MP": {
@@ -2660,10 +2679,30 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-04-27",
+        "source": "https://health.mizoram.gov.in/post/covid-19-bulletin-date-2742020"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 146
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 16
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-04-27",
+        "source": "https://nagahealth.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 629
     }
   },
   "OR": {

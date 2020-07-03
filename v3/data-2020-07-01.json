@@ -4671,7 +4671,8 @@
     "delta": {
       "confirmed": 5537,
       "deceased": 198,
-      "recovered": 2243
+      "recovered": 2243,
+      "tested": 25182
     },
     "districts": {
       "Ahmednagar": {
@@ -5193,18 +5194,24 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-07-01",
+        "source": "https://t.co/rtu8H9WhXV?amp=1"
+      }
     },
     "total": {
       "confirmed": 180298,
       "deceased": 8053,
       "migrated": 16,
-      "recovered": 93154
+      "recovered": 93154,
+      "tested": 995343
     }
   },
   "ML": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "tested": 200
     },
     "districts": {
       "East Jaintia Hills": {
@@ -5276,12 +5283,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-07-01",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/824"
+      }
     },
     "total": {
       "confirmed": 55,
       "deceased": 1,
-      "recovered": 42
+      "recovered": 42,
+      "tested": 19494
     }
   },
   "MN": {
@@ -5430,11 +5442,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-06-29",
+        "source": "https://twitter.com/DiprManipur/status/1277614466251788288?s=20"
+      }
     },
     "total": {
       "confirmed": 1260,
-      "recovered": 579
+      "recovered": 579,
+      "tested": 49882
     }
   },
   "MP": {
@@ -6298,7 +6315,8 @@
   },
   "MZ": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 140
     },
     "districts": {
       "Aizawl": {
@@ -6381,17 +6399,23 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-07-01",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-3062020-500pm-0172020-500-pm"
+      }
     },
     "total": {
       "confirmed": 160,
-      "recovered": 123
+      "recovered": 123,
+      "tested": 13886
     }
   },
   "NL": {
     "delta": {
       "confirmed": 42,
-      "recovered": 14
+      "recovered": 14,
+      "tested": 614
     },
     "districts": {
       "Dimapur": {
@@ -6549,11 +6573,16 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-07-01",
+        "source": "https://twitter.com/MyGovNagaland/status/1278332661300224001?s=20"
+      }
     },
     "total": {
       "confirmed": 501,
-      "recovered": 182
+      "recovered": 182,
+      "tested": 17177
     }
   },
   "OR": {

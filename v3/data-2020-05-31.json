@@ -3696,7 +3696,8 @@
     "delta": {
       "confirmed": 2487,
       "deceased": 89,
-      "recovered": 1248
+      "recovered": 1248,
+      "tested": 14516
     },
     "districts": {
       "Ahmednagar": {
@@ -4151,15 +4152,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-31",
+        "source": "https://twitter.com/Maha_MEDD/status/1266969935076564993"
+      }
     },
     "total": {
       "confirmed": 67655,
       "deceased": 2286,
-      "recovered": 29329
+      "recovered": 29329,
+      "tested": 463177
     }
   },
   "ML": {
+    "delta": {
+      "tested": 1096
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -4199,12 +4208,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-31",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/244"
+      }
     },
     "total": {
       "confirmed": 27,
       "deceased": 1,
-      "recovered": 12
+      "recovered": 12,
+      "tested": 7781
     }
   },
   "MN": {
@@ -4298,11 +4312,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-29",
+        "source": "https://twitter.com/DiprManipur/status/1266385249669222400?s=19"
+      }
     },
     "total": {
       "confirmed": 71,
-      "recovered": 11
+      "recovered": 11,
+      "tested": 8596
     }
   },
   "MP": {
@@ -4840,6 +4859,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 91
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -4849,16 +4871,22 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-31",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-3052020-500pm-3152020-500-pm"
+      }
     },
     "total": {
       "confirmed": 1,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 777
     }
   },
   "NL": {
     "delta": {
-      "confirmed": 7
+      "confirmed": 7,
+      "tested": 366
     },
     "districts": {
       "Dimapur": {
@@ -4975,10 +5003,15 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-31",
+        "source": "https://twitter.com/MyGovNagaland/status/1267086358004281347?s=20"
+      }
     },
     "total": {
-      "confirmed": 43
+      "confirmed": 43,
+      "tested": 2576
     }
   },
   "OR": {

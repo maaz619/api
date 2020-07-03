@@ -4563,7 +4563,8 @@
     "delta": {
       "confirmed": 2701,
       "deceased": 1409,
-      "recovered": 1802
+      "recovered": 1802,
+      "tested": 15140
     },
     "districts": {
       "Ahmednagar": {
@@ -5059,18 +5060,24 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/Maha_MEDD/status/1272769236868362242?s=19"
+      }
     },
     "total": {
       "confirmed": 113445,
       "deceased": 5537,
       "migrated": 13,
-      "recovered": 57851
+      "recovered": 57851,
+      "tested": 686488
     }
   },
   "ML": {
     "delta": {
-      "recovered": 2
+      "recovered": 2,
+      "tested": 525
     },
     "districts": {
       "East Khasi Hills": {
@@ -5136,12 +5143,17 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-06-16",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/506"
+      }
     },
     "total": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 28
+      "recovered": 28,
+      "tested": 13878
     }
   },
   "MN": {
@@ -5263,11 +5275,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-06-15",
+        "source": "https://twitter.com/DiprManipur/status/1272537968004100097?s=19"
+      }
     },
     "total": {
       "confirmed": 500,
-      "recovered": 159
+      "recovered": 159,
+      "tested": 26458
     }
   },
   "MP": {
@@ -5838,7 +5855,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "tested": 605
     },
     "districts": {
       "Aizawl": {
@@ -5912,17 +5930,23 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-06-16",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1562020-500pm-1662020-500-pm"
+      }
     },
     "total": {
       "confirmed": 121,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 5524
     }
   },
   "NL": {
     "delta": {
       "confirmed": 2,
-      "recovered": 15
+      "recovered": 15,
+      "tested": 703
     },
     "districts": {
       "Dimapur": {
@@ -6062,11 +6086,16 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-06-16",
+        "source": "https://twitter.com/HealthNagaland/status/1272890889338314762/photo/1"
+      }
     },
     "total": {
       "confirmed": 179,
-      "recovered": 103
+      "recovered": 103,
+      "tested": 7835
     }
   },
   "OR": {

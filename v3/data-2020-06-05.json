@@ -4448,7 +4448,8 @@
     "delta": {
       "confirmed": 2436,
       "deceased": 139,
-      "recovered": 1466
+      "recovered": 1466,
+      "tested": 12866
     },
     "districts": {
       "Ahmednagar": {
@@ -4922,15 +4923,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/Maha_MEDD/status/1268781427182587904?s=19"
+      }
     },
     "total": {
       "confirmed": 80229,
       "deceased": 2849,
-      "recovered": 35147
+      "recovered": 35147,
+      "tested": 524002
     }
   },
   "ML": {
+    "delta": {
+      "tested": 197
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -4975,17 +4984,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-06-05",
+        "source": "https://corona.meghalayagov.in/"
+      }
     },
     "total": {
       "confirmed": 33,
       "deceased": 1,
-      "recovered": 13
+      "recovered": 13,
+      "tested": 9592
     }
   },
   "MN": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 8,
+      "tested": 2175
     },
     "districts": {
       "Bishnupur": {
@@ -5086,11 +5101,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-06-05",
+        "source": "https://t.me/indiacovid/6412"
+      }
     },
     "total": {
       "confirmed": 132,
-      "recovered": 38
+      "recovered": 38,
+      "tested": 14629
     }
   },
   "MP": {
@@ -5635,7 +5655,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 7
+      "confirmed": 7,
+      "tested": 341
     },
     "districts": {
       "Aizawl": {
@@ -5670,16 +5691,22 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-06-05",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-462020-500pm-562020-500-pm"
+      }
     },
     "total": {
       "confirmed": 24,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 1687
     }
   },
   "NL": {
     "delta": {
-      "confirmed": 27
+      "confirmed": 27,
+      "tested": 235
     },
     "districts": {
       "Dimapur": {
@@ -5799,10 +5826,15 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-06-05",
+        "source": "https://twitter.com/pangnyu/status/1268747371938287616?s=20"
+      }
     },
     "total": {
-      "confirmed": 107
+      "confirmed": 107,
+      "tested": 3974
     }
   },
   "OR": {

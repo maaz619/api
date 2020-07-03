@@ -2091,7 +2091,8 @@
     "delta": {
       "confirmed": 790,
       "deceased": 36,
-      "recovered": 121
+      "recovered": 121,
+      "tested": 6926
     },
     "districts": {
       "Ahmednagar": {
@@ -2449,15 +2450,23 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "https://twitter.com/Maha_MEDD/status/1256463584004943872"
+      }
     },
     "total": {
       "confirmed": 12296,
       "deceased": 521,
-      "recovered": 2000
+      "recovered": 2000,
+      "tested": 151085
     }
   },
   "ML": {
+    "delta": {
+      "tested": 112
+    },
     "districts": {
       "East Khasi Hills": {
         "meta": {
@@ -2471,15 +2480,23 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "http://meghalayaonline.gov.in/covid/login.htm#"
+      }
     },
     "total": {
       "confirmed": 12,
       "deceased": 1,
-      "recovered": 10
+      "recovered": 10,
+      "tested": 1707
     }
   },
   "MN": {
+    "delta": {
+      "tested": 7
+    },
     "districts": {
       "Imphal East": {
         "total": {
@@ -2498,11 +2515,16 @@
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "http://nrhmmanipur.org/wp-content/uploads/2020/05/status_020520.jpg"
+      }
     },
     "total": {
       "confirmed": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 468
     }
   },
   "MP": {
@@ -2830,6 +2852,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "tested": 3
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -2838,10 +2863,30 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "http://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-152020-500pm-252020-500-pm"
+      }
     },
     "total": {
-      "confirmed": 1
+      "confirmed": 1,
+      "tested": 183
+    }
+  },
+  "NL": {
+    "delta": {
+      "tested": 10
+    },
+    "meta": {
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-05-02",
+        "source": "https://covid19.nagaland.gov.in/"
+      }
+    },
+    "total": {
+      "tested": 674
     }
   },
   "OR": {
