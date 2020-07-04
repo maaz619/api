@@ -2449,7 +2449,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T13:52:27+05:30",
+      "last_updated": "2020-07-04T13:56:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3697,12 +3697,22 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 32517
+    },
     "districts": {
       "Ahmednagar": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HANR_20200704_1_3&width=71px"
+          }
+        },
         "total": {
           "confirmed": 506,
           "deceased": 15,
-          "recovered": 340
+          "recovered": 340,
+          "tested": 4900
         }
       },
       "Akola": {
@@ -3795,11 +3805,18 @@
         }
       },
       "Dhule": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HDHL_20200704_1_3&width=72px"
+          }
+        },
         "total": {
           "confirmed": 1182,
           "deceased": 58,
           "migrated": 2,
-          "recovered": 680
+          "recovered": 680,
+          "tested": 9813
         }
       },
       "Gadchiroli": {
@@ -3937,10 +3954,17 @@
         }
       },
       "Nandurbar": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HNDB_20200704_1_3&width=72px"
+          }
+        },
         "total": {
           "confirmed": 179,
           "deceased": 9,
-          "recovered": 79
+          "recovered": 79,
+          "tested": 2032
         }
       },
       "Nashik": {
@@ -4025,8 +4049,8 @@
         "meta": {
           "population": 2634200,
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HNMU_20200703_1_12&width=74px"
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HRGD_20200704_1_11&width=72px"
           }
         },
         "total": {
@@ -4034,7 +4058,7 @@
           "deceased": 106,
           "migrated": 2,
           "recovered": 2536,
-          "tested": 4459
+          "tested": 4812
         }
       },
       "Ratnagiri": {
@@ -4075,8 +4099,8 @@
       "Solapur": {
         "meta": {
           "tested": {
-            "last_updated": "2020-06-27",
-            "source": "http://epaper.lokmat.com/sub-editions/Hello%20Solapur%20Gramin/-1/1"
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HSOL_20200704_1_3&width=72px"
           }
         },
         "total": {
@@ -4084,7 +4108,7 @@
           "deceased": 283,
           "migrated": 1,
           "recovered": 1631,
-          "tested": 14863
+          "tested": 17158
         }
       },
       "Thane": {
@@ -4147,8 +4171,8 @@
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://t.co/tamR6qnBus?amp=1"
+        "last_updated": "2020-07-04",
+        "source": "https://t.co/AOKLdHSxQe?amp=1"
       }
     },
     "total": {
@@ -4156,7 +4180,7 @@
       "deceased": 8376,
       "migrated": 16,
       "recovered": 104687,
-      "tested": 1052643
+      "tested": 1085160
     }
   },
   "ML": {
@@ -7748,7 +7772,7 @@
       "recovered": 98
     },
     "meta": {
-      "last_updated": "2020-07-04T13:53:26+05:30",
+      "last_updated": "2020-07-04T13:56:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
