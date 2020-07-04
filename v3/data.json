@@ -2,7 +2,7 @@
   "AN": {
     "delta": {
       "confirmed": 3,
-      "recovered": 2
+      "recovered": 12
     },
     "districts": {
       "North and Middle Andaman": {
@@ -23,16 +23,16 @@
       "Unknown": {
         "delta": {
           "confirmed": 3,
-          "recovered": 2
+          "recovered": 12
         },
         "total": {
           "confirmed": 67,
-          "recovered": 23
+          "recovered": 33
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:54:35+05:30",
+      "last_updated": "2020-07-04T22:37:31+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -41,7 +41,7 @@
     },
     "total": {
       "confirmed": 119,
-      "recovered": 56,
+      "recovered": 66,
       "tested": 16626
     }
   },
@@ -1934,7 +1934,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:23:27+05:30",
+      "last_updated": "2020-07-04T22:37:27+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -2908,7 +2908,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:23:29+05:30",
+      "last_updated": "2020-07-04T22:37:29+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -5200,7 +5200,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 8
+      "confirmed": 8,
+      "tested": 564
     },
     "districts": {
       "East Jaintia Hills": {
@@ -5279,21 +5280,21 @@
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/877"
+        "last_updated": "2020-07-04"
       }
     },
     "total": {
       "confirmed": 70,
       "deceased": 1,
       "recovered": 43,
-      "tested": 19940
+      "tested": 20504
     }
   },
   "MN": {
     "delta": {
       "confirmed": 9,
-      "recovered": 28
+      "recovered": 28,
+      "tested": 875
     },
     "districts": {
       "Bishnupur": {
@@ -5430,14 +5431,14 @@
       "last_updated": "2020-07-04T20:48:33+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://twitter.com/DiprManipur/status/1279060651025920002?s=20"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/DiprManipur/status/1279439690207121413?s=20"
       }
     },
     "total": {
       "confirmed": 1325,
       "recovered": 667,
-      "tested": 53608
+      "tested": 54483
     }
   },
   "MP": {
@@ -9382,10 +9383,10 @@
     "delta": {
       "confirmed": 22784,
       "deceased": 610,
-      "recovered": 14316
+      "recovered": 14326
     },
     "meta": {
-      "last_updated": "2020-07-04T22:23:25+05:30",
+      "last_updated": "2020-07-04T22:37:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9396,7 +9397,7 @@
       "confirmed": 672670,
       "deceased": 19279,
       "migrated": 66,
-      "recovered": 408635,
+      "recovered": 408645,
       "tested": 9540132
     }
   },
