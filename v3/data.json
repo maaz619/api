@@ -83,7 +83,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -103,7 +103,7 @@
           "population": 5154296,
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -131,7 +131,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -151,7 +151,7 @@
           "population": 4517398,
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -171,7 +171,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -200,7 +200,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -219,7 +219,7 @@
           "population": 558548,
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -237,7 +237,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -258,7 +258,7 @@
           "population": 4290589,
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -278,7 +278,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -298,7 +298,7 @@
           "population": 3936966,
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -317,7 +317,7 @@
         "meta": {
           "tested": {
             "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/905"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/906?single"
           }
         },
         "total": {
@@ -345,8 +345,15 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 7,
+      "recovered": 1
+    },
     "districts": {
       "Anjaw": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 21167,
           "tested": {
@@ -355,6 +362,7 @@
           }
         },
         "total": {
+          "confirmed": 4,
           "tested": 178
         }
       },
@@ -556,6 +564,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -563,7 +574,7 @@
           }
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 90,
           "recovered": 8,
           "tested": 689
         }
@@ -591,6 +602,9 @@
         }
       },
       "Tawang": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 49977,
           "tested": {
@@ -600,10 +614,14 @@
         },
         "total": {
           "confirmed": 2,
+          "recovered": 1,
           "tested": 742
         }
       },
       "Tirap": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -611,7 +629,7 @@
           }
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 5,
           "recovered": 2,
           "tested": 1410
         }
@@ -671,7 +689,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T00:26:29+05:30",
+      "last_updated": "2020-07-05T00:23:28+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -679,9 +697,9 @@
       }
     },
     "total": {
-      "confirmed": 252,
+      "confirmed": 259,
       "deceased": 1,
-      "recovered": 75,
+      "recovered": 76,
       "tested": 25917
     }
   },
@@ -9473,12 +9491,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22809,
+      "confirmed": 22816,
       "deceased": 610,
-      "recovered": 14326
+      "recovered": 14327
     },
     "meta": {
-      "last_updated": "2020-07-04T23:37:24+05:30",
+      "last_updated": "2020-07-05T00:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9486,10 +9504,10 @@
       }
     },
     "total": {
-      "confirmed": 672695,
+      "confirmed": 672702,
       "deceased": 19279,
       "migrated": 66,
-      "recovered": 408645,
+      "recovered": 408646,
       "tested": 9540132
     }
   },
