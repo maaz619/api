@@ -1452,7 +1452,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T17:49:28+05:30",
+      "last_updated": "2020-07-04T17:56:28+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1996,7 +1996,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T17:48:31+05:30",
+      "last_updated": "2020-07-04T17:50:30+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -5349,6 +5349,10 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 3
+    },
     "districts": {
       "Aizawl": {
         "total": {
@@ -5357,12 +5361,15 @@
         }
       },
       "Champhai": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 125745
         },
         "total": {
           "confirmed": 10,
-          "recovered": 5
+          "recovered": 8
         }
       },
       "Khawzawl": {
@@ -5387,11 +5394,14 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 161428
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 49,
           "recovered": 46
         }
       },
@@ -5427,7 +5437,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T17:15:30+05:30",
+      "last_updated": "2020-07-04T17:56:31+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -5435,8 +5445,8 @@
       }
     },
     "total": {
-      "confirmed": 162,
-      "recovered": 127,
+      "confirmed": 164,
+      "recovered": 130,
       "tested": 14370
     }
   },
@@ -8046,12 +8056,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1179,
+      "confirmed": 1181,
       "deceased": 26,
-      "recovered": 809
+      "recovered": 812
     },
     "meta": {
-      "last_updated": "2020-07-04T17:49:25+05:30",
+      "last_updated": "2020-07-04T17:56:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8059,10 +8069,10 @@
       }
     },
     "total": {
-      "confirmed": 651065,
+      "confirmed": 651067,
       "deceased": 18695,
       "migrated": 66,
-      "recovered": 395128,
+      "recovered": 395131,
       "tested": 9540132
     }
   },
