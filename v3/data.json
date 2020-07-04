@@ -3206,9 +3206,10 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 49,
+      "confirmed": 42,
       "deceased": 3,
-      "recovered": 34
+      "recovered": 34,
+      "tested": 2919
     },
     "districts": {
       "Bokaro": {
@@ -3299,11 +3300,14 @@
         }
       },
       "Gumla": {
+        "delta": {
+          "confirmed": -7
+        },
         "meta": {
           "population": 1025213
         },
         "total": {
-          "confirmed": 126,
+          "confirmed": 119,
           "deceased": 1,
           "recovered": 81
         }
@@ -3446,18 +3450,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T21:53:28+05:30",
+      "last_updated": "2020-07-04T22:03:28+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://twitter.com/FOBGumla/status/1279090376842686465?s=20"
+        "last_updated": "2020-07-04"
       }
     },
     "total": {
-      "confirmed": 2746,
+      "confirmed": 2739,
       "deceased": 18,
       "recovered": 2035,
-      "tested": 151699
+      "tested": 154618
     }
   },
   "JK": {
@@ -3696,7 +3699,8 @@
       "last_updated": "2020-07-04T21:03:31+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/diprjk/status/1279431234880335872?s=20"
       }
     },
     "total": {
@@ -9369,12 +9373,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22758,
+      "confirmed": 22751,
       "deceased": 610,
       "recovered": 14306
     },
     "meta": {
-      "last_updated": "2020-07-04T21:53:25+05:30",
+      "last_updated": "2020-07-04T22:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9382,7 +9386,7 @@
       }
     },
     "total": {
-      "confirmed": 672644,
+      "confirmed": 672637,
       "deceased": 19279,
       "migrated": 66,
       "recovered": 408625,
