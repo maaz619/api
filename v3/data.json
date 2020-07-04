@@ -1426,8 +1426,16 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 5,
+      "recovered": 2
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1436,15 +1444,15 @@
           }
         },
         "total": {
-          "confirmed": 454,
+          "confirmed": 459,
           "deceased": 6,
-          "recovered": 393,
+          "recovered": 395,
           "tested": 8074
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T20:06:50+05:30",
+      "last_updated": "2020-07-04T17:49:28+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1452,9 +1460,9 @@
       }
     },
     "total": {
-      "confirmed": 454,
+      "confirmed": 459,
       "deceased": 6,
-      "recovered": 393,
+      "recovered": 395,
       "tested": 8074
     }
   },
@@ -1988,7 +1996,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T17:38:28+05:30",
+      "last_updated": "2020-07-04T17:48:31+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -3316,17 +3324,20 @@
         }
       },
       "Ballari": {
+        "delta": {
+          "tested": 283
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/868"
+            "last_updated": "2020-07-04",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/893"
           }
         },
         "total": {
           "confirmed": 1081,
           "deceased": 34,
           "recovered": 495,
-          "tested": 17526
+          "tested": 17809
         }
       },
       "Belagavi": {
@@ -8035,12 +8046,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1174,
+      "confirmed": 1179,
       "deceased": 26,
-      "recovered": 807
+      "recovered": 809
     },
     "meta": {
-      "last_updated": "2020-07-04T17:38:25+05:30",
+      "last_updated": "2020-07-04T17:49:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8048,10 +8059,10 @@
       }
     },
     "total": {
-      "confirmed": 651060,
+      "confirmed": 651065,
       "deceased": 18695,
       "migrated": 66,
-      "recovered": 395126,
+      "recovered": 395128,
       "tested": 9540132
     }
   },
