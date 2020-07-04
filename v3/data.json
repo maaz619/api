@@ -2341,6 +2341,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "recovered": 6
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2400,6 +2403,9 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "population": 814010
         },
@@ -2407,14 +2413,17 @@
           "confirmed": 47,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 27
+          "recovered": 32
         }
       },
       "Sirmaur": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 40,
           "migrated": 7,
-          "recovered": 25
+          "recovered": 26
         }
       },
       "Solan": {
@@ -2440,7 +2449,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T00:07:28+05:30",
+      "last_updated": "2020-07-04T13:46:27+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2452,7 +2461,7 @@
       "confirmed": 1033,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 671,
+      "recovered": 677,
       "tested": 85116
     }
   },
@@ -3489,7 +3498,8 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-07-03"
+        "last_updated": "2020-07-03",
+        "source": "https://twitter.com/DHFWKA/status/1279062744201703426?s=20"
       }
     },
     "total": {
@@ -3757,10 +3767,17 @@
         }
       },
       "Buldhana": {
+        "meta": {
+          "tested": {
+            "last_updated": "2020-07-03",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBUL_20200704_1_3&width=70px"
+          }
+        },
         "total": {
           "confirmed": 277,
           "deceased": 13,
-          "recovered": 160
+          "recovered": 160,
+          "tested": 3062
         }
       },
       "Chandrapur": {
@@ -7728,10 +7745,10 @@
     "delta": {
       "confirmed": -223,
       "deceased": 10,
-      "recovered": 92
+      "recovered": 98
     },
     "meta": {
-      "last_updated": "2020-07-04T12:46:24+05:30",
+      "last_updated": "2020-07-04T13:46:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -7742,7 +7759,7 @@
       "confirmed": 649666,
       "deceased": 18679,
       "migrated": 66,
-      "recovered": 394411,
+      "recovered": 394417,
       "tested": 9540132
     }
   },
