@@ -2089,6 +2089,11 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 108,
+      "deceased": 2,
+      "recovered": 53
+    },
     "districts": {
       "North Goa": {
         "meta": {
@@ -2114,14 +2119,20 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 108,
+          "deceased": 2,
+          "recovered": 53
+        },
         "total": {
-          "confirmed": 497,
-          "recovered": 465
+          "confirmed": 605,
+          "deceased": 2,
+          "recovered": 518
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T20:38:37+05:30",
+      "last_updated": "2020-07-04T20:45:28+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -2129,9 +2140,9 @@
       }
     },
     "total": {
-      "confirmed": 1576,
-      "deceased": 4,
-      "recovered": 772,
+      "confirmed": 1684,
+      "deceased": 6,
+      "recovered": 825,
       "tested": 72691
     }
   },
@@ -3594,12 +3605,13 @@
         "delta": {
           "confirmed": 75,
           "deceased": 4,
-          "recovered": 26
+          "recovered": 26,
+          "tested": 560
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/885"
+            "last_updated": "2020-07-04",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/898"
           }
         },
         "total": {
@@ -3607,7 +3619,7 @@
           "deceased": 20,
           "migrated": 2,
           "recovered": 513,
-          "tested": 14710
+          "tested": 15270
         }
       },
       "Davanagere": {
@@ -3793,19 +3805,20 @@
       "Mysuru": {
         "delta": {
           "confirmed": 38,
-          "recovered": 21
+          "recovered": 21,
+          "tested": 1664
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/848"
+            "last_updated": "2020-07-04",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/899"
           }
         },
         "total": {
           "confirmed": 409,
           "deceased": 4,
           "recovered": 238,
-          "tested": 21331
+          "tested": 22995
         }
       },
       "Other State": {
@@ -4807,7 +4820,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T20:36:34+05:30",
+      "last_updated": "2020-07-04T20:43:32+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4959,7 +4972,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T20:36:31+05:30",
+      "last_updated": "2020-07-04T20:43:30+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -5902,7 +5915,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 23,
+      "confirmed": 24,
       "tested": 628
     },
     "districts": {
@@ -6029,7 +6042,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
+          "confirmed": 1,
           "recovered": 168
         }
       },
@@ -6053,7 +6070,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T09:54:27+05:30",
+      "last_updated": "2020-07-04T20:45:30+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -6061,7 +6078,7 @@
       }
     },
     "total": {
-      "confirmed": 562,
+      "confirmed": 563,
       "recovered": 228,
       "tested": 19263
     }
@@ -8787,12 +8804,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11402,
-      "deceased": 243,
-      "recovered": 7577
+      "confirmed": 11511,
+      "deceased": 245,
+      "recovered": 7630
     },
     "meta": {
-      "last_updated": "2020-07-04T20:36:25+05:30",
+      "last_updated": "2020-07-04T20:45:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8800,10 +8817,10 @@
       }
     },
     "total": {
-      "confirmed": 661288,
-      "deceased": 18912,
+      "confirmed": 661397,
+      "deceased": 18914,
       "migrated": 66,
-      "recovered": 401896,
+      "recovered": 401949,
       "tested": 9540132
     }
   },
@@ -9704,7 +9721,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T20:36:28+05:30",
+      "last_updated": "2020-07-04T20:43:27+05:30",
       "notes": "27 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
