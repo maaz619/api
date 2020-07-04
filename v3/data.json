@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "recovered": 2
     },
     "districts": {
       "North and Middle Andaman": {
@@ -21,16 +22,17 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 2
         },
         "total": {
           "confirmed": 67,
-          "recovered": 21
+          "recovered": 23
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T09:44:28+05:30",
+      "last_updated": "2020-07-04T19:45:28+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -39,7 +41,7 @@
     },
     "total": {
       "confirmed": 119,
-      "recovered": 54,
+      "recovered": 56,
       "tested": 16626
     }
   },
@@ -1473,6 +1475,10 @@
     }
   },
   "CT": {
+    "delta": {
+      "confirmed": 68,
+      "recovered": 112
+    },
     "districts": {
       "Balod": {
         "meta": {
@@ -1501,6 +1507,9 @@
         }
       },
       "Balrampur": {
+        "delta": {
+          "recovered": 8
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1509,11 +1518,14 @@
         },
         "total": {
           "confirmed": 145,
-          "recovered": 115,
+          "recovered": 123,
           "tested": 2276
         }
       },
       "Bametara": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1521,12 +1533,15 @@
           }
         },
         "total": {
-          "confirmed": 62,
+          "confirmed": 71,
           "recovered": 48,
           "tested": 3113
         }
       },
       "Bastar": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-23",
@@ -1534,7 +1549,7 @@
           }
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 23,
           "deceased": 1,
           "recovered": 7,
           "tested": 4522
@@ -1554,6 +1569,9 @@
         }
       },
       "Bilaspur": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1561,13 +1579,16 @@
           }
         },
         "total": {
-          "confirmed": 200,
+          "confirmed": 205,
           "deceased": 2,
           "recovered": 175,
           "tested": 9823
         }
       },
       "Dakshin Bastar Dantewada": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 533638,
           "tested": {
@@ -1576,7 +1597,7 @@
           }
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 26,
           "recovered": 4,
           "tested": 1168
         }
@@ -1596,6 +1617,9 @@
         }
       },
       "Durg": {
+        "delta": {
+          "recovered": 6
+        },
         "meta": {
           "population": 3343872,
           "tested": {
@@ -1606,7 +1630,7 @@
         "total": {
           "confirmed": 167,
           "deceased": 3,
-          "recovered": 117,
+          "recovered": 123,
           "tested": 5020
         }
       },
@@ -1637,6 +1661,10 @@
         }
       },
       "Janjgir Champa": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 9
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1644,13 +1672,16 @@
           }
         },
         "total": {
-          "confirmed": 239,
+          "confirmed": 246,
           "deceased": 1,
-          "recovered": 217,
+          "recovered": 226,
           "tested": 4016
         }
       },
       "Jashpur": {
+        "delta": {
+          "recovered": 14
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1659,11 +1690,14 @@
         },
         "total": {
           "confirmed": 189,
-          "recovered": 110,
+          "recovered": 124,
           "tested": 2542
         }
       },
       "Kabeerdham": {
+        "delta": {
+          "recovered": 9
+        },
         "meta": {
           "population": 822526,
           "tested": {
@@ -1673,7 +1707,7 @@
         },
         "total": {
           "confirmed": 110,
-          "recovered": 94,
+          "recovered": 103,
           "tested": 2829
         }
       },
@@ -1704,6 +1738,10 @@
         }
       },
       "Koriya": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1711,12 +1749,15 @@
           }
         },
         "total": {
-          "confirmed": 59,
-          "recovered": 54,
+          "confirmed": 61,
+          "recovered": 56,
           "tested": 2689
         }
       },
       "Mahasamund": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 1032754,
           "tested": {
@@ -1727,7 +1768,7 @@
         "total": {
           "confirmed": 88,
           "deceased": 1,
-          "recovered": 81,
+          "recovered": 82,
           "tested": 2183
         }
       },
@@ -1745,6 +1786,9 @@
         }
       },
       "Narayanpur": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "population": 139820,
           "tested": {
@@ -1753,7 +1797,7 @@
           }
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 23,
           "recovered": 10,
           "tested": 804
         }
@@ -1765,6 +1809,10 @@
         }
       },
       "Raigarh": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 4
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1772,13 +1820,17 @@
           }
         },
         "total": {
-          "confirmed": 129,
+          "confirmed": 132,
           "deceased": 1,
-          "recovered": 102,
+          "recovered": 106,
           "tested": 5084
         }
       },
       "Raipur": {
+        "delta": {
+          "confirmed": 27,
+          "recovered": 17
+        },
         "meta": {
           "population": 4063872,
           "tested": {
@@ -1787,13 +1839,16 @@
           }
         },
         "total": {
-          "confirmed": 380,
+          "confirmed": 407,
           "deceased": 2,
-          "recovered": 211,
+          "recovered": 228,
           "tested": 12704
         }
       },
       "Rajnandgaon": {
+        "delta": {
+          "recovered": 40
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1803,11 +1858,14 @@
         "total": {
           "confirmed": 298,
           "deceased": 2,
-          "recovered": 222,
+          "recovered": 262,
           "tested": 5571
         }
       },
       "Sukma": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-06-14",
@@ -1816,7 +1874,7 @@
         },
         "total": {
           "confirmed": 5,
-          "recovered": 3,
+          "recovered": 5,
           "tested": 1723
         }
       },
@@ -1834,6 +1892,9 @@
         }
       },
       "Surguja": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 2359886,
           "tested": {
@@ -1842,7 +1903,7 @@
           }
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 58,
           "recovered": 49,
           "tested": 2008
         }
@@ -1862,7 +1923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-02T22:21:33+05:30",
+      "last_updated": "2020-07-04T19:45:27+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1870,9 +1931,9 @@
       }
     },
     "total": {
-      "confirmed": 3065,
+      "confirmed": 3133,
       "deceased": 14,
-      "recovered": 2414,
+      "recovered": 2526,
       "tested": 177554
     }
   },
@@ -1961,7 +2022,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:36:27+05:30",
+      "last_updated": "2020-07-04T19:41:26+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -4043,7 +4104,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:36:31+05:30",
+      "last_updated": "2020-07-04T19:41:31+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5589,7 +5650,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:36:29+05:30",
+      "last_updated": "2020-07-04T19:41:28+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5606,7 +5667,8 @@
   "MZ": {
     "delta": {
       "confirmed": 2,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 139
     },
     "districts": {
       "Aizawl": {
@@ -5695,14 +5757,14 @@
       "last_updated": "2020-07-04T18:03:30+05:30",
       "population": 1192000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-272020-500pm-372020-500-pm"
+        "last_updated": "2020-07-04",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-372020-500pm-472020-500-pm"
       }
     },
     "total": {
       "confirmed": 164,
       "recovered": 130,
-      "tested": 14370
+      "tested": 14509
     }
   },
   "NL": {
@@ -8586,12 +8648,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8696,
+      "confirmed": 8764,
       "deceased": 182,
-      "recovered": 6380
+      "recovered": 6494
     },
     "meta": {
-      "last_updated": "2020-07-04T19:36:25+05:30",
+      "last_updated": "2020-07-04T19:45:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8599,10 +8661,10 @@
       }
     },
     "total": {
-      "confirmed": 658582,
+      "confirmed": 658650,
       "deceased": 18851,
       "migrated": 66,
-      "recovered": 400699,
+      "recovered": 400813,
       "tested": 9540132
     }
   },
