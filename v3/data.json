@@ -693,7 +693,8 @@
       "last_updated": "2020-07-05T00:34:28+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/DirectorateofHS/status/1279486808204566528?s=20"
       }
     },
     "total": {
@@ -705,6 +706,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 1202,
       "tested": 10747
     },
     "districts": {
@@ -839,8 +841,11 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 777
+        },
         "total": {
-          "confirmed": 2419,
+          "confirmed": 3196,
           "deceased": 6,
           "recovered": 383
         }
@@ -944,8 +949,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 425
+        },
         "total": {
-          "confirmed": 4010,
+          "confirmed": 4435,
           "deceased": 7,
           "migrated": 3,
           "recovered": 5412
@@ -958,7 +966,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T00:26:27+05:30",
+      "last_updated": "2020-07-05T00:44:27+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -967,7 +975,7 @@
       }
     },
     "total": {
-      "confirmed": 9800,
+      "confirmed": 11002,
       "deceased": 14,
       "migrated": 3,
       "recovered": 6328,
@@ -1505,7 +1513,8 @@
       "last_updated": "2020-07-04T17:58:27+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/895"
       }
     },
     "total": {
@@ -3502,7 +3511,8 @@
       "last_updated": "2020-07-04T22:16:29+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/912"
       }
     },
     "total": {
@@ -5322,7 +5332,8 @@
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/909"
       }
     },
     "total": {
@@ -8223,7 +8234,8 @@
       "last_updated": "2020-07-04T21:37:31+05:30",
       "population": 77264000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/904"
       }
     },
     "total": {
@@ -8276,7 +8288,8 @@
       "last_updated": "2020-07-04T20:03:28+05:30",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/915"
       }
     },
     "total": {
@@ -9491,12 +9504,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22816,
+      "confirmed": 24018,
       "deceased": 610,
       "recovered": 14327
     },
     "meta": {
-      "last_updated": "2020-07-05T00:34:25+05:30",
+      "last_updated": "2020-07-05T00:44:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9504,7 +9517,7 @@
       }
     },
     "total": {
-      "confirmed": 672702,
+      "confirmed": 673904,
       "deceased": 19279,
       "migrated": 66,
       "recovered": 408646,
