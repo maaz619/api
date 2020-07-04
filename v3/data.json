@@ -32,7 +32,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:37:31+05:30",
+      "last_updated": "2020-07-04T22:45:33+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1934,7 +1934,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:37:27+05:30",
+      "last_updated": "2020-07-04T22:45:27+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -2908,7 +2908,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:37:29+05:30",
+      "last_updated": "2020-07-04T22:45:32+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -9251,8 +9251,14 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 25
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 378230,
           "tested": {
@@ -9261,7 +9267,7 @@
           }
         },
         "total": {
-          "confirmed": 242,
+          "confirmed": 244,
           "recovered": 201,
           "tested": 6838
         }
@@ -9280,6 +9286,9 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -9287,12 +9296,15 @@
           }
         },
         "total": {
-          "confirmed": 79,
+          "confirmed": 80,
           "recovered": 32,
           "tested": 3209
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -9300,12 +9312,15 @@
           }
         },
         "total": {
-          "confirmed": 47,
+          "confirmed": 51,
           "recovered": 16,
           "tested": 13310
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -9313,12 +9328,15 @@
           }
         },
         "total": {
-          "confirmed": 579,
+          "confirmed": 588,
           "recovered": 522,
           "tested": 7960
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -9326,7 +9344,7 @@
           }
         },
         "total": {
-          "confirmed": 138,
+          "confirmed": 139,
           "recovered": 79,
           "tested": 7408
         }
@@ -9350,6 +9368,9 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-03",
@@ -9357,7 +9378,7 @@
           }
         },
         "total": {
-          "confirmed": 196,
+          "confirmed": 204,
           "deceased": 1,
           "recovered": 121,
           "tested": 20321
@@ -9365,7 +9386,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T23:37:27+05:30",
+      "last_updated": "2020-07-04T22:45:30+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9373,7 +9394,7 @@
       }
     },
     "total": {
-      "confirmed": 1533,
+      "confirmed": 1558,
       "deceased": 1,
       "recovered": 1199,
       "tested": 68634
@@ -9381,12 +9402,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22784,
+      "confirmed": 22809,
       "deceased": 610,
       "recovered": 14326
     },
     "meta": {
-      "last_updated": "2020-07-04T22:37:25+05:30",
+      "last_updated": "2020-07-04T22:45:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9394,7 +9415,7 @@
       }
     },
     "total": {
-      "confirmed": 672670,
+      "confirmed": 672695,
       "deceased": 19279,
       "migrated": 66,
       "recovered": 408645,
