@@ -32,7 +32,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:45:28+05:30",
+      "last_updated": "2020-07-04T19:51:31+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1923,7 +1923,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:45:27+05:30",
+      "last_updated": "2020-07-04T19:51:28+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -2022,7 +2022,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:41:26+05:30",
+      "last_updated": "2020-07-04T19:49:26+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -4104,7 +4104,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:41:31+05:30",
+      "last_updated": "2020-07-04T19:49:30+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5650,7 +5650,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:41:28+05:30",
+      "last_updated": "2020-07-04T19:49:27+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -6433,7 +6433,8 @@
     "delta": {
       "confirmed": 172,
       "deceased": 5,
-      "recovered": 40
+      "recovered": 40,
+      "tested": 7531
     },
     "districts": {
       "Amritsar": {
@@ -6802,15 +6803,14 @@
       "last_updated": "2020-07-04T19:25:29+05:30",
       "population": 29859000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "http://pbhealth.gov.in/Media%20Bulletin%20COVID-19%2003-07-2020.pdf"
+        "last_updated": "2020-07-04"
       }
     },
     "total": {
       "confirmed": 6109,
       "deceased": 162,
       "recovered": 4306,
-      "tested": 324054
+      "tested": 331585
     }
   },
   "PY": {
@@ -7495,6 +7495,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "East Sikkim": {
         "total": {
@@ -7515,8 +7518,11 @@
         }
       },
       "Unknown": {
-        "total": {
+        "delta": {
           "confirmed": 1
+        },
+        "total": {
+          "confirmed": 2
         }
       },
       "West Sikkim": {
@@ -7527,7 +7533,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T23:08:32+05:30",
+      "last_updated": "2020-07-04T19:53:30+05:30",
       "population": 664000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -7535,7 +7541,7 @@
       }
     },
     "total": {
-      "confirmed": 102,
+      "confirmed": 103,
       "recovered": 52,
       "tested": 11072
     }
@@ -8648,12 +8654,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8764,
+      "confirmed": 8765,
       "deceased": 182,
       "recovered": 6494
     },
     "meta": {
-      "last_updated": "2020-07-04T19:45:25+05:30",
+      "last_updated": "2020-07-04T19:53:24+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8661,7 +8667,7 @@
       }
     },
     "total": {
-      "confirmed": 658650,
+      "confirmed": 658651,
       "deceased": 18851,
       "migrated": 66,
       "recovered": 400813,
