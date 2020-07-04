@@ -1877,6 +1877,12 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2505,
+      "deceased": 81,
+      "recovered": 2632,
+      "tested": 23673
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1937,10 +1943,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2505,
+          "deceased": 81,
+          "recovered": 2632
+        },
         "total": {
-          "confirmed": 93907,
-          "deceased": 2922,
-          "recovered": 65624
+          "confirmed": 96412,
+          "deceased": 3003,
+          "recovered": 68256
         }
       },
       "West Delhi": {
@@ -1950,19 +1961,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T21:49:28+05:30",
+      "last_updated": "2020-07-04T19:36:27+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/879"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/CMODelhi/status/1279413660561977346"
       }
     },
     "total": {
-      "confirmed": 94695,
-      "deceased": 2923,
-      "recovered": 65624,
-      "tested": 596695
+      "confirmed": 97200,
+      "deceased": 3004,
+      "recovered": 68256,
+      "tested": 620368
     }
   },
   "DN": {
@@ -3976,7 +3987,8 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-04",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-4.pdf"
       }
     },
     "total": {
@@ -3989,14 +4001,13 @@
   },
   "LA": {
     "delta": {
-      "confirmed": 4,
-      "recovered": 49,
+      "confirmed": 3,
+      "recovered": 50,
       "tested": 176
     },
     "districts": {
       "Kargil": {
         "delta": {
-          "confirmed": 1,
           "recovered": 40
         },
         "meta": {
@@ -4007,7 +4018,7 @@
           }
         },
         "total": {
-          "confirmed": 715,
+          "confirmed": 714,
           "recovered": 623,
           "tested": 6700
         }
@@ -4015,7 +4026,7 @@
       "Leh": {
         "delta": {
           "confirmed": 3,
-          "recovered": 9
+          "recovered": 10
         },
         "meta": {
           "tested": {
@@ -4026,13 +4037,13 @@
         "total": {
           "confirmed": 291,
           "deceased": 1,
-          "recovered": 202,
+          "recovered": 203,
           "tested": 7661
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:13:31+05:30",
+      "last_updated": "2020-07-04T19:36:31+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -4040,9 +4051,9 @@
       }
     },
     "total": {
-      "confirmed": 1006,
+      "confirmed": 1005,
       "deceased": 1,
-      "recovered": 825,
+      "recovered": 826,
       "tested": 14537
     }
   },
@@ -4769,9 +4780,9 @@
   },
   "MP": {
     "delta": {
-      "confirmed": 300,
+      "confirmed": 307,
       "deceased": 5,
-      "recovered": 181,
+      "recovered": 185,
       "tested": 9149
     },
     "districts": {
@@ -4915,6 +4926,9 @@
         }
       },
       "Chhatarpur": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 1762375,
           "tested": {
@@ -4924,7 +4938,7 @@
         },
         "total": {
           "confirmed": 59,
-          "recovered": 54,
+          "recovered": 55,
           "tested": 2228
         }
       },
@@ -5348,11 +5362,14 @@
         }
       },
       "Rewa": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2365106
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 62,
           "deceased": 1,
           "recovered": 42
         }
@@ -5510,10 +5527,14 @@
         }
       },
       "Tikamgarh": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 48,
+          "confirmed": 54,
           "deceased": 1,
-          "recovered": 20
+          "recovered": 23
         }
       },
       "Ujjain": {
@@ -5568,7 +5589,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:23:27+05:30",
+      "last_updated": "2020-07-04T19:36:29+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5576,9 +5597,9 @@
       }
     },
     "total": {
-      "confirmed": 14597,
+      "confirmed": 14604,
       "deceased": 598,
-      "recovered": 11230,
+      "recovered": 11234,
       "tested": 398329
     }
   },
@@ -5686,7 +5707,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 23
+      "confirmed": 23,
+      "tested": 628
     },
     "districts": {
       "Dimapur": {
@@ -5839,14 +5861,14 @@
       "last_updated": "2020-07-04T09:54:27+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://twitter.com/MyGovNagaland/status/1279047412707819521?s=20"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/MyGovNagaland/status/1279391067880648704?s=20"
       }
     },
     "total": {
       "confirmed": 562,
       "recovered": 228,
-      "tested": 18635
+      "tested": 19263
     }
   },
   "OR": {
@@ -6715,7 +6737,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:23:28+05:30",
+      "last_updated": "2020-07-04T19:25:29+05:30",
       "population": 29859000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8564,12 +8586,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6185,
-      "deceased": 101,
-      "recovered": 3743
+      "confirmed": 8696,
+      "deceased": 182,
+      "recovered": 6380
     },
     "meta": {
-      "last_updated": "2020-07-04T19:23:25+05:30",
+      "last_updated": "2020-07-04T19:36:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -8577,10 +8599,10 @@
       }
     },
     "total": {
-      "confirmed": 656071,
-      "deceased": 18770,
+      "confirmed": 658582,
+      "deceased": 18851,
       "migrated": 66,
-      "recovered": 398062,
+      "recovered": 400699,
       "tested": 9540132
     }
   },
