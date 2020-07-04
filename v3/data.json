@@ -5228,8 +5228,14 @@
     }
   },
   "OR": {
+    "delta": {
+      "confirmed": 495
+    },
     "districts": {
       "Angul": {
+        "delta": {
+          "confirmed": 24
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5237,7 +5243,7 @@
           }
         },
         "total": {
-          "confirmed": 71,
+          "confirmed": 95,
           "deceased": 1,
           "recovered": 57,
           "tested": 2830
@@ -5257,6 +5263,9 @@
         }
       },
       "Balasore": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5264,20 +5273,26 @@
           }
         },
         "total": {
-          "confirmed": 377,
+          "confirmed": 390,
           "deceased": 1,
           "recovered": 309,
           "tested": 9843
         }
       },
       "Bargarh": {
+        "delta": {
+          "confirmed": 2
+        },
         "total": {
-          "confirmed": 131,
+          "confirmed": 133,
           "deceased": 1,
           "recovered": 64
         }
       },
       "Bhadrak": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "population": 1506337,
           "tested": {
@@ -5286,7 +5301,7 @@
           }
         },
         "total": {
-          "confirmed": 233,
+          "confirmed": 245,
           "recovered": 224,
           "tested": 5539
         }
@@ -5305,6 +5320,9 @@
         }
       },
       "Cuttack": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "population": 2624470,
           "tested": {
@@ -5313,7 +5331,7 @@
           }
         },
         "total": {
-          "confirmed": 702,
+          "confirmed": 715,
           "deceased": 5,
           "recovered": 509,
           "tested": 5720
@@ -5333,6 +5351,9 @@
         }
       },
       "Dhenkanal": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1192811,
           "tested": {
@@ -5341,12 +5362,15 @@
           }
         },
         "total": {
-          "confirmed": 83,
+          "confirmed": 84,
           "recovered": 66,
           "tested": 1545
         }
       },
       "Gajapati": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5354,12 +5378,15 @@
           }
         },
         "total": {
-          "confirmed": 442,
+          "confirmed": 449,
           "recovered": 231,
           "tested": 715
         }
       },
       "Ganjam": {
+        "delta": {
+          "confirmed": 216
+        },
         "meta": {
           "population": 3529031,
           "tested": {
@@ -5368,13 +5395,16 @@
           }
         },
         "total": {
-          "confirmed": 1850,
+          "confirmed": 2066,
           "deceased": 18,
           "recovered": 1128,
           "tested": 6632
         }
       },
       "Jagatsinghpur": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5382,12 +5412,15 @@
           }
         },
         "total": {
-          "confirmed": 305,
+          "confirmed": 317,
           "recovered": 227,
           "tested": 2138
         }
       },
       "Jajpur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1827192,
           "tested": {
@@ -5396,12 +5429,15 @@
           }
         },
         "total": {
-          "confirmed": 540,
+          "confirmed": 541,
           "recovered": 391,
           "tested": 10621
         }
       },
       "Jharsuguda": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5409,7 +5445,7 @@
           }
         },
         "total": {
-          "confirmed": 120,
+          "confirmed": 128,
           "recovered": 49,
           "tested": 1663
         }
@@ -5429,6 +5465,9 @@
         }
       },
       "Kandhamal": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5436,12 +5475,82 @@
           }
         },
         "total": {
-          "confirmed": 178,
+          "confirmed": 186,
           "recovered": 178,
           "tested": 1516
         }
       },
       "Kendrapara": {
+        "delta": {
+          "confirmed": 11
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-05-17",
+            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
+          }
+        },
+        "total": {
+          "confirmed": 264,
+          "recovered": 226,
+          "tested": 2637
+        }
+      },
+      "Kendujhar": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 157,
+          "recovered": 96
+        }
+      },
+      "Khordha": {
+        "delta": {
+          "confirmed": 50
+        },
+        "total": {
+          "confirmed": 944,
+          "deceased": 7,
+          "recovered": 703
+        }
+      },
+      "Koraput": {
+        "delta": {
+          "confirmed": 5
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-05-17",
+            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
+          }
+        },
+        "total": {
+          "confirmed": 57,
+          "recovered": 25,
+          "tested": 1401
+        }
+      },
+      "Malkangiri": {
+        "delta": {
+          "confirmed": 5
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-05-17",
+            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
+          }
+        },
+        "total": {
+          "confirmed": 111,
+          "recovered": 53,
+          "tested": 1841
+        }
+      },
+      "Mayurbhanj": {
+        "delta": {
+          "confirmed": 28
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5450,71 +5559,25 @@
         },
         "total": {
           "confirmed": 253,
-          "recovered": 226,
-          "tested": 2637
-        }
-      },
-      "Kendujhar": {
-        "total": {
-          "confirmed": 152,
-          "recovered": 96
-        }
-      },
-      "Khordha": {
-        "total": {
-          "confirmed": 894,
-          "deceased": 7,
-          "recovered": 703
-        }
-      },
-      "Koraput": {
-        "meta": {
-          "tested": {
-            "last_updated": "2020-05-17",
-            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-          }
-        },
-        "total": {
-          "confirmed": 52,
-          "recovered": 25,
-          "tested": 1401
-        }
-      },
-      "Malkangiri": {
-        "meta": {
-          "tested": {
-            "last_updated": "2020-05-17",
-            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-          }
-        },
-        "total": {
-          "confirmed": 106,
-          "recovered": 53,
-          "tested": 1841
-        }
-      },
-      "Mayurbhanj": {
-        "meta": {
-          "tested": {
-            "last_updated": "2020-05-17",
-            "source": "https://health.odisha.gov.in/covid19-dashboard.html"
-          }
-        },
-        "total": {
-          "confirmed": 225,
           "deceased": 1,
           "recovered": 160,
           "tested": 3307
         }
       },
       "Nabarangapur": {
+        "delta": {
+          "confirmed": 11
+        },
         "total": {
-          "confirmed": 42,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 13
         }
       },
       "Nayagarh": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5522,7 +5585,7 @@
           }
         },
         "total": {
-          "confirmed": 163,
+          "confirmed": 164,
           "recovered": 129,
           "tested": 1104
         }
@@ -5547,6 +5610,9 @@
         }
       },
       "Puri": {
+        "delta": {
+          "confirmed": 18
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5554,7 +5620,7 @@
           }
         },
         "total": {
-          "confirmed": 273,
+          "confirmed": 291,
           "deceased": 2,
           "recovered": 215,
           "tested": 2577
@@ -5574,6 +5640,9 @@
         }
       },
       "Sambalpur": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-17",
@@ -5581,29 +5650,35 @@
           }
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 70,
           "recovered": 36,
           "tested": 2007
         }
       },
       "Subarnapur": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 610183
         },
         "total": {
-          "confirmed": 37,
+          "confirmed": 39,
           "recovered": 35
         }
       },
       "Sundargarh": {
+        "delta": {
+          "confirmed": 36
+        },
         "total": {
-          "confirmed": 220,
+          "confirmed": 256,
           "recovered": 176
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T17:20:27+05:30",
+      "last_updated": "2020-07-04T10:53:27+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -5611,7 +5686,7 @@
       }
     },
     "total": {
-      "confirmed": 8106,
+      "confirmed": 8601,
       "deceased": 37,
       "recovered": 5705,
       "tested": 281523
@@ -6562,7 +6637,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T22:56:26+05:30",
+      "last_updated": "2020-07-04T10:49:27+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-03"
@@ -7558,12 +7633,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -798,
+      "confirmed": -303,
       "deceased": 3,
       "recovered": 71
     },
     "meta": {
-      "last_updated": "2020-07-04T10:36:25+05:30",
+      "last_updated": "2020-07-04T10:53:24+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -7571,7 +7646,7 @@
       }
     },
     "total": {
-      "confirmed": 649091,
+      "confirmed": 649586,
       "deceased": 18672,
       "migrated": 66,
       "recovered": 394390,
