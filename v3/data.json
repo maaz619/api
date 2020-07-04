@@ -1824,6 +1824,10 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 23,
+      "recovered": 9
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1833,12 +1837,16 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 23,
+          "recovered": 9
+        },
         "meta": {
           "population": 191173
         },
         "total": {
-          "confirmed": 130,
-          "recovered": 54
+          "confirmed": 153,
+          "recovered": 63
         }
       },
       "Diu": {
@@ -1849,7 +1857,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-03T19:05:28+05:30",
+      "last_updated": "2020-07-04T15:03:28+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1857,9 +1865,9 @@
       }
     },
     "total": {
-      "confirmed": 304,
+      "confirmed": 327,
       "migrated": 1,
-      "recovered": 133,
+      "recovered": 142,
       "tested": 33618
     }
   },
@@ -3356,15 +3364,15 @@
       "Kalaburagi": {
         "meta": {
           "tested": {
-            "last_updated": "2020-07-02",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/864"
+            "last_updated": "2020-07-03",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/888"
           }
         },
         "total": {
           "confirmed": 1560,
           "deceased": 22,
           "recovered": 1143,
-          "tested": 65414
+          "tested": 66955
         }
       },
       "Kodagu": {
@@ -7841,12 +7849,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 542,
+      "confirmed": 565,
       "deceased": 22,
-      "recovered": 474
+      "recovered": 483
     },
     "meta": {
-      "last_updated": "2020-07-04T14:46:25+05:30",
+      "last_updated": "2020-07-04T15:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -7854,10 +7862,10 @@
       }
     },
     "total": {
-      "confirmed": 650431,
+      "confirmed": 650454,
       "deceased": 18691,
       "migrated": 66,
-      "recovered": 394793,
+      "recovered": 394802,
       "tested": 9540132
     }
   },
