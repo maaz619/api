@@ -2777,8 +2777,9 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 8,
-      "recovered": 15
+      "confirmed": 13,
+      "recovered": 25,
+      "tested": 1903
     },
     "districts": {
       "Bilaspur": {
@@ -2799,18 +2800,19 @@
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 9,
+          "recovered": 3
         },
         "total": {
-          "confirmed": 263,
+          "confirmed": 265,
           "deceased": 2,
-          "recovered": 175
+          "recovered": 178
         }
       },
       "Kangra": {
         "delta": {
           "confirmed": 1,
-          "recovered": 2
+          "recovered": 8
         },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally"
@@ -2818,7 +2820,7 @@
         "total": {
           "confirmed": 283,
           "deceased": 3,
-          "recovered": 187
+          "recovered": 193
         }
       },
       "Kinnaur": {
@@ -2877,21 +2879,25 @@
       },
       "Solan": {
         "delta": {
+          "confirmed": 3,
           "recovered": 5
         },
         "meta": {
           "population": 580320
         },
         "total": {
-          "confirmed": 111,
+          "confirmed": 114,
           "migrated": 4,
           "recovered": 66
         }
       },
       "Una": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 119,
-          "recovered": 94
+          "recovered": 95
         }
       },
       "Unknown": {
@@ -2901,20 +2907,20 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T18:24:29+05:30",
+      "last_updated": "2020-07-04T22:13:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://twitter.com/nhm_hp/status/1279090572263698438?s=20"
+        "last_updated": "2020-07-04",
+        "source": "https://twitter.com/nhm_hp/status/1279453210084696064?s=20"
       }
     },
     "total": {
-      "confirmed": 1041,
+      "confirmed": 1046,
       "deceased": 9,
       "migrated": 13,
-      "recovered": 686,
-      "tested": 85116
+      "recovered": 696,
+      "tested": 87019
     }
   },
   "HR": {
@@ -3450,7 +3456,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T22:03:28+05:30",
+      "last_updated": "2020-07-04T22:10:27+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-04"
@@ -9373,12 +9379,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22751,
+      "confirmed": 22756,
       "deceased": 610,
-      "recovered": 14306
+      "recovered": 14316
     },
     "meta": {
-      "last_updated": "2020-07-04T22:03:25+05:30",
+      "last_updated": "2020-07-04T22:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -9386,10 +9392,10 @@
       }
     },
     "total": {
-      "confirmed": 672637,
+      "confirmed": 672642,
       "deceased": 19279,
       "migrated": 66,
-      "recovered": 408625,
+      "recovered": 408635,
       "tested": 9540132
     }
   },
