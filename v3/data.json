@@ -1819,14 +1819,13 @@
       "South Goa": {
         "total": {
           "confirmed": 875,
-          "deceased": 2,
+          "deceased": 4,
           "recovered": 276
         }
       },
       "Unknown": {
         "total": {
           "confirmed": 468,
-          "deceased": 2,
           "recovered": 486
         }
       }
@@ -2344,9 +2343,6 @@
     }
   },
   "HP": {
-    "delta": {
-      "deceased": 1
-    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2364,7 +2360,7 @@
       "Hamirpur": {
         "total": {
           "confirmed": 265,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 178
         }
       },
@@ -2440,17 +2436,13 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
         "total": {
-          "deceased": 1,
           "migrated": -3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T12:36:37+05:30",
+      "last_updated": "2020-07-05T12:39:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4195,6 +4187,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "East Jaintia Hills": {
         "total": {
@@ -4202,11 +4197,14 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 825922
         },
         "total": {
-          "confirmed": 36,
+          "confirmed": 37,
           "deceased": 1,
           "recovered": 17
         }
@@ -4262,7 +4260,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T20:48:36+05:30",
+      "last_updated": "2020-07-05T12:46:45+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4271,7 +4269,7 @@
       }
     },
     "total": {
-      "confirmed": 70,
+      "confirmed": 71,
       "deceased": 1,
       "recovered": 43,
       "tested": 20504
@@ -7792,12 +7790,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 408,
-      "deceased": 10,
+      "confirmed": 409,
+      "deceased": 9,
       "recovered": 66
     },
     "meta": {
-      "last_updated": "2020-07-05T12:36:26+05:30",
+      "last_updated": "2020-07-05T12:46:28+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7805,7 +7803,7 @@
       }
     },
     "total": {
-      "confirmed": 674312,
+      "confirmed": 674313,
       "deceased": 19289,
       "migrated": 66,
       "recovered": 409131,
