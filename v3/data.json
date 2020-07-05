@@ -945,7 +945,8 @@
     "delta": {
       "confirmed": 403,
       "deceased": 2,
-      "recovered": 277
+      "recovered": 277,
+      "tested": 6799
     },
     "districts": {
       "Araria": {
@@ -1431,15 +1432,15 @@
       "last_updated": "2020-07-05T17:59:27+05:30",
       "population": 119520000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/PIB_Patna/status/1279373036194594817"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/PIB_Patna/status/1279747205037912066"
       }
     },
     "total": {
       "confirmed": 11860,
       "deceased": 90,
       "recovered": 8765,
-      "tested": 251097
+      "tested": 257896
     }
   },
   "CH": {
@@ -1886,6 +1887,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2244,
+      "deceased": 63,
+      "recovered": 3083
+    },
     "districts": {
       "Central Delhi": {
         "total": {
@@ -1946,10 +1952,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2244,
+          "deceased": 63,
+          "recovered": 3083
+        },
         "total": {
-          "confirmed": 96412,
-          "deceased": 3003,
-          "recovered": 68256
+          "confirmed": 98656,
+          "deceased": 3066,
+          "recovered": 71339
         }
       },
       "West Delhi": {
@@ -1959,7 +1970,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:49:26+05:30",
+      "last_updated": "2020-07-05T18:53:27+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -1968,9 +1979,9 @@
       }
     },
     "total": {
-      "confirmed": 97200,
-      "deceased": 3004,
-      "recovered": 68256,
+      "confirmed": 99444,
+      "deceased": 3067,
+      "recovered": 71339,
       "tested": 620368
     }
   },
@@ -8137,13 +8148,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3147,
-      "deceased": 37,
+      "confirmed": 5391,
+      "deceased": 100,
       "migrated": 2,
-      "recovered": 1929
+      "recovered": 5012
     },
     "meta": {
-      "last_updated": "2020-07-05T18:34:25+05:30",
+      "last_updated": "2020-07-05T18:54:32+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -8151,10 +8162,10 @@
       }
     },
     "total": {
-      "confirmed": 677051,
-      "deceased": 19317,
+      "confirmed": 679295,
+      "deceased": 19380,
       "migrated": 68,
-      "recovered": 410994,
+      "recovered": 414077,
       "tested": 9789066
     }
   },
