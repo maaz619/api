@@ -1016,7 +1016,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T22:03:28+05:30",
+      "last_updated": "2020-07-05T22:13:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -3499,15 +3499,19 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 25
+      "confirmed": 68,
+      "recovered": 10
     },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2061918
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 51,
           "deceased": 2,
           "recovered": 34
         }
@@ -3522,20 +3526,26 @@
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1491879
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 50,
           "recovered": 35
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 183,
+          "confirmed": 189,
           "recovered": 122
         }
       },
@@ -3550,13 +3560,13 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 15
         },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 482,
+          "confirmed": 495,
           "deceased": 1,
           "recovered": 246
         }
@@ -3571,11 +3581,14 @@
         }
       },
       "Giridih": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2445203
         },
         "total": {
-          "confirmed": 103,
+          "confirmed": 104,
           "deceased": 2,
           "recovered": 80
         }
@@ -3619,24 +3632,27 @@
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 530299
         },
         "total": {
-          "confirmed": 31,
+          "confirmed": 32,
           "deceased": 1,
           "recovered": 27
         }
       },
       "Koderma": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 6
         },
         "meta": {
           "population": 717169
         },
         "total": {
-          "confirmed": 197,
+          "confirmed": 200,
           "deceased": 1,
           "recovered": 151
         }
@@ -3663,23 +3679,26 @@
         }
       },
       "Pakur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 899200
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 35,
           "recovered": 30
         }
       },
       "Palamu": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 2
         },
         "meta": {
           "population": 1936319
         },
         "total": {
-          "confirmed": 67,
+          "confirmed": 68,
           "recovered": 59
         }
       },
@@ -3694,7 +3713,8 @@
       },
       "Ranchi": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "recovered": 2
         },
         "meta": {
           "population": 2912022
@@ -3702,26 +3722,33 @@
         "total": {
           "confirmed": 267,
           "deceased": 4,
-          "recovered": 167
+          "recovered": 169
         }
       },
       "Sahibganj": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1150038
         },
         "total": {
-          "confirmed": 16,
+          "confirmed": 17,
           "deceased": 2,
           "recovered": 3
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 3
+        },
         "meta": {
           "population": 1063458
         },
         "total": {
-          "confirmed": 80,
-          "recovered": 35
+          "confirmed": 84,
+          "recovered": 38
         }
       },
       "Simdega": {
@@ -3737,6 +3764,16 @@
           "recovered": 348
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 5
+        },
+        "total": {
+          "confirmed": 10,
+          "recovered": 5
+        }
+      },
       "West Singhbhum": {
         "meta": {
           "population": 1501619
@@ -3748,7 +3785,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T20:17:34+05:30",
+      "last_updated": "2020-07-05T22:13:30+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -3756,9 +3793,9 @@
       }
     },
     "total": {
-      "confirmed": 2764,
+      "confirmed": 2807,
       "deceased": 18,
-      "recovered": 2035,
+      "recovered": 2045,
       "tested": 154618
     }
   },
@@ -9216,7 +9253,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T22:00:28+05:30",
+      "last_updated": "2020-07-05T22:05:29+05:30",
       "population": 37220000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -10114,13 +10151,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 23122,
+      "confirmed": 23165,
       "deceased": 419,
       "migrated": 17,
-      "recovered": 15810
+      "recovered": 15820
     },
     "meta": {
-      "last_updated": "2020-07-05T22:03:25+05:30",
+      "last_updated": "2020-07-05T22:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10128,10 +10165,10 @@
       }
     },
     "total": {
-      "confirmed": 697026,
+      "confirmed": 697069,
       "deceased": 19699,
       "migrated": 83,
-      "recovered": 424875,
+      "recovered": 424885,
       "tested": 9789066
     }
   },
