@@ -1970,7 +1970,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T18:53:27+05:30",
+      "last_updated": "2020-07-05T19:02:31+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -3812,125 +3812,182 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 225,
+      "recovered": 126
+    },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "population": 2127789
         },
         "total": {
-          "confirmed": 365,
+          "confirmed": 378,
           "deceased": 1,
           "recovered": 181
         }
       },
       "Ernakulam": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 304,
+          "confirmed": 316,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 120
+          "recovered": 130
         }
       },
       "Idukki": {
+        "delta": {
+          "confirmed": 6
+        },
         "total": {
-          "confirmed": 121,
+          "confirmed": 127,
           "recovered": 74
         }
       },
       "Kannur": {
+        "delta": {
+          "confirmed": 25,
+          "recovered": 3
+        },
         "total": {
-          "confirmed": 564,
+          "confirmed": 589,
           "deceased": 5,
-          "recovered": 323
+          "recovered": 326
         }
       },
       "Kasaragod": {
+        "delta": {
+          "confirmed": 28
+        },
         "meta": {
           "population": 1307375
         },
         "total": {
-          "confirmed": 488,
+          "confirmed": 516,
           "recovered": 390
         }
       },
       "Kollam": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 31
+        },
         "total": {
-          "confirmed": 395,
+          "confirmed": 405,
           "deceased": 2,
-          "recovered": 198
+          "recovered": 229
         }
       },
       "Kottayam": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 3
+        },
         "meta": {
           "population": 1974551
         },
         "total": {
-          "confirmed": 254,
+          "confirmed": 262,
           "deceased": 1,
-          "recovered": 143
+          "recovered": 146
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 20,
+          "recovered": 5
+        },
         "total": {
-          "confirmed": 297,
+          "confirmed": 317,
           "deceased": 2,
-          "recovered": 197
+          "recovered": 202
         }
       },
       "Malappuram": {
+        "delta": {
+          "confirmed": 26,
+          "recovered": 28
+        },
         "meta": {
           "population": 4112920
         },
         "total": {
-          "confirmed": 631,
+          "confirmed": 657,
           "deceased": 4,
-          "recovered": 352
+          "recovered": 380
         }
       },
       "Palakkad": {
+        "delta": {
+          "confirmed": 29,
+          "recovered": 7
+        },
         "total": {
-          "confirmed": 607,
+          "confirmed": 636,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 422
+          "recovered": 429
         }
       },
       "Pathanamthitta": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 10
+        },
         "meta": {
           "population": 1197412
         },
         "total": {
-          "confirmed": 351,
-          "recovered": 157
+          "confirmed": 354,
+          "recovered": 167
         }
       },
       "Thiruvananthapuram": {
+        "delta": {
+          "confirmed": 27,
+          "recovered": 11
+        },
         "total": {
-          "confirmed": 257,
+          "confirmed": 284,
           "deceased": 5,
-          "recovered": 161
+          "recovered": 172
         }
       },
       "Thrissur": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 12
+        },
         "meta": {
           "population": 3121200
         },
         "total": {
-          "confirmed": 469,
+          "confirmed": 481,
           "deceased": 3,
-          "recovered": 266
+          "recovered": 278
         }
       },
       "Wayanad": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 6
+        },
         "total": {
-          "confirmed": 102,
+          "confirmed": 108,
           "deceased": 1,
-          "recovered": 64
+          "recovered": 70
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T18:48:29+05:30",
+      "last_updated": "2020-07-05T19:03:28+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -3939,10 +3996,10 @@
       }
     },
     "total": {
-      "confirmed": 5205,
+      "confirmed": 5430,
       "deceased": 26,
       "migrated": 2,
-      "recovered": 3048,
+      "recovered": 3174,
       "tested": 260011
     }
   },
@@ -8148,13 +8205,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5391,
+      "confirmed": 5616,
       "deceased": 100,
       "migrated": 2,
-      "recovered": 5012
+      "recovered": 5138
     },
     "meta": {
-      "last_updated": "2020-07-05T18:54:32+05:30",
+      "last_updated": "2020-07-05T19:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -8162,10 +8219,10 @@
       }
     },
     "total": {
-      "confirmed": 679295,
+      "confirmed": 679520,
       "deceased": 19380,
       "migrated": 68,
-      "recovered": 414077,
+      "recovered": 414203,
       "tested": 9789066
     }
   },
