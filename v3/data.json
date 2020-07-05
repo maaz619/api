@@ -1827,6 +1827,10 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 19,
+      "recovered": 7
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "total": {
@@ -1836,12 +1840,16 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 19,
+          "recovered": 7
+        },
         "meta": {
           "population": 191173
         },
         "total": {
-          "confirmed": 153,
-          "recovered": 63
+          "confirmed": 172,
+          "recovered": 70
         }
       },
       "Diu": {
@@ -1860,9 +1868,9 @@
       }
     },
     "total": {
-      "confirmed": 341,
+      "confirmed": 360,
       "migrated": 1,
-      "recovered": 142,
+      "recovered": 149,
       "tested": 33618
     }
   },
@@ -1886,14 +1894,14 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 881,
+          "confirmed": 921,
           "deceased": 4,
           "recovered": 322
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 446,
+          "confirmed": 406,
           "recovered": 402
         }
       }
@@ -7927,9 +7935,9 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1549,
+      "confirmed": 1568,
       "deceased": 23,
-      "recovered": 718
+      "recovered": 725
     },
     "meta": {
       "last_updated": "2020-07-05T15:16:25+05:30",
@@ -7940,10 +7948,10 @@
       }
     },
     "total": {
-      "confirmed": 675453,
+      "confirmed": 675472,
       "deceased": 19303,
       "migrated": 66,
-      "recovered": 409783,
+      "recovered": 409790,
       "tested": 9789066
     }
   },
