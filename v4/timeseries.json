@@ -7049,13 +7049,14 @@
       },
       "2020-07-05": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "tested": 210
         },
         "total": {
           "confirmed": 466,
           "deceased": 6,
           "recovered": 395,
-          "tested": 8209
+          "tested": 8419
         }
       }
     }
@@ -9784,13 +9785,14 @@
         "delta": {
           "confirmed": 2244,
           "deceased": 63,
-          "recovered": 3083
+          "recovered": 3083,
+          "tested": 23136
         },
         "total": {
           "confirmed": 99444,
           "deceased": 3067,
           "recovered": 71339,
-          "tested": 620368
+          "tested": 643504
         }
       }
     }
@@ -21716,14 +21718,15 @@
       "2020-07-05": {
         "delta": {
           "confirmed": 225,
-          "recovered": 126
+          "recovered": 126,
+          "tested": 8207
         },
         "total": {
           "confirmed": 5430,
           "deceased": 26,
           "migrated": 2,
           "recovered": 3174,
-          "tested": 260011
+          "tested": 268218
         }
       }
     }
@@ -41116,16 +41119,16 @@
       },
       "2020-07-05": {
         "delta": {
-          "confirmed": 5616,
+          "confirmed": 5647,
           "deceased": 100,
-          "migrated": 2,
-          "recovered": 5138
+          "migrated": 3,
+          "recovered": 5160
         },
         "total": {
-          "confirmed": 679520,
+          "confirmed": 679551,
           "deceased": 19380,
-          "migrated": 68,
-          "recovered": 414203,
+          "migrated": 69,
+          "recovered": 414225,
           "tested": 9789066
         }
       }
@@ -44374,11 +44377,16 @@
         }
       },
       "2020-07-05": {
+        "delta": {
+          "confirmed": 31,
+          "migrated": 1,
+          "recovered": 22
+        },
         "total": {
-          "confirmed": 3093,
+          "confirmed": 3124,
           "deceased": 42,
-          "migrated": 27,
-          "recovered": 2502,
+          "migrated": 28,
+          "recovered": 2524,
           "tested": 76878
         }
       }
