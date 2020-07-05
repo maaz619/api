@@ -4212,7 +4212,7 @@
           "population": 258840
         },
         "total": {
-          "confirmed": 9
+          "confirmed": 10
         }
       },
       "South West Garo Hills": {
@@ -4223,7 +4223,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 3,
+          "confirmed": 2,
           "recovered": 12
         }
       },
@@ -5181,8 +5181,14 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 15
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5190,7 +5196,7 @@
           }
         },
         "total": {
-          "confirmed": 87,
+          "confirmed": 99,
           "recovered": 29,
           "tested": 896
         }
@@ -5209,6 +5215,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5216,7 +5225,7 @@
           }
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "recovered": 14,
           "tested": 485
         }
@@ -5230,6 +5239,9 @@
         }
       },
       "Mokokchung": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-05-27",
@@ -5237,7 +5249,7 @@
           }
         },
         "total": {
-          "confirmed": 1,
+          "confirmed": 2,
           "tested": 63
         }
       },
@@ -5318,13 +5330,16 @@
         }
       },
       "Zunheboto": {
+        "delta": {
+          "confirmed": 1
+        },
         "total": {
-          "confirmed": 5
+          "confirmed": 6
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T20:56:43+05:30",
+      "last_updated": "2020-07-05T09:46:28+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5332,7 +5347,7 @@
       }
     },
     "total": {
-      "confirmed": 563,
+      "confirmed": 578,
       "recovered": 228,
       "tested": 19263
     }
@@ -6631,7 +6646,7 @@
     "districts": {
       "East Sikkim": {
         "total": {
-          "confirmed": 41,
+          "confirmed": 42,
           "recovered": 14
         }
       },
@@ -6649,7 +6664,7 @@
       },
       "Unknown": {
         "total": {
-          "confirmed": 2
+          "confirmed": 1
         }
       },
       "West Sikkim": {
@@ -7607,10 +7622,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28
+      "confirmed": 43
     },
     "meta": {
-      "last_updated": "2020-07-05T09:26:25+05:30",
+      "last_updated": "2020-07-05T09:46:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7618,7 +7633,7 @@
       }
     },
     "total": {
-      "confirmed": 673932,
+      "confirmed": 673947,
       "deceased": 19279,
       "migrated": 66,
       "recovered": 409065,
