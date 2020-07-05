@@ -5456,7 +5456,7 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 94
+          "confirmed": 98
         },
         "meta": {
           "population": 2624470,
@@ -5466,7 +5466,7 @@
           }
         },
         "total": {
-          "confirmed": 809,
+          "confirmed": 813,
           "deceased": 6,
           "recovered": 513,
           "tested": 5720
@@ -5555,7 +5555,8 @@
       },
       "Jajpur": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 25,
+          "recovered": 8
         },
         "meta": {
           "population": 1827192,
@@ -5566,7 +5567,7 @@
         },
         "total": {
           "confirmed": 566,
-          "recovered": 391,
+          "recovered": 399,
           "tested": 10621
         }
       },
@@ -5738,14 +5739,8 @@
         }
       },
       "Others": {
-        "delta": {
-          "confirmed": 4
-        },
         "meta": {
           "notes": "Includes NDRF-ODRF returnees after West Bengal Amphan duty"
-        },
-        "total": {
-          "confirmed": 4
         }
       },
       "Puri": {
@@ -5812,6 +5807,14 @@
           "confirmed": 322,
           "deceased": 1,
           "recovered": 180
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": -8
+        },
+        "total": {
+          "recovered": -8
         }
       }
     },
