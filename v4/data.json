@@ -699,6 +699,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "recovered": 690
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -993,11 +996,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 690
+        },
         "total": {
           "confirmed": 4435,
           "deceased": 7,
           "migrated": 3,
-          "recovered": 5828
+          "recovered": 6518
         }
       },
       "West Karbi Anglong": {
@@ -1010,7 +1016,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T01:36:27+05:30",
+      "last_updated": "2020-07-05T22:03:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1022,7 +1028,7 @@
       "confirmed": 11002,
       "deceased": 14,
       "migrated": 3,
-      "recovered": 6744,
+      "recovered": 7434,
       "tested": 449629
     }
   },
@@ -3153,7 +3159,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T21:53:36+05:30",
+      "last_updated": "2020-07-05T21:57:30+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4125,13 +4131,14 @@
         "delta": {
           "confirmed": 1235,
           "deceased": 16,
-          "recovered": 302
+          "recovered": 302,
+          "tested": 3874
         },
         "meta": {
           "population": 9588910,
           "tested": {
-            "last_updated": "2020-07-03",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/887"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/932"
           }
         },
         "total": {
@@ -4139,7 +4146,7 @@
           "deceased": 145,
           "migrated": 1,
           "recovered": 1268,
-          "tested": 120557
+          "tested": 124431
         }
       },
       "Bidar": {
@@ -4281,20 +4288,21 @@
         "delta": {
           "confirmed": 45,
           "deceased": 1,
-          "recovered": 22
+          "recovered": 22,
+          "tested": 450
         },
         "meta": {
           "population": 1846993,
           "tested": {
-            "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/900"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/933"
           }
         },
         "total": {
           "confirmed": 555,
           "deceased": 12,
           "recovered": 232,
-          "tested": 27151
+          "tested": 27601
         }
       },
       "Gadag": {
@@ -8742,7 +8750,8 @@
     "delta": {
       "confirmed": 22,
       "migrated": 13,
-      "recovered": 9
+      "recovered": 9,
+      "tested": 145
     },
     "districts": {
       "East Sikkim": {
@@ -8799,22 +8808,22 @@
       "last_updated": "2020-07-05T21:17:37+05:30",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/915"
+        "last_updated": "2020-07-05"
       }
     },
     "total": {
       "confirmed": 125,
       "migrated": 13,
       "recovered": 61,
-      "tested": 11242
+      "tested": 11387
     }
   },
   "TG": {
     "delta": {
       "confirmed": 1590,
       "deceased": 7,
-      "recovered": 1166
+      "recovered": 1166,
+      "tested": 5290
     },
     "districts": {
       "Adilabad": {
@@ -9207,18 +9216,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T21:53:33+05:30",
+      "last_updated": "2020-07-05T22:00:28+05:30",
       "population": 37220000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/IPRTelangana/status/1279436939456729088?s=20"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/Eatala_Rajender/status/1279811840869109761?s=20"
       }
     },
     "total": {
       "confirmed": 23902,
       "deceased": 295,
       "recovered": 12703,
-      "tested": 110545
+      "tested": 115835
     }
   },
   "TN": {
@@ -10108,10 +10117,10 @@
       "confirmed": 23122,
       "deceased": 419,
       "migrated": 17,
-      "recovered": 15120
+      "recovered": 15810
     },
     "meta": {
-      "last_updated": "2020-07-05T21:53:28+05:30",
+      "last_updated": "2020-07-05T22:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10122,7 +10131,7 @@
       "confirmed": 697026,
       "deceased": 19699,
       "migrated": 83,
-      "recovered": 424185,
+      "recovered": 424875,
       "tested": 9789066
     }
   },
@@ -11460,7 +11469,8 @@
       "notes": "28 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
-        "last_updated": "2020-07-05"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/PIBDehradun/status/1279785858426494978?s=20"
       }
     },
     "total": {
