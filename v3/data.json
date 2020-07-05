@@ -344,6 +344,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 10,
+      "recovered": 2
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -370,6 +374,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -378,7 +385,7 @@
           }
         },
         "total": {
-          "confirmed": 89,
+          "confirmed": 91,
           "recovered": 37,
           "tested": 4603
         }
@@ -523,6 +530,9 @@
         }
       },
       "Lower Subansiri": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 82839,
           "tested": {
@@ -531,10 +541,14 @@
           }
         },
         "total": {
+          "confirmed": 2,
           "tested": 530
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 95950,
           "tested": {
@@ -543,7 +557,7 @@
           }
         },
         "total": {
-          "confirmed": 13,
+          "confirmed": 15,
           "recovered": 3,
           "tested": 1622
         }
@@ -562,6 +576,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -570,7 +587,7 @@
           }
         },
         "total": {
-          "confirmed": 90,
+          "confirmed": 93,
           "recovered": 8,
           "tested": 732
         }
@@ -627,6 +644,14 @@
           "tested": 1566
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 2
+        },
+        "total": {
+          "recovered": 2
+        }
+      },
       "Upper Siang": {
         "meta": {
           "population": 35289,
@@ -642,6 +667,9 @@
         }
       },
       "Upper Subansiri": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 83205,
           "tested": {
@@ -650,6 +678,7 @@
           }
         },
         "total": {
+          "confirmed": 1,
           "tested": 488
         }
       },
@@ -684,7 +713,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T00:34:28+05:30",
+      "last_updated": "2020-07-05T23:13:28+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -692,15 +721,16 @@
       }
     },
     "total": {
-      "confirmed": 259,
+      "confirmed": 269,
       "deceased": 1,
-      "recovered": 76,
+      "recovered": 78,
       "tested": 26569
     }
   },
   "AS": {
     "delta": {
-      "recovered": 690
+      "recovered": 690,
+      "tested": 9514
     },
     "districts": {
       "Airport Quarantine": {
@@ -1020,8 +1050,7 @@
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/nhm_assam/status/1279459455118106624?s=20"
+        "last_updated": "2020-07-05"
       }
     },
     "total": {
@@ -1029,7 +1058,7 @@
       "deceased": 14,
       "migrated": 3,
       "recovered": 7434,
-      "tested": 449629
+      "tested": 459143
     }
   },
   "BR": {
@@ -1638,7 +1667,8 @@
   "CT": {
     "delta": {
       "confirmed": 46,
-      "recovered": 52
+      "recovered": 52,
+      "tested": 2854
     },
     "districts": {
       "Balod": {
@@ -2105,15 +2135,15 @@
       "last_updated": "2020-07-05T20:57:32+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/HealthCgGov/status/1279414616372600837?s=20"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/HealthCgGov/status/1279775615030190081?s=20"
       }
     },
     "total": {
       "confirmed": 3207,
       "deceased": 14,
       "recovered": 2578,
-      "tested": 179782
+      "tested": 182636
     }
   },
   "DL": {
@@ -2338,6 +2368,7 @@
       "South Goa": {
         "delta": {
           "confirmed": 7,
+          "deceased": 1,
           "recovered": 82
         },
         "meta": {
@@ -2345,25 +2376,23 @@
         },
         "total": {
           "confirmed": 932,
-          "deceased": 4,
+          "deceased": 5,
           "recovered": 404
         }
       },
       "Unknown": {
         "delta": {
           "confirmed": 19,
-          "deceased": 1,
           "recovered": 21
         },
         "total": {
           "confirmed": 421,
-          "deceased": 1,
           "recovered": 423
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:05:31+05:30",
+      "last_updated": "2020-07-05T23:10:31+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -3798,7 +3827,8 @@
       "last_updated": "2020-07-05T22:27:28+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2020-07-05"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/FOBGumla/status/1279819512066392065?s=20"
       }
     },
     "total": {
@@ -10167,7 +10197,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:05:29+05:30",
+      "last_updated": "2020-07-05T23:10:28+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10183,13 +10213,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 23187,
+      "confirmed": 23197,
       "deceased": 420,
       "migrated": 17,
-      "recovered": 15820
+      "recovered": 15822
     },
     "meta": {
-      "last_updated": "2020-07-05T23:05:25+05:30",
+      "last_updated": "2020-07-05T23:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10197,10 +10227,10 @@
       }
     },
     "total": {
-      "confirmed": 697091,
+      "confirmed": 697101,
       "deceased": 19700,
       "migrated": 83,
-      "recovered": 424885,
+      "recovered": 424887,
       "tested": 9789066
     }
   },
