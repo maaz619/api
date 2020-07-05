@@ -723,6 +723,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 735,
       "recovered": 690,
       "tested": 9514
     },
@@ -888,11 +889,14 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 552
+        },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 3196,
+          "confirmed": 3748,
           "deceased": 6,
           "recovered": 383
         }
@@ -1021,10 +1025,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 183,
           "recovered": 690
         },
         "total": {
-          "confirmed": 4435,
+          "confirmed": 4618,
           "deceased": 7,
           "migrated": 3,
           "recovered": 6518
@@ -1040,7 +1045,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T22:16:28+05:30",
+      "last_updated": "2020-07-05T23:46:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1049,7 +1054,7 @@
       }
     },
     "total": {
-      "confirmed": 11002,
+      "confirmed": 11737,
       "deceased": 14,
       "migrated": 3,
       "recovered": 7434,
@@ -2336,14 +2341,14 @@
     "districts": {
       "North Goa": {
         "delta": {
-          "confirmed": 50,
+          "confirmed": 51,
           "recovered": 8
         },
         "meta": {
           "population": 817761
         },
         "total": {
-          "confirmed": 282,
+          "confirmed": 283,
           "deceased": 2,
           "recovered": 92
         }
@@ -2364,7 +2369,7 @@
         "delta": {
           "confirmed": 7,
           "deceased": 1,
-          "recovered": 82
+          "recovered": 85
         },
         "meta": {
           "population": 639962
@@ -2372,17 +2377,17 @@
         "total": {
           "confirmed": 932,
           "deceased": 5,
-          "recovered": 404
+          "recovered": 407
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 19,
-          "recovered": 21
+          "confirmed": 18,
+          "recovered": 18
         },
         "total": {
-          "confirmed": 421,
-          "recovered": 423
+          "confirmed": 420,
+          "recovered": 420
         }
       }
     },
@@ -10057,7 +10062,8 @@
   "TR": {
     "delta": {
       "confirmed": 22,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 1630
     },
     "districts": {
       "Dhalai": {
@@ -10197,29 +10203,28 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:35:28+05:30",
+      "last_updated": "2020-07-05T23:38:28+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/874"
+        "last_updated": "2020-07-05"
       }
     },
     "total": {
       "confirmed": 1580,
       "deceased": 1,
       "recovered": 1206,
-      "tested": 68634
+      "tested": 71521
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 23197,
+      "confirmed": 23932,
       "deceased": 420,
       "migrated": 17,
       "recovered": 15826
     },
     "meta": {
-      "last_updated": "2020-07-05T23:35:25+05:30",
+      "last_updated": "2020-07-05T23:46:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10227,7 +10232,7 @@
       }
     },
     "total": {
-      "confirmed": 697101,
+      "confirmed": 697836,
       "deceased": 19700,
       "migrated": 83,
       "recovered": 424891,
@@ -10250,7 +10255,8 @@
     "delta": {
       "confirmed": 1153,
       "deceased": 12,
-      "recovered": 607
+      "recovered": 607,
+      "tested": 29117
     },
     "districts": {
       "Agra": {
@@ -11313,15 +11319,14 @@
       "last_updated": "2020-07-05T18:34:27+05:30",
       "population": 224979000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/UPGovt/status/1279410339528900609?s=20"
+        "last_updated": "2020-07-05"
       }
     },
     "total": {
       "confirmed": 27707,
       "deceased": 785,
       "recovered": 18761,
-      "tested": 834951
+      "tested": 864068
     }
   },
   "UT": {
