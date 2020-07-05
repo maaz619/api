@@ -3489,7 +3489,8 @@
       "last_updated": "2020-07-05T20:07:33+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-05"
+        "last_updated": "2020-07-05",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2005-07-20%20Evening.pdf"
       }
     },
     "total": {
@@ -3562,13 +3563,13 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 15
+          "confirmed": 25
         },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 495,
+          "confirmed": 505,
           "deceased": 1,
           "recovered": 246
         }
@@ -3648,7 +3649,8 @@
       },
       "Koderma": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "recovered": 5
         },
         "meta": {
           "population": 717169
@@ -3656,7 +3658,7 @@
         "total": {
           "confirmed": 200,
           "deceased": 1,
-          "recovered": 151
+          "recovered": 156
         }
       },
       "Latehar": {
@@ -3764,16 +3766,6 @@
           "confirmed": 355,
           "deceased": 1,
           "recovered": 348
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 10,
-          "recovered": 5
-        },
-        "total": {
-          "confirmed": 10,
-          "recovered": 5
         }
       },
       "West Singhbhum": {
