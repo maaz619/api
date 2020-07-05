@@ -9395,96 +9395,104 @@
     "districts": {
       "Dhalai": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 28
         },
         "meta": {
           "population": 378230,
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 244,
           "recovered": 201,
-          "tested": 6838
+          "tested": 6866
         }
       },
       "Gomati": {
+        "delta": {
+          "tested": 87
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 179,
           "recovered": 110,
-          "tested": 6876
+          "tested": 6963
         }
       },
       "Khowai": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 49
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 80,
           "recovered": 32,
-          "tested": 3209
+          "tested": 3258
         }
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "tested": 247
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 51,
           "recovered": 16,
-          "tested": 13310
+          "tested": 13557
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "tested": 95
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 588,
           "recovered": 522,
-          "tested": 7960
+          "tested": 8055
         }
       },
       "South Tripura": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 89
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 139,
           "recovered": 79,
-          "tested": 7408
+          "tested": 7497
         }
       },
       "Unknown": {
@@ -9493,25 +9501,29 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "tested": 18
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 73,
           "recovered": 65,
-          "tested": 2712
+          "tested": 2730
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "tested": 644
         },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-03",
+            "last_updated": "2020-07-04",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -9519,7 +9531,7 @@
           "confirmed": 204,
           "deceased": 1,
           "recovered": 121,
-          "tested": 20321
+          "tested": 20965
         }
       }
     },
