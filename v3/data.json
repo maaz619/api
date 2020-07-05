@@ -1805,9 +1805,9 @@
           "population": 818008
         },
         "total": {
-          "confirmed": 127,
+          "confirmed": 160,
           "deceased": 2,
-          "recovered": 38
+          "recovered": 39
         }
       },
       "Other State": {
@@ -1818,16 +1818,16 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 827,
+          "confirmed": 856,
           "deceased": 2,
-          "recovered": 260
+          "recovered": 265
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 605,
+          "confirmed": 543,
           "deceased": 2,
-          "recovered": 518
+          "recovered": 512
         }
       }
     },
@@ -2344,6 +2344,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "deceased": 1
+    },
     "districts": {
       "Bilaspur": {
         "total": {
@@ -2437,13 +2440,17 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
+          "deceased": 1,
           "migrated": -3
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T23:37:30+05:30",
+      "last_updated": "2020-07-05T12:25:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2453,7 +2460,7 @@
     },
     "total": {
       "confirmed": 1046,
-      "deceased": 9,
+      "deceased": 10,
       "migrated": 13,
       "recovered": 696,
       "tested": 87019
@@ -3694,6 +3701,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 30952
+    },
     "districts": {
       "Ahmednagar": {
         "meta": {
@@ -4172,8 +4182,8 @@
       "notes": "16 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://t.co/AOKLdHSxQe?amp=1"
+        "last_updated": "2020-07-05",
+        "source": "https://t.co/Q3XSL0UWYl?amp=1"
       }
     },
     "total": {
@@ -4181,7 +4191,7 @@
       "deceased": 8671,
       "migrated": 16,
       "recovered": 108082,
-      "tested": 1085160
+      "tested": 1116112
     }
   },
   "ML": {
@@ -7783,11 +7793,11 @@
   "TT": {
     "delta": {
       "confirmed": 408,
-      "deceased": 9,
+      "deceased": 10,
       "recovered": 66
     },
     "meta": {
-      "last_updated": "2020-07-05T11:26:25+05:30",
+      "last_updated": "2020-07-05T12:25:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7796,7 +7806,7 @@
     },
     "total": {
       "confirmed": 674312,
-      "deceased": 19288,
+      "deceased": 19289,
       "migrated": 66,
       "recovered": 409131,
       "tested": 9789066
