@@ -5194,7 +5194,8 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 22
+      "confirmed": 22,
+      "recovered": 2
     },
     "districts": {
       "Aizawl": {
@@ -5216,9 +5217,12 @@
         }
       },
       "Khawzawl": {
+        "delta": {
+          "recovered": 2
+        },
         "total": {
           "confirmed": 3,
-          "recovered": 1
+          "recovered": 3
         }
       },
       "Kolasib": {
@@ -5283,7 +5287,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T09:06:29+05:30",
+      "last_updated": "2020-07-05T15:03:27+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5292,7 +5296,7 @@
     },
     "total": {
       "confirmed": 186,
-      "recovered": 130,
+      "recovered": 132,
       "tested": 14509
     }
   },
@@ -7925,10 +7929,10 @@
     "delta": {
       "confirmed": 1549,
       "deceased": 23,
-      "recovered": 716
+      "recovered": 718
     },
     "meta": {
-      "last_updated": "2020-07-05T14:48:25+05:30",
+      "last_updated": "2020-07-05T15:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7939,7 +7943,7 @@
       "confirmed": 675453,
       "deceased": 19303,
       "migrated": 66,
-      "recovered": 409781,
+      "recovered": 409783,
       "tested": 9789066
     }
   },
