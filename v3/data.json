@@ -346,7 +346,8 @@
   "AR": {
     "delta": {
       "confirmed": 10,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 239
     },
     "districts": {
       "Anjaw": {
@@ -577,7 +578,8 @@
       },
       "Papum Pare": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 2
         },
         "meta": {
           "population": 176385,
@@ -588,7 +590,7 @@
         },
         "total": {
           "confirmed": 93,
-          "recovered": 8,
+          "recovered": 10,
           "tested": 732
         }
       },
@@ -642,14 +644,6 @@
           "confirmed": 5,
           "recovered": 2,
           "tested": 1566
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": 2
-        },
-        "total": {
-          "recovered": 2
         }
       },
       "Upper Siang": {
@@ -713,18 +707,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:23:32+05:30",
+      "last_updated": "2020-07-05T23:27:32+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/DirectorateofHS/status/1279486808204566528?s=20"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/DirectorateofHS/status/1279837920921219072?s=20"
       }
     },
     "total": {
       "confirmed": 269,
       "deceased": 1,
       "recovered": 78,
-      "tested": 26569
+      "tested": 26808
     }
   },
   "AS": {
@@ -10203,18 +10197,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:23:29+05:30",
+      "last_updated": "2020-07-05T23:35:28+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-04",
-        "source": "https://twitter.com/BjpBiplab/status/1279460275402403841?s=20"
+        "last_updated": "2020-07-03",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/874"
       }
     },
     "total": {
       "confirmed": 1580,
       "deceased": 1,
       "recovered": 1206,
-      "tested": 70084
+      "tested": 68634
     }
   },
   "TT": {
@@ -10225,7 +10219,7 @@
       "recovered": 15826
     },
     "meta": {
-      "last_updated": "2020-07-05T23:23:26+05:30",
+      "last_updated": "2020-07-05T23:35:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
