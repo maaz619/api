@@ -713,7 +713,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:13:28+05:30",
+      "last_updated": "2020-07-05T23:23:32+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -1050,7 +1050,8 @@
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-07-05"
+        "last_updated": "2020-07-05",
+        "source": "https://twitter.com/nhm_assam/status/1279802074213937152?s=20"
       }
     },
     "total": {
@@ -2392,7 +2393,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:10:31+05:30",
+      "last_updated": "2020-07-05T23:15:48+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -10061,7 +10062,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 22
+      "confirmed": 22,
+      "recovered": 4
     },
     "districts": {
       "Dhalai": {
@@ -10134,7 +10136,8 @@
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "recovered": 3
         },
         "meta": {
           "population": 484233,
@@ -10145,11 +10148,14 @@
         },
         "total": {
           "confirmed": 591,
-          "recovered": 528,
+          "recovered": 531,
           "tested": 8055
         }
       },
       "South Tripura": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 433737,
           "tested": {
@@ -10159,7 +10165,7 @@
         },
         "total": {
           "confirmed": 139,
-          "recovered": 99,
+          "recovered": 100,
           "tested": 7497
         }
       },
@@ -10197,7 +10203,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T23:10:28+05:30",
+      "last_updated": "2020-07-05T23:23:29+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10207,7 +10213,7 @@
     "total": {
       "confirmed": 1580,
       "deceased": 1,
-      "recovered": 1202,
+      "recovered": 1206,
       "tested": 70084
     }
   },
@@ -10216,10 +10222,10 @@
       "confirmed": 23197,
       "deceased": 420,
       "migrated": 17,
-      "recovered": 15822
+      "recovered": 15826
     },
     "meta": {
-      "last_updated": "2020-07-05T23:13:25+05:30",
+      "last_updated": "2020-07-05T23:23:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -10230,7 +10236,7 @@
       "confirmed": 697101,
       "deceased": 19700,
       "migrated": 83,
-      "recovered": 424887,
+      "recovered": 424891,
       "tested": 9789066
     }
   },
