@@ -1828,15 +1828,21 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 19,
-      "recovered": 7
+      "confirmed": 32,
+      "migrated": 2,
+      "recovered": 17
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 13,
+          "migrated": 2,
+          "recovered": 10
+        },
         "total": {
-          "confirmed": 173,
-          "migrated": 1,
-          "recovered": 68
+          "confirmed": 186,
+          "migrated": 3,
+          "recovered": 78
         }
       },
       "Daman": {
@@ -1860,7 +1866,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T15:56:29+05:30",
+      "last_updated": "2020-07-05T17:13:30+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1868,9 +1874,9 @@
       }
     },
     "total": {
-      "confirmed": 360,
-      "migrated": 1,
-      "recovered": 149,
+      "confirmed": 373,
+      "migrated": 3,
+      "recovered": 159,
       "tested": 33618
     }
   },
@@ -5209,7 +5215,7 @@
   "MZ": {
     "delta": {
       "confirmed": 22,
-      "recovered": 2
+      "recovered": 3
     },
     "districts": {
       "Aizawl": {
@@ -5274,14 +5280,15 @@
       },
       "Saiha": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 1
         },
         "meta": {
           "population": 56574
         },
         "total": {
           "confirmed": 22,
-          "recovered": 8
+          "recovered": 9
         }
       },
       "Saitual": {
@@ -5301,7 +5308,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T15:16:27+05:30",
+      "last_updated": "2020-07-05T17:13:27+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -5310,7 +5317,7 @@
     },
     "total": {
       "confirmed": 186,
-      "recovered": 132,
+      "recovered": 133,
       "tested": 14509
     }
   },
@@ -7936,12 +7943,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1569,
+      "confirmed": 1582,
       "deceased": 23,
-      "recovered": 725
+      "migrated": 2,
+      "recovered": 736
     },
     "meta": {
-      "last_updated": "2020-07-05T16:16:25+05:30",
+      "last_updated": "2020-07-05T17:09:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7949,10 +7957,10 @@
       }
     },
     "total": {
-      "confirmed": 675473,
+      "confirmed": 675486,
       "deceased": 19303,
-      "migrated": 66,
-      "recovered": 409790,
+      "migrated": 68,
+      "recovered": 409801,
       "tested": 9789066
     }
   },
