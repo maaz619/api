@@ -1860,7 +1860,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T15:53:28+05:30",
+      "last_updated": "2020-07-05T15:56:29+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-07-03",
@@ -1881,12 +1881,15 @@
           "population": 818008
         },
         "total": {
-          "confirmed": 234,
+          "confirmed": 232,
           "deceased": 2,
           "recovered": 84
         }
       },
       "Other State": {
+        "meta": {
+          "notes": "Travelled by Road,Train,Flight"
+        },
         "total": {
           "confirmed": 125,
           "recovered": 17
@@ -1894,7 +1897,7 @@
       },
       "South Goa": {
         "total": {
-          "confirmed": 923,
+          "confirmed": 925,
           "deceased": 4,
           "recovered": 322
         }
@@ -4304,7 +4307,7 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 1
+      "confirmed": 2
     },
     "districts": {
       "East Jaintia Hills": {
@@ -4332,11 +4335,14 @@
         }
       },
       "Ribhoi": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 258840
         },
         "total": {
-          "confirmed": 10
+          "confirmed": 11
         }
       },
       "South West Garo Hills": {
@@ -4376,7 +4382,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T12:56:29+05:30",
+      "last_updated": "2020-07-05T16:03:27+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4385,7 +4391,7 @@
       }
     },
     "total": {
-      "confirmed": 71,
+      "confirmed": 72,
       "deceased": 1,
       "recovered": 43,
       "tested": 20504
@@ -7935,12 +7941,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1568,
+      "confirmed": 1569,
       "deceased": 23,
       "recovered": 725
     },
     "meta": {
-      "last_updated": "2020-07-05T15:53:25+05:30",
+      "last_updated": "2020-07-05T16:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-04",
@@ -7948,7 +7954,7 @@
       }
     },
     "total": {
-      "confirmed": 675472,
+      "confirmed": 675473,
       "deceased": 19303,
       "migrated": 66,
       "recovered": 409790,
