@@ -3154,6 +3154,7 @@
       "Kangra": {
         "delta": {
           "confirmed": 6,
+          "migrated": 2,
           "recovered": 8
         },
         "meta": {
@@ -3162,6 +3163,7 @@
         "total": {
           "confirmed": 268,
           "deceased": 3,
+          "migrated": 2,
           "recovered": 153
         }
       },
@@ -3261,8 +3263,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "migrated": -2
+        },
         "total": {
-          "migrated": -3
+          "migrated": -5
         }
       }
     },
