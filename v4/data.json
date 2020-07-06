@@ -2710,7 +2710,6 @@
         "total": {
           "confirmed": 288,
           "deceased": 3,
-          "migrated": 2,
           "recovered": 200
         }
       },
@@ -2792,7 +2791,7 @@
       },
       "Unknown": {
         "total": {
-          "migrated": -5
+          "migrated": -3
         }
       }
     },
@@ -6963,6 +6962,7 @@
           "recovered": 22
         },
         "meta": {
+          "notes": "19cases(18 from TN & 1 from AP) have transferred so have been reduced from the total count",
           "population": 950289,
           "tested": {
             "last_updated": "2020-07-04",
@@ -8694,7 +8694,7 @@
       "confirmed": 1580,
       "deceased": 1,
       "recovered": 1206,
-      "tested": 71521
+      "tested": 71338
     }
   },
   "TT": {
