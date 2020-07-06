@@ -2313,7 +2313,8 @@
   "DN": {
     "delta": {
       "confirmed": 37,
-      "recovered": 9
+      "recovered": 9,
+      "tested": 377
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2355,15 +2356,14 @@
     "meta": {
       "population": 959000,
       "tested": {
-        "last_updated": "2020-07-03",
-        "source": "https://twitter.com/DnhPublicity/status/1279118072901599232?s=20"
+        "last_updated": "2020-07-04"
       }
     },
     "total": {
       "confirmed": 341,
       "migrated": 1,
       "recovered": 142,
-      "tested": 33618
+      "tested": 33995
     }
   },
   "GA": {
@@ -5891,7 +5891,7 @@
         },
         "total": {
           "confirmed": 38,
-          "recovered": 6
+          "recovered": 4
         }
       },
       "Churachandpur": {
@@ -5916,15 +5916,12 @@
         }
       },
       "Imphal West": {
-        "delta": {
-          "recovered": 16
-        },
         "meta": {
           "population": 514683
         },
         "total": {
           "confirmed": 91,
-          "recovered": 79
+          "recovered": 52
         }
       },
       "Jiribam": {
@@ -5942,7 +5939,7 @@
         },
         "total": {
           "confirmed": 89,
-          "recovered": 44
+          "recovered": 27
         }
       },
       "Kamjong": {
@@ -5977,15 +5974,14 @@
       },
       "Senapati": {
         "delta": {
-          "confirmed": 6,
-          "recovered": 8
+          "confirmed": 6
         },
         "meta": {
           "population": 354772
         },
         "total": {
           "confirmed": 120,
-          "recovered": 29
+          "recovered": 21
         }
       },
       "Tamenglong": {
@@ -6004,15 +6000,12 @@
         }
       },
       "Thoubal": {
-        "delta": {
-          "recovered": 4
-        },
         "meta": {
           "population": 420517
         },
         "total": {
           "confirmed": 59,
-          "recovered": 27
+          "recovered": 23
         }
       },
       "Ukhrul": {
@@ -6021,12 +6014,15 @@
         },
         "total": {
           "confirmed": 161,
-          "recovered": 26
+          "recovered": 18
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 28
+        },
         "total": {
-          "recovered": 208
+          "recovered": 274
         }
       }
     },
