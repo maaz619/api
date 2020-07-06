@@ -2153,7 +2153,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T19:37:27+05:30",
+      "last_updated": "2020-07-06T19:46:29+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -2289,7 +2289,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T19:37:31+05:30",
+      "last_updated": "2020-07-06T19:46:40+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -4250,7 +4250,8 @@
     "delta": {
       "confirmed": 193,
       "deceased": 2,
-      "recovered": 167
+      "recovered": 167,
+      "tested": 7605
     },
     "districts": {
       "Alappuzha": {
@@ -4454,8 +4455,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-05",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-5.pdf"
+        "last_updated": "2020-07-06"
       }
     },
     "total": {
@@ -4463,7 +4463,7 @@
       "deceased": 28,
       "migrated": 2,
       "recovered": 3341,
-      "tested": 268218
+      "tested": 275823
     }
   },
   "LA": {
@@ -4529,6 +4529,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 5368,
+      "deceased": 204,
+      "recovered": 3522,
       "tested": 22594
     },
     "districts": {
@@ -4988,6 +4991,18 @@
           "tested": 128925
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5368,
+          "deceased": 204,
+          "recovered": 3522
+        },
+        "total": {
+          "confirmed": 5368,
+          "deceased": 204,
+          "recovered": 3522
+        }
+      },
       "Wardha": {
         "meta": {
           "population": 1296157,
@@ -5030,7 +5045,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T21:06:27+05:30",
+      "last_updated": "2020-07-06T19:46:27+05:30",
       "notes": "17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5039,10 +5054,10 @@
       }
     },
     "total": {
-      "confirmed": 206619,
-      "deceased": 8822,
+      "confirmed": 211987,
+      "deceased": 9026,
       "migrated": 17,
-      "recovered": 111740,
+      "recovered": 115262,
       "tested": 1138706
     }
   },
@@ -6467,7 +6482,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T19:37:33+05:30",
+      "last_updated": "2020-07-06T19:46:42+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -8049,6 +8064,9 @@
     }
   },
   "SK": {
+    "delta": {
+      "recovered": 4
+    },
     "districts": {
       "East Sikkim": {
         "meta": {
@@ -8078,6 +8096,14 @@
           "recovered": 26
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 4
+        },
+        "total": {
+          "recovered": 4
+        }
+      },
       "West Sikkim": {
         "meta": {
           "population": 136299
@@ -8089,7 +8115,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T21:17:37+05:30",
+      "last_updated": "2020-07-06T19:46:45+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -8100,7 +8126,7 @@
     "total": {
       "confirmed": 125,
       "migrated": 13,
-      "recovered": 61,
+      "recovered": 65,
       "tested": 11387
     }
   },
@@ -9316,12 +9342,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8784,
-      "deceased": 140,
-      "recovered": 6314
+      "confirmed": 14152,
+      "deceased": 344,
+      "recovered": 9840
     },
     "meta": {
-      "last_updated": "2020-07-06T19:37:25+05:30",
+      "last_updated": "2020-07-06T19:46:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -9329,10 +9355,10 @@
       }
     },
     "total": {
-      "confirmed": 706629,
-      "deceased": 19841,
+      "confirmed": 711997,
+      "deceased": 20045,
       "migrated": 83,
-      "recovered": 431208,
+      "recovered": 434734,
       "tested": 9969662
     }
   },
@@ -10384,7 +10410,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T19:37:29+05:30",
+      "last_updated": "2020-07-06T19:46:37+05:30",
       "notes": "28 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
