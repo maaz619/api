@@ -1165,9 +1165,13 @@
         }
       },
       "2020-07-06": {
+        "delta": {
+          "confirmed": 8,
+          "deceased": 2
+        },
         "total": {
-          "confirmed": 2807,
-          "deceased": 18,
+          "confirmed": 2815,
+          "deceased": 20,
           "recovered": 2045,
           "tested": 156778
         }
@@ -3148,8 +3152,13 @@
             }
           },
           "2020-07-06": {
+            "delta": {
+              "confirmed": 1,
+              "deceased": 1
+            },
             "total": {
-              "confirmed": 189,
+              "confirmed": 190,
+              "deceased": 1,
               "recovered": 122
             }
           }
@@ -6575,8 +6584,11 @@
             }
           },
           "2020-07-06": {
+            "delta": {
+              "confirmed": 1
+            },
             "total": {
-              "confirmed": 202,
+              "confirmed": 203,
               "deceased": 3,
               "recovered": 168
             }
@@ -7928,8 +7940,11 @@
             }
           },
           "2020-07-06": {
+            "delta": {
+              "confirmed": 2
+            },
             "total": {
-              "confirmed": 200,
+              "confirmed": 202,
               "deceased": 1,
               "recovered": 156
             }
@@ -10640,8 +10655,11 @@
             }
           },
           "2020-07-06": {
+            "delta": {
+              "confirmed": 1
+            },
             "total": {
-              "confirmed": 267,
+              "confirmed": 268,
               "deceased": 4,
               "recovered": 169
             }
@@ -11904,6 +11922,14 @@
             "delta": {
               "confirmed": -15
             }
+          },
+          "2020-07-06": {
+            "delta": {
+              "deceased": 1
+            },
+            "total": {
+              "deceased": 1
+            }
           }
         }
       },
@@ -12276,8 +12302,11 @@
             }
           },
           "2020-07-06": {
+            "delta": {
+              "confirmed": 3
+            },
             "total": {
-              "confirmed": 61,
+              "confirmed": 64,
               "recovered": 48
             }
           }
