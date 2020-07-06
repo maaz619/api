@@ -2217,7 +2217,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T18:46:37+05:30",
+      "last_updated": "2020-07-06T18:52:47+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -4432,7 +4432,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T18:46:34+05:30",
+      "last_updated": "2020-07-06T18:52:33+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -4449,8 +4449,14 @@
     }
   },
   "LA": {
+    "delta": {
+      "recovered": 10
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 9
+        },
         "meta": {
           "population": 143000,
           "tested": {
@@ -4460,11 +4466,14 @@
         },
         "total": {
           "confirmed": 714,
-          "recovered": 623,
+          "recovered": 632,
           "tested": 6791
         }
       },
       "Leh": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 147000,
           "tested": {
@@ -4475,13 +4484,13 @@
         "total": {
           "confirmed": 291,
           "deceased": 1,
-          "recovered": 203,
+          "recovered": 204,
           "tested": 7746
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-04T19:49:30+05:30",
+      "last_updated": "2020-07-06T19:03:30+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -4491,7 +4500,7 @@
     "total": {
       "confirmed": 1005,
       "deceased": 1,
-      "recovered": 826,
+      "recovered": 836,
       "tested": 14537
     }
   },
@@ -6155,7 +6164,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T18:46:30+05:30",
+      "last_updated": "2020-07-06T19:03:27+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -9287,10 +9296,10 @@
     "delta": {
       "confirmed": 7316,
       "deceased": 92,
-      "recovered": 5356
+      "recovered": 5366
     },
     "meta": {
-      "last_updated": "2020-07-06T18:46:27+05:30",
+      "last_updated": "2020-07-06T19:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -9301,7 +9310,7 @@
       "confirmed": 705161,
       "deceased": 19793,
       "migrated": 83,
-      "recovered": 430250,
+      "recovered": 430260,
       "tested": 9969662
     }
   },
