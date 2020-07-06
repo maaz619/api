@@ -1453,7 +1453,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T13:47:30+05:30",
+      "last_updated": "2020-07-06T13:54:32+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -3099,7 +3099,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T13:47:28+05:30",
+      "last_updated": "2020-07-06T13:54:29+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -3171,12 +3171,15 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 2291032
         },
         "total": {
           "confirmed": 505,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 246
         }
       },
@@ -3348,14 +3351,6 @@
           "confirmed": 355,
           "deceased": 1,
           "recovered": 348
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": 1
-        },
-        "total": {
-          "deceased": 1
         }
       },
       "West Singhbhum": {
@@ -8705,7 +8700,7 @@
       "recovered": 176
     },
     "meta": {
-      "last_updated": "2020-07-06T13:47:25+05:30",
+      "last_updated": "2020-07-06T13:54:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
