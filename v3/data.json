@@ -755,6 +755,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 786,
       "recovered": 449,
       "tested": 12078
     },
@@ -920,11 +921,14 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 598
+        },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 3748,
+          "confirmed": 4346,
           "deceased": 6,
           "recovered": 383
         }
@@ -1053,10 +1057,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 188,
           "recovered": 449
         },
         "total": {
-          "confirmed": 4618,
+          "confirmed": 4806,
           "deceased": 7,
           "migrated": 3,
           "recovered": 6967
@@ -1072,7 +1077,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T21:18:28+05:30",
+      "last_updated": "2020-07-06T23:53:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1081,7 +1086,7 @@
       }
     },
     "total": {
-      "confirmed": 11737,
+      "confirmed": 12523,
       "deceased": 14,
       "migrated": 3,
       "recovered": 7883,
@@ -10398,7 +10403,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T23:49:29+05:30",
+      "last_updated": "2020-07-06T23:53:29+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-06"
@@ -10414,13 +10419,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 21714,
+      "confirmed": 22500,
       "deceased": 473,
       "migrated": 13,
       "recovered": 15256
     },
     "meta": {
-      "last_updated": "2020-07-06T23:49:25+05:30",
+      "last_updated": "2020-07-06T23:53:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -10428,7 +10433,7 @@
       }
     },
     "total": {
-      "confirmed": 719560,
+      "confirmed": 720346,
       "deceased": 20174,
       "migrated": 96,
       "recovered": 440150,
