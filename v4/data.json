@@ -10233,7 +10233,9 @@
   "TR": {
     "delta": {
       "confirmed": 111,
-      "recovered": 13
+      "migrated": 13,
+      "recovered": 13,
+      "tested": 1720
     },
     "districts": {
       "Dhalai": {
@@ -10258,6 +10260,7 @@
       "Gomati": {
         "delta": {
           "confirmed": 41,
+          "migrated": 1,
           "recovered": 4,
           "tested": 372
         },
@@ -10270,6 +10273,7 @@
         },
         "total": {
           "confirmed": 223,
+          "migrated": 1,
           "recovered": 115,
           "tested": 7521
         }
@@ -10296,6 +10300,7 @@
       "North Tripura": {
         "delta": {
           "confirmed": 1,
+          "migrated": 6,
           "tested": 272
         },
         "meta": {
@@ -10307,6 +10312,7 @@
         },
         "total": {
           "confirmed": 56,
+          "migrated": 6,
           "recovered": 18,
           "tested": 13926
         }
@@ -10333,6 +10339,7 @@
       "South Tripura": {
         "delta": {
           "confirmed": 3,
+          "migrated": 1,
           "tested": 65
         },
         "meta": {
@@ -10344,6 +10351,7 @@
         },
         "total": {
           "confirmed": 142,
+          "migrated": 1,
           "recovered": 100,
           "tested": 7699
         }
@@ -10369,6 +10377,7 @@
       "West Tripura": {
         "delta": {
           "confirmed": 13,
+          "migrated": 5,
           "recovered": 5,
           "tested": 793
         },
@@ -10382,34 +10391,36 @@
         "total": {
           "confirmed": 224,
           "deceased": 1,
+          "migrated": 5,
           "recovered": 146,
           "tested": 22505
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T23:37:29+05:30",
+      "last_updated": "2020-07-06T23:49:29+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-05",
-        "source": "https://twitter.com/BjpBiplab/status/1279828756954181633?s=20"
+        "last_updated": "2020-07-06"
       }
     },
     "total": {
       "confirmed": 1692,
       "deceased": 1,
+      "migrated": 13,
       "recovered": 1219,
-      "tested": 71338
+      "tested": 73058
     }
   },
   "TT": {
     "delta": {
       "confirmed": 21714,
       "deceased": 473,
+      "migrated": 13,
       "recovered": 15256
     },
     "meta": {
-      "last_updated": "2020-07-06T23:37:25+05:30",
+      "last_updated": "2020-07-06T23:49:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -10419,7 +10430,7 @@
     "total": {
       "confirmed": 719560,
       "deceased": 20174,
-      "migrated": 83,
+      "migrated": 96,
       "recovered": 440150,
       "tested": 9969662
     }
