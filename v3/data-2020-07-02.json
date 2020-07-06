@@ -2316,36 +2316,56 @@
       "Dadra and Nagar Haveli": {
         "delta": {
           "confirmed": 15,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 483
         },
         "meta": {
-          "population": 343709
+          "population": 343709,
+          "tested": {
+            "last_updated": "2020-07-02",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD02072020.pdf"
+          }
         },
         "total": {
           "confirmed": 124,
           "migrated": 1,
-          "recovered": 61
+          "recovered": 61,
+          "tested": 20493
         }
       },
       "Daman": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "tested": 107
         },
         "meta": {
-          "population": 191173
+          "population": 191173,
+          "tested": {
+            "last_updated": "2020-07-02",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD02072020.pdf"
+          }
         },
         "total": {
           "confirmed": 116,
-          "recovered": 41
+          "recovered": 41,
+          "tested": 9905
         }
       },
       "Diu": {
+        "delta": {
+          "tested": 259
+        },
         "meta": {
-          "population": 52074
+          "population": 52074,
+          "tested": {
+            "last_updated": "2020-07-02",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD02072020.pdf"
+          }
         },
         "total": {
           "confirmed": 14,
-          "recovered": 10
+          "recovered": 10,
+          "tested": 2866
         }
       }
     },

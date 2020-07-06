@@ -2296,12 +2296,17 @@
           "recovered": 10
         },
         "meta": {
-          "population": 343709
+          "population": 343709,
+          "tested": {
+            "last_updated": "2020-07-04",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD04072020.pdf"
+          }
         },
         "total": {
           "confirmed": 186,
           "migrated": 3,
-          "recovered": 78
+          "recovered": 78,
+          "tested": 20821
         }
       },
       "Daman": {
@@ -2310,20 +2315,30 @@
           "recovered": 7
         },
         "meta": {
-          "population": 191173
+          "population": 191173,
+          "tested": {
+            "last_updated": "2020-07-04",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD04072020.pdf"
+          }
         },
         "total": {
           "confirmed": 172,
-          "recovered": 70
+          "recovered": 70,
+          "tested": 10078
         }
       },
       "Diu": {
         "meta": {
-          "population": 52074
+          "population": 52074,
+          "tested": {
+            "last_updated": "2020-07-04",
+            "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD04072020.pdf"
+          }
         },
         "total": {
           "confirmed": 15,
-          "recovered": 11
+          "recovered": 11,
+          "tested": 3096
         }
       }
     },
