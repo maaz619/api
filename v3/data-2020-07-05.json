@@ -8187,68 +8187,74 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "recovered": 9
+          "recovered": 9,
+          "tested": 80
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/890"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/944"
           }
         },
         "total": {
           "confirmed": 45,
           "recovered": 26,
-          "tested": 2782
+          "tested": 2862
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 31
+        },
         "meta": {
           "population": 41816,
           "tested": {
-            "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/890"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/944"
           }
         },
         "total": {
           "confirmed": 18,
           "recovered": 10,
-          "tested": 929
+          "tested": 960
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 32,
-          "recovered": 34
+          "recovered": 34,
+          "tested": 442
         },
         "meta": {
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/890"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/944"
           }
         },
         "total": {
           "confirmed": 869,
           "deceased": 14,
           "recovered": 412,
-          "tested": 15445
+          "tested": 15887
         }
       },
       "Yanam": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "tested": 39
         },
         "meta": {
           "population": 55626,
           "tested": {
-            "last_updated": "2020-07-04",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/890"
+            "last_updated": "2020-07-05",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/944"
           }
         },
         "total": {
           "confirmed": 14,
-          "tested": 1030
+          "tested": 1069
         }
       }
     },

@@ -1525,12 +1525,13 @@
           },
           "2020-07-05": {
             "delta": {
-              "recovered": 9
+              "recovered": 9,
+              "tested": 80
             },
             "total": {
               "confirmed": 45,
               "recovered": 26,
-              "tested": 2782
+              "tested": 2862
             }
           },
           "2020-07-06": {
@@ -1541,7 +1542,7 @@
             "total": {
               "confirmed": 46,
               "recovered": 36,
-              "tested": 2782
+              "tested": 2862
             }
           }
         }
@@ -2038,10 +2039,13 @@
             }
           },
           "2020-07-05": {
+            "delta": {
+              "tested": 31
+            },
             "total": {
               "confirmed": 18,
               "recovered": 10,
-              "tested": 929
+              "tested": 960
             }
           },
           "2020-07-06": {
@@ -2051,7 +2055,7 @@
             "total": {
               "confirmed": 19,
               "recovered": 10,
-              "tested": 929
+              "tested": 960
             }
           }
         }
@@ -2703,13 +2707,14 @@
           "2020-07-05": {
             "delta": {
               "confirmed": 32,
-              "recovered": 34
+              "recovered": 34,
+              "tested": 442
             },
             "total": {
               "confirmed": 869,
               "deceased": 14,
               "recovered": 412,
-              "tested": 15445
+              "tested": 15887
             }
           },
           "2020-07-06": {
@@ -2721,7 +2726,7 @@
               "confirmed": 931,
               "deceased": 14,
               "recovered": 434,
-              "tested": 15445
+              "tested": 15887
             }
           }
         }
@@ -2876,11 +2881,12 @@
           },
           "2020-07-05": {
             "delta": {
-              "confirmed": 10
+              "confirmed": 10,
+              "tested": 39
             },
             "total": {
               "confirmed": 14,
-              "tested": 1030
+              "tested": 1069
             }
           },
           "2020-07-06": {
@@ -2889,7 +2895,7 @@
             },
             "total": {
               "confirmed": 15,
-              "tested": 1030
+              "tested": 1069
             }
           }
         }
