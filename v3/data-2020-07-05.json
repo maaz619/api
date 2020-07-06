@@ -3586,6 +3586,7 @@
   "JH": {
     "delta": {
       "confirmed": 68,
+      "deceased": 1,
       "recovered": 10,
       "tested": 2160
     },
@@ -3647,14 +3648,15 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 25,
+          "deceased": 1
         },
         "meta": {
           "population": 2291032
         },
         "total": {
           "confirmed": 505,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 246
         }
       },
@@ -3871,7 +3873,7 @@
     },
     "total": {
       "confirmed": 2807,
-      "deceased": 18,
+      "deceased": 19,
       "recovered": 2045,
       "tested": 156778
     }
@@ -10350,7 +10352,7 @@
   "TT": {
     "delta": {
       "confirmed": 23941,
-      "deceased": 420,
+      "deceased": 421,
       "migrated": 17,
       "recovered": 15829,
       "tested": 180596
@@ -10364,7 +10366,7 @@
     },
     "total": {
       "confirmed": 697845,
-      "deceased": 19700,
+      "deceased": 19701,
       "migrated": 83,
       "recovered": 424894,
       "tested": 9969662
