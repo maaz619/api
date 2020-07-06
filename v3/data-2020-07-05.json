@@ -2,7 +2,8 @@
   "AN": {
     "delta": {
       "confirmed": 6,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 77
     },
     "districts": {
       "North and Middle Andaman": {
@@ -37,13 +38,14 @@
     "meta": {
       "population": 397000,
       "tested": {
-        "last_updated": "2020-07-04"
+        "last_updated": "2020-07-05",
+        "source": "https://dhs.andaman.gov.in/NewEvents/320.pdf"
       }
     },
     "total": {
       "confirmed": 125,
       "recovered": 72,
-      "tested": 16832
+      "tested": 16909
     }
   },
   "AP": {
@@ -5823,7 +5825,7 @@
         },
         "total": {
           "confirmed": 81,
-          "recovered": 58
+          "recovered": 57
         }
       },
       "Chandel": {
@@ -5844,7 +5846,7 @@
         },
         "total": {
           "confirmed": 140,
-          "recovered": 58
+          "recovered": 55
         }
       },
       "Imphal East": {
@@ -5889,7 +5891,7 @@
         },
         "total": {
           "confirmed": 93,
-          "recovered": 27
+          "recovered": 25
         }
       },
       "Kamjong": {
@@ -5910,7 +5912,7 @@
         },
         "total": {
           "confirmed": 155,
-          "recovered": 19
+          "recovered": 18
         }
       },
       "Noney": {
@@ -5919,7 +5921,7 @@
         },
         "total": {
           "confirmed": 25,
-          "recovered": 18
+          "recovered": 17
         }
       },
       "Pherzawl": {
@@ -5928,7 +5930,7 @@
         },
         "total": {
           "confirmed": 32,
-          "recovered": 15
+          "recovered": 3
         }
       },
       "Senapati": {
@@ -5937,7 +5939,7 @@
         },
         "total": {
           "confirmed": 120,
-          "recovered": 21
+          "recovered": 10
         }
       },
       "Tamenglong": {
@@ -5949,7 +5951,7 @@
         },
         "total": {
           "confirmed": 180,
-          "recovered": 32
+          "recovered": 25
         }
       },
       "Tengnoupal": {
@@ -5976,7 +5978,7 @@
         },
         "total": {
           "confirmed": 163,
-          "recovered": 18
+          "recovered": 17
         }
       },
       "Unknown": {
@@ -5984,7 +5986,7 @@
           "recovered": 22
         },
         "total": {
-          "recovered": 296
+          "recovered": 335
         }
       }
     },
