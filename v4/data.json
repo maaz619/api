@@ -5634,6 +5634,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "Aizawl": {
         "meta": {
@@ -5678,11 +5681,14 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 154094
         },
         "total": {
-          "confirmed": 49,
+          "confirmed": 54,
           "recovered": 46
         }
       },
@@ -5721,7 +5727,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-05T17:25:26+05:30",
+      "last_updated": "2020-07-06T12:03:35+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -5729,7 +5735,7 @@
       }
     },
     "total": {
-      "confirmed": 186,
+      "confirmed": 191,
       "recovered": 133,
       "tested": 14981
     }
@@ -5868,7 +5874,7 @@
       },
       "Unknown": {
         "total": {
-          "recovered": 168
+          "recovered": 171
         }
       },
       "Wokha": {
@@ -5894,7 +5900,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T11:54:28+05:30",
+      "last_updated": "2020-07-06T12:03:33+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -5903,7 +5909,7 @@
     },
     "total": {
       "confirmed": 625,
-      "recovered": 228,
+      "recovered": 231,
       "tested": 19867
     }
   },
@@ -8552,12 +8558,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 958,
+      "confirmed": 963,
       "deceased": 7,
       "recovered": 69
     },
     "meta": {
-      "last_updated": "2020-07-06T11:54:25+05:30",
+      "last_updated": "2020-07-06T12:03:30+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-05",
@@ -8565,10 +8571,10 @@
       }
     },
     "total": {
-      "confirmed": 698809,
+      "confirmed": 698814,
       "deceased": 19707,
       "migrated": 83,
-      "recovered": 424960,
+      "recovered": 424963,
       "tested": 9969662
     }
   },
