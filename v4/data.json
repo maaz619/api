@@ -698,6 +698,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "deceased": 1
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -923,11 +926,15 @@
         }
       },
       "Nagaon": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 2826006
         },
         "total": {
           "confirmed": 330,
+          "deceased": 1,
           "recovered": 25
         }
       },
@@ -1009,7 +1016,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T00:07:27+05:30",
+      "last_updated": "2020-07-07T18:14:26+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1019,7 +1026,7 @@
     },
     "total": {
       "confirmed": 12523,
-      "deceased": 14,
+      "deceased": 15,
       "migrated": 3,
       "recovered": 7883,
       "tested": 471221
@@ -2233,7 +2240,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T17:50:38+05:30",
+      "last_updated": "2020-07-07T17:54:35+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2826,6 +2833,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 14
+    },
     "districts": {
       "Bilaspur": {
         "meta": {
@@ -2857,14 +2868,18 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 8
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
           "population": 1507223
         },
         "total": {
-          "confirmed": 290,
+          "confirmed": 291,
           "deceased": 3,
-          "recovered": 211
+          "recovered": 219
         }
       },
       "Kinnaur": {
@@ -2894,16 +2909,22 @@
         }
       },
       "Mandi": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 999518
         },
         "total": {
           "confirmed": 36,
           "deceased": 2,
-          "recovered": 25
+          "recovered": 26
         }
       },
       "Shimla": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "population": 813384
         },
@@ -2911,7 +2932,7 @@
           "confirmed": 47,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 32
+          "recovered": 37
         }
       },
       "Sirmaur": {
@@ -2950,7 +2971,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T22:28:45+05:30",
+      "last_updated": "2020-07-07T18:14:28+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2959,10 +2980,10 @@
       }
     },
     "total": {
-      "confirmed": 1077,
+      "confirmed": 1078,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 750,
+      "recovered": 764,
       "tested": 89305
     }
   },
@@ -4971,6 +4992,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "deceased": 1
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -5017,8 +5041,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 1
+        },
         "total": {
           "confirmed": 2,
+          "deceased": 1,
           "recovered": 12
         }
       },
@@ -5050,7 +5078,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T21:50:40+05:30",
+      "last_updated": "2020-07-07T18:14:32+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -5060,7 +5088,7 @@
     },
     "total": {
       "confirmed": 88,
-      "deceased": 1,
+      "deceased": 2,
       "recovered": 43,
       "tested": 21237
     }
@@ -6049,7 +6077,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T17:50:36+05:30",
+      "last_updated": "2020-07-07T17:54:33+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -6064,7 +6092,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 11
+      "confirmed": 19,
+      "recovered": 60
     },
     "districts": {
       "Dimapur": {
@@ -6182,6 +6211,9 @@
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "population": 414801,
           "tested": {
@@ -6190,13 +6222,16 @@
           }
         },
         "total": {
-          "confirmed": 32,
+          "confirmed": 40,
           "tested": 1
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 60
+        },
         "total": {
-          "recovered": 183
+          "recovered": 243
         }
       },
       "Wokha": {
@@ -6222,7 +6257,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T17:50:33+05:30",
+      "last_updated": "2020-07-07T18:14:30+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -6230,8 +6265,8 @@
       }
     },
     "total": {
-      "confirmed": 636,
-      "recovered": 243,
+      "confirmed": 644,
+      "recovered": 303,
       "tested": 20484
     }
   },
@@ -6745,7 +6780,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T17:50:30+05:30",
+      "last_updated": "2020-07-07T17:54:28+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8909,12 +8944,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2840,
-      "deceased": 25,
-      "recovered": 1509
+      "confirmed": 2849,
+      "deceased": 27,
+      "recovered": 1583
     },
     "meta": {
-      "last_updated": "2020-07-07T17:50:27+05:30",
+      "last_updated": "2020-07-07T18:14:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -8922,10 +8957,10 @@
       }
     },
     "total": {
-      "confirmed": 723186,
-      "deceased": 20199,
+      "confirmed": 723195,
+      "deceased": 20201,
       "migrated": 96,
-      "recovered": 441659,
+      "recovered": 441733,
       "tested": 10211092
     }
   },
