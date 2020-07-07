@@ -52,11 +52,15 @@
     }
   },
   "KL": {
+    "delta": {
+      "recovered": 3
+    },
     "meta": {
       "population": 35125000
     },
     "total": {
-      "confirmed": 22
+      "confirmed": 22,
+      "recovered": 3
     }
   },
   "LA": {
@@ -119,7 +123,8 @@
   "TT": {
     "delta": {
       "confirmed": 11,
-      "migrated": 3
+      "migrated": 3,
+      "recovered": 3
     },
     "meta": {
       "population": 1332900000,
@@ -132,6 +137,7 @@
       "confirmed": 102,
       "deceased": 1,
       "migrated": 3,
+      "recovered": 3,
       "tested": 6500
     }
   },
