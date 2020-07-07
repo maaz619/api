@@ -946,11 +946,12 @@
       },
       "2020-07-07": {
         "delta": {
+          "confirmed": 1,
           "recovered": 6,
           "tested": 52
         },
         "total": {
-          "confirmed": 197,
+          "confirmed": 198,
           "recovered": 139,
           "tested": 15058
         }
@@ -2011,8 +2012,11 @@
             }
           },
           "2020-07-07": {
+            "delta": {
+              "confirmed": 1
+            },
             "total": {
-              "confirmed": 11,
+              "confirmed": 12,
               "recovered": 11
             }
           }
