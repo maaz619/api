@@ -1034,7 +1034,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:56+05:30",
+      "last_updated": "2020-07-07T20:37:43+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -2363,17 +2363,21 @@
   "GA": {
     "delta": {
       "confirmed": 90,
+      "deceased": 1,
       "recovered": 95,
       "tested": 2831
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 817761
         },
         "total": {
           "confirmed": 309,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 101
         }
       },
@@ -2408,7 +2412,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:47:49+05:30",
+      "last_updated": "2020-07-07T20:37:50+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -2417,7 +2421,7 @@
     },
     "total": {
       "confirmed": 1903,
-      "deceased": 7,
+      "deceased": 8,
       "recovered": 1156,
       "tested": 79864
     }
@@ -3065,7 +3069,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:36+05:30",
+      "last_updated": "2020-07-07T20:38:28+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -4610,7 +4614,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:52+05:30",
+      "last_updated": "2020-07-07T20:38:43+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
@@ -6604,7 +6608,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:44+05:30",
+      "last_updated": "2020-07-07T20:38:37+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -9822,13 +9826,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 19298,
-      "deceased": 443,
+      "confirmed": 19300,
+      "deceased": 444,
       "migrated": 2,
-      "recovered": 14700
+      "recovered": 14708
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:29+05:30",
+      "last_updated": "2020-07-07T20:38:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -9836,10 +9840,10 @@
       }
     },
     "total": {
-      "confirmed": 739644,
-      "deceased": 20617,
+      "confirmed": 739646,
+      "deceased": 20618,
       "migrated": 98,
-      "recovered": 454850,
+      "recovered": 454858,
       "tested": 10211092
     }
   },
@@ -10915,7 +10919,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:39+05:30",
+      "last_updated": "2020-07-07T20:38:31+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -10931,16 +10935,16 @@
   },
   "UT": {
     "delta": {
-      "confirmed": 67,
+      "confirmed": 69,
       "deceased": 1,
-      "recovered": 27,
+      "recovered": 35,
       "tested": 1842
     },
     "districts": {
       "Almora": {
         "delta": {
           "confirmed": 2,
-          "recovered": 2,
+          "recovered": 10,
           "tested": 41
         },
         "meta": {
@@ -10954,7 +10958,7 @@
           "confirmed": 198,
           "deceased": 2,
           "migrated": 1,
-          "recovered": 167,
+          "recovered": 175,
           "tested": 3648
         }
       },
@@ -11174,7 +11178,7 @@
       },
       "Uttarkashi": {
         "delta": {
-          "confirmed": 1,
+          "confirmed": 3,
           "recovered": 3,
           "tested": 113
         },
@@ -11186,7 +11190,7 @@
           }
         },
         "total": {
-          "confirmed": 85,
+          "confirmed": 87,
           "deceased": 1,
           "recovered": 63,
           "tested": 2589
@@ -11194,7 +11198,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:59+05:30",
+      "last_updated": "2020-07-07T20:37:46+05:30",
       "notes": "28 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
@@ -11203,10 +11207,10 @@
       }
     },
     "total": {
-      "confirmed": 3228,
+      "confirmed": 3230,
       "deceased": 43,
       "migrated": 28,
-      "recovered": 2613,
+      "recovered": 2621,
       "tested": 81447
     }
   },
@@ -11536,7 +11540,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:23:42+05:30",
+      "last_updated": "2020-07-07T20:38:33+05:30",
       "population": 96906000,
       "tested": {
         "last_updated": "2020-07-06",
