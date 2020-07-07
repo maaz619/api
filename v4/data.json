@@ -1969,9 +1969,6 @@
         }
       },
       "Daman": {
-        "delta": {
-          "confirmed": 7
-        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -1980,12 +1977,15 @@
           }
         },
         "total": {
-          "confirmed": 199,
+          "confirmed": 192,
           "recovered": 77,
           "tested": 10078
         }
       },
       "Diu": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 52074,
           "tested": {
@@ -1994,14 +1994,14 @@
           }
         },
         "total": {
-          "confirmed": 15,
+          "confirmed": 22,
           "recovered": 12,
           "tested": 3096
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T12:37:57+05:30",
+      "last_updated": "2020-07-07T12:45:29+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -8606,7 +8606,7 @@
       "recovered": 79
     },
     "meta": {
-      "last_updated": "2020-07-07T12:37:33+05:30",
+      "last_updated": "2020-07-07T12:45:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
