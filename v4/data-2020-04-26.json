@@ -4744,7 +4744,8 @@
     "delta": {
       "confirmed": 40,
       "deceased": 2,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1013
     },
     "districts": {
       "Darjeeling": {
@@ -4860,12 +4861,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-26",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_26.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 611,
       "deceased": 20,
-      "recovered": 105
+      "recovered": 105,
+      "tested": 10893
     }
   }
 }

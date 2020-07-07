@@ -6429,7 +6429,8 @@
     "delta": {
       "confirmed": 108,
       "deceased": 11,
-      "recovered": 49
+      "recovered": 49,
+      "tested": 3601
     },
     "districts": {
       "Birbhum": {
@@ -6624,12 +6625,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-09",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_MAY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 1786,
       "deceased": 171,
-      "recovered": 372
+      "recovered": 372,
+      "tested": 39368
     }
   }
 }

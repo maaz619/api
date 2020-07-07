@@ -8730,7 +8730,8 @@
     "delta": {
       "confirmed": 94,
       "deceased": 6,
-      "recovered": 57
+      "recovered": 57,
+      "tested": 4242
     },
     "districts": {
       "Birbhum": {
@@ -8968,12 +8969,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-21",
+        "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09"
+      }
     },
     "total": {
       "confirmed": 3197,
       "deceased": 259,
-      "recovered": 1193
+      "recovered": 1193,
+      "tested": 115244
     }
   }
 }

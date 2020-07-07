@@ -715,15 +715,21 @@
   },
   "WB": {
     "delta": {
-      "confirmed": 57
+      "confirmed": 57,
+      "tested": 947
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-25",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_25.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 571,
       "deceased": 18,
-      "recovered": 103
+      "recovered": 103,
+      "tested": 9880
     }
   }
 }

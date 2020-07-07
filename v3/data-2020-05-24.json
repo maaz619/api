@@ -8862,7 +8862,8 @@
     "delta": {
       "confirmed": 208,
       "deceased": 3,
-      "recovered": 58
+      "recovered": 58,
+      "tested": 9216
     },
     "districts": {
       "Bankura": {
@@ -9117,12 +9118,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-24",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_24th_MAY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 3667,
       "deceased": 272,
-      "recovered": 1339
+      "recovered": 1339,
+      "tested": 138824
     }
   }
 }
