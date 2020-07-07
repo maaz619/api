@@ -2197,7 +2197,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:31+05:30",
+      "last_updated": "2020-07-07T19:45:36+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -2270,7 +2270,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:36:40+05:30",
+      "last_updated": "2020-07-07T19:45:47+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2288,7 +2288,8 @@
   "GA": {
     "delta": {
       "confirmed": 90,
-      "recovered": 95
+      "recovered": 95,
+      "tested": 2831
     },
     "districts": {
       "North Goa": {
@@ -2332,18 +2333,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:37+05:30",
+      "last_updated": "2020-07-07T19:45:42+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2020/07/Media-Bulletin-06th-July-2020.pdf"
+        "last_updated": "2020-07-07"
       }
     },
     "total": {
       "confirmed": 1903,
       "deceased": 7,
       "recovered": 1156,
-      "tested": 77033
+      "tested": 79864
     }
   },
   "GJ": {
@@ -4497,7 +4497,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:34+05:30",
+      "last_updated": "2020-07-07T19:39:35+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -5096,7 +5096,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:28+05:30",
+      "last_updated": "2020-07-07T19:45:32+05:30",
       "notes": "17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5200,7 +5200,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:36:43+05:30",
+      "last_updated": "2020-07-07T19:45:59+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -5384,7 +5384,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:40+05:30",
+      "last_updated": "2020-07-07T19:45:45+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -5398,6 +5398,9 @@
     }
   },
   "MP": {
+    "delta": {
+      "tested": 9741
+    },
     "districts": {
       "Agar Malwa": {
         "total": {
@@ -6119,15 +6122,15 @@
       "last_updated": "2020-07-06T19:04:28+05:30",
       "population": 82232000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://twitter.com/healthminmp/status/1280122382510731276?s=20"
+        "last_updated": "2020-07-07",
+        "source": "https://twitter.com/healthminmp/status/1280502617307783170?s=20"
       }
     },
     "total": {
       "confirmed": 15284,
       "deceased": 617,
       "recovered": 11579,
-      "tested": 417402
+      "tested": 427143
     }
   },
   "MZ": {
@@ -8380,6 +8383,9 @@
     }
   },
   "TN": {
+    "delta": {
+      "tested": 36938
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -8952,15 +8958,15 @@
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-06-07-20-COVID-19-6-PM.pdf"
+        "last_updated": "2020-07-07",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/07/Media-Bulletin-07.07.2020-26-Pages-English-472-KB.pdf"
       }
     },
     "total": {
       "confirmed": 114978,
       "deceased": 1571,
       "recovered": 66571,
-      "tested": 1376497
+      "tested": 1413435
     }
   },
   "TR": {
@@ -9107,7 +9113,7 @@
       "recovered": 7283
     },
     "meta": {
-      "last_updated": "2020-07-07T19:37:25+05:30",
+      "last_updated": "2020-07-07T19:45:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -9927,6 +9933,9 @@
     }
   },
   "UT": {
+    "delta": {
+      "tested": 1742
+    },
     "districts": {
       "Almora": {
         "meta": {
@@ -10130,8 +10139,7 @@
       "notes": "28 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://twitter.com/PIBDehradun/status/1280133639611674624?s=20"
+        "last_updated": "2020-07-07"
       }
     },
     "total": {
@@ -10139,7 +10147,7 @@
       "deceased": 42,
       "migrated": 28,
       "recovered": 2586,
-      "tested": 79605
+      "tested": 81347
     }
   },
   "WB": {
