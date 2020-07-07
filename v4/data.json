@@ -2983,13 +2983,19 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 23
+    },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2061918
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "deceased": 2,
           "recovered": 34
         }
@@ -3004,20 +3010,26 @@
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1491879
         },
         "total": {
-          "confirmed": 50,
+          "confirmed": 51,
           "recovered": 38
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 190,
+          "confirmed": 194,
           "deceased": 1,
           "recovered": 122
         }
@@ -3032,11 +3044,14 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 517,
+          "confirmed": 529,
           "deceased": 2,
           "recovered": 252
         }
@@ -3203,17 +3218,20 @@
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 1501619
         },
         "total": {
-          "confirmed": 64,
+          "confirmed": 69,
           "recovered": 48
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T22:39:32+05:30",
+      "last_updated": "2020-07-07T12:13:31+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -3221,7 +3239,7 @@
       }
     },
     "total": {
-      "confirmed": 2854,
+      "confirmed": 2877,
       "deceased": 20,
       "recovered": 2068,
       "tested": 159176
@@ -4902,7 +4920,7 @@
       "last_updated": "2020-07-06T20:40:30+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-05",
+        "last_updated": "2020-07-06",
         "source": "https://twitter.com/DiprManipur/status/1280187544085229569?s=20"
       }
     },
@@ -5734,6 +5752,9 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 11
+    },
     "districts": {
       "Dimapur": {
         "meta": {
@@ -5763,6 +5784,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 270063,
           "tested": {
@@ -5771,7 +5795,7 @@
           }
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 53,
           "recovered": 14,
           "tested": 485
         }
@@ -5798,6 +5822,9 @@
         }
       },
       "Mon": {
+        "delta": {
+          "confirmed": 10
+        },
         "meta": {
           "population": 259604,
           "tested": {
@@ -5806,7 +5833,7 @@
           }
         },
         "total": {
-          "confirmed": 87,
+          "confirmed": 97,
           "tested": 45
         }
       },
@@ -5884,7 +5911,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T19:50:36+05:30",
+      "last_updated": "2020-07-07T12:13:35+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -5892,7 +5919,7 @@
       }
     },
     "total": {
-      "confirmed": 625,
+      "confirmed": 636,
       "recovered": 243,
       "tested": 20484
     }
@@ -8552,12 +8579,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 964,
+      "confirmed": 998,
       "deceased": 10,
       "recovered": 79
     },
     "meta": {
-      "last_updated": "2020-07-07T11:35:25+05:30",
+      "last_updated": "2020-07-07T12:13:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -8565,7 +8592,7 @@
       }
     },
     "total": {
-      "confirmed": 721310,
+      "confirmed": 721344,
       "deceased": 20184,
       "migrated": 96,
       "recovered": 440229,
@@ -9828,17 +9855,12 @@
     },
     "meta": {
       "last_updated": "2020-07-06T20:40:27+05:30",
-      "population": 96906000,
-      "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_6th_JULY_REPORT_FINAL.pdf"
-      }
+      "population": 96906000
     },
     "total": {
       "confirmed": 22987,
       "deceased": 779,
-      "recovered": 15235,
-      "tested": 552007
+      "recovered": 15235
     }
   }
 }
