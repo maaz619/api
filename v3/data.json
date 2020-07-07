@@ -5899,7 +5899,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 571
+      "confirmed": 571,
+      "deceased": 6
     },
     "districts": {
       "Angul": {
@@ -5998,7 +5999,8 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 29
+          "confirmed": 29,
+          "deceased": 2
         },
         "meta": {
           "population": 2618708,
@@ -6009,7 +6011,7 @@
         },
         "total": {
           "confirmed": 855,
-          "deceased": 6,
+          "deceased": 8,
           "recovered": 544,
           "tested": 5720
         }
@@ -6065,7 +6067,8 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 273
+          "confirmed": 273,
+          "deceased": 3
         },
         "meta": {
           "population": 3520151,
@@ -6076,7 +6079,7 @@
         },
         "total": {
           "confirmed": 2621,
-          "deceased": 22,
+          "deceased": 25,
           "recovered": 1391,
           "tested": 6632
         }
@@ -6238,7 +6241,8 @@
       },
       "Mayurbhanj": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "deceased": 1
         },
         "meta": {
           "population": 2513895,
@@ -6249,7 +6253,7 @@
         },
         "total": {
           "confirmed": 281,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 180,
           "tested": 3307
         }
@@ -6384,7 +6388,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T11:13:28+05:30",
+      "last_updated": "2020-07-07T11:23:29+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6394,7 +6398,7 @@
     },
     "total": {
       "confirmed": 10097,
-      "deceased": 48,
+      "deceased": 54,
       "recovered": 6486,
       "tested": 297234
     }
@@ -6742,8 +6746,15 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 32,
+      "recovered": 37
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -6753,11 +6764,15 @@
         },
         "total": {
           "confirmed": 46,
-          "recovered": 36,
+          "recovered": 37,
           "tested": 2883
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 1
+        },
         "meta": {
           "population": 41816,
           "tested": {
@@ -6766,12 +6781,16 @@
           }
         },
         "total": {
-          "confirmed": 19,
-          "recovered": 10,
+          "confirmed": 20,
+          "recovered": 11,
           "tested": 960
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 31,
+          "recovered": 35
+        },
         "meta": {
           "notes": "19 cases(18 of TN & 1 of AP) have been transferred,so have been reduced from the total count",
           "population": 950289,
@@ -6781,9 +6800,9 @@
           }
         },
         "total": {
-          "confirmed": 931,
+          "confirmed": 962,
           "deceased": 14,
-          "recovered": 434,
+          "recovered": 469,
           "tested": 16389
         }
       },
@@ -6810,9 +6829,9 @@
       }
     },
     "total": {
-      "confirmed": 1011,
+      "confirmed": 1043,
       "deceased": 14,
-      "recovered": 480,
+      "recovered": 517,
       "tested": 21382
     }
   },
@@ -8533,12 +8552,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 932,
-      "deceased": 4,
-      "recovered": 42
+      "confirmed": 964,
+      "deceased": 10,
+      "recovered": 79
     },
     "meta": {
-      "last_updated": "2020-07-07T11:13:25+05:30",
+      "last_updated": "2020-07-07T11:23:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -8546,10 +8565,10 @@
       }
     },
     "total": {
-      "confirmed": 721278,
-      "deceased": 20178,
+      "confirmed": 721310,
+      "deceased": 20184,
       "migrated": 96,
-      "recovered": 440192,
+      "recovered": 440229,
       "tested": 10211092
     }
   },
