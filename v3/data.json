@@ -713,7 +713,7 @@
   },
   "AS": {
     "delta": {
-      "deceased": 1,
+      "deceased": 2,
       "recovered": 447,
       "tested": 13935
     },
@@ -870,11 +870,15 @@
         }
       },
       "Kamrup": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 1517202
         },
         "total": {
           "confirmed": 215,
+          "deceased": 1,
           "recovered": 21
         }
       },
@@ -1035,7 +1039,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T20:39:48+05:30",
+      "last_updated": "2020-07-07T22:53:32+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1045,7 +1049,7 @@
     },
     "total": {
       "confirmed": 12523,
-      "deceased": 15,
+      "deceased": 16,
       "migrated": 3,
       "recovered": 8330,
       "tested": 485156
@@ -3894,7 +3898,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:45:39+05:30",
+      "last_updated": "2020-07-07T22:53:35+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -5114,6 +5118,7 @@
     "delta": {
       "confirmed": 5134,
       "deceased": 224,
+      "migrated": 2,
       "recovered": 3296,
       "tested": 26154
     },
@@ -5410,6 +5415,7 @@
         "delta": {
           "confirmed": 785,
           "deceased": 64,
+          "migrated": 1,
           "recovered": 985
         },
         "meta": {
@@ -5422,7 +5428,7 @@
         "total": {
           "confirmed": 86509,
           "deceased": 5002,
-          "migrated": 10,
+          "migrated": 11,
           "recovered": 58137,
           "tested": 359159
         }
@@ -5715,8 +5721,8 @@
         }
       },
       "Unknown": {
-        "total": {
-          "migrated": -1
+        "delta": {
+          "migrated": 1
         }
       },
       "Wardha": {
@@ -5773,8 +5779,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:07:27+05:30",
-      "notes": "17 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
+      "last_updated": "2020-07-07T22:53:27+05:30",
+      "notes": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -5784,7 +5790,7 @@
     "total": {
       "confirmed": 217121,
       "deceased": 9250,
-      "migrated": 17,
+      "migrated": 19,
       "recovered": 118558,
       "tested": 1164860
     }
@@ -7793,14 +7799,14 @@
         "meta": {
           "population": 2490891,
           "tested": {
-            "last_updated": "2020-07-02"
+            "last_updated": "2020-07-05"
           }
         },
         "total": {
           "confirmed": 976,
           "deceased": 49,
           "recovered": 740,
-          "tested": 24268
+          "tested": 26869
         }
       },
       "Barnala": {
@@ -7950,15 +7956,14 @@
         "meta": {
           "population": 2181753,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://covaprod.punjab.gov.in/covid19img/PunjabCOVID19StatusReport_02_07_2020.pdf"
+            "last_updated": "2020-07-05"
           }
         },
         "total": {
           "confirmed": 941,
           "deceased": 21,
           "recovered": 565,
-          "tested": 22896
+          "tested": 24998
         }
       },
       "Kapurthala": {
@@ -7988,14 +7993,14 @@
         "meta": {
           "population": 3487882,
           "tested": {
-            "last_updated": "2020-07-02"
+            "last_updated": "2020-07-05"
           }
         },
         "total": {
           "confirmed": 1182,
           "deceased": 28,
           "recovered": 570,
-          "tested": 38064
+          "tested": 41306
         }
       },
       "Mansa": {
@@ -8056,15 +8061,14 @@
         "meta": {
           "population": 2892282,
           "tested": {
-            "last_updated": "2020-07-01",
-            "source": "https://covaprod.punjab.gov.in/covid19img/PunjabCOVID19StatusReport_02_07_2020.pdf"
+            "last_updated": "2020-07-05"
           }
         },
         "total": {
           "confirmed": 440,
           "deceased": 10,
           "recovered": 185,
-          "tested": 22578
+          "tested": 25128
         }
       },
       "Rupnagar": {
@@ -8944,7 +8948,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:45:35+05:30",
+      "last_updated": "2020-07-07T22:53:30+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -9014,7 +9018,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:45:42+05:30",
+      "last_updated": "2020-07-07T22:53:39+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -10192,8 +10196,14 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 24
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 377988,
           "tested": {
@@ -10202,12 +10212,15 @@
           }
         },
         "total": {
-          "confirmed": 248,
+          "confirmed": 249,
           "recovered": 204,
           "tested": 6966
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 436868,
           "tested": {
@@ -10216,7 +10229,7 @@
           }
         },
         "total": {
-          "confirmed": 223,
+          "confirmed": 228,
           "migrated": 1,
           "recovered": 115,
           "tested": 7521
@@ -10237,6 +10250,9 @@
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 415946,
           "tested": {
@@ -10245,7 +10261,7 @@
           }
         },
         "total": {
-          "confirmed": 56,
+          "confirmed": 63,
           "migrated": 6,
           "recovered": 18,
           "tested": 13926
@@ -10281,6 +10297,9 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 277335,
           "tested": {
@@ -10289,12 +10308,15 @@
           }
         },
         "total": {
-          "confirmed": 74,
+          "confirmed": 79,
           "recovered": 66,
           "tested": 2798
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 917534,
           "tested": {
@@ -10303,7 +10325,7 @@
           }
         },
         "total": {
-          "confirmed": 224,
+          "confirmed": 230,
           "deceased": 1,
           "migrated": 5,
           "recovered": 146,
@@ -10312,7 +10334,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-06T23:56:33+05:30",
+      "last_updated": "2020-07-07T22:53:37+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -10320,7 +10342,7 @@
       }
     },
     "total": {
-      "confirmed": 1692,
+      "confirmed": 1716,
       "deceased": 1,
       "migrated": 13,
       "recovered": 1219,
@@ -10329,13 +10351,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22295,
-      "deceased": 478,
-      "migrated": 2,
+      "confirmed": 22319,
+      "deceased": 479,
+      "migrated": 4,
       "recovered": 16866
     },
     "meta": {
-      "last_updated": "2020-07-07T22:45:25+05:30",
+      "last_updated": "2020-07-07T22:53:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -10343,9 +10365,9 @@
       }
     },
     "total": {
-      "confirmed": 742641,
-      "deceased": 20652,
-      "migrated": 98,
+      "confirmed": 742665,
+      "deceased": 20653,
+      "migrated": 100,
       "recovered": 457016,
       "tested": 10211092
     }
