@@ -356,7 +356,9 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "recovered": 13,
+      "tested": 427
     },
     "districts": {
       "Anjaw": {
@@ -384,6 +386,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "recovered": 10
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -393,7 +398,7 @@
         },
         "total": {
           "confirmed": 91,
-          "recovered": 51,
+          "recovered": 61,
           "tested": 4795
         }
       },
@@ -470,6 +475,9 @@
         }
       },
       "Lepa Rada": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-06",
@@ -478,6 +486,7 @@
         },
         "total": {
           "confirmed": 1,
+          "recovered": 1,
           "tested": 183
         }
       },
@@ -551,7 +560,8 @@
       },
       "Namsai": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "meta": {
           "population": 95950,
@@ -562,7 +572,7 @@
         },
         "total": {
           "confirmed": 16,
-          "recovered": 3,
+          "recovered": 4,
           "tested": 1685
         }
       },
@@ -676,6 +686,9 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 87013,
           "tested": {
@@ -686,7 +699,7 @@
         "total": {
           "confirmed": 27,
           "deceased": 2,
-          "recovered": 6,
+          "recovered": 7,
           "tested": 1309
         }
       },
@@ -706,18 +719,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:53:37+05:30",
+      "last_updated": "2020-07-08T00:04:29+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://twitter.com/DirectorateofHS/status/1280186947684626432?s=20"
+        "last_updated": "2020-07-07",
+        "source": "https://twitter.com/DirectorateofHS/status/1280568332765151234?s=20"
       }
     },
     "total": {
       "confirmed": 276,
       "deceased": 2,
-      "recovered": 92,
-      "tested": 27645
+      "recovered": 105,
+      "tested": 28072
     }
   },
   "AS": {
@@ -1053,7 +1066,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:53:33+05:30",
+      "last_updated": "2020-07-07T23:56:29+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -7510,7 +7523,7 @@
         "total": {
           "confirmed": 639,
           "deceased": 1,
-          "recovered": 418,
+          "recovered": 410,
           "tested": 10621
         }
       },
@@ -7781,11 +7794,6 @@
           "confirmed": 393,
           "deceased": 1,
           "recovered": 185
-        }
-      },
-      "Unknown": {
-        "total": {
-          "recovered": -8
         }
       }
     },
@@ -10222,6 +10230,7 @@
       "Dhalai": {
         "delta": {
           "confirmed": 1,
+          "recovered": 5,
           "tested": 39
         },
         "meta": {
@@ -10233,13 +10242,14 @@
         },
         "total": {
           "confirmed": 249,
-          "recovered": 204,
+          "recovered": 209,
           "tested": 7005
         }
       },
       "Gomati": {
         "delta": {
           "confirmed": 5,
+          "recovered": 1,
           "tested": 170
         },
         "meta": {
@@ -10252,12 +10262,13 @@
         "total": {
           "confirmed": 228,
           "migrated": 1,
-          "recovered": 115,
+          "recovered": 116,
           "tested": 7691
         }
       },
       "Khowai": {
         "delta": {
+          "recovered": 6,
           "tested": 14
         },
         "meta": {
@@ -10269,13 +10280,14 @@
         },
         "total": {
           "confirmed": 126,
-          "recovered": 37,
+          "recovered": 43,
           "tested": 3392
         }
       },
       "North Tripura": {
         "delta": {
           "confirmed": 7,
+          "recovered": 2,
           "tested": 256
         },
         "meta": {
@@ -10288,12 +10300,13 @@
         "total": {
           "confirmed": 63,
           "migrated": 6,
-          "recovered": 18,
+          "recovered": 20,
           "tested": 14182
         }
       },
       "Sipahijala": {
         "delta": {
+          "recovered": 12,
           "tested": 47
         },
         "meta": {
@@ -10305,7 +10318,7 @@
         },
         "total": {
           "confirmed": 599,
-          "recovered": 533,
+          "recovered": 545,
           "tested": 8312
         }
       },
@@ -10327,17 +10340,10 @@
           "tested": 7730
         }
       },
-      "Unknown": {
-        "delta": {
-          "recovered": 29
-        },
-        "total": {
-          "recovered": 29
-        }
-      },
       "Unokoti": {
         "delta": {
           "confirmed": 5,
+          "recovered": 3,
           "tested": 28
         },
         "meta": {
@@ -10349,7 +10355,7 @@
         },
         "total": {
           "confirmed": 79,
-          "recovered": 66,
+          "recovered": 69,
           "tested": 2826
         }
       },
@@ -10394,10 +10400,10 @@
       "confirmed": 23135,
       "deceased": 479,
       "migrated": 4,
-      "recovered": 16836
+      "recovered": 16849
     },
     "meta": {
-      "last_updated": "2020-07-07T23:53:29+05:30",
+      "last_updated": "2020-07-08T00:04:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -10408,7 +10414,7 @@
       "confirmed": 743481,
       "deceased": 20653,
       "migrated": 100,
-      "recovered": 457045,
+      "recovered": 457058,
       "tested": 10211092
     }
   },
