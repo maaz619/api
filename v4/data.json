@@ -713,6 +713,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 814,
       "deceased": 2,
       "recovered": 388,
       "tested": 13935
@@ -883,11 +884,14 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 588
+        },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 4346,
+          "confirmed": 4934,
           "deceased": 6,
           "recovered": 383
         }
@@ -1020,10 +1024,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 226,
           "recovered": 388
         },
         "total": {
-          "confirmed": 4806,
+          "confirmed": 5032,
           "deceased": 7,
           "migrated": 3,
           "recovered": 7414
@@ -1039,7 +1044,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:07:42+05:30",
+      "last_updated": "2020-07-07T23:46:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1048,7 +1053,7 @@
       }
     },
     "total": {
-      "confirmed": 12523,
+      "confirmed": 13337,
       "deceased": 16,
       "migrated": 3,
       "recovered": 8330,
@@ -10201,34 +10206,37 @@
   "TR": {
     "delta": {
       "confirmed": 24,
-      "recovered": 29
+      "recovered": 29,
+      "tested": 1172
     },
     "districts": {
       "Dhalai": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 39
         },
         "meta": {
           "population": 377988,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 249,
           "recovered": 204,
-          "tested": 6966
+          "tested": 7005
         }
       },
       "Gomati": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "tested": 170
         },
         "meta": {
           "population": 436868,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -10236,31 +10244,35 @@
           "confirmed": 228,
           "migrated": 1,
           "recovered": 115,
-          "tested": 7521
+          "tested": 7691
         }
       },
       "Khowai": {
+        "delta": {
+          "tested": 14
+        },
         "meta": {
           "population": 327391,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 126,
           "recovered": 37,
-          "tested": 3378
+          "tested": 3392
         }
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "tested": 256
         },
         "meta": {
           "population": 415946,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -10268,28 +10280,34 @@
           "confirmed": 63,
           "migrated": 6,
           "recovered": 18,
-          "tested": 13926
+          "tested": 14182
         }
       },
       "Sipahijala": {
+        "delta": {
+          "tested": 47
+        },
         "meta": {
           "population": 484233,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 599,
           "recovered": 533,
-          "tested": 8265
+          "tested": 8312
         }
       },
       "South Tripura": {
+        "delta": {
+          "tested": 31
+        },
         "meta": {
           "population": 433737,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -10297,7 +10315,7 @@
           "confirmed": 142,
           "migrated": 1,
           "recovered": 100,
-          "tested": 7699
+          "tested": 7730
         }
       },
       "Unknown": {
@@ -10310,29 +10328,31 @@
       },
       "Unokoti": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "tested": 28
         },
         "meta": {
           "population": 277335,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 79,
           "recovered": 66,
-          "tested": 2798
+          "tested": 2826
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "tested": 587
         },
         "meta": {
           "population": 917534,
           "tested": {
-            "last_updated": "2020-07-06",
+            "last_updated": "2020-07-07",
             "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
@@ -10341,16 +10361,15 @@
           "deceased": 1,
           "migrated": 5,
           "recovered": 146,
-          "tested": 22505
+          "tested": 23092
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:37:30+05:30",
+      "last_updated": "2020-07-07T23:43:30+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/965"
+        "last_updated": "2020-07-07"
       }
     },
     "total": {
@@ -10358,18 +10377,18 @@
       "deceased": 1,
       "migrated": 13,
       "recovered": 1248,
-      "tested": 73058
+      "tested": 74230
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 22315,
+      "confirmed": 23129,
       "deceased": 479,
       "migrated": 4,
       "recovered": 16836
     },
     "meta": {
-      "last_updated": "2020-07-07T23:37:25+05:30",
+      "last_updated": "2020-07-07T23:47:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-06",
@@ -10377,7 +10396,7 @@
       }
     },
     "total": {
-      "confirmed": 742661,
+      "confirmed": 743475,
       "deceased": 20653,
       "migrated": 100,
       "recovered": 457045,
