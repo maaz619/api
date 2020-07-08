@@ -6202,7 +6202,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 13
+      "confirmed": 13,
+      "recovered": 1
     },
     "districts": {
       "Dimapur": {
@@ -6342,8 +6343,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
-          "recovered": 243
+          "recovered": 244
         }
       },
       "Wokha": {
@@ -6369,7 +6373,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T17:55:34+05:30",
+      "last_updated": "2020-07-08T19:03:30+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -6378,7 +6382,7 @@
     },
     "total": {
       "confirmed": 657,
-      "recovered": 303,
+      "recovered": 304,
       "tested": 21209
     }
   },
@@ -9236,10 +9240,10 @@
     "delta": {
       "confirmed": 8275,
       "deceased": 114,
-      "recovered": 6065
+      "recovered": 6066
     },
     "meta": {
-      "last_updated": "2020-07-08T18:54:26+05:30",
+      "last_updated": "2020-07-08T19:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -9250,7 +9254,7 @@
       "confirmed": 751768,
       "deceased": 20767,
       "migrated": 100,
-      "recovered": 463125,
+      "recovered": 463126,
       "tested": 10473771
     }
   },
@@ -10342,7 +10346,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T18:54:28+05:30",
+      "last_updated": "2020-07-08T19:02:31+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-07-07",
