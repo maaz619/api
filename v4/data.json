@@ -2440,7 +2440,8 @@
       "last_updated": "2020-07-08T21:51:38+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2020-07-08"
+        "last_updated": "2020-07-08",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2020/07/Media-Bulletin-08-Jul-2020.pdf"
       }
     },
     "total": {
@@ -2757,7 +2758,7 @@
       },
       "Kheda": {
         "delta": {
-          "confirmed": 11,
+          "confirmed": 3,
           "recovered": 5
         },
         "meta": {
@@ -2768,7 +2769,7 @@
           }
         },
         "total": {
-          "confirmed": 239,
+          "confirmed": 231,
           "deceased": 14,
           "recovered": 145,
           "tested": 6899
@@ -2832,7 +2833,7 @@
       },
       "Morbi": {
         "delta": {
-          "confirmed": 3,
+          "confirmed": 11,
           "deceased": 1,
           "recovered": 1
         },
@@ -2844,7 +2845,7 @@
           }
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 59,
           "deceased": 3,
           "recovered": 20,
           "tested": 4726
@@ -3106,17 +3107,21 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 9,
-      "recovered": 31
+      "confirmed": 18,
+      "recovered": 43,
+      "tested": 1843
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 382056
         },
         "total": {
           "confirmed": 48,
-          "recovered": 34
+          "recovered": 37
         }
       },
       "Chamba": {
@@ -3159,12 +3164,15 @@
         }
       },
       "Kinnaur": {
+        "delta": {
+          "recovered": 4
+        },
         "meta": {
           "population": 84298
         },
         "total": {
           "confirmed": 34,
-          "recovered": 3
+          "recovered": 7
         }
       },
       "Kullu": {
@@ -3210,37 +3218,43 @@
       },
       "Sirmaur": {
         "delta": {
+          "confirmed": 1,
           "recovered": 3
         },
         "meta": {
           "population": 530164
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "migrated": 7,
           "recovered": 29
         }
       },
       "Solan": {
         "delta": {
-          "recovered": 14
+          "confirmed": 6,
+          "recovered": 15
         },
         "meta": {
           "population": 576670
         },
         "total": {
-          "confirmed": 120,
+          "confirmed": 126,
           "migrated": 4,
-          "recovered": 90
+          "recovered": 91
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "meta": {
           "population": 521057
         },
         "total": {
-          "confirmed": 129,
-          "recovered": 99
+          "confirmed": 131,
+          "recovered": 103
         }
       },
       "Unknown": {
@@ -3250,20 +3264,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T18:15:43+05:30",
+      "last_updated": "2020-07-08T22:13:30+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://twitter.com/nhm_hp/status/1280534335498547201?s=20"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
-      "confirmed": 1092,
+      "confirmed": 1101,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 808,
-      "tested": 91175
+      "recovered": 820,
+      "tested": 93018
     }
   },
   "HR": {
@@ -8996,7 +9009,8 @@
     "delta": {
       "confirmed": 1924,
       "deceased": 11,
-      "recovered": 992
+      "recovered": 992,
+      "tested": 6363
     },
     "districts": {
       "Adilabad": {
@@ -9392,18 +9406,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T21:53:27+05:30",
+      "last_updated": "2020-07-08T22:08:28+05:30",
       "population": 37220000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://twitter.com/IPRTelangana/status/1280539486238040064?s=20"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
       "confirmed": 29536,
       "deceased": 324,
       "recovered": 17279,
-      "tested": 128438
+      "tested": 134801
     }
   },
   "TN": {
@@ -10309,12 +10322,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 24704,
+      "confirmed": 24713,
       "deceased": 491,
-      "recovered": 19427
+      "recovered": 19439
     },
     "meta": {
-      "last_updated": "2020-07-08T21:53:25+05:30",
+      "last_updated": "2020-07-08T22:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -10322,10 +10335,10 @@
       }
     },
     "total": {
-      "confirmed": 768197,
+      "confirmed": 768206,
       "deceased": 21144,
       "migrated": 100,
-      "recovered": 476472,
+      "recovered": 476484,
       "tested": 10473771
     }
   },
