@@ -358,6 +358,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 11,
+      "recovered": 4
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -384,6 +388,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -392,7 +399,7 @@
           }
         },
         "total": {
-          "confirmed": 91,
+          "confirmed": 92,
           "recovered": 61,
           "tested": 4819
         }
@@ -483,6 +490,9 @@
         }
       },
       "Lohit": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 145538,
           "tested": {
@@ -492,11 +502,14 @@
         },
         "total": {
           "confirmed": 4,
-          "recovered": 3,
+          "recovered": 4,
           "tested": 1173
         }
       },
       "Longding": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 60000,
           "tested": {
@@ -506,11 +519,14 @@
         },
         "total": {
           "confirmed": 4,
-          "recovered": 1,
+          "recovered": 2,
           "tested": 741
         }
       },
       "Lower Dibang Valley": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 53986,
           "tested": {
@@ -520,7 +536,7 @@
         },
         "total": {
           "confirmed": 3,
-          "recovered": 2,
+          "recovered": 3,
           "tested": 914
         }
       },
@@ -538,6 +554,9 @@
         }
       },
       "Lower Subansiri": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 82839,
           "tested": {
@@ -546,7 +565,7 @@
           }
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 7,
           "tested": 586
         }
       },
@@ -578,6 +597,10 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 1
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -586,8 +609,8 @@
           }
         },
         "total": {
-          "confirmed": 99,
-          "recovered": 10,
+          "confirmed": 104,
+          "recovered": 11,
           "tested": 761
         }
       },
@@ -616,6 +639,9 @@
         }
       },
       "Tawang": {
+        "delta": {
+          "confirmed": -1
+        },
         "meta": {
           "population": 49950,
           "tested": {
@@ -624,7 +650,7 @@
           }
         },
         "total": {
-          "confirmed": 2,
+          "confirmed": 1,
           "recovered": 1,
           "tested": 794
         }
@@ -671,6 +697,9 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 87013,
           "tested": {
@@ -679,7 +708,7 @@
           }
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 28,
           "deceased": 2,
           "recovered": 7,
           "tested": 1334
@@ -701,7 +730,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T00:17:28+05:30",
+      "last_updated": "2020-07-09T01:06:11+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -709,9 +738,9 @@
       }
     },
     "total": {
-      "confirmed": 276,
+      "confirmed": 287,
       "deceased": 2,
-      "recovered": 105,
+      "recovered": 109,
       "tested": 28072
     }
   },
@@ -10500,12 +10529,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 25548,
+      "confirmed": 25559,
       "deceased": 491,
-      "recovered": 19505
+      "recovered": 19509
     },
     "meta": {
-      "last_updated": "2020-07-08T23:48:25+05:30",
+      "last_updated": "2020-07-09T01:06:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -10513,10 +10542,10 @@
       }
     },
     "total": {
-      "confirmed": 769041,
+      "confirmed": 769052,
       "deceased": 21144,
       "migrated": 100,
-      "recovered": 476550,
+      "recovered": 476554,
       "tested": 10473771
     }
   },
