@@ -649,11 +649,15 @@
         }
       },
       "Barpeta": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 1693190
         },
         "total": {
           "confirmed": 150,
+          "deceased": 1,
           "recovered": 55
         }
       },
@@ -797,12 +801,15 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "deceased": 3
+        },
         "meta": {
           "population": 1260419
         },
         "total": {
           "confirmed": 4934,
-          "deceased": 6,
+          "deceased": 9,
           "recovered": 383
         }
       },
@@ -930,12 +937,9 @@
         }
       },
       "Unknown": {
-        "delta": {
-          "deceased": 4
-        },
         "total": {
           "confirmed": 5032,
-          "deceased": 11,
+          "deceased": 7,
           "migrated": 3,
           "recovered": 7414
         }
@@ -950,7 +954,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:56:29+05:30",
+      "last_updated": "2020-07-08T11:21:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -5946,7 +5950,7 @@
   "OR": {
     "delta": {
       "confirmed": 527,
-      "deceased": 6
+      "deceased": 7
     },
     "districts": {
       "Angul": {
@@ -6246,14 +6250,14 @@
       "Khordha": {
         "delta": {
           "confirmed": 50,
-          "deceased": 1
+          "deceased": 2
         },
         "meta": {
           "population": 2246341
         },
         "total": {
           "confirmed": 1079,
-          "deceased": 10,
+          "deceased": 11,
           "recovered": 773
         }
       },
@@ -6442,7 +6446,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T11:13:39+05:30",
+      "last_updated": "2020-07-08T11:23:28+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6452,7 +6456,7 @@
     },
     "total": {
       "confirmed": 10624,
-      "deceased": 60,
+      "deceased": 61,
       "recovered": 6703,
       "tested": 302780
     }
@@ -6839,7 +6843,7 @@
           "recovered": 65
         },
         "meta": {
-          "notes": "21 cases(20 of TN & 1 of AP) have been transferred,so have been reduced from the total count",
+          "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
           "tested": {
             "last_updated": "2020-07-07",
@@ -6858,7 +6862,7 @@
           "confirmed": 6
         },
         "meta": {
-          "notes": "2 cases of  AP have been transferred,so have been reduced from the total count",
+          "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
           "tested": {
             "last_updated": "2020-07-07",
@@ -6872,7 +6876,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T11:13:55+05:30",
+      "last_updated": "2020-07-08T11:21:34+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8536,11 +8540,11 @@
   "TT": {
     "delta": {
       "confirmed": 637,
-      "deceased": 10,
+      "deceased": 11,
       "recovered": 67
     },
     "meta": {
-      "last_updated": "2020-07-08T11:13:27+05:30",
+      "last_updated": "2020-07-08T11:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8549,7 +8553,7 @@
     },
     "total": {
       "confirmed": 744118,
-      "deceased": 20663,
+      "deceased": 20664,
       "migrated": 100,
       "recovered": 457125,
       "tested": 10473771
