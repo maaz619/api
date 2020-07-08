@@ -1050,7 +1050,7 @@
     "delta": {
       "confirmed": 749,
       "deceased": 2,
-      "recovered": 194
+      "recovered": 203
     },
     "districts": {
       "Araria": {
@@ -1594,7 +1594,8 @@
       },
       "West Champaran": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 9
         },
         "meta": {
           "population": 3935042
@@ -1602,12 +1603,12 @@
         "total": {
           "confirmed": 299,
           "deceased": 2,
-          "recovered": 187
+          "recovered": 196
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T17:24:35+05:30",
+      "last_updated": "2020-07-08T17:39:29+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -1617,7 +1618,7 @@
     "total": {
       "confirmed": 13274,
       "deceased": 100,
-      "recovered": 9532,
+      "recovered": 9541,
       "tested": 269277
     }
   },
@@ -4475,7 +4476,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T17:24:37+05:30",
+      "last_updated": "2020-07-08T17:28:30+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -6107,7 +6108,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T17:24:40+05:30",
+      "last_updated": "2020-07-08T17:28:33+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -6122,7 +6123,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 12
+      "confirmed": 13
     },
     "districts": {
       "Dimapur": {
@@ -6246,6 +6247,9 @@
         }
       },
       "Tuensang": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 414801,
           "tested": {
@@ -6254,7 +6258,7 @@
           }
         },
         "total": {
-          "confirmed": 40,
+          "confirmed": 41,
           "tested": 1
         }
       },
@@ -6286,7 +6290,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T09:57:36+05:30",
+      "last_updated": "2020-07-08T17:39:32+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -6294,7 +6298,7 @@
       }
     },
     "total": {
-      "confirmed": 656,
+      "confirmed": 657,
       "recovered": 303,
       "tested": 21209
     }
@@ -8945,12 +8949,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3021,
+      "confirmed": 3022,
       "deceased": 32,
-      "recovered": 1784
+      "recovered": 1793
     },
     "meta": {
-      "last_updated": "2020-07-08T17:24:25+05:30",
+      "last_updated": "2020-07-08T17:39:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8958,10 +8962,10 @@
       }
     },
     "total": {
-      "confirmed": 746514,
+      "confirmed": 746515,
       "deceased": 20685,
       "migrated": 100,
-      "recovered": 458844,
+      "recovered": 458853,
       "tested": 10473771
     }
   },
