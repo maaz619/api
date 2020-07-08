@@ -1602,11 +1602,15 @@
         }
       },
       "2020-07-08": {
+        "delta": {
+          "confirmed": 301,
+          "recovered": 107
+        },
         "total": {
-          "confirmed": 5895,
+          "confirmed": 6196,
           "deceased": 28,
           "migrated": 4,
-          "recovered": 3452,
+          "recovered": 3559,
           "tested": 285968
         }
       }
@@ -2274,8 +2278,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 18
+            },
             "total": {
-              "confirmed": 411,
+              "confirmed": 429,
               "deceased": 1,
               "migrated": 1,
               "recovered": 192
@@ -2999,8 +3006,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 16
+            },
             "total": {
-              "confirmed": 362,
+              "confirmed": 378,
               "deceased": 2,
               "migrated": 1,
               "recovered": 166
@@ -3593,8 +3603,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 20
+            },
             "total": {
-              "confirmed": 134,
+              "confirmed": 154,
               "recovered": 75
             }
           }
@@ -4353,8 +4366,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 22
+            },
             "total": {
-              "confirmed": 619,
+              "confirmed": 641,
               "deceased": 5,
               "recovered": 345
             }
@@ -5025,8 +5041,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 4
+            },
             "total": {
-              "confirmed": 535,
+              "confirmed": 539,
               "recovered": 402
             }
           }
@@ -5699,8 +5718,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 8
+            },
             "total": {
-              "confirmed": 427,
+              "confirmed": 435,
               "deceased": 2,
               "recovered": 245
             }
@@ -6377,8 +6399,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 17
+            },
             "total": {
-              "confirmed": 271,
+              "confirmed": 288,
               "deceased": 1,
               "recovered": 158
             }
@@ -7071,8 +7096,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 15
+            },
             "total": {
-              "confirmed": 347,
+              "confirmed": 362,
               "deceased": 2,
               "recovered": 213
             }
@@ -7823,8 +7851,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 46
+            },
             "total": {
-              "confirmed": 755,
+              "confirmed": 801,
               "deceased": 5,
               "recovered": 403
             }
@@ -8556,8 +8587,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 25
+            },
             "total": {
-              "confirmed": 673,
+              "confirmed": 698,
               "deceased": 1,
               "migrated": 1,
               "recovered": 485
@@ -9190,8 +9224,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 7
+            },
             "total": {
-              "confirmed": 392,
+              "confirmed": 399,
               "migrated": 1,
               "recovered": 213
             }
@@ -9901,6 +9938,18 @@
           }
         }
       },
+      "Thiruvanathapuram": {
+        "dates": {
+          "2020-07-08": {
+            "delta": {
+              "confirmed": 64
+            },
+            "total": {
+              "confirmed": 64
+            }
+          }
+        }
+      },
       "Thrissur": {
         "dates": {
           "2020-04-26": {
@@ -10576,10 +10625,25 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 25
+            },
             "total": {
-              "confirmed": 505,
+              "confirmed": 530,
               "deceased": 3,
               "recovered": 300
+            }
+          }
+        }
+      },
+      "Unknown": {
+        "dates": {
+          "2020-07-08": {
+            "delta": {
+              "recovered": 107
+            },
+            "total": {
+              "recovered": 107
             }
           }
         }
@@ -11228,8 +11292,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 14
+            },
             "total": {
-              "confirmed": 119,
+              "confirmed": 133,
               "deceased": 1,
               "recovered": 73
             }

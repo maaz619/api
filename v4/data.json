@@ -2992,7 +2992,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T18:04:33+05:30",
+      "last_updated": "2020-07-08T18:12:36+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4287,114 +4287,151 @@
     }
   },
   "KL": {
+    "delta": {
+      "confirmed": 301,
+      "recovered": 107
+    },
     "districts": {
       "Alappuzha": {
+        "delta": {
+          "confirmed": 18
+        },
         "meta": {
           "population": 2121943
         },
         "total": {
-          "confirmed": 411,
+          "confirmed": 429,
           "deceased": 1,
           "migrated": 1,
           "recovered": 192
         }
       },
       "Ernakulam": {
+        "delta": {
+          "confirmed": 16
+        },
         "meta": {
           "population": 3279860
         },
         "total": {
-          "confirmed": 362,
+          "confirmed": 378,
           "deceased": 2,
           "migrated": 1,
           "recovered": 166
         }
       },
       "Idukki": {
+        "delta": {
+          "confirmed": 20
+        },
         "meta": {
           "population": 1107453
         },
         "total": {
-          "confirmed": 134,
+          "confirmed": 154,
           "recovered": 75
         }
       },
       "Kannur": {
+        "delta": {
+          "confirmed": 22
+        },
         "meta": {
           "population": 2525637
         },
         "total": {
-          "confirmed": 619,
+          "confirmed": 641,
           "deceased": 5,
           "recovered": 345
         }
       },
       "Kasaragod": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 1302600
         },
         "total": {
-          "confirmed": 535,
+          "confirmed": 539,
           "recovered": 402
         }
       },
       "Kollam": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "population": 2629703
         },
         "total": {
-          "confirmed": 427,
+          "confirmed": 435,
           "deceased": 2,
           "recovered": 245
         }
       },
       "Kottayam": {
+        "delta": {
+          "confirmed": 17
+        },
         "meta": {
           "population": 1979384
         },
         "total": {
-          "confirmed": 271,
+          "confirmed": 288,
           "deceased": 1,
           "recovered": 158
         }
       },
       "Kozhikode": {
+        "delta": {
+          "confirmed": 15
+        },
         "meta": {
           "population": 3089543
         },
         "total": {
-          "confirmed": 347,
+          "confirmed": 362,
           "deceased": 2,
           "recovered": 213
         }
       },
       "Malappuram": {
+        "delta": {
+          "confirmed": 46
+        },
         "meta": {
           "population": 4110956
         },
         "total": {
-          "confirmed": 755,
+          "confirmed": 801,
           "deceased": 5,
           "recovered": 403
         }
       },
       "Palakkad": {
+        "delta": {
+          "confirmed": 25
+        },
         "meta": {
           "population": 2810892
         },
         "total": {
-          "confirmed": 673,
+          "confirmed": 698,
           "deceased": 1,
           "migrated": 1,
           "recovered": 485
         }
       },
       "Pathanamthitta": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 1195537
         },
         "total": {
-          "confirmed": 392,
+          "confirmed": 399,
           "migrated": 1,
           "recovered": 213
         }
@@ -4409,29 +4446,51 @@
           "recovered": 182
         }
       },
+      "Thiruvanathapuram": {
+        "delta": {
+          "confirmed": 64
+        },
+        "total": {
+          "confirmed": 64
+        }
+      },
       "Thrissur": {
+        "delta": {
+          "confirmed": 25
+        },
         "meta": {
           "population": 3110327
         },
         "total": {
-          "confirmed": 505,
+          "confirmed": 530,
           "deceased": 3,
           "recovered": 300
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 107
+        },
+        "total": {
+          "recovered": 107
+        }
+      },
       "Wayanad": {
+        "delta": {
+          "confirmed": 14
+        },
         "meta": {
           "population": 816558
         },
         "total": {
-          "confirmed": 119,
+          "confirmed": 133,
           "deceased": 1,
           "recovered": 73
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:39:35+05:30",
+      "last_updated": "2020-07-08T18:13:28+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -4440,10 +4499,10 @@
       }
     },
     "total": {
-      "confirmed": 5895,
+      "confirmed": 6196,
       "deceased": 28,
       "migrated": 4,
-      "recovered": 3452,
+      "recovered": 3559,
       "tested": 285968
     }
   },
@@ -6839,7 +6898,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T18:04:29+05:30",
+      "last_updated": "2020-07-08T18:12:30+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8986,12 +9045,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3030,
+      "confirmed": 3331,
       "deceased": 32,
-      "recovered": 2127
+      "recovered": 2234
     },
     "meta": {
-      "last_updated": "2020-07-08T18:04:25+05:30",
+      "last_updated": "2020-07-08T18:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8999,10 +9058,10 @@
       }
     },
     "total": {
-      "confirmed": 746523,
+      "confirmed": 746824,
       "deceased": 20685,
       "migrated": 100,
-      "recovered": 459187,
+      "recovered": 459294,
       "tested": 10473771
     }
   },
