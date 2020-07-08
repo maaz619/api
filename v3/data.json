@@ -1670,7 +1670,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:03:36+05:30",
+      "last_updated": "2020-07-08T20:13:31+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -2990,7 +2990,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:03:31+05:30",
+      "last_updated": "2020-07-08T20:13:28+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -3968,6 +3968,9 @@
     }
   },
   "KA": {
+    "delta": {
+      "tested": 19134
+    },
     "districts": {
       "Bagalkote": {
         "meta": {
@@ -4432,8 +4435,7 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://twitter.com/DHFWKA/status/1280510103268007936?s=20"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
@@ -4441,7 +4443,7 @@
       "deceased": 417,
       "migrated": 4,
       "recovered": 11100,
-      "tested": 740047
+      "tested": 759181
     }
   },
   "KL": {
@@ -4728,6 +4730,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 6603,
+      "deceased": 198,
+      "recovered": 4634,
       "tested": 29705
     },
     "districts": {
@@ -5187,6 +5192,18 @@
           "tested": 135279
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 6603,
+          "deceased": 198,
+          "recovered": 4634
+        },
+        "total": {
+          "confirmed": 6603,
+          "deceased": 198,
+          "recovered": 4634
+        }
+      },
       "Wardha": {
         "meta": {
           "population": 1296157,
@@ -5229,7 +5246,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T23:07:39+05:30",
+      "last_updated": "2020-07-08T20:13:26+05:30",
       "notes": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5238,10 +5255,10 @@
       }
     },
     "total": {
-      "confirmed": 217121,
-      "deceased": 9250,
+      "confirmed": 223724,
+      "deceased": 9448,
       "migrated": 19,
-      "recovered": 118558,
+      "recovered": 123192,
       "tested": 1194565
     }
   },
@@ -8336,13 +8353,19 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 6
+    },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 281293
         },
         "total": {
-          "confirmed": 65,
+          "confirmed": 71,
           "migrated": 13,
           "recovered": 23
         }
@@ -8382,7 +8405,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:57:41+05:30",
+      "last_updated": "2020-07-08T20:13:33+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -8391,7 +8414,7 @@
       }
     },
     "total": {
-      "confirmed": 127,
+      "confirmed": 133,
       "migrated": 13,
       "recovered": 80,
       "tested": 11581
@@ -8731,7 +8754,8 @@
     "delta": {
       "confirmed": 3756,
       "deceased": 64,
-      "recovered": 3051
+      "recovered": 3051,
+      "tested": 35979
     },
     "districts": {
       "Airport Quarantine": {
@@ -9469,15 +9493,15 @@
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/07/Media-Bulletin-07.07.2020-26-Pages-English-472-KB.pdf"
+        "last_updated": "2020-07-08",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/07/Media-Bulletin-08.07.2020-26-Pages-English-481-KB.pdf"
       }
     },
     "total": {
       "confirmed": 122350,
       "deceased": 1700,
       "recovered": 74167,
-      "tested": 1413435
+      "tested": 1449414
     }
   },
   "TR": {
@@ -9629,12 +9653,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 10659,
-      "deceased": 167,
-      "recovered": 7681
+      "confirmed": 17268,
+      "deceased": 365,
+      "recovered": 12315
     },
     "meta": {
-      "last_updated": "2020-07-08T20:03:27+05:30",
+      "last_updated": "2020-07-08T20:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -9642,10 +9666,10 @@
       }
     },
     "total": {
-      "confirmed": 754152,
-      "deceased": 20820,
+      "confirmed": 760761,
+      "deceased": 21018,
       "migrated": 100,
-      "recovered": 464741,
+      "recovered": 469375,
       "tested": 10473771
     }
   },
@@ -11013,7 +11037,8 @@
     "delta": {
       "confirmed": 986,
       "deceased": 23,
-      "recovered": 501
+      "recovered": 501,
+      "tested": 10386
     },
     "districts": {
       "Alipurduar": {
@@ -11341,15 +11366,15 @@
       "last_updated": "2020-07-08T19:40:32+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_7th_JULY_REPORT_FINAL.pdf"
+        "last_updated": "2020-07-08",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_8th_JULY_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 24823,
       "deceased": 827,
       "recovered": 16291,
-      "tested": 562137
+      "tested": 572523
     }
   }
 }
