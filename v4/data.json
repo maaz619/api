@@ -632,7 +632,7 @@
   },
   "AS": {
     "delta": {
-      "deceased": 4
+      "deceased": 5
     },
     "districts": {
       "Airport Quarantine": {
@@ -928,11 +928,15 @@
         }
       },
       "Udalguri": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 832769
         },
         "total": {
           "confirmed": 105,
+          "deceased": 1,
           "recovered": 2
         }
       },
@@ -954,7 +958,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T11:21:28+05:30",
+      "last_updated": "2020-07-08T12:13:28+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -964,7 +968,7 @@
     },
     "total": {
       "confirmed": 13337,
-      "deceased": 20,
+      "deceased": 21,
       "migrated": 3,
       "recovered": 8330,
       "tested": 485156
@@ -4217,15 +4221,15 @@
         "meta": {
           "population": 2585962,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200707_1_3&width=76px"
+            "last_updated": "2020-07-07",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200708_1_3&width=71px"
           }
         },
         "total": {
           "confirmed": 154,
           "deceased": 3,
           "recovered": 95,
-          "tested": 3925
+          "tested": 4213
         }
       },
       "Bhandara": {
@@ -4321,8 +4325,8 @@
         "meta": {
           "population": 1178973,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200707_1_3&width=73px"
+            "last_updated": "2020-07-07",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200708_1_3&width=73px"
           }
         },
         "total": {
@@ -4351,15 +4355,15 @@
         "meta": {
           "population": 1958483,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200707_1_3&width=74px"
+            "last_updated": "2020-07-07",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200708_1_3&width=74px"
           }
         },
         "total": {
           "confirmed": 832,
           "deceased": 31,
           "recovered": 424,
-          "tested": 5998
+          "tested": 6065
         }
       },
       "Kolhapur": {
@@ -4462,15 +4466,15 @@
         "meta": {
           "population": 1660311,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HOBD_20200707_1_3&width=73px"
+            "last_updated": "2020-07-07",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HOBD_20200708_1_3&width=72px"
           }
         },
         "total": {
           "confirmed": 292,
           "deceased": 14,
           "recovered": 195,
-          "tested": 3646
+          "tested": 3848
         }
       },
       "Other State": {
@@ -4498,15 +4502,14 @@
         "meta": {
           "population": 1835982,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HPBN_20200707_1_3&width=72px"
+            "last_updated": "2020-07-07"
           }
         },
         "total": {
           "confirmed": 136,
           "deceased": 4,
           "recovered": 83,
-          "tested": 2714
+          "tested": 2720
         }
       },
       "Pune": {
@@ -8594,11 +8597,11 @@
   "TT": {
     "delta": {
       "confirmed": 810,
-      "deceased": 17,
+      "deceased": 18,
       "recovered": 75
     },
     "meta": {
-      "last_updated": "2020-07-08T11:51:25+05:30",
+      "last_updated": "2020-07-08T12:13:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8607,7 +8610,7 @@
     },
     "total": {
       "confirmed": 744291,
-      "deceased": 20670,
+      "deceased": 20671,
       "migrated": 100,
       "recovered": 457133,
       "tested": 10473771
