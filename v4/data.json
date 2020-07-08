@@ -883,7 +883,7 @@
         "total": {
           "confirmed": 4934,
           "deceased": 9,
-          "recovered": 383
+          "recovered": 386
         }
       },
       "Karbi Anglong": {
@@ -1020,7 +1020,7 @@
           "confirmed": 5032,
           "deceased": 2,
           "migrated": 3,
-          "recovered": 7414
+          "recovered": 7411
         }
       },
       "West Karbi Anglong": {
@@ -4293,7 +4293,8 @@
   "KL": {
     "delta": {
       "confirmed": 301,
-      "recovered": 107
+      "recovered": 107,
+      "tested": 10215
     },
     "districts": {
       "Alappuzha": {
@@ -4498,8 +4499,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-07-1.pdf"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
@@ -4507,7 +4507,7 @@
       "deceased": 28,
       "migrated": 4,
       "recovered": 3559,
-      "tested": 285968
+      "tested": 296183
     }
   },
   "LA": {
@@ -7262,73 +7262,73 @@
     "districts": {
       "Karaikal": {
         "delta": {
-          "confirmed": 25
+          "confirmed": 25,
+          "tested": 51
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/977"
+            "last_updated": "2020-07-08"
           }
         },
         "total": {
           "confirmed": 71,
           "recovered": 37,
-          "tested": 2974
+          "tested": 3025
         }
       },
       "Mahe": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": 28
         },
         "meta": {
           "population": 41816,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/977"
+            "last_updated": "2020-07-08"
           }
         },
         "total": {
           "confirmed": 20,
           "recovered": 13,
-          "tested": 992
+          "tested": 1020
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 77,
-          "recovered": 65
+          "recovered": 65,
+          "tested": 779
         },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/977"
+            "last_updated": "2020-07-08"
           }
         },
         "total": {
           "confirmed": 1039,
           "deceased": 14,
           "recovered": 534,
-          "tested": 16697
+          "tested": 17476
         }
       },
       "Yanam": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "tested": 20
         },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/977"
+            "last_updated": "2020-07-08"
           }
         },
         "total": {
           "confirmed": 21,
-          "tested": 1202
+          "tested": 1222
         }
       }
     },
@@ -9065,7 +9065,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T18:40:05+05:30",
+      "last_updated": "2020-07-08T18:45:28+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -9234,7 +9234,7 @@
       "recovered": 5361
     },
     "meta": {
-      "last_updated": "2020-07-08T18:39:46+05:30",
+      "last_updated": "2020-07-08T18:45:26+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
