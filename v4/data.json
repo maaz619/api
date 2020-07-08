@@ -50,7 +50,8 @@
     "delta": {
       "confirmed": 1062,
       "deceased": 12,
-      "recovered": 1356
+      "recovered": 1356,
+      "tested": 27643
     },
     "districts": {
       "Anantapur": {
@@ -332,15 +333,14 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://twitter.com/ArogyaAndhra/status/1280427853067108352?s=20"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
       "confirmed": 22259,
       "deceased": 264,
       "recovered": 11101,
-      "tested": 1050090
+      "tested": 1077733
     }
   },
   "AR": {
@@ -2156,11 +2156,15 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 14,
-      "recovered": 10
+      "confirmed": 17,
+      "recovered": 11
     },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 1
+        },
         "meta": {
           "population": 343709,
           "tested": {
@@ -2169,9 +2173,9 @@
           }
         },
         "total": {
-          "confirmed": 200,
+          "confirmed": 203,
           "migrated": 3,
-          "recovered": 94,
+          "recovered": 95,
           "tested": 21065
         }
       },
@@ -2210,7 +2214,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T15:26:32+05:30",
+      "last_updated": "2020-07-08T16:23:35+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2219,10 +2223,10 @@
       }
     },
     "total": {
-      "confirmed": 439,
+      "confirmed": 442,
       "deceased": 1,
       "migrated": 3,
-      "recovered": 195,
+      "recovered": 196,
       "tested": 34444
     }
   },
@@ -4959,7 +4963,8 @@
   },
   "ML": {
     "delta": {
-      "confirmed": 4
+      "confirmed": 4,
+      "recovered": 2
     },
     "districts": {
       "East Jaintia Hills": {
@@ -5001,17 +5006,20 @@
         }
       },
       "South West Garo Hills": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 172495
         },
         "total": {
           "confirmed": 7,
-          "recovered": 4
+          "recovered": 6
         }
       },
       "Unknown": {
         "total": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 12
         }
       },
@@ -5043,7 +5051,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T11:07:56+05:30",
+      "last_updated": "2020-07-08T16:23:37+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -5052,9 +5060,9 @@
       }
     },
     "total": {
-      "confirmed": 98,
+      "confirmed": 99,
       "deceased": 2,
-      "recovered": 43,
+      "recovered": 45,
       "tested": 21237
     }
   },
@@ -8874,12 +8882,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3011,
+      "confirmed": 3014,
       "deceased": 30,
-      "recovered": 1555
+      "recovered": 1558
     },
     "meta": {
-      "last_updated": "2020-07-08T15:38:26+05:30",
+      "last_updated": "2020-07-08T16:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8887,10 +8895,10 @@
       }
     },
     "total": {
-      "confirmed": 746502,
+      "confirmed": 746506,
       "deceased": 20684,
       "migrated": 100,
-      "recovered": 458615,
+      "recovered": 458618,
       "tested": 10473771
     }
   },
