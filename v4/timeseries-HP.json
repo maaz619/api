@@ -1429,13 +1429,14 @@
       },
       "2020-07-08": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 9,
+          "recovered": 31
         },
         "total": {
-          "confirmed": 1084,
+          "confirmed": 1092,
           "deceased": 10,
           "migrated": 13,
-          "recovered": 777,
+          "recovered": 808,
           "tested": 91175
         }
       }
@@ -3169,10 +3170,14 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 8
+            },
             "total": {
-              "confirmed": 267,
+              "confirmed": 268,
               "deceased": 3,
-              "recovered": 203
+              "recovered": 211
             }
           }
         }
@@ -3917,12 +3922,13 @@
           },
           "2020-07-08": {
             "delta": {
-              "confirmed": 1
+              "confirmed": 7,
+              "recovered": 6
             },
             "total": {
-              "confirmed": 292,
+              "confirmed": 298,
               "deceased": 3,
-              "recovered": 221
+              "recovered": 227
             }
           }
         }
@@ -5112,8 +5118,11 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "confirmed": 1
+            },
             "total": {
-              "confirmed": 36,
+              "confirmed": 37,
               "deceased": 2,
               "recovered": 26
             }
@@ -6203,10 +6212,13 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "recovered": 3
+            },
             "total": {
               "confirmed": 40,
               "migrated": 7,
-              "recovered": 26
+              "recovered": 29
             }
           }
         }
@@ -6875,10 +6887,13 @@
             }
           },
           "2020-07-08": {
+            "delta": {
+              "recovered": 14
+            },
             "total": {
               "confirmed": 120,
               "migrated": 4,
-              "recovered": 76
+              "recovered": 90
             }
           }
         }
