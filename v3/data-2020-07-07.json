@@ -2343,8 +2343,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 15,
-      "recovered": 8
+      "confirmed": 25,
+      "recovered": 10
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2367,6 +2367,10 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 2
+        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -2375,8 +2379,8 @@
           }
         },
         "total": {
-          "confirmed": 192,
-          "recovered": 77,
+          "confirmed": 202,
+          "recovered": 79,
           "tested": 10159
         }
       },
@@ -2406,9 +2410,9 @@
       }
     },
     "total": {
-      "confirmed": 413,
+      "confirmed": 423,
       "migrated": 1,
-      "recovered": 183,
+      "recovered": 185,
       "tested": 34444
     }
   },
@@ -5623,14 +5627,13 @@
         "delta": {
           "confirmed": 228,
           "deceased": 10,
-          "recovered": 231,
-          "tested": 1616
+          "recovered": 231
         },
         "meta": {
           "population": 2990116,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HTHA_20200708_2_15&width=75px"
+            "last_updated": "2020-07-06",
+            "source": "https://datastudio.google.com/embed/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/r0ZUB"
           }
         },
         "total": {
@@ -10465,10 +10468,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 23135,
+      "confirmed": 23145,
       "deceased": 479,
       "migrated": 4,
-      "recovered": 16849,
+      "recovered": 16851,
       "tested": 262679
     },
     "meta": {
@@ -10479,10 +10482,10 @@
       }
     },
     "total": {
-      "confirmed": 743479,
+      "confirmed": 743489,
       "deceased": 20653,
       "migrated": 98,
-      "recovered": 457058,
+      "recovered": 457060,
       "tested": 10473771
     }
   },

@@ -2157,6 +2157,7 @@
   "DN": {
     "delta": {
       "confirmed": 14,
+      "deceased": 1,
       "recovered": 10
     },
     "districts": {
@@ -2178,6 +2179,7 @@
       "Daman": {
         "delta": {
           "confirmed": 14,
+          "deceased": 1,
           "recovered": 10
         },
         "meta": {
@@ -2188,8 +2190,9 @@
           }
         },
         "total": {
-          "confirmed": 206,
-          "recovered": 87,
+          "confirmed": 216,
+          "deceased": 1,
+          "recovered": 89,
           "tested": 10159
         }
       },
@@ -2209,7 +2212,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T15:02:33+05:30",
+      "last_updated": "2020-07-08T15:13:59+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2218,9 +2221,10 @@
       }
     },
     "total": {
-      "confirmed": 427,
+      "confirmed": 437,
+      "deceased": 1,
       "migrated": 1,
-      "recovered": 193,
+      "recovered": 195,
       "tested": 34444
     }
   },
@@ -4704,8 +4708,8 @@
         "meta": {
           "population": 2990116,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HTHA_20200708_2_15&width=75px"
+            "last_updated": "2020-07-06",
+            "source": "https://datastudio.google.com/embed/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/r0ZUB"
           }
         },
         "total": {
@@ -8815,11 +8819,11 @@
   "TT": {
     "delta": {
       "confirmed": 2674,
-      "deceased": 30,
+      "deceased": 31,
       "recovered": 1441
     },
     "meta": {
-      "last_updated": "2020-07-08T15:04:26+05:30",
+      "last_updated": "2020-07-08T15:13:54+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8827,10 +8831,10 @@
       }
     },
     "total": {
-      "confirmed": 746153,
-      "deceased": 20683,
+      "confirmed": 746163,
+      "deceased": 20684,
       "migrated": 98,
-      "recovered": 458499,
+      "recovered": 458501,
       "tested": 10473771
     }
   },
