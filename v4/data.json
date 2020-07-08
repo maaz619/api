@@ -1569,7 +1569,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T14:46:29+05:30",
+      "last_updated": "2020-07-08T14:50:29+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -2155,6 +2155,10 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 14,
+      "recovered": 10
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
         "meta": {
@@ -2172,6 +2176,10 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 14,
+          "recovered": 10
+        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -2180,8 +2188,8 @@
           }
         },
         "total": {
-          "confirmed": 192,
-          "recovered": 77,
+          "confirmed": 206,
+          "recovered": 87,
           "tested": 10159
         }
       },
@@ -2201,7 +2209,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T13:30:29+05:30",
+      "last_updated": "2020-07-08T14:53:29+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2210,9 +2218,9 @@
       }
     },
     "total": {
-      "confirmed": 413,
+      "confirmed": 427,
       "migrated": 1,
-      "recovered": 183,
+      "recovered": 193,
       "tested": 34444
     }
   },
@@ -8806,12 +8814,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2660,
+      "confirmed": 2674,
       "deceased": 30,
-      "recovered": 1431
+      "recovered": 1441
     },
     "meta": {
-      "last_updated": "2020-07-08T14:46:25+05:30",
+      "last_updated": "2020-07-08T14:53:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8819,10 +8827,10 @@
       }
     },
     "total": {
-      "confirmed": 746139,
+      "confirmed": 746153,
       "deceased": 20683,
       "migrated": 98,
-      "recovered": 458489,
+      "recovered": 458499,
       "tested": 10473771
     }
   },
