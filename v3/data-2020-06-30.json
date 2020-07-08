@@ -755,11 +755,15 @@
         }
       },
       "Baksa": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 953773
         },
         "total": {
-          "confirmed": 85
+          "confirmed": 85,
+          "deceased": 1
         }
       },
       "Barpeta": {
@@ -880,12 +884,15 @@
         }
       },
       "Hailakandi": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 659260
         },
         "total": {
           "confirmed": 78,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 5
         }
       },
@@ -934,13 +941,15 @@
       },
       "Karbi Anglong": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 2
         },
         "meta": {
           "population": 965280
         },
         "total": {
           "confirmed": 41,
+          "deceased": 2,
           "recovered": 7
         }
       },
@@ -1029,13 +1038,15 @@
       },
       "Sonitpur": {
         "delta": {
-          "confirmed": 18
+          "confirmed": 18,
+          "deceased": 1
         },
         "meta": {
           "population": 1925975
         },
         "total": {
           "confirmed": 122,
+          "deceased": 1,
           "recovered": 35
         }
       },
@@ -1069,11 +1080,11 @@
       "Unknown": {
         "delta": {
           "confirmed": 192,
+          "deceased": -5,
           "recovered": 314
         },
         "total": {
           "confirmed": 3368,
-          "deceased": 5,
           "migrated": 3,
           "recovered": 4732
         }

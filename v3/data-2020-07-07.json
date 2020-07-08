@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "tested": 286
     },
     "districts": {
       "North and Middle Andaman": {
@@ -35,14 +36,14 @@
     "meta": {
       "population": 397000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://dhs.andaman.gov.in/NewEvents/321.pdf"
+        "last_updated": "2020-07-07",
+        "source": "https://dhs.andaman.gov.in/NewEvents/322.pdf"
       }
     },
     "total": {
       "confirmed": 147,
       "recovered": 74,
-      "tested": 17095
+      "tested": 17381
     }
   },
   "AP": {
@@ -777,7 +778,8 @@
           "population": 953773
         },
         "total": {
-          "confirmed": 85
+          "confirmed": 85,
+          "deceased": 1
         }
       },
       "Barpeta": {
@@ -897,7 +899,7 @@
         },
         "total": {
           "confirmed": 78,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 5
         }
       },
@@ -950,6 +952,7 @@
         },
         "total": {
           "confirmed": 41,
+          "deceased": 2,
           "recovered": 7
         }
       },
@@ -1040,6 +1043,7 @@
         },
         "total": {
           "confirmed": 122,
+          "deceased": 1,
           "recovered": 35
         }
       },
@@ -1077,7 +1081,7 @@
         },
         "total": {
           "confirmed": 5032,
-          "deceased": 7,
+          "deceased": 2,
           "migrated": 3,
           "recovered": 7414
         }
