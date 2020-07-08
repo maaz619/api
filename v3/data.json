@@ -2745,7 +2745,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T12:53:50+05:30",
+      "last_updated": "2020-07-08T12:57:31+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3017,13 +3017,19 @@
     }
   },
   "JH": {
+    "delta": {
+      "confirmed": 38
+    },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 2061918
         },
         "total": {
-          "confirmed": 52,
+          "confirmed": 55,
           "deceased": 2,
           "recovered": 34
         }
@@ -3047,11 +3053,14 @@
         }
       },
       "Dhanbad": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 219,
+          "confirmed": 225,
           "deceased": 3,
           "recovered": 122
         }
@@ -3066,11 +3075,14 @@
         }
       },
       "East Singhbhum": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 573,
+          "confirmed": 586,
           "deceased": 2,
           "recovered": 252
         }
@@ -3171,11 +3183,14 @@
         }
       },
       "Pakur": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 899200
         },
         "total": {
-          "confirmed": 35,
+          "confirmed": 40,
           "recovered": 31
         }
       },
@@ -3198,11 +3213,14 @@
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 2912022
         },
         "total": {
-          "confirmed": 298,
+          "confirmed": 300,
           "deceased": 4,
           "recovered": 169
         }
@@ -3218,11 +3236,14 @@
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 1063458
         },
         "total": {
-          "confirmed": 88,
+          "confirmed": 93,
           "recovered": 37
         }
       },
@@ -3237,17 +3258,20 @@
         }
       },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 1501619
         },
         "total": {
-          "confirmed": 69,
+          "confirmed": 73,
           "recovered": 48
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T22:57:36+05:30",
+      "last_updated": "2020-07-08T13:03:28+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -3255,7 +3279,7 @@
       }
     },
     "total": {
-      "confirmed": 3018,
+      "confirmed": 3056,
       "deceased": 22,
       "recovered": 2104,
       "tested": 161564
@@ -8603,12 +8627,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 811,
+      "confirmed": 849,
       "deceased": 18,
       "recovered": 75
     },
     "meta": {
-      "last_updated": "2020-07-08T12:53:46+05:30",
+      "last_updated": "2020-07-08T13:03:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8616,7 +8640,7 @@
       }
     },
     "total": {
-      "confirmed": 744292,
+      "confirmed": 744330,
       "deceased": 20671,
       "migrated": 100,
       "recovered": 457133,
