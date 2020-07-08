@@ -4667,6 +4667,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 4
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -4677,11 +4680,14 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 59,
           "deceased": 2,
           "recovered": 17
         }
@@ -4746,7 +4752,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-07T19:48:06+05:30",
+      "last_updated": "2020-07-08T10:53:31+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4755,7 +4761,7 @@
       }
     },
     "total": {
-      "confirmed": 94,
+      "confirmed": 98,
       "deceased": 2,
       "recovered": 43,
       "tested": 21237
@@ -6423,7 +6429,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T10:45:28+05:30",
+      "last_updated": "2020-07-08T10:47:29+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8498,10 +8504,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 525
+      "confirmed": 529
     },
     "meta": {
-      "last_updated": "2020-07-08T10:45:25+05:30",
+      "last_updated": "2020-07-08T10:53:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -8509,7 +8515,7 @@
       }
     },
     "total": {
-      "confirmed": 744006,
+      "confirmed": 744010,
       "deceased": 20653,
       "migrated": 100,
       "recovered": 457058,
