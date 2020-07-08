@@ -1670,7 +1670,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:13:31+05:30",
+      "last_updated": "2020-07-08T20:15:34+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -2990,7 +2990,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:13:28+05:30",
+      "last_updated": "2020-07-08T20:15:30+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -5246,7 +5246,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:13:26+05:30",
+      "last_updated": "2020-07-08T20:23:27+05:30",
       "notes": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -8354,7 +8354,9 @@
   },
   "SK": {
     "delta": {
-      "confirmed": 6
+      "confirmed": 6,
+      "recovered": 7,
+      "tested": 239
     },
     "districts": {
       "East Sikkim": {
@@ -8389,9 +8391,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 7
+        },
         "total": {
           "confirmed": 2,
-          "recovered": 19
+          "recovered": 10
         }
       },
       "West Sikkim": {
@@ -8405,19 +8410,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:13:33+05:30",
+      "last_updated": "2020-07-08T20:23:32+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/996"
+        "last_updated": "2020-07-08"
       }
     },
     "total": {
       "confirmed": 133,
       "migrated": 13,
-      "recovered": 80,
-      "tested": 11581
+      "recovered": 71,
+      "tested": 11820
     }
   },
   "TG": {
@@ -9655,10 +9659,10 @@
     "delta": {
       "confirmed": 17268,
       "deceased": 365,
-      "recovered": 12315
+      "recovered": 12322
     },
     "meta": {
-      "last_updated": "2020-07-08T20:13:25+05:30",
+      "last_updated": "2020-07-08T20:23:25+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -9669,7 +9673,7 @@
       "confirmed": 760761,
       "deceased": 21018,
       "migrated": 100,
-      "recovered": 469375,
+      "recovered": 469366,
       "tested": 10473771
     }
   },
