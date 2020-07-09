@@ -1639,14 +1639,15 @@
       "2020-07-09": {
         "delta": {
           "deceased": 17,
-          "recovered": 957
+          "recovered": 957,
+          "tested": 20028
         },
         "total": {
           "confirmed": 28877,
           "deceased": 488,
           "migrated": 4,
           "recovered": 12835,
-          "tested": 759181
+          "tested": 779209
         }
       }
     },
@@ -10559,18 +10560,6 @@
           }
         }
       },
-      "Dharawada": {
-        "dates": {
-          "2020-07-09": {
-            "delta": {
-              "recovered": 17
-            },
-            "total": {
-              "recovered": 17
-            }
-          }
-        }
-      },
       "Dharwad": {
         "dates": {
           "2020-04-26": {
@@ -11338,12 +11327,13 @@
           },
           "2020-07-09": {
             "delta": {
-              "deceased": 7
+              "deceased": 7,
+              "recovered": 17
             },
             "total": {
               "confirmed": 757,
               "deceased": 27,
-              "recovered": 277,
+              "recovered": 294,
               "tested": 28746
             }
           }
@@ -20278,18 +20268,6 @@
           }
         }
       },
-      "UK": {
-        "dates": {
-          "2020-07-09": {
-            "delta": {
-              "deceased": 1
-            },
-            "total": {
-              "deceased": 1
-            }
-          }
-        }
-      },
       "Udupi": {
         "dates": {
           "2020-04-26": {
@@ -21770,11 +21748,12 @@
           },
           "2020-07-09": {
             "delta": {
+              "deceased": 1,
               "recovered": 38
             },
             "total": {
               "confirmed": 489,
-              "deceased": 1,
+              "deceased": 2,
               "recovered": 210,
               "tested": 13833
             }
