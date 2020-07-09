@@ -33,7 +33,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T09:38:11+05:30",
+      "last_updated": "2020-07-09T09:47:12+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -5917,7 +5917,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T09:38:09+05:30",
+      "last_updated": "2020-07-09T09:47:10+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -6347,15 +6347,15 @@
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
-        "last_updated": "2020-07-07",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/978"
+        "last_updated": "2020-07-08",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1003"
       }
     },
     "total": {
       "confirmed": 10624,
       "deceased": 61,
       "recovered": 7006,
-      "tested": 302780
+      "tested": 308698
     }
   },
   "PB": {
@@ -8428,10 +8428,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5
+      "confirmed": -628
     },
     "meta": {
-      "last_updated": "2020-07-09T09:38:06+05:30",
+      "last_updated": "2020-07-09T09:47:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8439,7 +8439,7 @@
       }
     },
     "total": {
-      "confirmed": 769057,
+      "confirmed": 768424,
       "deceased": 21144,
       "migrated": 100,
       "recovered": 476554,
@@ -8447,12 +8447,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -633
+    },
     "meta": {
-      "last_updated": "2020-07-08T09:57:29+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-07-09T09:47:08+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 633 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
-      "confirmed": 5018
+      "confirmed": 4385
     }
   },
   "UP": {
