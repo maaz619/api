@@ -3259,7 +3259,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T12:54:09+05:30",
+      "last_updated": "2020-07-09T12:55:09+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -3543,15 +3543,15 @@
         "meta": {
           "population": 987257,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/986"
+            "last_updated": "2020-07-08",
+            "source": "https://twitter.com/B_Rural_DIPR/status/1280914825111982080?s=20"
           }
         },
         "total": {
           "confirmed": 323,
           "deceased": 7,
           "recovered": 46,
-          "tested": 6432
+          "tested": 6472
         }
       },
       "Bengaluru Urban": {
@@ -3679,15 +3679,15 @@
         "meta": {
           "population": 1846993,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/961"
+            "last_updated": "2020-07-08",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1025"
           }
         },
         "total": {
           "confirmed": 757,
           "deceased": 20,
           "recovered": 277,
-          "tested": 27799
+          "tested": 28746
         }
       },
       "Gadag": {
@@ -4408,8 +4408,8 @@
         "meta": {
           "population": 3145966,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://twitter.com/mybmc/status/1280148282124075013?s=20"
+            "last_updated": "2020-07-07",
+            "source": "https://twitter.com/mybmc/status/1280508325499633664?s=20"
           }
         },
         "total": {
@@ -4417,7 +4417,7 @@
           "deceased": 5064,
           "migrated": 11,
           "recovered": 59238,
-          "tested": 363120
+          "tested": 368603
         }
       },
       "Nagpur": {
@@ -4699,6 +4699,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 3
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -4709,11 +4712,14 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 59,
+          "confirmed": 62,
           "deceased": 1,
           "recovered": 17
         }
@@ -4778,7 +4784,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T22:50:36+05:30",
+      "last_updated": "2020-07-09T13:04:09+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4787,7 +4793,7 @@
       }
     },
     "total": {
-      "confirmed": 100,
+      "confirmed": 103,
       "deceased": 1,
       "recovered": 45,
       "tested": 22000
@@ -8589,12 +8595,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 205,
+      "confirmed": 208,
       "deceased": 17,
       "recovered": 46
     },
     "meta": {
-      "last_updated": "2020-07-09T12:54:06+05:30",
+      "last_updated": "2020-07-09T13:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8602,7 +8608,7 @@
       }
     },
     "total": {
-      "confirmed": 769257,
+      "confirmed": 769260,
       "deceased": 21161,
       "migrated": 100,
       "recovered": 476600,
