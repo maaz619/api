@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "confirmed": 2
+      "confirmed": 2,
+      "recovered": 3
     },
     "districts": {
       "North and Middle Andaman": {
@@ -24,16 +25,17 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 3
         },
         "total": {
           "confirmed": 99,
-          "recovered": 41
+          "recovered": 44
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T09:49:13+05:30",
+      "last_updated": "2020-07-09T17:04:23+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-07",
@@ -42,7 +44,7 @@
     },
     "total": {
       "confirmed": 151,
-      "recovered": 74,
+      "recovered": 77,
       "tested": 17381
     }
   },
@@ -4403,6 +4405,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 31266
+    },
     "districts": {
       "Ahmednagar": {
         "meta": {
@@ -4906,8 +4911,8 @@
       "notes": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
-        "last_updated": "2020-07-08",
-        "source": "https://twitter.com/Maha_MEDD/status/1280735394863013888?s=20"
+        "last_updated": "2020-07-09",
+        "source": "https://t.co/9RNBuXRB3w?amp=1"
       }
     },
     "total": {
@@ -4915,7 +4920,7 @@
       "deceased": 9448,
       "migrated": 19,
       "recovered": 123192,
-      "tested": 1194565
+      "tested": 1225831
     }
   },
   "ML": {
@@ -8817,10 +8822,10 @@
     "delta": {
       "confirmed": 2790,
       "deceased": 30,
-      "recovered": 1131
+      "recovered": 1134
     },
     "meta": {
-      "last_updated": "2020-07-09T16:46:05+05:30",
+      "last_updated": "2020-07-09T17:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8831,7 +8836,7 @@
       "confirmed": 771842,
       "deceased": 21174,
       "migrated": 100,
-      "recovered": 477685,
+      "recovered": 477688,
       "tested": 10740832
     }
   },
