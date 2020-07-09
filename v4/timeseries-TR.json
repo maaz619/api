@@ -1017,14 +1017,16 @@
       },
       "2020-07-09": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "recovered": 14,
+          "tested": 1798
         },
         "total": {
           "confirmed": 1789,
           "deceased": 1,
           "migrated": 13,
-          "recovered": 1324,
-          "tested": 75641
+          "recovered": 1338,
+          "tested": 77439
         }
       }
     },
@@ -2410,12 +2412,13 @@
           },
           "2020-07-09": {
             "delta": {
-              "confirmed": 6
+              "confirmed": 3,
+              "recovered": 1
             },
             "total": {
-              "confirmed": 256,
+              "confirmed": 253,
               "migrated": 1,
-              "recovered": 133,
+              "recovered": 134,
               "tested": 8028
             }
           }
@@ -4199,8 +4202,11 @@
             }
           },
           "2020-07-09": {
+            "delta": {
+              "confirmed": 2
+            },
             "total": {
-              "confirmed": 609,
+              "confirmed": 611,
               "recovered": 555,
               "tested": 8468
             }
@@ -4721,12 +4727,13 @@
           },
           "2020-07-09": {
             "delta": {
-              "confirmed": 2
+              "confirmed": 3,
+              "recovered": 9
             },
             "total": {
-              "confirmed": 145,
+              "confirmed": 146,
               "migrated": 1,
-              "recovered": 120,
+              "recovered": 129,
               "tested": 7912
             }
           }
@@ -5968,13 +5975,14 @@
           },
           "2020-07-09": {
             "delta": {
-              "confirmed": 4
+              "confirmed": 4,
+              "recovered": 4
             },
             "total": {
               "confirmed": 244,
               "deceased": 1,
               "migrated": 5,
-              "recovered": 148,
+              "recovered": 152,
               "tested": 23636
             }
           }
