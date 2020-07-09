@@ -5932,7 +5932,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 577
+      "confirmed": 577,
+      "deceased": 6
     },
     "districts": {
       "Angul": {
@@ -5997,7 +5998,8 @@
       },
       "Bhadrak": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 2
         },
         "meta": {
           "population": 1506522,
@@ -6008,6 +6010,7 @@
         },
         "total": {
           "confirmed": 278,
+          "deceased": 2,
           "recovered": 239,
           "tested": 5539
         }
@@ -6098,7 +6101,8 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 260
+          "confirmed": 260,
+          "deceased": 3
         },
         "meta": {
           "population": 3520151,
@@ -6109,7 +6113,7 @@
         },
         "total": {
           "confirmed": 3096,
-          "deceased": 28,
+          "deceased": 31,
           "recovered": 1607,
           "tested": 6632
         }
@@ -6217,13 +6221,15 @@
       },
       "Kendujhar": {
         "delta": {
-          "confirmed": 48
+          "confirmed": 48,
+          "deceased": 1
         },
         "meta": {
           "population": 1802777
         },
         "total": {
           "confirmed": 246,
+          "deceased": 1,
           "recovered": 135
         }
       },
@@ -6412,7 +6418,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T10:55:12+05:30",
+      "last_updated": "2020-07-09T11:23:10+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6422,7 +6428,7 @@
     },
     "total": {
       "confirmed": 11201,
-      "deceased": 61,
+      "deceased": 67,
       "recovered": 7006,
       "tested": 308698
     }
@@ -6773,6 +6779,11 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 49,
+      "deceased": 2,
+      "recovered": 35
+    },
     "districts": {
       "Karaikal": {
         "meta": {
@@ -6789,6 +6800,9 @@
         }
       },
       "Mahe": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "population": 41816,
           "tested": {
@@ -6798,11 +6812,16 @@
         },
         "total": {
           "confirmed": 20,
-          "recovered": 13,
+          "recovered": 18,
           "tested": 1020
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 49,
+          "deceased": 2,
+          "recovered": 30
+        },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
@@ -6812,9 +6831,9 @@
           }
         },
         "total": {
-          "confirmed": 1040,
-          "deceased": 14,
-          "recovered": 533,
+          "confirmed": 1089,
+          "deceased": 16,
+          "recovered": 563,
           "tested": 17476
         }
       },
@@ -6834,7 +6853,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T11:21:34+05:30",
+      "last_updated": "2020-07-09T11:23:12+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -6842,9 +6861,9 @@
       }
     },
     "total": {
-      "confirmed": 1151,
-      "deceased": 14,
-      "recovered": 584,
+      "confirmed": 1200,
+      "deceased": 16,
+      "recovered": 619,
       "tested": 22743
     }
   },
@@ -7417,7 +7436,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T11:13:45+05:30",
+      "last_updated": "2020-07-09T11:23:08+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8546,12 +8565,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 98,
-      "deceased": 7,
-      "recovered": 11
+      "confirmed": 147,
+      "deceased": 15,
+      "recovered": 46
     },
     "meta": {
-      "last_updated": "2020-07-09T11:13:43+05:30",
+      "last_updated": "2020-07-09T11:24:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8559,10 +8578,10 @@
       }
     },
     "total": {
-      "confirmed": 769150,
-      "deceased": 21151,
+      "confirmed": 769199,
+      "deceased": 21159,
       "migrated": 100,
-      "recovered": 476565,
+      "recovered": 476600,
       "tested": 10740832
     }
   },
