@@ -2089,6 +2089,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 2187,
+      "deceased": 45,
+      "recovered": 4027
+    },
     "districts": {
       "Central Delhi": {
         "meta": {
@@ -2171,10 +2176,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 2187,
+          "deceased": 45,
+          "recovered": 4027
+        },
         "total": {
-          "confirmed": 104076,
-          "deceased": 3212,
-          "recovered": 78199
+          "confirmed": 106263,
+          "deceased": 3257,
+          "recovered": 82226
         }
       },
       "West Delhi": {
@@ -2187,7 +2197,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T21:51:27+05:30",
+      "last_updated": "2020-07-09T20:37:26+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -2196,9 +2206,9 @@
       }
     },
     "total": {
-      "confirmed": 104864,
-      "deceased": 3213,
-      "recovered": 78199,
+      "confirmed": 107051,
+      "deceased": 3258,
+      "recovered": 82226,
       "tested": 701859
     }
   },
@@ -2266,8 +2276,8 @@
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
-        "last_updated": "2020-07-06",
-        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD06072020.pdf"
+        "last_updated": "2020-07-08",
+        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD08072020.pdf"
       }
     },
     "total": {
@@ -2275,7 +2285,7 @@
       "deceased": 1,
       "migrated": 3,
       "recovered": 205,
-      "tested": 34444
+      "tested": 35234
     }
   },
   "GA": {
@@ -4395,7 +4405,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T20:24:12+05:30",
+      "last_updated": "2020-07-09T20:37:21+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
@@ -7753,55 +7763,57 @@
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "tested": 117
+        },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/08.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 71,
           "recovered": 38,
-          "tested": 3025
+          "tested": 3142
         }
       },
       "Mahe": {
         "delta": {
-          "recovered": 5
+          "recovered": 5,
+          "tested": 18
         },
         "meta": {
           "population": 41816,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/08.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 20,
           "recovered": 18,
-          "tested": 1020
+          "tested": 1038
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 49,
           "deceased": 2,
-          "recovered": 30
+          "recovered": 30,
+          "tested": 637
         },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/08.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 1089,
           "deceased": 16,
           "recovered": 563,
-          "tested": 17476
+          "tested": 18113
         }
       },
       "Yanam": {
@@ -7809,8 +7821,7 @@
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/08.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
@@ -9555,7 +9566,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T20:24:09+05:30",
+      "last_updated": "2020-07-09T20:28:08+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -9708,13 +9719,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 18549,
-      "deceased": 382,
+      "confirmed": 20736,
+      "deceased": 427,
       "migrated": 1,
-      "recovered": 12281
+      "recovered": 16308
     },
     "meta": {
-      "last_updated": "2020-07-09T20:24:06+05:30",
+      "last_updated": "2020-07-09T20:37:44+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -9722,10 +9733,10 @@
       }
     },
     "total": {
-      "confirmed": 787601,
-      "deceased": 21526,
+      "confirmed": 789788,
+      "deceased": 21571,
       "migrated": 101,
-      "recovered": 488834,
+      "recovered": 492861,
       "tested": 10740832
     }
   },
@@ -9742,6 +9753,9 @@
     }
   },
   "UP": {
+    "delta": {
+      "tested": 79972
+    },
     "districts": {
       "Agra": {
         "meta": {
@@ -10522,15 +10536,14 @@
       "last_updated": "2020-07-08T19:06:47+05:30",
       "population": 224979000,
       "tested": {
-        "last_updated": "2020-07-08",
-        "source": "https://twitter.com/UPGovt/status/1280892881381650432?s=20"
+        "last_updated": "2020-07-09"
       }
     },
     "total": {
       "confirmed": 31156,
       "deceased": 845,
       "recovered": 20331,
-      "tested": 956134
+      "tested": 1036106
     }
   },
   "UT": {
@@ -11108,7 +11121,8 @@
       "last_updated": "2020-07-09T20:17:14+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2020-07-09"
+        "last_updated": "2020-07-09",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_9th_JULY_REPORT_FINAL.pdf"
       }
     },
     "total": {

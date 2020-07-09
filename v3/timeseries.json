@@ -10199,10 +10199,15 @@
       }
     },
     "2020-07-09": {
+      "delta": {
+        "confirmed": 2187,
+        "deceased": 45,
+        "recovered": 4027
+      },
       "total": {
-        "confirmed": 104864,
-        "deceased": 3213,
-        "recovered": 78199,
+        "confirmed": 107051,
+        "deceased": 3258,
+        "recovered": 82226,
         "tested": 701859
       }
     }
@@ -11062,27 +11067,29 @@
       "delta": {
         "confirmed": 27,
         "deceased": 1,
-        "recovered": 10
+        "recovered": 10,
+        "tested": 317
       },
       "total": {
         "confirmed": 427,
         "deceased": 1,
         "migrated": 3,
         "recovered": 185,
-        "tested": 34444
+        "tested": 34761
       }
     },
     "2020-07-08": {
       "delta": {
         "confirmed": 15,
-        "recovered": 11
+        "recovered": 11,
+        "tested": 473
       },
       "total": {
         "confirmed": 442,
         "deceased": 1,
         "migrated": 3,
         "recovered": 196,
-        "tested": 34444
+        "tested": 35234
       }
     },
     "2020-07-09": {
@@ -11095,7 +11102,7 @@
         "deceased": 1,
         "migrated": 3,
         "recovered": 205,
-        "tested": 34444
+        "tested": 35234
       }
     }
   },
@@ -42944,16 +42951,16 @@
     },
     "2020-07-09": {
       "delta": {
-        "confirmed": 18549,
-        "deceased": 382,
+        "confirmed": 20736,
+        "deceased": 427,
         "migrated": 1,
-        "recovered": 12281
+        "recovered": 16308
       },
       "total": {
-        "confirmed": 787601,
-        "deceased": 21526,
+        "confirmed": 789788,
+        "deceased": 21571,
         "migrated": 101,
-        "recovered": 488834,
+        "recovered": 492861,
         "tested": 10740832
       }
     }
@@ -44937,11 +44944,14 @@
       }
     },
     "2020-07-09": {
+      "delta": {
+        "tested": 79972
+      },
       "total": {
         "confirmed": 31156,
         "deceased": 845,
         "recovered": 20331,
-        "tested": 956134
+        "tested": 1036106
       }
     }
   },
