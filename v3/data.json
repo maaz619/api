@@ -2156,8 +2156,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 5
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 5
+        },
         "meta": {
           "population": 343709,
           "tested": {
@@ -2166,9 +2174,9 @@
           }
         },
         "total": {
-          "confirmed": 203,
+          "confirmed": 206,
           "migrated": 3,
-          "recovered": 95,
+          "recovered": 100,
           "tested": 21065
         }
       },
@@ -2203,7 +2211,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T16:38:34+05:30",
+      "last_updated": "2020-07-09T17:52:13+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2212,10 +2220,10 @@
       }
     },
     "total": {
-      "confirmed": 442,
+      "confirmed": 445,
       "deceased": 1,
       "migrated": 3,
-      "recovered": 196,
+      "recovered": 201,
       "tested": 34444
     }
   },
@@ -4397,7 +4405,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T17:39:10+05:30",
+      "last_updated": "2020-07-09T17:52:09+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -6029,7 +6037,7 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 16
     },
     "districts": {
       "Dimapur": {
@@ -6157,7 +6165,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 13
+        },
         "total": {
+          "confirmed": 13,
           "recovered": 244
         }
       },
@@ -6184,7 +6196,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T09:49:11+05:30",
+      "last_updated": "2020-07-09T17:52:11+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -6192,7 +6204,7 @@
       }
     },
     "total": {
-      "confirmed": 660,
+      "confirmed": 673,
       "recovered": 304,
       "tested": 21980
     }
@@ -8832,12 +8844,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2798,
+      "confirmed": 2814,
       "deceased": 30,
-      "recovered": 1161
+      "recovered": 1166
     },
     "meta": {
-      "last_updated": "2020-07-09T17:39:07+05:30",
+      "last_updated": "2020-07-09T17:52:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8845,10 +8857,10 @@
       }
     },
     "total": {
-      "confirmed": 771850,
+      "confirmed": 771866,
       "deceased": 21174,
       "migrated": 100,
-      "recovered": 477715,
+      "recovered": 477720,
       "tested": 10740832
     }
   },
