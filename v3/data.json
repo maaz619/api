@@ -2390,16 +2390,16 @@
     "districts": {
       "North Goa": {
         "delta": {
-          "confirmed": 24,
-          "recovered": 29
+          "confirmed": 25,
+          "recovered": 18
         },
         "meta": {
           "population": 817761
         },
         "total": {
-          "confirmed": 395,
+          "confirmed": 396,
           "deceased": 3,
-          "recovered": 135
+          "recovered": 124
         }
       },
       "Other State": {
@@ -2416,7 +2416,7 @@
       },
       "South Goa": {
         "delta": {
-          "confirmed": 54,
+          "confirmed": 53,
           "deceased": 1,
           "recovered": 2
         },
@@ -2424,7 +2424,7 @@
           "population": 639962
         },
         "total": {
-          "confirmed": 1112,
+          "confirmed": 1111,
           "deceased": 6,
           "recovered": 603
         }
@@ -2432,16 +2432,16 @@
       "Unknown": {
         "delta": {
           "confirmed": 34,
-          "recovered": 34
+          "recovered": 45
         },
         "total": {
           "confirmed": 511,
-          "recovered": 511
+          "recovered": 522
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T23:05:10+05:30",
+      "last_updated": "2020-07-09T23:14:13+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -3603,58 +3603,74 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 58,
+      "confirmed": 134,
+      "deceased": 1,
+      "recovered": 40,
       "tested": 3146
     },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2061918
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 56,
           "deceased": 2,
           "recovered": 37
         }
       },
       "Chatra": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1042304
         },
         "total": {
-          "confirmed": 58,
+          "confirmed": 59,
           "recovered": 52
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "meta": {
           "population": 1491879
         },
         "total": {
-          "confirmed": 55,
-          "recovered": 41
+          "confirmed": 60,
+          "recovered": 43
         }
       },
       "Dhanbad": {
         "delta": {
-          "confirmed": 13
+          "confirmed": 17,
+          "recovered": 12
         },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 261,
+          "confirmed": 265,
           "deceased": 3,
-          "recovered": 124
+          "recovered": 136
         }
       },
       "Dumka": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 1321096
         },
         "total": {
           "confirmed": 16,
-          "recovered": 7
+          "recovered": 9
         }
       },
       "East Singhbhum": {
@@ -3680,53 +3696,65 @@
         }
       },
       "Giridih": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2445203
         },
         "total": {
-          "confirmed": 104,
+          "confirmed": 105,
           "deceased": 2,
           "recovered": 86
         }
       },
       "Godda": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 8
         },
         "meta": {
           "population": 1311382
         },
         "total": {
-          "confirmed": 17,
+          "confirmed": 19,
           "recovered": 8
         }
       },
       "Gumla": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1025656
         },
         "total": {
-          "confirmed": 120,
+          "confirmed": 122,
           "deceased": 1,
           "recovered": 96
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 1734005
         },
         "total": {
-          "confirmed": 213,
+          "confirmed": 218,
           "deceased": 3,
           "recovered": 183
         }
       },
       "Jamtara": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 790207
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "recovered": 28
         }
       },
@@ -3741,30 +3769,40 @@
         }
       },
       "Koderma": {
+        "delta": {
+          "confirmed": 13
+        },
         "meta": {
           "population": 717169
         },
         "total": {
-          "confirmed": 228,
+          "confirmed": 241,
           "deceased": 1,
           "recovered": 162
         }
       },
       "Latehar": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 2
+        },
         "meta": {
           "population": 725673
         },
         "total": {
-          "confirmed": 61,
-          "recovered": 53
+          "confirmed": 72,
+          "recovered": 55
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 461738
         },
         "total": {
-          "confirmed": 75,
+          "confirmed": 81,
           "recovered": 49
         }
       },
@@ -3781,60 +3819,83 @@
         }
       },
       "Palamu": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 7
+        },
         "meta": {
           "population": 1936319
         },
         "total": {
-          "confirmed": 71,
-          "recovered": 60
+          "confirmed": 72,
+          "recovered": 67
         }
       },
       "Ramgarh": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 949159
         },
         "total": {
           "confirmed": 150,
-          "recovered": 123
+          "recovered": 124
         }
       },
       "Ranchi": {
+        "delta": {
+          "confirmed": 14,
+          "deceased": 1,
+          "recovered": 8
+        },
         "meta": {
           "population": 2912022
         },
         "total": {
-          "confirmed": 306,
-          "deceased": 4,
-          "recovered": 169
+          "confirmed": 320,
+          "deceased": 5,
+          "recovered": 177
         }
       },
       "Sahibganj": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 2
+        },
         "meta": {
           "population": 1150038
         },
         "total": {
-          "confirmed": 27,
+          "confirmed": 31,
           "deceased": 2,
-          "recovered": 5
+          "recovered": 7
         }
       },
       "Saraikela-Kharsawan": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 1063458
         },
         "total": {
           "confirmed": 96,
-          "recovered": 44
+          "recovered": 46
         }
       },
       "Simdega": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 2
+        },
         "meta": {
           "population": 599813
         },
         "total": {
-          "confirmed": 359,
+          "confirmed": 364,
           "deceased": 1,
-          "recovered": 352
+          "recovered": 354
         }
       },
       "West Singhbhum": {
@@ -3848,7 +3909,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T12:55:09+05:30",
+      "last_updated": "2020-07-09T23:14:11+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -3856,9 +3917,9 @@
       }
     },
     "total": {
-      "confirmed": 3192,
-      "deceased": 22,
-      "recovered": 2170,
+      "confirmed": 3268,
+      "deceased": 23,
+      "recovered": 2210,
       "tested": 167650
     }
   },
@@ -6054,15 +6115,15 @@
         "meta": {
           "population": 844979,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 55,
           "deceased": 1,
           "recovered": 42,
-          "tested": 2284
+          "tested": 2301
         }
       },
       "Balaghat": {
@@ -6073,14 +6134,14 @@
         "meta": {
           "population": 1701156,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 46,
           "recovered": 26,
-          "tested": 1663
+          "tested": 1794
         }
       },
       "Barwani": {
@@ -6104,14 +6165,14 @@
         "meta": {
           "population": 1575247,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 91,
           "recovered": 56,
-          "tested": 3181
+          "tested": 3619
         }
       },
       "Bhind": {
@@ -6122,14 +6183,14 @@
         "meta": {
           "population": 1703562,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-52-gwalior-edition-gwalior-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-52-gwalior-edition-gwalior-page-9.html"
           }
         },
         "total": {
           "confirmed": 316,
           "recovered": 246,
-          "tested": 6356
+          "tested": 6967
         }
       },
       "Bhopal": {
@@ -6141,15 +6202,15 @@
         "meta": {
           "population": 2368145,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 3278,
           "deceased": 116,
           "recovered": 2541,
-          "tested": 100050
+          "tested": 101000
         }
       },
       "Burhanpur": {
@@ -6160,15 +6221,15 @@
         "meta": {
           "population": 756993,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 420,
           "deceased": 23,
           "recovered": 379,
-          "tested": 7268
+          "tested": 7740
         }
       },
       "Chhatarpur": {
@@ -6196,15 +6257,15 @@
         "meta": {
           "population": 2090306,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 70,
           "deceased": 2,
           "recovered": 51,
-          "tested": 3439
+          "tested": 3642
         }
       },
       "Damoh": {
@@ -6215,29 +6276,29 @@
         "meta": {
           "population": 1263703,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 54,
           "recovered": 40,
-          "tested": 1811
+          "tested": 2076
         }
       },
       "Datia": {
         "meta": {
           "population": 786375,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-52-gwalior-edition-gwalior-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-52-gwalior-edition-gwalior-page-9.html"
           }
         },
         "total": {
           "confirmed": 53,
           "deceased": 1,
           "recovered": 42,
-          "tested": 480
+          "tested": 528
         }
       },
       "Dewas": {
@@ -6248,15 +6309,15 @@
         "meta": {
           "population": 1563107,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://twitter.com/PROJSDewas/status/1280147401915785216?s=19"
+            "last_updated": "2020-07-08",
+            "source": "https://twitter.com/PROJSDewas/status/1280922692825214976?s=19"
           }
         },
         "total": {
           "confirmed": 244,
           "deceased": 10,
           "recovered": 200,
-          "tested": 9765
+          "tested": 11094
         }
       },
       "Dhar": {
@@ -6278,29 +6339,29 @@
         "meta": {
           "population": 704218,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 31,
           "recovered": 30,
-          "tested": 3244
+          "tested": 3557
         }
       },
       "Guna": {
         "meta": {
           "population": 1240938,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 28,
           "deceased": 2,
           "recovered": 13,
-          "tested": 3095
+          "tested": 3476
         }
       },
       "Gwalior": {
@@ -6311,15 +6372,15 @@
         "meta": {
           "population": 2030543,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 770,
           "deceased": 3,
           "recovered": 387,
-          "tested": 35460
+          "tested": 38004
         }
       },
       "Harda": {
@@ -6329,15 +6390,15 @@
         "meta": {
           "population": 570302,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 60,
           "deceased": 3,
           "recovered": 28,
-          "tested": 1070
+          "tested": 1241
         }
       },
       "Hoshangabad": {
@@ -6347,15 +6408,15 @@
         "meta": {
           "population": 1240975,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 45,
           "deceased": 4,
           "recovered": 38,
-          "tested": 789
+          "tested": 811
         }
       },
       "Indore": {
@@ -6368,7 +6429,7 @@
           "population": 3272335,
           "tested": {
             "last_updated": "2020-07-08",
-            "source": "https://twitter.com/tarun28988/status/1280933054454906880/photo/1"
+            "source": "https://twitter.com/tarun28988/status/1280933054454906880?s=19"
           }
         },
         "total": {
@@ -6387,7 +6448,7 @@
           "population": 2460714,
           "tested": {
             "last_updated": "2020-07-08",
-            "source": "https://twitter.com/jabalpurdm/status/1280911999304597504/photo/1"
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
@@ -6414,15 +6475,15 @@
         "meta": {
           "population": 1291684,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 27,
           "deceased": 3,
           "recovered": 16,
-          "tested": 1025
+          "tested": 1139
         }
       },
       "Khandwa": {
@@ -6432,15 +6493,15 @@
         "meta": {
           "population": 1309443,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 371,
           "deceased": 17,
           "recovered": 283,
-          "tested": 7342
+          "tested": 8063
         }
       },
       "Khargone": {
@@ -6450,15 +6511,15 @@
         "meta": {
           "population": 1872413,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 336,
           "deceased": 15,
           "recovered": 272,
-          "tested": 4477
+          "tested": 4768
         }
       },
       "Mandla": {
@@ -6498,29 +6559,29 @@
         "meta": {
           "population": 1965137,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-52-gwalior-edition-gwalior-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-52-gwalior-edition-gwalior-page-9.html"
           }
         },
         "total": {
           "confirmed": 841,
           "deceased": 5,
           "recovered": 387,
-          "tested": 7800
+          "tested": 8426
         }
       },
       "Narsinghpur": {
         "meta": {
           "population": 1092141,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 35,
           "recovered": 30,
-          "tested": 2892
+          "tested": 2989
         }
       },
       "Neemuch": {
@@ -6531,15 +6592,15 @@
         "meta": {
           "population": 825958,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 477,
           "deceased": 8,
           "recovered": 437,
-          "tested": 7364
+          "tested": 7978
         }
       },
       "Niwari": {
@@ -6568,15 +6629,15 @@
         "meta": {
           "population": 1331699,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 113,
           "deceased": 5,
           "recovered": 105,
-          "tested": 2122
+          "tested": 2157
         }
       },
       "Rajgarh": {
@@ -6587,15 +6648,15 @@
         "meta": {
           "population": 1546541,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 112,
           "deceased": 6,
           "recovered": 75,
-          "tested": 2503
+          "tested": 2686
         }
       },
       "Ratlam": {
@@ -6606,15 +6667,15 @@
         "meta": {
           "population": 1454483,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 199,
           "deceased": 6,
           "recovered": 158,
-          "tested": 5116
+          "tested": 5650
         }
       },
       "Rewa": {
@@ -6638,15 +6699,15 @@
         "meta": {
           "population": 2378295,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 430,
           "deceased": 22,
           "recovered": 336,
-          "tested": 12582
+          "tested": 13452
         }
       },
       "Satna": {
@@ -6657,15 +6718,15 @@
         "meta": {
           "population": 2228619,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 48,
           "deceased": 2,
           "recovered": 32,
-          "tested": 2419
+          "tested": 2912
         }
       },
       "Sehore": {
@@ -6676,15 +6737,15 @@
         "meta": {
           "population": 1311008,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 37,
           "deceased": 2,
           "recovered": 12,
-          "tested": 1565
+          "tested": 1678
         }
       },
       "Seoni": {
@@ -6694,8 +6755,8 @@
         "meta": {
           "population": 1378876,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
@@ -6708,14 +6769,14 @@
         "meta": {
           "population": 1064989,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 24,
           "recovered": 22,
-          "tested": 1234
+          "tested": 1391
         }
       },
       "Shajapur": {
@@ -6725,15 +6786,15 @@
         "meta": {
           "population": 1512353,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://twitter.com/PROJSShajapur/status/1280179363497996289?s=19"
+            "last_updated": "2020-07-08",
+            "source": "https://twitter.com/PROJSShajapur/status/1280885211656527874?s=19"
           }
         },
         "total": {
           "confirmed": 83,
           "deceased": 3,
           "recovered": 54,
-          "tested": 4141
+          "tested": 5124
         }
       },
       "Sheopur": {
@@ -6744,15 +6805,15 @@
         "meta": {
           "population": 687952,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-52-gwalior-edition-gwalior-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-52-gwalior-edition-gwalior-page-9.html"
           }
         },
         "total": {
           "confirmed": 96,
           "deceased": 2,
           "recovered": 70,
-          "tested": 2296
+          "tested": 2495
         }
       },
       "Shivpuri": {
@@ -6762,14 +6823,14 @@
         "meta": {
           "population": 1725818,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-52-gwalior-edition-gwalior-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-52-gwalior-edition-gwalior-page-9.html"
           }
         },
         "total": {
           "confirmed": 103,
           "recovered": 36,
-          "tested": 4093
+          "tested": 4516
         }
       },
       "Sidhi": {
@@ -6821,30 +6882,30 @@
         "meta": {
           "population": 1986864,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-74-indore-edition-indore-page-11.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-74-indore-edition-indore-page-11.html"
           }
         },
         "total": {
           "confirmed": 872,
           "deceased": 71,
           "recovered": 784,
-          "tested": 24685
+          "tested": 26764
         }
       },
       "Umaria": {
         "meta": {
           "population": 643579,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-59-jabalpur-edition-jabalpur-page-7.html"
           }
         },
         "total": {
           "confirmed": 11,
           "deceased": 1,
           "recovered": 9,
-          "tested": 1539
+          "tested": 1695
         }
       },
       "Vidisha": {
@@ -6854,14 +6915,14 @@
         "meta": {
           "population": 1458212,
           "tested": {
-            "last_updated": "2020-07-06",
-            "source": "https://epaper.naidunia.com/mepaper/07-jul-2020-33-bhopal-edition-bhopal-page-9.html"
+            "last_updated": "2020-07-08",
+            "source": "https://epaper.naidunia.com/mepaper/09-jul-2020-33-bhopal-edition-bhopal-page-9.html"
           }
         },
         "total": {
           "confirmed": 73,
           "recovered": 42,
-          "tested": 2707
+          "tested": 2991
         }
       }
     },
@@ -8227,39 +8288,39 @@
       "Ajmer": {
         "delta": {
           "confirmed": 34,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 363
         },
         "meta": {
           "population": 2584913,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 684,
           "deceased": 22,
           "recovered": 497,
-          "tested": 28272
+          "tested": 28635
         }
       },
       "Alwar": {
         "delta": {
           "confirmed": 21,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 627
         },
         "meta": {
           "population": 3671999,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 944,
           "deceased": 6,
           "recovered": 373,
-          "tested": 21852
+          "tested": 22479
         }
       },
       "BSF Camp": {
@@ -8269,75 +8330,77 @@
         }
       },
       "Banswara": {
+        "delta": {
+          "tested": 171
+        },
         "meta": {
           "population": 1798194,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 100,
           "deceased": 2,
           "recovered": 97,
-          "tested": 5393
+          "tested": 5564
         }
       },
       "Baran": {
         "delta": {
           "confirmed": 3,
-          "recovered": 2
+          "recovered": 2,
+          "tested": 360
         },
         "meta": {
           "population": 1223921,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 74,
           "deceased": 4,
           "recovered": 62,
-          "tested": 6385
+          "tested": 6745
         }
       },
       "Barmer": {
         "delta": {
           "confirmed": 53,
-          "recovered": 10
+          "recovered": 10,
+          "tested": 844
         },
         "meta": {
           "population": 2604453,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 594,
           "deceased": 4,
           "recovered": 360,
-          "tested": 18336
+          "tested": 19180
         }
       },
       "Bharatpur": {
         "delta": {
           "confirmed": 29,
-          "recovered": 38
+          "recovered": 38,
+          "tested": 807
         },
         "meta": {
           "population": 2549121,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1016"
+            "last_updated": "2020-07-09"
           }
         },
         "total": {
           "confirmed": 1905,
           "deceased": 40,
           "recovered": 1627,
-          "tested": 27732
+          "tested": 28539
         }
       },
       "Bhilwara": {
@@ -8936,7 +8999,8 @@
     "delta": {
       "confirmed": 1410,
       "deceased": 7,
-      "recovered": 913
+      "recovered": 913,
+      "tested": 5954
     },
     "districts": {
       "Adilabad": {
@@ -9344,15 +9408,15 @@
       "last_updated": "2020-07-09T22:24:11+05:30",
       "population": 37220000,
       "tested": {
-        "last_updated": "2020-07-08",
-        "source": "https://twitter.com/IPRTelangana/status/1280900353328730112?s=20"
+        "last_updated": "2020-07-09",
+        "source": "https://twitter.com/Eatala_Rajender/status/1281262449472106496?s=20"
       }
     },
     "total": {
       "confirmed": 30946,
       "deceased": 331,
       "recovered": 18192,
-      "tested": 134801
+      "tested": 140755
     }
   },
   "TN": {
@@ -10257,7 +10321,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T23:05:12+05:30",
+      "last_updated": "2020-07-09T23:13:09+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-09"
@@ -10273,13 +10337,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 25144,
-      "deceased": 478,
+      "confirmed": 25220,
+      "deceased": 479,
       "migrated": 1,
-      "recovered": 19356
+      "recovered": 19396
     },
     "meta": {
-      "last_updated": "2020-07-09T23:05:07+05:30",
+      "last_updated": "2020-07-09T23:14:08+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -10287,10 +10351,10 @@
       }
     },
     "total": {
-      "confirmed": 794196,
-      "deceased": 21622,
+      "confirmed": 794272,
+      "deceased": 21623,
       "migrated": 101,
-      "recovered": 495909,
+      "recovered": 495949,
       "tested": 10740832
     }
   },
