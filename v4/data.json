@@ -1585,8 +1585,16 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 16,
+      "recovered": 1
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 16,
+          "recovered": 1
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1595,15 +1603,15 @@
           }
         },
         "total": {
-          "confirmed": 507,
+          "confirmed": 523,
           "deceased": 7,
-          "recovered": 402,
+          "recovered": 403,
           "tested": 8833
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T20:15:34+05:30",
+      "last_updated": "2020-07-09T18:14:18+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -1611,9 +1619,9 @@
       }
     },
     "total": {
-      "confirmed": 507,
+      "confirmed": 523,
       "deceased": 7,
-      "recovered": 402,
+      "recovered": 403,
       "tested": 8833
     }
   },
@@ -2938,7 +2946,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T18:04:27+05:30",
+      "last_updated": "2020-07-09T18:14:15+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4080,18 +4088,21 @@
         }
       },
       "Ramanagara": {
+        "delta": {
+          "tested": 2457
+        },
         "meta": {
           "population": 1082739,
           "tested": {
-            "last_updated": "2020-06-29",
-            "source": "https://covid19.karnataka.gov.in/storage/pdf-files/COVID%20Report%2027062020_0500PM_English.pdf"
+            "last_updated": "2020-07-09",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1026"
           }
         },
         "total": {
           "confirmed": 315,
           "deceased": 7,
           "recovered": 116,
-          "tested": 8997
+          "tested": 11454
         }
       },
       "Shivamogga": {
@@ -4347,7 +4358,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T18:04:23+05:30",
+      "last_updated": "2020-07-09T18:14:13+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -6199,7 +6210,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T18:04:31+05:30",
+      "last_updated": "2020-07-09T18:08:13+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -6216,7 +6227,8 @@
     "delta": {
       "confirmed": 577,
       "deceased": 6,
-      "recovered": 401
+      "recovered": 401,
+      "tested": 6289
     },
     "districts": {
       "Angul": {
@@ -6728,19 +6740,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T18:04:21+05:30",
+      "last_updated": "2020-07-09T18:14:10+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
-        "last_updated": "2020-07-08",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1003"
+        "last_updated": "2020-07-09"
       }
     },
     "total": {
       "confirmed": 11201,
       "deceased": 67,
       "recovered": 7407,
-      "tested": 308698
+      "tested": 314987
     }
   },
   "PB": {
@@ -8875,12 +8886,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2814,
+      "confirmed": 2830,
       "deceased": 30,
-      "recovered": 1571
+      "recovered": 1572
     },
     "meta": {
-      "last_updated": "2020-07-09T18:04:12+05:30",
+      "last_updated": "2020-07-09T18:14:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -8888,10 +8899,10 @@
       }
     },
     "total": {
-      "confirmed": 771866,
+      "confirmed": 771882,
       "deceased": 21174,
       "migrated": 100,
-      "recovered": 478124,
+      "recovered": 478125,
       "tested": 10740832
     }
   },
