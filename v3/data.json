@@ -6719,8 +6719,18 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 72,
+      "deceased": 1,
+      "recovered": 18
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 5,
+          "deceased": 1,
+          "recovered": 1
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -6729,8 +6739,9 @@
           }
         },
         "total": {
-          "confirmed": 71,
-          "recovered": 38,
+          "confirmed": 76,
+          "deceased": 1,
+          "recovered": 39,
           "tested": 3142
         }
       },
@@ -6749,6 +6760,10 @@
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 67,
+          "recovered": 17
+        },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
@@ -6758,9 +6773,9 @@
           }
         },
         "total": {
-          "confirmed": 1089,
+          "confirmed": 1156,
           "deceased": 16,
-          "recovered": 563,
+          "recovered": 580,
           "tested": 18113
         }
       },
@@ -6780,7 +6795,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T11:38:11+05:30",
+      "last_updated": "2020-07-10T10:37:08+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -6788,9 +6803,9 @@
       }
     },
     "total": {
-      "confirmed": 1200,
-      "deceased": 16,
-      "recovered": 619,
+      "confirmed": 1272,
+      "deceased": 17,
+      "recovered": 637,
       "tested": 23515
     }
   },
@@ -8444,10 +8459,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -179
+      "confirmed": -107,
+      "deceased": 1,
+      "recovered": 18
     },
     "meta": {
-      "last_updated": "2020-07-10T09:50:06+05:30",
+      "last_updated": "2020-07-10T10:37:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -8455,10 +8472,10 @@
       }
     },
     "total": {
-      "confirmed": 794663,
-      "deceased": 21623,
+      "confirmed": 794735,
+      "deceased": 21624,
       "migrated": 101,
-      "recovered": 495960,
+      "recovered": 495978,
       "tested": 11024491
     }
   },
