@@ -995,24 +995,30 @@
         }
       },
       "Udalguri": {
+        "delta": {
+          "confirmed": 122,
+          "recovered": 182
+        },
         "meta": {
           "population": 832769
         },
         "total": {
-          "confirmed": 105,
+          "confirmed": 227,
           "deceased": 1,
-          "recovered": 2
+          "recovered": 184
         }
       },
       "Unknown": {
         "delta": {
-          "deceased": 5
+          "confirmed": -122,
+          "deceased": 5,
+          "recovered": -182
         },
         "total": {
-          "confirmed": 5518,
+          "confirmed": 5396,
           "deceased": 10,
           "migrated": 3,
-          "recovered": 8229
+          "recovered": 8047
         }
       },
       "West Karbi Anglong": {
@@ -4504,7 +4510,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T18:37:09+05:30",
+      "last_updated": "2020-07-10T18:44:38+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -7187,7 +7193,8 @@
     "delta": {
       "confirmed": 72,
       "deceased": 1,
-      "recovered": 18
+      "recovered": 18,
+      "tested": 970
     },
     "districts": {
       "Karaikal": {
@@ -7263,15 +7270,15 @@
       "last_updated": "2020-07-10T10:49:09+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/09.07.2020%20bulletin.pdf"
+        "last_updated": "2020-07-10",
+        "source": "https://t.me/c/1248471072/46013"
       }
     },
     "total": {
       "confirmed": 1272,
       "deceased": 17,
       "recovered": 637,
-      "tested": 23515
+      "tested": 24485
     }
   },
   "RJ": {
@@ -8986,7 +8993,7 @@
       "recovered": 1730
     },
     "meta": {
-      "last_updated": "2020-07-10T18:37:06+05:30",
+      "last_updated": "2020-07-10T18:44:35+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
