@@ -2152,7 +2152,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:24:15+05:30",
+      "last_updated": "2020-07-10T21:37:22+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -3252,7 +3252,8 @@
     "delta": {
       "confirmed": 570,
       "deceased": 3,
-      "recovered": 399
+      "recovered": 399,
+      "tested": 9939
     },
     "districts": {
       "Ambala": {
@@ -3582,15 +3583,15 @@
       "last_updated": "2020-07-10T20:57:10+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2009-07-20%20Evening.pdf"
+        "last_updated": "2020-07-10",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-07-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 19934,
       "deceased": 290,
       "recovered": 14904,
-      "tested": 342404
+      "tested": 352343
     }
   },
   "JH": {
@@ -4159,14 +4160,6 @@
           "tested": 28159
         }
       },
-      "Bengaluru": {
-        "delta": {
-          "deceased": 1
-        },
-        "total": {
-          "deceased": 1
-        }
-      },
       "Bengaluru Rural": {
         "delta": {
           "confirmed": 1
@@ -4188,7 +4181,7 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 1447,
-          "deceased": 28,
+          "deceased": 29,
           "recovered": 601
         },
         "meta": {
@@ -4200,7 +4193,7 @@
         },
         "total": {
           "confirmed": 15329,
-          "deceased": 205,
+          "deceased": 206,
           "migrated": 1,
           "recovered": 3436,
           "tested": 156592
@@ -5666,7 +5659,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:24:08+05:30",
+      "last_updated": "2020-07-10T21:37:09+05:30",
       "notes": "315 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5978,7 +5971,8 @@
     "delta": {
       "confirmed": 316,
       "deceased": 4,
-      "recovered": 249
+      "recovered": 249,
+      "tested": 11261
     },
     "districts": {
       "Agar Malwa": {
@@ -6863,18 +6857,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:24:12+05:30",
+      "last_updated": "2020-07-10T21:37:19+05:30",
       "population": 82232000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://twitter.com/healthminmp/status/1281217396506689536?s=20"
+        "last_updated": "2020-07-10",
+        "source": "https://twitter.com/healthminmp/status/1281609725805654017?s=20"
       }
     },
     "total": {
       "confirmed": 16657,
       "deceased": 638,
       "recovered": 12481,
-      "tested": 449680
+      "tested": 460941
     }
   },
   "MZ": {
@@ -8253,39 +8247,39 @@
         "delta": {
           "confirmed": 36,
           "deceased": 1,
-          "recovered": 18
+          "recovered": 18,
+          "tested": 486
         },
         "meta": {
           "population": 2584913,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 720,
           "deceased": 23,
           "recovered": 515,
-          "tested": 28635
+          "tested": 29121
         }
       },
       "Alwar": {
         "delta": {
           "confirmed": 126,
-          "recovered": 20
+          "recovered": 20,
+          "tested": 556
         },
         "meta": {
           "population": 3671999,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 1070,
           "deceased": 6,
           "recovered": 393,
-          "tested": 22479
+          "tested": 23035
         }
       },
       "BSF Camp": {
@@ -8295,87 +8289,93 @@
         }
       },
       "Banswara": {
+        "delta": {
+          "tested": 181
+        },
         "meta": {
           "population": 1798194,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 100,
           "deceased": 2,
           "recovered": 97,
-          "tested": 5564
+          "tested": 5745
         }
       },
       "Baran": {
+        "delta": {
+          "tested": 313
+        },
         "meta": {
           "population": 1223921,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 74,
           "deceased": 4,
           "recovered": 62,
-          "tested": 6745
+          "tested": 7058
         }
       },
       "Barmer": {
         "delta": {
           "confirmed": 49,
-          "recovered": 26
+          "recovered": 26,
+          "tested": 464
         },
         "meta": {
           "population": 2604453,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 643,
           "deceased": 4,
           "recovered": 386,
-          "tested": 19180
+          "tested": 19644
         }
       },
       "Bharatpur": {
         "delta": {
           "confirmed": 25,
           "deceased": 1,
-          "recovered": 15
+          "recovered": 15,
+          "tested": 583
         },
         "meta": {
           "population": 2549121,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 1930,
           "deceased": 41,
           "recovered": 1642,
-          "tested": 28539
+          "tested": 29122
         }
       },
       "Bhilwara": {
+        "delta": {
+          "tested": 507
+        },
         "meta": {
           "population": 2410459,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1035"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 284,
           "deceased": 6,
           "recovered": 255,
-          "tested": 36666
+          "tested": 37173
         }
       },
       "Bikaner": {
@@ -8880,7 +8880,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:24:10+05:30",
+      "last_updated": "2020-07-10T21:37:12+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -10193,7 +10193,7 @@
       "recovered": 18397
     },
     "meta": {
-      "last_updated": "2020-07-10T21:24:06+05:30",
+      "last_updated": "2020-07-10T21:37:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
