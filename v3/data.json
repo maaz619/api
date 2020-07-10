@@ -5659,7 +5659,7 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 22
+      "confirmed": 23
     },
     "districts": {
       "Aizawl": {
@@ -5748,10 +5748,18 @@
           "confirmed": 5,
           "recovered": 3
         }
+      },
+      "Unknown": {
+        "delta": {
+          "confirmed": 1
+        },
+        "total": {
+          "confirmed": 1
+        }
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T07:39:27+05:30",
+      "last_updated": "2020-07-10T11:12:10+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -5759,7 +5767,7 @@
       }
     },
     "total": {
-      "confirmed": 225,
+      "confirmed": 226,
       "recovered": 143,
       "tested": 15523
     }
@@ -5946,7 +5954,7 @@
   "OR": {
     "delta": {
       "confirmed": 755,
-      "deceased": 4
+      "deceased": 6
     },
     "districts": {
       "Angul": {
@@ -6017,7 +6025,8 @@
       },
       "Bhadrak": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "deceased": 1
         },
         "meta": {
           "population": 1506522,
@@ -6028,7 +6037,7 @@
         },
         "total": {
           "confirmed": 280,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 253,
           "tested": 5539
         }
@@ -6419,20 +6428,21 @@
       },
       "Sundargarh": {
         "delta": {
-          "confirmed": 62
+          "confirmed": 62,
+          "deceased": 1
         },
         "meta": {
           "population": 2080664
         },
         "total": {
           "confirmed": 616,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 185
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T11:03:08+05:30",
+      "last_updated": "2020-07-10T11:13:08+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6442,7 +6452,7 @@
     },
     "total": {
       "confirmed": 11956,
-      "deceased": 71,
+      "deceased": 73,
       "recovered": 7407,
       "tested": 314987
     }
@@ -7460,7 +7470,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T11:02:08+05:30",
+      "last_updated": "2020-07-10T11:06:08+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -8590,12 +8600,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 763,
-      "deceased": 9,
+      "confirmed": 764,
+      "deceased": 11,
       "recovered": 88
     },
     "meta": {
-      "last_updated": "2020-07-10T11:03:06+05:30",
+      "last_updated": "2020-07-10T11:13:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -8603,8 +8613,8 @@
       }
     },
     "total": {
-      "confirmed": 795605,
-      "deceased": 21632,
+      "confirmed": 795606,
+      "deceased": 21634,
       "migrated": 101,
       "recovered": 496048,
       "tested": 11024491
