@@ -1662,7 +1662,8 @@
     "delta": {
       "confirmed": 140,
       "deceased": 2,
-      "recovered": 125
+      "recovered": 125,
+      "tested": 3856
     },
     "districts": {
       "Balod": {
@@ -2158,15 +2159,14 @@
       "last_updated": "2020-07-10T21:39:15+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://twitter.com/HealthCgGov/status/1281242586624090112?s=20"
+        "last_updated": "2020-07-10"
       }
     },
     "total": {
       "confirmed": 3806,
       "deceased": 17,
       "recovered": 3028,
-      "tested": 196150
+      "tested": 200006
     }
   },
   "DL": {
@@ -3614,7 +3614,8 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 250
+      "confirmed": 250,
+      "recovered": 14
     },
     "districts": {
       "Bokaro": {
@@ -3653,7 +3654,8 @@
       },
       "Dhanbad": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "recovered": 5
         },
         "meta": {
           "population": 2682662
@@ -3661,7 +3663,7 @@
         "total": {
           "confirmed": 273,
           "deceased": 3,
-          "recovered": 136
+          "recovered": 141
         }
       },
       "Dumka": {
@@ -3678,7 +3680,8 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 26
+          "confirmed": 26,
+          "recovered": 4
         },
         "meta": {
           "population": 2291032
@@ -3686,7 +3689,7 @@
         "total": {
           "confirmed": 646,
           "deceased": 2,
-          "recovered": 279
+          "recovered": 283
         }
       },
       "Garhwa": {
@@ -3819,14 +3822,15 @@
       },
       "Palamu": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "recovered": 2
         },
         "meta": {
           "population": 1936319
         },
         "total": {
           "confirmed": 81,
-          "recovered": 67
+          "recovered": 69
         }
       },
       "Ramgarh": {
@@ -3869,14 +3873,15 @@
       },
       "Saraikela-Kharsawan": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 3
         },
         "meta": {
           "population": 1063458
         },
         "total": {
           "confirmed": 100,
-          "recovered": 46
+          "recovered": 49
         }
       },
       "Simdega": {
@@ -3903,7 +3908,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T22:46:09+05:30",
+      "last_updated": "2020-07-10T22:54:09+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -3913,7 +3918,7 @@
     "total": {
       "confirmed": 3518,
       "deceased": 23,
-      "recovered": 2210,
+      "recovered": 2224,
       "tested": 167650
     }
   },
@@ -10435,10 +10440,10 @@
       "confirmed": 26616,
       "deceased": 520,
       "migrated": 277,
-      "recovered": 20232
+      "recovered": 20246
     },
     "meta": {
-      "last_updated": "2020-07-10T22:46:06+05:30",
+      "last_updated": "2020-07-10T22:54:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -10449,7 +10454,7 @@
       "confirmed": 821458,
       "deceased": 22143,
       "migrated": 378,
-      "recovered": 516192,
+      "recovered": 516206,
       "tested": 11024491
     }
   },
