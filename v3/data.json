@@ -1558,7 +1558,8 @@
   "CH": {
     "delta": {
       "confirmed": 13,
-      "recovered": 5
+      "recovered": 5,
+      "tested": 157
     },
     "districts": {
       "Chandigarh": {
@@ -1582,18 +1583,17 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T16:37:09+05:30",
+      "last_updated": "2020-07-10T16:42:16+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1028"
+        "last_updated": "2020-07-10"
       }
     },
     "total": {
       "confirmed": 536,
       "deceased": 7,
       "recovered": 408,
-      "tested": 9096
+      "tested": 9253
     }
   },
   "CT": {
@@ -4433,6 +4433,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 31733
+    },
     "districts": {
       "Ahmednagar": {
         "meta": {
@@ -4936,8 +4939,8 @@
       "notes": "19 cases were marked as non-covid deaths in MH bulletin. These have been reduced from deceased and active counts\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://t.co/9RNBuXRB3w?amp=1"
+        "last_updated": "2020-07-10",
+        "source": "https://t.co/nDf35fpIaB?amp=1"
       }
     },
     "total": {
@@ -4945,7 +4948,7 @@
       "deceased": 9667,
       "migrated": 19,
       "recovered": 127259,
-      "tested": 1225831
+      "tested": 1257564
     }
   },
   "ML": {
@@ -5806,15 +5809,15 @@
         "meta": {
           "population": 1512353,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://twitter.com/PROJSShajapur/status/1280885211656527874?s=19"
+            "last_updated": "2020-07-09",
+            "source": "https://twitter.com/PROJSShajapur/status/1281252407033257984?s=20"
           }
         },
         "total": {
           "confirmed": 83,
           "deceased": 3,
           "recovered": 54,
-          "tested": 5124
+          "tested": 5474
         }
       },
       "Sheopur": {
@@ -8892,7 +8895,7 @@
       "recovered": 1238
     },
     "meta": {
-      "last_updated": "2020-07-10T16:37:06+05:30",
+      "last_updated": "2020-07-10T16:42:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
