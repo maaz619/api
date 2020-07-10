@@ -4381,8 +4381,8 @@
         "meta": {
           "population": 12442373,
           "tested": {
-            "last_updated": "2020-07-07",
-            "source": "https://twitter.com/mybmc/status/1280508325499633664?s=20"
+            "last_updated": "2020-07-08",
+            "source": "https://twitter.com/mybmc/status/1280878591731892224/photo/1"
           }
         },
         "total": {
@@ -4390,7 +4390,7 @@
           "deceased": 5132,
           "migrated": 11,
           "recovered": 60195,
-          "tested": 368603
+          "tested": 374142
         }
       },
       "Nagpur": {
@@ -4672,6 +4672,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 28
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -4682,11 +4685,14 @@
         }
       },
       "East Khasi Hills": {
+        "delta": {
+          "confirmed": 28
+        },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 72,
+          "confirmed": 100,
           "deceased": 1,
           "recovered": 17
         }
@@ -4751,7 +4757,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T19:38:23+05:30",
+      "last_updated": "2020-07-10T11:48:09+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4760,7 +4766,7 @@
       }
     },
     "total": {
-      "confirmed": 113,
+      "confirmed": 141,
       "deceased": 1,
       "recovered": 45,
       "tested": 22156
@@ -6442,7 +6448,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T11:24:08+05:30",
+      "last_updated": "2020-07-10T11:28:08+05:30",
       "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8600,12 +8606,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 764,
+      "confirmed": 792,
       "deceased": 11,
       "recovered": 88
     },
     "meta": {
-      "last_updated": "2020-07-10T11:24:06+05:30",
+      "last_updated": "2020-07-10T11:48:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -8613,7 +8619,7 @@
       }
     },
     "total": {
-      "confirmed": 795606,
+      "confirmed": 795634,
       "deceased": 21634,
       "migrated": 101,
       "recovered": 496048,
