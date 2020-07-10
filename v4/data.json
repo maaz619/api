@@ -701,7 +701,8 @@
   },
   "AS": {
     "delta": {
-      "deceased": 8
+      "deceased": 8,
+      "recovered": 701
     },
     "districts": {
       "Airport Quarantine": {
@@ -1012,13 +1013,13 @@
         "delta": {
           "confirmed": -122,
           "deceased": 8,
-          "recovered": -182
+          "recovered": 519
         },
         "total": {
           "confirmed": 5396,
           "deceased": 13,
           "migrated": 3,
-          "recovered": 8047
+          "recovered": 8748
         }
       },
       "West Karbi Anglong": {
@@ -1031,7 +1032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T19:56:15+05:30",
+      "last_updated": "2020-07-10T22:04:08+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1043,7 +1044,7 @@
       "confirmed": 14601,
       "deceased": 35,
       "migrated": 3,
-      "recovered": 9148,
+      "recovered": 9849,
       "tested": 508973
     }
   },
@@ -1111,20 +1112,21 @@
       },
       "Begusarai": {
         "delta": {
-          "recovered": 29
+          "recovered": 29,
+          "tested": 103
         },
         "meta": {
           "population": 2954367,
           "tested": {
-            "last_updated": "2020-07-09",
-            "source": "https://twitter.com/DM_Begusarai/status/1281184806512914432?s=20"
+            "last_updated": "2020-07-10",
+            "source": "https://twitter.com/DM_Begusarai/status/1281560838332014592?s=20"
           }
         },
         "total": {
           "confirmed": 639,
           "deceased": 4,
           "recovered": 472,
-          "tested": 10604
+          "tested": 10707
         }
       },
       "Bhagalpur": {
@@ -1404,15 +1406,15 @@
         "meta": {
           "population": 2216653,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://twitter.com/OfficialNawada/status/1280887937740111878"
+            "last_updated": "2020-07-09",
+            "source": "https://twitter.com/OfficialNawada/status/1281479929041793025?s=20"
           }
         },
         "total": {
           "confirmed": 415,
           "deceased": 3,
           "recovered": 308,
-          "tested": 6213
+          "tested": 6478
         }
       },
       "Other State": {
@@ -1436,19 +1438,20 @@
       },
       "Purnia": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 178
         },
         "meta": {
           "population": 3273127,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://twitter.com/dmpurnea/status/1280922746847932417?s=20"
+            "last_updated": "2020-07-10",
+            "source": "https://twitter.com/dmpurnea/status/1281490042523967488?s=20"
           }
         },
         "total": {
           "confirmed": 345,
           "recovered": 287,
-          "tested": 7926
+          "tested": 8104
         }
       },
       "Rohtas": {
@@ -3246,7 +3249,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:54:09+05:30",
+      "last_updated": "2020-07-10T22:04:10+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4178,7 +4181,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:53:08+05:30",
+      "last_updated": "2020-07-10T21:57:08+05:30",
       "population": 13203000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -9043,7 +9046,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:53:10+05:30",
+      "last_updated": "2020-07-10T21:57:11+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -10289,10 +10292,10 @@
       "confirmed": 25172,
       "deceased": 512,
       "migrated": 296,
-      "recovered": 18518
+      "recovered": 19219
     },
     "meta": {
-      "last_updated": "2020-07-10T21:54:06+05:30",
+      "last_updated": "2020-07-10T22:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -10303,7 +10306,7 @@
       "confirmed": 820014,
       "deceased": 22135,
       "migrated": 397,
-      "recovered": 514478,
+      "recovered": 515179,
       "tested": 11024491
     }
   },
