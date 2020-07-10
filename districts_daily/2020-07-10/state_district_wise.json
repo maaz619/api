@@ -5688,6 +5688,18 @@
           "deceased": 0,
           "recovered": 0
         }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": 1,
+        "confirmed": 1,
+        "deceased": 0,
+        "recovered": 0,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
       }
     },
     "statecode": "MZ"
@@ -5989,13 +6001,13 @@
       },
       "Ganjam": {
         "notes": "",
-        "active": 1678,
+        "active": 1674,
         "confirmed": 3416,
-        "deceased": 31,
+        "deceased": 35,
         "recovered": 1707,
         "delta": {
           "confirmed": 320,
-          "deceased": 0,
+          "deceased": 4,
           "recovered": 0
         }
       },
