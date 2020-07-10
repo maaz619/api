@@ -714,6 +714,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 936,
       "deceased": 8,
       "recovered": 701,
       "tested": 16512
@@ -1025,12 +1026,12 @@
       },
       "Unknown": {
         "delta": {
-          "confirmed": -122,
+          "confirmed": 814,
           "deceased": 8,
           "recovered": 519
         },
         "total": {
-          "confirmed": 5396,
+          "confirmed": 6332,
           "deceased": 13,
           "migrated": 3,
           "recovered": 8748
@@ -1055,7 +1056,7 @@
       }
     },
     "total": {
-      "confirmed": 14601,
+      "confirmed": 15537,
       "deceased": 35,
       "migrated": 3,
       "recovered": 9849,
@@ -5922,7 +5923,8 @@
   "MN": {
     "delta": {
       "confirmed": 132,
-      "recovered": 33
+      "recovered": 33,
+      "tested": 1147
     },
     "districts": {
       "Bishnupur": {
@@ -6100,14 +6102,13 @@
       "last_updated": "2020-07-10T20:51:13+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://twitter.com/DiprManipur/status/1281249999163138055?s=20"
+        "last_updated": "2020-07-10"
       }
     },
     "total": {
       "confirmed": 1582,
       "recovered": 832,
-      "tested": 59740
+      "tested": 60887
     }
   },
   "MP": {
@@ -10324,7 +10325,8 @@
   },
   "TR": {
     "delta": {
-      "confirmed": 141
+      "confirmed": 141,
+      "tested": 2125
     },
     "districts": {
       "Dhalai": {
@@ -10470,8 +10472,8 @@
       "last_updated": "2020-07-11T00:07:09+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1039"
+        "last_updated": "2020-07-10",
+        "source": "https://twitter.com/BjpBiplab/status/1281652697347719174?s=20"
       }
     },
     "total": {
@@ -10479,18 +10481,18 @@
       "deceased": 1,
       "migrated": 13,
       "recovered": 1338,
-      "tested": 77439
+      "tested": 79564
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 26792,
+      "confirmed": 27728,
       "deceased": 520,
       "migrated": 277,
       "recovered": 20246
     },
     "meta": {
-      "last_updated": "2020-07-11T00:07:07+05:30",
+      "last_updated": "2020-07-11T00:37:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -10498,7 +10500,7 @@
       }
     },
     "total": {
-      "confirmed": 821634,
+      "confirmed": 822570,
       "deceased": 22144,
       "migrated": 378,
       "recovered": 516206,
