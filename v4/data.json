@@ -1032,7 +1032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T22:04:08+05:30",
+      "last_updated": "2020-07-10T22:13:17+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -2173,7 +2173,8 @@
     "delta": {
       "confirmed": 2089,
       "deceased": 42,
-      "recovered": 2468
+      "recovered": 2468,
+      "tested": 22961
     },
     "districts": {
       "Central Delhi": {
@@ -2282,15 +2283,15 @@
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-07-09",
-        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/07-09.pdf"
+        "last_updated": "2020-07-10",
+        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/07-10.pdf"
       }
     },
     "total": {
       "confirmed": 109140,
       "deceased": 3300,
       "recovered": 84694,
-      "tested": 724148
+      "tested": 747109
     }
   },
   "DN": {
@@ -3249,7 +3250,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T22:04:10+05:30",
+      "last_updated": "2020-07-10T22:08:11+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -5086,7 +5087,7 @@
     "delta": {
       "confirmed": 7862,
       "deceased": 226,
-      "migrated": 296,
+      "migrated": 277,
       "recovered": 5366,
       "tested": 31733
     },
@@ -5113,7 +5114,6 @@
       "Akola": {
         "delta": {
           "confirmed": 12,
-          "migrated": 1,
           "recovered": 11
         },
         "meta": {
@@ -5122,7 +5122,7 @@
         "total": {
           "confirmed": 1796,
           "deceased": 91,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 1427
         }
       },
@@ -5240,7 +5240,6 @@
         "delta": {
           "confirmed": 35,
           "deceased": 4,
-          "migrated": 2,
           "recovered": 10
         },
         "meta": {
@@ -5253,7 +5252,7 @@
         "total": {
           "confirmed": 1423,
           "deceased": 73,
-          "migrated": 4,
+          "migrated": 2,
           "recovered": 834,
           "tested": 9880
         }
@@ -5389,7 +5388,7 @@
         "delta": {
           "confirmed": 1337,
           "deceased": 73,
-          "migrated": 287,
+          "migrated": 276,
           "recovered": 1739
         },
         "meta": {
@@ -5402,7 +5401,7 @@
         "total": {
           "confirmed": 90461,
           "deceased": 5205,
-          "migrated": 298,
+          "migrated": 287,
           "recovered": 61934,
           "tested": 374142
         }
@@ -5575,7 +5574,6 @@
         "delta": {
           "confirmed": 461,
           "deceased": 9,
-          "migrated": 2,
           "recovered": 145
         },
         "meta": {
@@ -5588,7 +5586,7 @@
         "total": {
           "confirmed": 7613,
           "deceased": 151,
-          "migrated": 4,
+          "migrated": 2,
           "recovered": 3507,
           "tested": 6518
         }
@@ -5626,7 +5624,6 @@
       "Satara": {
         "delta": {
           "confirmed": 52,
-          "migrated": 1,
           "recovered": 25
         },
         "meta": {
@@ -5639,7 +5636,7 @@
         "total": {
           "confirmed": 1585,
           "deceased": 64,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 909,
           "tested": 13972
         }
@@ -5661,7 +5658,6 @@
         "delta": {
           "confirmed": 56,
           "deceased": 5,
-          "migrated": 1,
           "recovered": 79
         },
         "meta": {
@@ -5674,7 +5670,7 @@
         "total": {
           "confirmed": 3595,
           "deceased": 334,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 1986,
           "tested": 19812
         }
@@ -5683,7 +5679,6 @@
         "delta": {
           "confirmed": 2327,
           "deceased": 53,
-          "migrated": 1,
           "recovered": 1803
         },
         "meta": {
@@ -5696,7 +5691,7 @@
         "total": {
           "confirmed": 57138,
           "deceased": 1536,
-          "migrated": 2,
+          "migrated": 1,
           "recovered": 24624,
           "tested": 144329
         }
@@ -5757,8 +5752,8 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T21:39:08+05:30",
-      "notes": "315 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
+      "last_updated": "2020-07-10T22:14:08+05:30",
+      "notes": "296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -5768,14 +5763,14 @@
     "total": {
       "confirmed": 238461,
       "deceased": 9893,
-      "migrated": 315,
+      "migrated": 296,
       "recovered": 132625,
       "tested": 1257564
     }
   },
   "ML": {
     "delta": {
-      "confirmed": 54,
+      "confirmed": 64,
       "tested": 361
     },
     "districts": {
@@ -5789,13 +5784,13 @@
       },
       "East Khasi Hills": {
         "delta": {
-          "confirmed": 54
+          "confirmed": 64
         },
         "meta": {
           "population": 824059
         },
         "total": {
-          "confirmed": 126,
+          "confirmed": 136,
           "deceased": 1,
           "recovered": 17
         }
@@ -5860,7 +5855,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T14:08:10+05:30",
+      "last_updated": "2020-07-10T22:14:12+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -5868,7 +5863,7 @@
       }
     },
     "total": {
-      "confirmed": 167,
+      "confirmed": 177,
       "deceased": 1,
       "recovered": 45,
       "tested": 22517
@@ -10289,13 +10284,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 25172,
+      "confirmed": 25182,
       "deceased": 512,
-      "migrated": 296,
+      "migrated": 277,
       "recovered": 19219
     },
     "meta": {
-      "last_updated": "2020-07-10T22:04:06+05:30",
+      "last_updated": "2020-07-10T22:14:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -10303,9 +10298,9 @@
       }
     },
     "total": {
-      "confirmed": 820014,
+      "confirmed": 820024,
       "deceased": 22135,
-      "migrated": 397,
+      "migrated": 378,
       "recovered": 515179,
       "tested": 11024491
     }
