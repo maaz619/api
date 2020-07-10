@@ -7064,15 +7064,19 @@
   },
   "MZ": {
     "delta": {
+      "confirmed": 22,
       "tested": 340
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 22
+        },
         "meta": {
           "population": 404054
         },
         "total": {
-          "confirmed": 58,
+          "confirmed": 80,
           "recovered": 35
         }
       },
@@ -7153,7 +7157,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-08T22:57:33+05:30",
+      "last_updated": "2020-07-10T07:24:09+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -7161,7 +7165,7 @@
       }
     },
     "total": {
-      "confirmed": 203,
+      "confirmed": 225,
       "recovered": 143,
       "tested": 15523
     }
@@ -10515,13 +10519,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 25790,
+      "confirmed": 25812,
       "deceased": 479,
       "migrated": 1,
       "recovered": 19407
     },
     "meta": {
-      "last_updated": "2020-07-10T00:57:06+05:30",
+      "last_updated": "2020-07-10T07:24:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-08",
@@ -10529,7 +10533,7 @@
       }
     },
     "total": {
-      "confirmed": 794842,
+      "confirmed": 794864,
       "deceased": 21623,
       "migrated": 101,
       "recovered": 495960,
@@ -10542,7 +10546,7 @@
     },
     "meta": {
       "last_updated": "2020-07-09T09:57:13+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 633 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
     },
     "total": {
       "confirmed": 4385
