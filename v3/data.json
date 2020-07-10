@@ -625,6 +625,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "deceased": 4
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -927,9 +930,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 4
+        },
         "total": {
           "confirmed": 5518,
-          "deceased": 5,
+          "deceased": 9,
           "migrated": 3,
           "recovered": 8229
         }
@@ -944,7 +950,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T00:02:09+05:30",
+      "last_updated": "2020-07-10T13:04:07+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -954,7 +960,7 @@
     },
     "total": {
       "confirmed": 14601,
-      "deceased": 27,
+      "deceased": 31,
       "migrated": 3,
       "recovered": 9148,
       "tested": 508973
@@ -2604,6 +2610,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Bilaspur": {
         "meta": {
@@ -2615,11 +2624,14 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 518844
         },
         "total": {
-          "confirmed": 58,
+          "confirmed": 59,
           "migrated": 1,
           "recovered": 47
         }
@@ -2728,7 +2740,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-09T21:53:19+05:30",
+      "last_updated": "2020-07-10T13:04:09+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2737,7 +2749,7 @@
       }
     },
     "total": {
-      "confirmed": 1140,
+      "confirmed": 1141,
       "deceased": 10,
       "migrated": 13,
       "recovered": 833,
@@ -4251,15 +4263,15 @@
         "meta": {
           "population": 2585962,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200709_1_2&width=74px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200710_1_3&width=71px"
           }
         },
         "total": {
           "confirmed": 185,
           "deceased": 4,
           "recovered": 101,
-          "tested": 4475
+          "tested": 4733
         }
       },
       "Bhandara": {
@@ -4355,15 +4367,15 @@
         "meta": {
           "population": 1178973,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200709_1_2&width=72px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200710_1_3&width=74px"
           }
         },
         "total": {
           "confirmed": 323,
           "deceased": 1,
           "recovered": 268,
-          "tested": 4589
+          "tested": 5030
         }
       },
       "Jalgaon": {
@@ -4385,15 +4397,15 @@
         "meta": {
           "population": 1958483,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200709_1_2&width=71px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200710_1_3&width=74px"
           }
         },
         "total": {
           "confirmed": 852,
           "deceased": 35,
           "recovered": 474,
-          "tested": 6304
+          "tested": 6598
         }
       },
       "Kolhapur": {
@@ -4496,15 +4508,15 @@
         "meta": {
           "population": 1660311,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HOBD_20200709_1_2&width=71px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HOBD_20200710_1_3&width=72px"
           }
         },
         "total": {
           "confirmed": 329,
           "deceased": 14,
           "recovered": 203,
-          "tested": 3934
+          "tested": 4107
         }
       },
       "Other State": {
@@ -4517,15 +4529,15 @@
         "meta": {
           "population": 2990116,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "https://datastudio.google.com/embed/reporting/3f20951b-561b-4a87-a919-8134ce69bb43/page/r0ZUB"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HTHA_20200710_4_8&width=73px"
           }
         },
         "total": {
           "confirmed": 8575,
           "deceased": 161,
           "recovered": 4152,
-          "tested": 46585
+          "tested": 48190
         }
       },
       "Parbhani": {
@@ -4562,8 +4574,8 @@
         "meta": {
           "population": 2635394,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HNMU_20200709_1_9&width=72px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HNMU_20200710_1_10&width=71px"
           }
         },
         "total": {
@@ -4571,7 +4583,7 @@
           "deceased": 142,
           "migrated": 2,
           "recovered": 3362,
-          "tested": 6057
+          "tested": 6518
         }
       },
       "Ratnagiri": {
@@ -4640,8 +4652,8 @@
         "meta": {
           "population": 11060148,
           "tested": {
-            "last_updated": "2020-07-08",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HTHA_20200709_1_8&width=73px"
+            "last_updated": "2020-07-09",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HTHA_20200710_1_5&width=74px"
           }
         },
         "total": {
@@ -4649,7 +4661,7 @@
           "deceased": 1483,
           "migrated": 1,
           "recovered": 22821,
-          "tested": 142536
+          "tested": 144329
         }
       },
       "Wardha": {
@@ -8645,12 +8657,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 886,
-      "deceased": 11,
+      "confirmed": 887,
+      "deceased": 15,
       "recovered": 88
     },
     "meta": {
-      "last_updated": "2020-07-10T12:05:06+05:30",
+      "last_updated": "2020-07-10T13:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-09",
@@ -8658,8 +8670,8 @@
       }
     },
     "total": {
-      "confirmed": 795728,
-      "deceased": 21634,
+      "confirmed": 795729,
+      "deceased": 21638,
       "migrated": 101,
       "recovered": 496048,
       "tested": 11024491
