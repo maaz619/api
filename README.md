@@ -45,7 +45,7 @@ We are working towards providing a singular raw_data that can be the source of t
 | :green_heart: | Patient Level : Raw Data Partition 6 (From Jun 05 to Jun 19)              | https://api.covid19india.org/raw_data6.json              |
 | :green_heart: | Patient Level : Raw Data Partition 7 (From Jun 20 to Jun 30)              | https://api.covid19india.org/raw_data7.json              |
 | :green_heart: | Patient Level : Raw Data Partition 8 (From Jul 01 to Jul 07)              | https://api.covid19india.org/raw_data8.json              |
-| :green_heart: | Patient Level : Raw Data Partition 9 (From Jul 08th onwards)              | https://api.covid19india.org/raw_data8.json              |
+| :green_heart: | Patient Level : Raw Data Partition 9 (From Jul 08th onwards)              | https://api.covid19india.org/raw_data9.json              |
 | :green_heart: | National Level :Time series, State-wise stats and Test counts             | https://api.covid19india.org/data.json                   |
 | :green_heart: | State Level : has district-wise info                                      | https://api.covid19india.org/state_district_wise.json    |
 | :green_heart: | State Level : Daily changes                                               | https://api.covid19india.org/states_daily.json           |
@@ -86,7 +86,8 @@ API for current cases, state-wise, district-wise and historical data of India CO
 
 ## License
 This repository contains both the code that routinely fetches the data from Google Sheet and convert it into JSON files in the required format and the data itself (in the gh-pages branch). So, the content of this repository is licensed in two ways : Code and Data
-License for Code (Consider this as everything in the `master` branch) : MIT License (Detailed in LICENSE_CODE.txt)
+
+License for Code (Consider this as everything in the `master` branch) : MIT License (Detailed in LICENSE_CODE.txt)  
 License for Data (Consider this as everything in the `gh-ages` branch) : CC-BY-SA-4.0 License (Detailed in LICENSE_DATA.txt)
 
 ## Contributing
