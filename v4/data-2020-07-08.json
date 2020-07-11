@@ -2375,6 +2375,7 @@
   "DN": {
     "delta": {
       "confirmed": 15,
+      "migrated": 1,
       "recovered": 11,
       "tested": 473
     },
@@ -2421,6 +2422,7 @@
       },
       "Diu": {
         "delta": {
+          "migrated": 1,
           "tested": 165
         },
         "meta": {
@@ -2432,6 +2434,7 @@
         },
         "total": {
           "confirmed": 23,
+          "migrated": 1,
           "recovered": 12,
           "tested": 3445
         }
@@ -2447,7 +2450,7 @@
     "total": {
       "confirmed": 442,
       "deceased": 1,
-      "migrated": 3,
+      "migrated": 4,
       "recovered": 196,
       "tested": 35234
     }
@@ -10632,6 +10635,7 @@
     "delta": {
       "confirmed": 25561,
       "deceased": 492,
+      "migrated": 1,
       "recovered": 19508,
       "tested": 267061
     },
@@ -10645,7 +10649,7 @@
     "total": {
       "confirmed": 769052,
       "deceased": 21145,
-      "migrated": 100,
+      "migrated": 101,
       "recovered": 476553,
       "tested": 10740832
     }
