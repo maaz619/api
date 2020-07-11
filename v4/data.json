@@ -5133,7 +5133,7 @@
   "MH": {
     "delta": {
       "confirmed": 8139,
-      "deceased": 221,
+      "deceased": 223,
       "migrated": 1,
       "recovered": 4360,
       "tested": 31761
@@ -5545,9 +5545,13 @@
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 8,
+          "deceased": 2
+        },
         "total": {
-          "confirmed": 175,
-          "deceased": 28
+          "confirmed": 183,
+          "deceased": 30
         }
       },
       "Palghar": {
@@ -5736,14 +5740,6 @@
           "tested": 146859
         }
       },
-      "Unknown": {
-        "delta": {
-          "confirmed": 8
-        },
-        "total": {
-          "confirmed": 8
-        }
-      },
       "Wardha": {
         "meta": {
           "population": 1296157,
@@ -5794,7 +5790,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T01:24:08+05:30",
+      "last_updated": "2020-07-12T01:38:08+05:30",
       "notes": "297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5804,7 +5800,7 @@
     },
     "total": {
       "confirmed": 246600,
-      "deceased": 10114,
+      "deceased": 10116,
       "migrated": 297,
       "recovered": 136985,
       "tested": 1289325
@@ -10398,12 +10394,12 @@
   "TT": {
     "delta": {
       "confirmed": 27754,
-      "deceased": 541,
+      "deceased": 543,
       "migrated": 3,
       "recovered": 19981
     },
     "meta": {
-      "last_updated": "2020-07-12T01:24:06+05:30",
+      "last_updated": "2020-07-12T01:38:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -10412,7 +10408,7 @@
     },
     "total": {
       "confirmed": 850358,
-      "deceased": 22685,
+      "deceased": 22687,
       "migrated": 382,
       "recovered": 536231,
       "tested": 11307002
