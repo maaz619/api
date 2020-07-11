@@ -5936,7 +5936,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T09:47:08+05:30",
+      "last_updated": "2020-07-11T09:54:11+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -8453,10 +8453,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 11
+      "confirmed": -734
     },
     "meta": {
-      "last_updated": "2020-07-11T09:47:06+05:30",
+      "last_updated": "2020-07-11T09:54:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -8464,7 +8464,7 @@
       }
     },
     "total": {
-      "confirmed": 822615,
+      "confirmed": 821870,
       "deceased": 22144,
       "migrated": 378,
       "recovered": 516240,
@@ -8472,12 +8472,15 @@
     }
   },
   "UN": {
+    "delta": {
+      "confirmed": -745
+    },
     "meta": {
-      "last_updated": "2020-07-10T09:50:08+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
+      "last_updated": "2020-07-11T09:54:09+05:30",
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 745 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
-      "confirmed": 4161
+      "confirmed": 3416
     }
   },
   "UP": {
