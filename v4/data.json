@@ -1023,7 +1023,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T20:13:08+05:30",
+      "last_updated": "2020-07-11T20:24:10+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -2985,7 +2985,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T20:10:08+05:30",
+      "last_updated": "2020-07-11T20:18:07+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -3477,7 +3477,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T20:10:09+05:30",
+      "last_updated": "2020-07-11T20:18:09+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -4722,6 +4722,9 @@
   },
   "MH": {
     "delta": {
+      "confirmed": 8139,
+      "deceased": 223,
+      "recovered": 4360,
       "tested": 31761
     },
     "districts": {
@@ -5180,6 +5183,18 @@
           "tested": 146859
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 8139,
+          "deceased": 223,
+          "recovered": 4360
+        },
+        "total": {
+          "confirmed": 8139,
+          "deceased": 223,
+          "recovered": 4360
+        }
+      },
       "Wardha": {
         "meta": {
           "population": 1296157,
@@ -5222,7 +5237,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T22:28:08+05:30",
+      "last_updated": "2020-07-11T20:24:08+05:30",
       "notes": "296 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -5231,10 +5246,10 @@
       }
     },
     "total": {
-      "confirmed": 238461,
-      "deceased": 9893,
+      "confirmed": 246600,
+      "deceased": 10116,
       "migrated": 296,
-      "recovered": 132625,
+      "recovered": 136985,
       "tested": 1289325
     }
   },
@@ -6699,7 +6714,8 @@
       "last_updated": "2020-07-11T16:17:08+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://twitter.com/MyGovNagaland/status/1281944108676730880?s=20"
       }
     },
     "total": {
@@ -9620,13 +9636,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 12690,
-      "deceased": 196,
+      "confirmed": 20829,
+      "deceased": 419,
       "migrated": 1,
-      "recovered": 11311
+      "recovered": 15671
     },
     "meta": {
-      "last_updated": "2020-07-11T20:13:06+05:30",
+      "last_updated": "2020-07-11T20:24:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -9634,10 +9650,10 @@
       }
     },
     "total": {
-      "confirmed": 835294,
-      "deceased": 22340,
+      "confirmed": 843433,
+      "deceased": 22563,
       "migrated": 380,
-      "recovered": 527561,
+      "recovered": 531921,
       "tested": 11307002
     }
   },
