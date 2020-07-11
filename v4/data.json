@@ -6725,8 +6725,16 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 64,
+      "recovered": 53
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 2
+        },
         "meta": {
           "population": 200222,
           "tested": {
@@ -6735,13 +6743,16 @@
           }
         },
         "total": {
-          "confirmed": 76,
+          "confirmed": 86,
           "deceased": 1,
-          "recovered": 39,
+          "recovered": 41,
           "tested": 3254
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 41816,
           "tested": {
@@ -6750,12 +6761,16 @@
           }
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 21,
           "recovered": 18,
           "tested": 1054
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 48,
+          "recovered": 51
+        },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
@@ -6765,13 +6780,16 @@
           }
         },
         "total": {
-          "confirmed": 1156,
+          "confirmed": 1204,
           "deceased": 16,
-          "recovered": 580,
+          "recovered": 631,
           "tested": 18907
         }
       },
       "Yanam": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
@@ -6781,13 +6799,13 @@
           }
         },
         "total": {
-          "confirmed": 20,
+          "confirmed": 25,
           "tested": 1270
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T10:49:09+05:30",
+      "last_updated": "2020-07-11T11:14:09+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -6795,9 +6813,9 @@
       }
     },
     "total": {
-      "confirmed": 1272,
+      "confirmed": 1336,
       "deceased": 17,
-      "recovered": 637,
+      "recovered": 690,
       "tested": 24485
     }
   },
@@ -8453,10 +8471,11 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -734
+      "confirmed": -670,
+      "recovered": 53
     },
     "meta": {
-      "last_updated": "2020-07-11T11:02:06+05:30",
+      "last_updated": "2020-07-11T11:14:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -8464,10 +8483,10 @@
       }
     },
     "total": {
-      "confirmed": 821870,
+      "confirmed": 821934,
       "deceased": 22144,
       "migrated": 378,
-      "recovered": 516240,
+      "recovered": 516293,
       "tested": 11307002
     }
   },
