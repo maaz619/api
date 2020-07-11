@@ -1,6 +1,7 @@
 {
   "AN": {
     "delta": {
+      "recovered": 9,
       "tested": 194
     },
     "districts": {
@@ -23,9 +24,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 9
+        },
         "total": {
           "confirmed": 104,
-          "recovered": 50
+          "recovered": 59
         }
       }
     },
@@ -38,7 +42,7 @@
     },
     "total": {
       "confirmed": 156,
-      "recovered": 83,
+      "recovered": 92,
       "tested": 18046
     }
   },
@@ -10572,7 +10576,7 @@
       "confirmed": 27762,
       "deceased": 520,
       "migrated": 277,
-      "recovered": 20280,
+      "recovered": 20289,
       "tested": 282511
     },
     "meta": {
@@ -10586,7 +10590,7 @@
       "confirmed": 822604,
       "deceased": 22144,
       "migrated": 379,
-      "recovered": 516241,
+      "recovered": 516250,
       "tested": 11307002
     }
   },
