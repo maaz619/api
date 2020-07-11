@@ -1654,7 +1654,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T19:30:09+05:30",
+      "last_updated": "2020-07-11T19:33:11+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-11"
@@ -2094,6 +2094,11 @@
     }
   },
   "DL": {
+    "delta": {
+      "confirmed": 1781,
+      "deceased": 34,
+      "recovered": 2998
+    },
     "districts": {
       "Central Delhi": {
         "meta": {
@@ -2176,10 +2181,15 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 1781,
+          "deceased": 34,
+          "recovered": 2998
+        },
         "total": {
-          "confirmed": 108352,
-          "deceased": 3299,
-          "recovered": 84694
+          "confirmed": 110133,
+          "deceased": 3333,
+          "recovered": 87692
         }
       },
       "West Delhi": {
@@ -2192,7 +2202,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-10T20:40:13+05:30",
+      "last_updated": "2020-07-11T19:37:08+05:30",
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -2201,9 +2211,9 @@
       }
     },
     "total": {
-      "confirmed": 109140,
-      "deceased": 3300,
-      "recovered": 84694,
+      "confirmed": 110921,
+      "deceased": 3334,
+      "recovered": 87692,
       "tested": 747109
     }
   },
@@ -9358,12 +9368,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8159,
-      "deceased": 112,
-      "recovered": 6381
+      "confirmed": 9940,
+      "deceased": 146,
+      "recovered": 9379
     },
     "meta": {
-      "last_updated": "2020-07-11T19:30:06+05:30",
+      "last_updated": "2020-07-11T19:37:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -9371,10 +9381,10 @@
       }
     },
     "total": {
-      "confirmed": 830763,
-      "deceased": 22256,
+      "confirmed": 832544,
+      "deceased": 22290,
       "migrated": 379,
-      "recovered": 522631,
+      "recovered": 525629,
       "tested": 11307002
     }
   },
