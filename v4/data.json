@@ -340,6 +340,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 5
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -366,6 +370,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -375,7 +382,7 @@
         },
         "total": {
           "confirmed": 102,
-          "recovered": 64,
+          "recovered": 69,
           "tested": 4937
         }
       },
@@ -560,6 +567,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -568,7 +578,7 @@
           }
         },
         "total": {
-          "confirmed": 133,
+          "confirmed": 138,
           "recovered": 17,
           "tested": 821
         }
@@ -653,6 +663,9 @@
         }
       },
       "West Kameng": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 87013,
           "tested": {
@@ -661,7 +674,7 @@
           }
         },
         "total": {
-          "confirmed": 28,
+          "confirmed": 29,
           "deceased": 2,
           "recovered": 7,
           "tested": 1334
@@ -683,7 +696,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T05:16:08+05:30",
+      "last_updated": "2020-07-11T23:37:12+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -691,9 +704,9 @@
       }
     },
     "total": {
-      "confirmed": 335,
+      "confirmed": 341,
       "deceased": 2,
-      "recovered": 120,
+      "recovered": 125,
       "tested": 29834
     }
   },
@@ -2135,7 +2148,8 @@
       "last_updated": "2020-07-11T22:28:09+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://twitter.com/HealthCgGov/status/1281961985676992512?s=20"
       }
     },
     "total": {
@@ -2149,7 +2163,8 @@
     "delta": {
       "confirmed": 1781,
       "deceased": 34,
-      "recovered": 2998
+      "recovered": 2998,
+      "tested": 21508
     },
     "districts": {
       "Central Delhi": {
@@ -2258,15 +2273,14 @@
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-07-10",
-        "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/07-10.pdf"
+        "last_updated": "2020-07-11"
       }
     },
     "total": {
       "confirmed": 110921,
       "deceased": 3334,
       "recovered": 87692,
-      "tested": 747109
+      "tested": 768617
     }
   },
   "DN": {
@@ -2349,7 +2363,7 @@
   "GA": {
     "delta": {
       "confirmed": 117,
-      "deceased": 1,
+      "deceased": 3,
       "recovered": 81
     },
     "districts": {
@@ -2385,18 +2399,18 @@
       "Unknown": {
         "delta": {
           "confirmed": 117,
-          "deceased": 1,
+          "deceased": 3,
           "recovered": 81
         },
         "total": {
           "confirmed": 679,
-          "deceased": 1,
+          "deceased": 3,
           "recovered": 643
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T22:28:11+05:30",
+      "last_updated": "2020-07-11T23:37:09+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -2405,7 +2419,7 @@
     },
     "total": {
       "confirmed": 2368,
-      "deceased": 10,
+      "deceased": 12,
       "recovered": 1428,
       "tested": 87865
     }
@@ -10215,13 +10229,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 27213,
-      "deceased": 541,
+      "confirmed": 27219,
+      "deceased": 543,
       "migrated": 1,
-      "recovered": 19973
+      "recovered": 19978
     },
     "meta": {
-      "last_updated": "2020-07-11T23:15:06+05:30",
+      "last_updated": "2020-07-11T23:37:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -10229,10 +10243,10 @@
       }
     },
     "total": {
-      "confirmed": 849817,
-      "deceased": 22685,
+      "confirmed": 849823,
+      "deceased": 22687,
       "migrated": 380,
-      "recovered": 536223,
+      "recovered": 536228,
       "tested": 11307002
     }
   },
