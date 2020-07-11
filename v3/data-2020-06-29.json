@@ -5757,12 +5757,15 @@
     },
     "districts": {
       "Bishnupur": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 240363
         },
         "total": {
           "confirmed": 79,
-          "recovered": 57
+          "recovered": 58
         }
       },
       "Chandel": {
@@ -5775,12 +5778,15 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 271274
         },
         "total": {
           "confirmed": 129,
-          "recovered": 55
+          "recovered": 58
         }
       },
       "Imphal East": {
@@ -5811,12 +5817,15 @@
         }
       },
       "Kakching": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 135481
         },
         "total": {
           "confirmed": 87,
-          "recovered": 25
+          "recovered": 27
         }
       },
       "Kamjong": {
@@ -5833,47 +5842,58 @@
       },
       "Kangpokpi": {
         "delta": {
-          "confirmed": 33
+          "confirmed": 33,
+          "recovered": 1
         },
         "total": {
           "confirmed": 135,
-          "recovered": 18
+          "recovered": 19
         }
       },
       "Noney": {
+        "delta": {
+          "recovered": 1
+        },
         "total": {
           "confirmed": 24,
-          "recovered": 17
+          "recovered": 18
         }
       },
       "Pherzawl": {
+        "delta": {
+          "recovered": 12
+        },
         "meta": {
           "population": 47250
         },
         "total": {
           "confirmed": 32,
-          "recovered": 3
+          "recovered": 15
         }
       },
       "Senapati": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "recovered": 11
         },
         "meta": {
           "population": 354772
         },
         "total": {
           "confirmed": 99,
-          "recovered": 10
+          "recovered": 21
         }
       },
       "Tamenglong": {
+        "delta": {
+          "recovered": 7
+        },
         "meta": {
           "population": 140143
         },
         "total": {
           "confirmed": 176,
-          "recovered": 25
+          "recovered": 32
         }
       },
       "Tengnoupal": {
@@ -5893,22 +5913,20 @@
       },
       "Ukhrul": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 5,
+          "recovered": 1
         },
         "meta": {
           "population": 183115
         },
         "total": {
           "confirmed": 150,
-          "recovered": 17
+          "recovered": 18
         }
       },
       "Unknown": {
-        "delta": {
-          "recovered": 39
-        },
         "total": {
-          "recovered": 140
+          "recovered": 101
         }
       }
     },
