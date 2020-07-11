@@ -8400,7 +8400,7 @@
       "Karaikal": {
         "delta": {
           "confirmed": 5,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 1,
           "tested": 112
         },
@@ -8413,7 +8413,7 @@
         },
         "total": {
           "confirmed": 76,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 39,
           "tested": 3254
         }
@@ -8438,6 +8438,7 @@
       "Puducherry": {
         "delta": {
           "confirmed": 67,
+          "deceased": -1,
           "recovered": 17,
           "tested": 794
         },
@@ -8450,7 +8451,7 @@
         },
         "total": {
           "confirmed": 1156,
-          "deceased": 16,
+          "deceased": 15,
           "recovered": 580,
           "tested": 18907
         }
@@ -10865,15 +10866,21 @@
       "Basti": {
         "delta": {
           "confirmed": 16,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 15294
         },
         "meta": {
-          "population": 2461056
+          "population": 2461056,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 400,
           "deceased": 15,
-          "recovered": 332
+          "recovered": 332,
+          "tested": 15294
         }
       },
       "Bhadohi": {
@@ -10957,13 +10964,21 @@
         }
       },
       "Chitrakoot": {
+        "delta": {
+          "tested": 7720
+        },
         "meta": {
-          "population": 990626
+          "population": 990626,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 101,
           "deceased": 2,
-          "recovered": 95
+          "recovered": 95,
+          "tested": 7720
         }
       },
       "Deoria": {
@@ -11052,30 +11067,42 @@
       "Gautam Buddha Nagar": {
         "delta": {
           "confirmed": 82,
-          "recovered": 85
+          "recovered": 85,
+          "tested": 35253
         },
         "meta": {
-          "population": 1674714
+          "population": 1674714,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 3260,
           "deceased": 31,
-          "recovered": 2221
+          "recovered": 2221,
+          "tested": 35253
         }
       },
       "Ghaziabad": {
         "delta": {
           "confirmed": 123,
           "deceased": -1,
-          "recovered": 135
+          "recovered": 135,
+          "tested": 47865
         },
         "meta": {
-          "population": 4661452
+          "population": 4661452,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 2863,
           "deceased": 63,
-          "recovered": 1459
+          "recovered": 1459,
+          "tested": 47865
         }
       },
       "Ghazipur": {
@@ -11110,43 +11137,61 @@
         "delta": {
           "confirmed": 20,
           "deceased": 2,
-          "recovered": 14
+          "recovered": 14,
+          "tested": 10215
         },
         "meta": {
-          "population": 4436275
+          "population": 4436275,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 538,
           "deceased": 16,
-          "recovered": 346
+          "recovered": 346,
+          "tested": 10215
         }
       },
       "Hamirpur": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "tested": 7736
         },
         "meta": {
-          "population": 1104021
+          "population": 1104021,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 105,
           "deceased": 2,
-          "recovered": 77
+          "recovered": 77,
+          "tested": 7736
         }
       },
       "Hapur": {
         "delta": {
           "confirmed": 10,
           "deceased": 1,
-          "recovered": 17
+          "recovered": 17,
+          "tested": 8174
         },
         "meta": {
-          "population": 1338211
+          "population": 1338211,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 820,
           "deceased": 17,
-          "recovered": 625
+          "recovered": 625,
+          "tested": 8174
         }
       },
       "Hardoi": {
@@ -11183,15 +11228,21 @@
         "delta": {
           "confirmed": 2,
           "deceased": 1,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 7137
         },
         "meta": {
-          "population": 1670718
+          "population": 1670718,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 206,
           "deceased": 8,
-          "recovered": 168
+          "recovered": 168,
+          "tested": 7137
         }
       },
       "Jaunpur": {
@@ -11239,15 +11290,21 @@
       "Kanpur Dehat": {
         "delta": {
           "confirmed": 7,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 8320
         },
         "meta": {
-          "population": 1795092
+          "population": 1795092,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 78,
           "deceased": 1,
-          "recovered": 57
+          "recovered": 57,
+          "tested": 8320
         }
       },
       "Kanpur Nagar": {
@@ -11294,15 +11351,21 @@
       "Kushinagar": {
         "delta": {
           "confirmed": 8,
-          "recovered": 9
+          "recovered": 9,
+          "tested": 7857
         },
         "meta": {
-          "population": 3560830
+          "population": 3560830,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 212,
           "deceased": 4,
-          "recovered": 120
+          "recovered": 120,
+          "tested": 7857
         }
       },
       "Lakhimpur Kheri": {
@@ -11366,15 +11429,21 @@
       },
       "Mahoba": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 8050
         },
         "meta": {
-          "population": 876055
+          "population": 876055,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 74,
           "deceased": 1,
-          "recovered": 55
+          "recovered": 55,
+          "tested": 8050
         }
       },
       "Mainpuri": {
@@ -11602,15 +11671,21 @@
       "Sant Kabir Nagar": {
         "delta": {
           "confirmed": 13,
-          "recovered": 2
+          "recovered": 2,
+          "tested": 13268
         },
         "meta": {
-          "population": 1714300
+          "population": 1714300,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 343,
           "deceased": 7,
-          "recovered": 221
+          "recovered": 221,
+          "tested": 13268
         }
       },
       "Shahjahanpur": {
@@ -11663,15 +11738,21 @@
       },
       "Siddharthnagar": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 10,
+          "tested": 11705
         },
         "meta": {
-          "population": 2553526
+          "population": 2553526,
+          "tested": {
+            "last_updated": "2020-07-10",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1072"
+          }
         },
         "total": {
           "confirmed": 297,
           "deceased": 9,
-          "recovered": 223
+          "recovered": 223,
+          "tested": 11705
         }
       },
       "Sitapur": {
