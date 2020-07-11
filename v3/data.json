@@ -712,6 +712,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 535,
       "deceased": 2,
       "recovered": 578,
       "tested": 12346
@@ -881,11 +882,14 @@
         }
       },
       "Kamrup Metropolitan": {
+        "delta": {
+          "confirmed": 410
+        },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 6233,
+          "confirmed": 6643,
           "deceased": 10,
           "recovered": 386
         }
@@ -1019,11 +1023,12 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 125,
           "deceased": 2,
           "recovered": 578
         },
         "total": {
-          "confirmed": 5804,
+          "confirmed": 5929,
           "deceased": 15,
           "migrated": 3,
           "recovered": 9313
@@ -1039,7 +1044,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T22:18:08+05:30",
+      "last_updated": "2020-07-12T00:04:08+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1048,7 +1053,7 @@
       }
     },
     "total": {
-      "confirmed": 15537,
+      "confirmed": 16072,
       "deceased": 37,
       "migrated": 3,
       "recovered": 10427,
@@ -3081,7 +3086,8 @@
   "HP": {
     "delta": {
       "confirmed": 11,
-      "recovered": 23
+      "recovered": 23,
+      "tested": 2099
     },
     "districts": {
       "Bilaspur": {
@@ -3246,8 +3252,8 @@
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
-        "last_updated": "2020-07-10",
-        "source": "https://twitter.com/nhm_hp/status/1281624448395735041?s=20"
+        "last_updated": "2020-07-11",
+        "source": "https://twitter.com/nhm_hp/status/1281984836211625995?s=20"
       }
     },
     "total": {
@@ -3255,14 +3261,15 @@
       "deceased": 10,
       "migrated": 13,
       "recovered": 895,
-      "tested": 96268
+      "tested": 98367
     }
   },
   "HR": {
     "delta": {
       "confirmed": 648,
       "deceased": 7,
-      "recovered": 490
+      "recovered": 490,
+      "tested": 11085
     },
     "districts": {
       "Ambala": {
@@ -3580,15 +3587,15 @@
       "last_updated": "2020-07-11T20:18:09+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-10",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2010-07-20%20Evening.pdf"
+        "last_updated": "2020-07-11",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2011-07-20%20Evening.pdf"
       }
     },
     "total": {
       "confirmed": 20582,
       "deceased": 297,
       "recovered": 15394,
-      "tested": 352343
+      "tested": 363428
     }
   },
   "JH": {
@@ -10230,13 +10237,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 27219,
+      "confirmed": 27754,
       "deceased": 543,
       "migrated": 1,
       "recovered": 19978
     },
     "meta": {
-      "last_updated": "2020-07-11T23:50:06+05:30",
+      "last_updated": "2020-07-12T00:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -10244,7 +10251,7 @@
       }
     },
     "total": {
-      "confirmed": 849823,
+      "confirmed": 850358,
       "deceased": 22687,
       "migrated": 380,
       "recovered": 536228,
