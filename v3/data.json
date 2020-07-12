@@ -707,7 +707,8 @@
   },
   "AS": {
     "delta": {
-      "deceased": 3
+      "deceased": 3,
+      "recovered": 468
     },
     "districts": {
       "Airport Quarantine": {
@@ -1017,11 +1018,14 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 468
+        },
         "total": {
           "confirmed": 5929,
           "deceased": 15,
           "migrated": 3,
-          "recovered": 9313
+          "recovered": 9781
         }
       },
       "West Karbi Anglong": {
@@ -1034,7 +1038,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T14:34:09+05:30",
+      "last_updated": "2020-07-12T22:41:08+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1046,7 +1050,7 @@
       "confirmed": 16072,
       "deceased": 40,
       "migrated": 3,
-      "recovered": 10427,
+      "recovered": 10895,
       "tested": 537831
     }
   },
@@ -4054,7 +4058,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T22:36:08+05:30",
+      "last_updated": "2020-07-12T22:41:10+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -10473,10 +10477,10 @@
     "delta": {
       "confirmed": 28234,
       "deceased": 499,
-      "recovered": 17657
+      "recovered": 18125
     },
     "meta": {
-      "last_updated": "2020-07-12T22:36:06+05:30",
+      "last_updated": "2020-07-12T22:41:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -10487,7 +10491,7 @@
       "confirmed": 878593,
       "deceased": 23186,
       "migrated": 382,
-      "recovered": 553888,
+      "recovered": 554356,
       "tested": 11587153
     }
   },
