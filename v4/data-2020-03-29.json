@@ -34,6 +34,16 @@
     }
   },
   "CH": {
+    "districts": {
+      "Chandigarh": {
+        "meta": {
+          "population": 1055450
+        },
+        "total": {
+          "confirmed": 8
+        }
+      }
+    },
     "meta": {
       "population": 1179000
     },
@@ -54,6 +64,20 @@
       "confirmed": 23,
       "deceased": 2,
       "recovered": 6
+    },
+    "districts": {
+      "Delhi": {
+        "delta": {
+          "confirmed": 23,
+          "deceased": 2,
+          "recovered": 6
+        },
+        "total": {
+          "confirmed": 72,
+          "deceased": 2,
+          "recovered": 6
+        }
+      }
     },
     "meta": {
       "population": 19814000

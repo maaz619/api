@@ -73,6 +73,25 @@
     "delta": {
       "tested": 60
     },
+    "districts": {
+      "Chandigarh": {
+        "delta": {
+          "tested": 60
+        },
+        "meta": {
+          "population": 1055450,
+          "tested": {
+            "last_updated": "2020-04-08",
+            "source": "http://chdcovid19.in/"
+          }
+        },
+        "total": {
+          "confirmed": 18,
+          "recovered": 7,
+          "tested": 184
+        }
+      }
+    },
     "meta": {
       "population": 1179000,
       "tested": {
@@ -104,6 +123,26 @@
     "delta": {
       "confirmed": 93,
       "recovered": 1
+    },
+    "districts": {
+      "Delhi": {
+        "delta": {
+          "confirmed": 93,
+          "recovered": 1
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-04-07",
+            "source": "http://health.delhigovt.nic.in/wps/wcm/connect/ed4d3d804dd60b488b60ff982ee7a5c7/HB07A.pdf?MOD=AJPERES&lmod=1435478287&CACHEID=ed4d3d804dd60b488b60ff982ee7a5c7"
+          }
+        },
+        "total": {
+          "confirmed": 669,
+          "deceased": 9,
+          "recovered": 21,
+          "tested": 9041
+        }
+      }
     },
     "meta": {
       "population": 19814000,

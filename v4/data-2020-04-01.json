@@ -47,6 +47,19 @@
     "delta": {
       "confirmed": 2
     },
+    "districts": {
+      "Chandigarh": {
+        "delta": {
+          "confirmed": 2
+        },
+        "meta": {
+          "population": 1055450
+        },
+        "total": {
+          "confirmed": 17
+        }
+      }
+    },
     "meta": {
       "population": 1179000
     },
@@ -67,6 +80,26 @@
     "delta": {
       "confirmed": 32,
       "tested": 2621
+    },
+    "districts": {
+      "Delhi": {
+        "delta": {
+          "confirmed": 32,
+          "tested": 2621
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-04-01",
+            "source": "http://health.delhigovt.nic.in/wps/wcm/connect/068e55804dc3527fb23cf7982ee7a5c7/HB01A.pdf?MOD=AJPERES&lmod=908572962&CACHEID=068e55804dc3527fb23cf7982ee7a5c7"
+          }
+        },
+        "total": {
+          "confirmed": 152,
+          "deceased": 2,
+          "recovered": 6,
+          "tested": 2621
+        }
+      }
     },
     "meta": {
       "population": 19814000,

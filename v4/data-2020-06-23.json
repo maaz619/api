@@ -1623,20 +1623,20 @@
       "Chandigarh": {
         "delta": {
           "confirmed": 7,
-          "tested": 6745
+          "tested": 95
         },
         "meta": {
           "population": 1055450,
           "tested": {
             "last_updated": "2020-06-23",
-            "source": "https://twitter.com/DDnewschd/status/1275056946362478592/photo/1"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/612"
           }
         },
         "total": {
           "confirmed": 418,
           "deceased": 6,
           "recovered": 322,
-          "tested": 6745
+          "tested": 6840
         }
       }
     },
@@ -2147,99 +2147,24 @@
       "tested": 16952
     },
     "districts": {
-      "Central Delhi": {
-        "meta": {
-          "population": 582320
-        },
-        "total": {
-          "confirmed": 184
-        }
-      },
-      "East Delhi": {
-        "meta": {
-          "population": 1709346
-        },
-        "total": {
-          "confirmed": 38
-        }
-      },
-      "New Delhi": {
-        "meta": {
-          "population": 142004
-        },
-        "total": {
-          "confirmed": 37
-        }
-      },
-      "North Delhi": {
-        "meta": {
-          "population": 887978
-        },
-        "total": {
-          "confirmed": 60
-        }
-      },
-      "North East Delhi": {
-        "meta": {
-          "population": 2241624
-        },
-        "total": {
-          "confirmed": 25
-        }
-      },
-      "North West Delhi": {
-        "meta": {
-          "population": 3656539
-        },
-        "total": {
-          "confirmed": 32,
-          "deceased": 1
-        }
-      },
-      "Shahdara": {
-        "total": {
-          "confirmed": 48
-        }
-      },
-      "South Delhi": {
-        "meta": {
-          "population": 2731929
-        },
-        "total": {
-          "confirmed": 70
-        }
-      },
-      "South East Delhi": {
-        "total": {
-          "confirmed": 130
-        }
-      },
-      "South West Delhi": {
-        "meta": {
-          "population": 2292958
-        },
-        "total": {
-          "confirmed": 42
-        }
-      },
-      "Unknown": {
+      "Delhi": {
         "delta": {
           "confirmed": 3947,
           "deceased": 68,
-          "recovered": 2711
+          "recovered": 2711,
+          "tested": 16952
         },
-        "total": {
-          "confirmed": 65814,
-          "deceased": 2300,
-          "recovered": 39313
-        }
-      },
-      "West Delhi": {
         "meta": {
-          "population": 2543243
+          "tested": {
+            "last_updated": "2020-06-23",
+            "source": "https://delhifightscorona.in/wp-content/themes/gocoronago/health-bulletin-pdfs/06-23.pdf"
+          }
         },
         "total": {
-          "confirmed": 122
+          "confirmed": 66602,
+          "deceased": 2301,
+          "recovered": 39313,
+          "tested": 401648
         }
       }
     },
