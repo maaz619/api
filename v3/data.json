@@ -2313,8 +2313,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 7,
-      "recovered": 18
+      "confirmed": 15,
+      "recovered": 31
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2337,6 +2337,10 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 8,
+          "recovered": 12
+        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -2345,13 +2349,16 @@
           }
         },
         "total": {
-          "confirmed": 245,
+          "confirmed": 253,
           "deceased": 1,
-          "recovered": 116,
+          "recovered": 128,
           "tested": 10266
         }
       },
       "Diu": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 52074,
           "tested": {
@@ -2360,15 +2367,15 @@
           }
         },
         "total": {
-          "confirmed": 23,
+          "confirmed": 25,
           "migrated": 1,
-          "recovered": 13,
+          "recovered": 14,
           "tested": 3491
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T15:28:13+05:30",
+      "last_updated": "2020-07-12T23:20:10+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2377,10 +2384,10 @@
       }
     },
     "total": {
-      "confirmed": 489,
+      "confirmed": 499,
       "deceased": 1,
       "migrated": 4,
-      "recovered": 255,
+      "recovered": 268,
       "tested": 35391
     }
   },
@@ -6054,7 +6061,8 @@
   "MN": {
     "delta": {
       "confirmed": 16,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 1637
     },
     "districts": {
       "Bishnupur": {
@@ -6220,14 +6228,13 @@
       "last_updated": "2020-07-12T19:50:09+05:30",
       "population": 3103000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://twitter.com/DiprManipur/status/1281995259333894145?s=20"
+        "last_updated": "2020-07-12"
       }
     },
     "total": {
       "confirmed": 1609,
       "recovered": 896,
-      "tested": 61897
+      "tested": 63534
     }
   },
   "MP": {
@@ -8458,7 +8465,8 @@
     "delta": {
       "confirmed": 644,
       "deceased": 7,
-      "recovered": 234
+      "recovered": 234,
+      "tested": 21882
     },
     "districts": {
       "Ajmer": {
@@ -9096,15 +9104,14 @@
       "last_updated": "2020-07-12T21:50:09+05:30",
       "population": 77264000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1085"
+        "last_updated": "2020-07-12"
       }
     },
     "total": {
       "confirmed": 24392,
       "deceased": 510,
       "recovered": 18103,
-      "tested": 1032198
+      "tested": 1054080
     }
   },
   "SK": {
@@ -10500,12 +10507,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28238,
+      "confirmed": 28246,
       "deceased": 500,
-      "recovered": 18126
+      "recovered": 18139
     },
     "meta": {
-      "last_updated": "2020-07-12T22:56:07+05:30",
+      "last_updated": "2020-07-12T23:20:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -10513,10 +10520,10 @@
       }
     },
     "total": {
-      "confirmed": 878597,
+      "confirmed": 878607,
       "deceased": 23187,
       "migrated": 382,
-      "recovered": 554357,
+      "recovered": 554370,
       "tested": 11587153
     }
   },
