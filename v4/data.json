@@ -259,7 +259,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T17:39:08+05:30",
+      "last_updated": "2020-07-12T15:05:10+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
@@ -1404,8 +1404,16 @@
     }
   },
   "CH": {
+    "delta": {
+      "confirmed": 10,
+      "recovered": 4
+    },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 4
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1414,15 +1422,15 @@
           }
         },
         "total": {
-          "confirmed": 549,
+          "confirmed": 559,
           "deceased": 8,
-          "recovered": 413,
+          "recovered": 417,
           "tested": 9405
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T19:33:11+05:30",
+      "last_updated": "2020-07-12T15:14:09+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -1430,9 +1438,9 @@
       }
     },
     "total": {
-      "confirmed": 549,
+      "confirmed": 559,
       "deceased": 8,
-      "recovered": 413,
+      "recovered": 417,
       "tested": 9405
     }
   },
@@ -1898,8 +1906,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 7,
+      "recovered": 18
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 18
+        },
         "meta": {
           "population": 343709,
           "tested": {
@@ -1908,9 +1924,9 @@
           }
         },
         "total": {
-          "confirmed": 214,
+          "confirmed": 221,
           "migrated": 3,
-          "recovered": 108,
+          "recovered": 126,
           "tested": 21634
         }
       },
@@ -1946,7 +1962,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T15:50:11+05:30",
+      "last_updated": "2020-07-12T15:14:11+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -1955,10 +1971,10 @@
       }
     },
     "total": {
-      "confirmed": 482,
+      "confirmed": 489,
       "deceased": 1,
       "migrated": 4,
-      "recovered": 237,
+      "recovered": 255,
       "tested": 35391
     }
   },
@@ -5218,15 +5234,15 @@
         "meta": {
           "population": 1563107,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://epaper.naidunia.com/mepaper/11-jul-2020-52-gwalior-edition-gwalior-page-2.html"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PROJSDewas/status/1281939471970078720?s=20"
           }
         },
         "total": {
           "confirmed": 257,
           "deceased": 10,
           "recovered": 207,
-          "tested": 13044
+          "tested": 13377
         }
       },
       "Dhar": {
@@ -6522,7 +6538,7 @@
     },
     "meta": {
       "last_updated": "2020-07-12T11:59:14+05:30",
-      "notes": "Three non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
+      "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8678,12 +8694,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 902,
+      "confirmed": 919,
       "deceased": 12,
-      "recovered": 313
+      "recovered": 335
     },
     "meta": {
-      "last_updated": "2020-07-12T14:34:07+05:30",
+      "last_updated": "2020-07-12T15:14:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8691,10 +8707,10 @@
       }
     },
     "total": {
-      "confirmed": 851261,
+      "confirmed": 851278,
       "deceased": 22699,
       "migrated": 382,
-      "recovered": 536544,
+      "recovered": 536566,
       "tested": 11587153
     }
   },
