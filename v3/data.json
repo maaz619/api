@@ -2605,6 +2605,10 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 3
+    },
     "districts": {
       "Bilaspur": {
         "meta": {
@@ -2616,13 +2620,17 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 1
+        },
         "meta": {
           "population": 518844
         },
         "total": {
-          "confirmed": 59,
+          "confirmed": 61,
           "migrated": 1,
-          "recovered": 50
+          "recovered": 51
         }
       },
       "Hamirpur": {
@@ -2636,6 +2644,9 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
           "population": 1507223
@@ -2643,7 +2654,7 @@
         "total": {
           "confirmed": 303,
           "deceased": 3,
-          "recovered": 249
+          "recovered": 251
         }
       },
       "Kinnaur": {
@@ -2730,7 +2741,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T22:06:16+05:30",
+      "last_updated": "2020-07-12T12:46:11+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2739,10 +2750,10 @@
       }
     },
     "total": {
-      "confirmed": 1182,
+      "confirmed": 1184,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 895,
+      "recovered": 898,
       "tested": 98367
     }
   },
@@ -8617,12 +8628,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 485,
+      "confirmed": 487,
       "deceased": 9,
-      "recovered": 90
+      "recovered": 93
     },
     "meta": {
-      "last_updated": "2020-07-12T12:15:06+05:30",
+      "last_updated": "2020-07-12T12:46:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8630,10 +8641,10 @@
       }
     },
     "total": {
-      "confirmed": 850844,
+      "confirmed": 850846,
       "deceased": 22696,
       "migrated": 382,
-      "recovered": 536321,
+      "recovered": 536324,
       "tested": 11587153
     }
   },
