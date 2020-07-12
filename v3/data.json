@@ -3097,16 +3097,19 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 9,
-      "recovered": 16
+      "confirmed": 31,
+      "recovered": 21
     },
     "districts": {
       "Bilaspur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 382056
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 52,
           "recovered": 38
         }
       },
@@ -3191,42 +3194,56 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 813384
         },
         "total": {
-          "confirmed": 55,
+          "confirmed": 59,
           "deceased": 2,
           "migrated": 1,
           "recovered": 41
         }
       },
       "Sirmaur": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 4
+        },
         "meta": {
           "population": 530164
         },
         "total": {
-          "confirmed": 42,
+          "confirmed": 46,
           "migrated": 7,
-          "recovered": 29
+          "recovered": 33
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 1
+        },
         "meta": {
           "population": 576670
         },
         "total": {
-          "confirmed": 177,
+          "confirmed": 187,
           "migrated": 4,
-          "recovered": 98
+          "recovered": 99
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 521057
         },
         "total": {
-          "confirmed": 138,
+          "confirmed": 141,
           "recovered": 112
         }
       },
@@ -3237,7 +3254,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T19:50:11+05:30",
+      "last_updated": "2020-07-12T22:23:12+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3246,10 +3263,10 @@
       }
     },
     "total": {
-      "confirmed": 1191,
+      "confirmed": 1213,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 911,
+      "recovered": 916,
       "tested": 98367
     }
   },
@@ -6978,7 +6995,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T22:13:08+05:30",
+      "last_updated": "2020-07-12T22:17:08+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -10347,12 +10364,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28132,
+      "confirmed": 28154,
       "deceased": 492,
-      "recovered": 17607
+      "recovered": 17612
     },
     "meta": {
-      "last_updated": "2020-07-12T22:13:06+05:30",
+      "last_updated": "2020-07-12T22:23:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -10360,10 +10377,10 @@
       }
     },
     "total": {
-      "confirmed": 878491,
+      "confirmed": 878513,
       "deceased": 23179,
       "migrated": 382,
-      "recovered": 553838,
+      "recovered": 553843,
       "tested": 11587153
     }
   },
