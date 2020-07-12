@@ -2667,7 +2667,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T12:46:11+05:30",
+      "last_updated": "2020-07-12T12:53:08+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -4634,6 +4634,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 33
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -4680,8 +4683,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 33
+        },
         "total": {
-          "confirmed": 87,
+          "confirmed": 120,
           "deceased": 1,
           "recovered": 12
         }
@@ -4714,7 +4720,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T13:50:09+05:30",
+      "last_updated": "2020-07-12T12:53:12+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -4723,7 +4729,7 @@
       }
     },
     "total": {
-      "confirmed": 262,
+      "confirmed": 295,
       "deceased": 2,
       "recovered": 45,
       "tested": 22517
@@ -5621,7 +5627,7 @@
   },
   "MZ": {
     "delta": {
-      "confirmed": 1
+      "confirmed": -1
     },
     "districts": {
       "Aizawl": {
@@ -5667,9 +5673,6 @@
         }
       },
       "Lunglei": {
-        "delta": {
-          "confirmed": 1
-        },
         "meta": {
           "population": 154094
         },
@@ -5712,13 +5715,13 @@
         }
       },
       "Unknown": {
-        "total": {
-          "confirmed": 1
+        "delta": {
+          "confirmed": -1
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T09:58:13+05:30",
+      "last_updated": "2020-07-12T12:53:10+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -5726,7 +5729,7 @@
       }
     },
     "total": {
-      "confirmed": 228,
+      "confirmed": 227,
       "recovered": 150,
       "tested": 16396
     }
@@ -8554,12 +8557,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 487,
+      "confirmed": 518,
       "deceased": 9,
       "recovered": 93
     },
     "meta": {
-      "last_updated": "2020-07-12T12:46:06+05:30",
+      "last_updated": "2020-07-12T12:53:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8567,7 +8570,7 @@
       }
     },
     "total": {
-      "confirmed": 850846,
+      "confirmed": 850878,
       "deceased": 22696,
       "migrated": 382,
       "recovered": 536324,
