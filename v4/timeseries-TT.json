@@ -1928,17 +1928,29 @@
       },
       "2020-07-11": {
         "delta": {
-          "confirmed": 27754,
+          "confirmed": 27762,
           "deceased": 543,
           "migrated": 3,
-          "recovered": 19981,
+          "recovered": 19982,
           "tested": 280151
         },
         "total": {
-          "confirmed": 850358,
+          "confirmed": 850366,
           "deceased": 22687,
           "migrated": 382,
-          "recovered": 536231,
+          "recovered": 536232,
+          "tested": 11587153
+        }
+      },
+      "2020-07-12": {
+        "delta": {
+          "confirmed": -392
+        },
+        "total": {
+          "confirmed": 849974,
+          "deceased": 22687,
+          "migrated": 382,
+          "recovered": 536232,
           "tested": 11587153
         }
       }
