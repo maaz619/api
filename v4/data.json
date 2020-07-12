@@ -5951,7 +5951,8 @@
   },
   "NL": {
     "delta": {
-      "confirmed": 26
+      "confirmed": 26,
+      "recovered": 14
     },
     "districts": {
       "Dimapur": {
@@ -5986,7 +5987,8 @@
       },
       "Kohima": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "meta": {
           "population": 270063,
@@ -5997,7 +5999,7 @@
         },
         "total": {
           "confirmed": 82,
-          "recovered": 14,
+          "recovered": 15,
           "tested": 485
         }
       },
@@ -6041,6 +6043,9 @@
         }
       },
       "Peren": {
+        "delta": {
+          "recovered": 5
+        },
         "meta": {
           "population": 163294,
           "tested": {
@@ -6050,13 +6055,14 @@
         },
         "total": {
           "confirmed": 292,
-          "recovered": 16,
+          "recovered": 21,
           "tested": 11
         }
       },
       "Phek": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 8
         },
         "meta": {
           "population": 163294,
@@ -6067,7 +6073,7 @@
         },
         "total": {
           "confirmed": 18,
-          "recovered": 1,
+          "recovered": 9,
           "tested": 28
         }
       },
@@ -6115,7 +6121,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T15:54:09+05:30",
+      "last_updated": "2020-07-12T16:04:09+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -6124,7 +6130,7 @@
     },
     "total": {
       "confirmed": 774,
-      "recovered": 313,
+      "recovered": 327,
       "tested": 24065
     }
   },
@@ -6528,11 +6534,6 @@
           "confirmed": 86,
           "recovered": 82,
           "tested": 310
-        }
-      },
-      "Others": {
-        "meta": {
-          "notes": "Includes NDRF-ODRF returnees after West Bengal Amphan duty"
         }
       },
       "Puri": {
@@ -8771,10 +8772,10 @@
     "delta": {
       "confirmed": 2855,
       "deceased": 31,
-      "recovered": 1354
+      "recovered": 1368
     },
     "meta": {
-      "last_updated": "2020-07-12T15:54:06+05:30",
+      "last_updated": "2020-07-12T16:04:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8785,7 +8786,7 @@
       "confirmed": 853214,
       "deceased": 22718,
       "migrated": 382,
-      "recovered": 537585,
+      "recovered": 537599,
       "tested": 11587153
     }
   },
