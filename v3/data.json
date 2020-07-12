@@ -742,7 +742,8 @@
       "last_updated": "2020-07-11T23:50:11+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1076"
       }
     },
     "total": {
@@ -1723,7 +1724,8 @@
       "last_updated": "2020-07-11T19:33:11+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1071"
       }
     },
     "total": {
@@ -2318,7 +2320,8 @@
       "notes": "Delhi bulletins in the morning, containing data of the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1078"
       }
     },
     "total": {
@@ -5950,7 +5953,8 @@
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
-        "last_updated": "2020-07-11"
+        "last_updated": "2020-07-11",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1082"
       }
     },
     "total": {
@@ -11869,13 +11873,14 @@
     "districts": {
       "Almora": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 35
         },
         "meta": {
           "population": 621927,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
@@ -11883,68 +11888,76 @@
           "deceased": 2,
           "migrated": 1,
           "recovered": 179,
-          "tested": 3827
+          "tested": 3862
         }
       },
       "Bageshwar": {
+        "delta": {
+          "tested": 10
+        },
         "meta": {
           "population": 259840,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 93,
           "deceased": 1,
           "recovered": 92,
-          "tested": 2141
+          "tested": 2151
         }
       },
       "Chamoli": {
         "delta": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 59
         },
         "meta": {
           "population": 391114,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 77,
           "recovered": 76,
-          "tested": 3163
+          "tested": 3222
         }
       },
       "Champawat": {
+        "delta": {
+          "tested": 105
+        },
         "meta": {
           "population": 259315,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 65,
           "deceased": 1,
           "recovered": 53,
-          "tested": 3085
+          "tested": 3190
         }
       },
       "Dehradun": {
         "delta": {
           "confirmed": 20,
           "migrated": 1,
-          "recovered": 6
+          "recovered": 6,
+          "tested": 422
         },
         "meta": {
           "population": 1698560,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
@@ -11952,36 +11965,38 @@
           "deceased": 27,
           "migrated": 20,
           "recovered": 654,
-          "tested": 24626
+          "tested": 25048
         }
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 3
+          "confirmed": 3,
+          "tested": 388
         },
         "meta": {
           "population": 1927029,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 347,
           "migrated": 8,
           "recovered": 301,
-          "tested": 12058
+          "tested": 12446
         }
       },
       "Nainital": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": 247
         },
         "meta": {
           "population": 955128,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
@@ -11989,106 +12004,118 @@
           "deceased": 4,
           "migrated": 1,
           "recovered": 375,
-          "tested": 9649
+          "tested": 9896
         }
       },
       "Pauri Garhwal": {
+        "delta": {
+          "tested": 172
+        },
         "meta": {
           "population": 686527,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 160,
           "deceased": 4,
           "recovered": 143,
-          "tested": 7219
+          "tested": 7391
         }
       },
       "Pithoragarh": {
+        "delta": {
+          "tested": 158
+        },
         "meta": {
           "population": 485993,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 70,
           "recovered": 65,
-          "tested": 2851
+          "tested": 3009
         }
       },
       "Rudraprayag": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 85
         },
         "meta": {
           "population": 236857,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 67,
           "deceased": 1,
           "recovered": 65,
-          "tested": 2307
+          "tested": 2392
         }
       },
       "Tehri Garhwal": {
         "delta": {
           "confirmed": 2,
-          "recovered": 1
+          "recovered": 1,
+          "tested": 52
         },
         "meta": {
           "population": 616409,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 429,
           "deceased": 2,
           "recovered": 419,
-          "tested": 4430
+          "tested": 4482
         }
       },
       "Udham Singh Nagar": {
         "delta": {
-          "confirmed": 14
+          "confirmed": 14,
+          "tested": 742
         },
         "meta": {
           "population": 1648367,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 416,
           "deceased": 3,
           "recovered": 232,
-          "tested": 10983
+          "tested": 11725
         }
       },
       "Uttarkashi": {
+        "delta": {
+          "tested": 544
+        },
         "meta": {
           "population": 329686,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/PIBDehradun/status/1281584178564198402?s=20"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/PIBDehradun/status/1281954950860247040?s=20"
           }
         },
         "total": {
           "confirmed": 92,
           "deceased": 1,
           "recovered": 64,
-          "tested": 2840
+          "tested": 3384
         }
       }
     },
