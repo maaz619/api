@@ -5203,20 +5203,21 @@
       },
       "Beed": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": -990
         },
         "meta": {
           "population": 2585962,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200711_1_1&width=72px"
+            "last_updated": "2020-07-11",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HBED_20200712_1_3&width=71px"
           }
         },
         "total": {
           "confirmed": 191,
           "deceased": 4,
           "recovered": 105,
-          "tested": 6733
+          "tested": 5743
         }
       },
       "Bhandara": {
@@ -5338,8 +5339,8 @@
         "meta": {
           "population": 1178973,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200711_1_3&width=73px"
+            "last_updated": "2020-07-11",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HHNG_20200712_1_3&width=76px"
           }
         },
         "total": {
@@ -5373,20 +5374,21 @@
         "delta": {
           "confirmed": 26,
           "deceased": 8,
-          "recovered": 31
+          "recovered": 31,
+          "tested": 219
         },
         "meta": {
           "population": 1958483,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200711_1_3&width=74px"
+            "last_updated": "2020-07-11",
+            "source": "http://epaper.lokmat.com/articlepage.php?articleid=LOK_HJAN_20200712_1_3&width=72px"
           }
         },
         "total": {
           "confirmed": 906,
           "deceased": 44,
           "recovered": 506,
-          "tested": 6524
+          "tested": 6743
         }
       },
       "Kolhapur": {
@@ -5590,20 +5592,21 @@
         "delta": {
           "confirmed": 2124,
           "deceased": 34,
-          "recovered": 490
+          "recovered": 490,
+          "tested": 5650
         },
         "meta": {
           "population": 9426959,
           "tested": {
-            "last_updated": "2020-07-10",
-            "source": "https://twitter.com/Info_Pune/status/1281652596256632833/photo/1"
+            "last_updated": "2020-07-11",
+            "source": "https://twitter.com/Info_Pune/status/1282002569938612235/photo/1"
           }
         },
         "total": {
           "confirmed": 37356,
           "deceased": 1060,
           "recovered": 16016,
-          "tested": 189456
+          "tested": 195106
         }
       },
       "Raigad": {
@@ -8948,13 +8951,16 @@
     },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 26
+        },
         "meta": {
           "population": 281293
         },
         "total": {
-          "confirmed": 73,
+          "confirmed": 100,
           "migrated": 13,
-          "recovered": 33
+          "recovered": 42
         }
       },
       "North Sikkim": {
@@ -8973,15 +8979,6 @@
         "total": {
           "confirmed": 38,
           "recovered": 26
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 26
-        },
-        "total": {
-          "confirmed": 27,
-          "recovered": 9
         }
       },
       "West Sikkim": {
