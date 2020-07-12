@@ -1,5 +1,9 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 7,
+      "recovered": 1
+    },
     "districts": {
       "North and Middle Andaman": {
         "meta": {
@@ -20,6 +24,10 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 7,
+          "recovered": 1
+        },
         "total": {
           "confirmed": 111,
           "recovered": 60
@@ -27,7 +35,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T09:47:20+05:30",
+      "last_updated": "2020-07-12T09:54:14+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -5621,6 +5629,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 1
+    },
     "districts": {
       "Aizawl": {
         "meta": {
@@ -5665,6 +5676,9 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 154094
         },
@@ -5713,7 +5727,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T09:47:18+05:30",
+      "last_updated": "2020-07-12T09:54:13+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -5727,8 +5741,14 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 23
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 18
+        },
         "meta": {
           "population": 379769,
           "tested": {
@@ -5737,7 +5757,7 @@
           }
         },
         "total": {
-          "confirmed": 141,
+          "confirmed": 159,
           "recovered": 29,
           "tested": 896
         }
@@ -5756,6 +5776,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 270063,
           "tested": {
@@ -5764,7 +5787,7 @@
           }
         },
         "total": {
-          "confirmed": 81,
+          "confirmed": 82,
           "recovered": 14,
           "tested": 485
         }
@@ -5823,6 +5846,9 @@
         }
       },
       "Phek": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 163294,
           "tested": {
@@ -5831,7 +5857,7 @@
           }
         },
         "total": {
-          "confirmed": 14,
+          "confirmed": 18,
           "recovered": 1,
           "tested": 28
         }
@@ -5877,7 +5903,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T16:17:08+05:30",
+      "last_updated": "2020-07-12T09:54:11+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -5885,7 +5911,7 @@
       }
     },
     "total": {
-      "confirmed": 748,
+      "confirmed": 771,
       "recovered": 313,
       "tested": 24065
     }
@@ -8393,10 +8419,11 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -392
+      "confirmed": -361,
+      "recovered": 1
     },
     "meta": {
-      "last_updated": "2020-07-12T09:47:06+05:30",
+      "last_updated": "2020-07-12T09:54:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8404,7 +8431,7 @@
       }
     },
     "total": {
-      "confirmed": 849974,
+      "confirmed": 849997,
       "deceased": 22687,
       "migrated": 382,
       "recovered": 536232,
@@ -8416,7 +8443,7 @@
       "confirmed": -392
     },
     "meta": {
-      "last_updated": "2020-07-12T09:47:15+05:30",
+      "last_updated": "2020-07-12T09:54:08+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 392 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
