@@ -35,7 +35,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:03:15+05:30",
+      "last_updated": "2020-07-12T21:07:14+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-10",
@@ -2225,7 +2225,8 @@
     "delta": {
       "confirmed": 85,
       "deceased": 2,
-      "recovered": 59
+      "recovered": 59,
+      "tested": 1374
     },
     "districts": {
       "North Goa": {
@@ -2274,15 +2275,15 @@
       "last_updated": "2020-07-12T20:17:08+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2020/07/Media-Bulletin-Dated-11-07-2020.pdf"
+        "last_updated": "2020-07-12",
+        "source": "https://twitter.com/DHS_Goa/status/1282321205542842368?s=20"
       }
     },
     "total": {
       "confirmed": 2453,
       "deceased": 14,
       "recovered": 1487,
-      "tested": 90817
+      "tested": 92191
     }
   },
   "GJ": {
@@ -3508,7 +3509,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:03:12+05:30",
+      "last_updated": "2020-07-12T21:07:11+05:30",
       "population": 28672000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -6594,15 +6595,19 @@
   },
   "MZ": {
     "delta": {
+      "confirmed": 4,
       "tested": 300
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 404054
         },
         "total": {
-          "confirmed": 81,
+          "confirmed": 85,
           "recovered": 38
         }
       },
@@ -6683,7 +6688,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T13:06:09+05:30",
+      "last_updated": "2020-07-12T21:13:10+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -6691,7 +6696,7 @@
       }
     },
     "total": {
-      "confirmed": 227,
+      "confirmed": 231,
       "recovered": 150,
       "tested": 16696
     }
@@ -8967,7 +8972,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:03:10+05:30",
+      "last_updated": "2020-07-12T21:07:09+05:30",
       "population": 37220000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -9715,12 +9720,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 22421,
+      "confirmed": 22425,
       "deceased": 400,
       "recovered": 13425
     },
     "meta": {
-      "last_updated": "2020-07-12T21:03:06+05:30",
+      "last_updated": "2020-07-12T21:13:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -9728,7 +9733,7 @@
       }
     },
     "total": {
-      "confirmed": 872780,
+      "confirmed": 872784,
       "deceased": 23087,
       "migrated": 382,
       "recovered": 549656,
@@ -11111,7 +11116,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:03:08+05:30",
+      "last_updated": "2020-07-12T21:07:07+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-07-12",
