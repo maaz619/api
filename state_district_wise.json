@@ -767,13 +767,13 @@
       },
       "Jorhat": {
         "notes": "",
-        "active": 91,
+        "active": 90,
         "confirmed": 145,
-        "deceased": 0,
+        "deceased": 1,
         "recovered": 54,
         "delta": {
           "confirmed": 0,
-          "deceased": 0,
+          "deceased": 1,
           "recovered": 0
         }
       },
@@ -7017,12 +7017,12 @@
     "districtData": {
       "East Sikkim": {
         "notes": "",
-        "active": 45,
-        "confirmed": 100,
+        "active": 49,
+        "confirmed": 104,
         "deceased": 0,
         "recovered": 42,
         "delta": {
-          "confirmed": 0,
+          "confirmed": 4,
           "deceased": 0,
           "recovered": 0
         }
@@ -7057,6 +7057,18 @@
         "confirmed": 21,
         "deceased": 0,
         "recovered": 11,
+        "delta": {
+          "confirmed": 0,
+          "deceased": 0,
+          "recovered": 0
+        }
+      },
+      "Unknown": {
+        "notes": "",
+        "active": -1,
+        "confirmed": 0,
+        "deceased": 0,
+        "recovered": 1,
         "delta": {
           "confirmed": 0,
           "deceased": 0,
