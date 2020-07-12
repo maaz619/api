@@ -4037,7 +4037,8 @@
     "delta": {
       "confirmed": 357,
       "deceased": 10,
-      "recovered": 84
+      "recovered": 84,
+      "tested": 7286
     },
     "districts": {
       "Anantnag": {
@@ -4320,15 +4321,15 @@
       "last_updated": "2020-07-12T21:50:12+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://twitter.com/diprjk/status/1281969204661350400?s=20"
+        "last_updated": "2020-07-12",
+        "source": "https://twitter.com/diprjk/status/1282341761512136706/photo/1"
       }
     },
     "total": {
       "confirmed": 10513,
       "deceased": 179,
       "recovered": 5979,
-      "tested": 445169
+      "tested": 452455
     }
   },
   "KA": {
@@ -4397,14 +4398,6 @@
           "tested": 29941
         }
       },
-      "Bengaluru": {
-        "delta": {
-          "deceased": 2
-        },
-        "total": {
-          "deceased": 2
-        }
-      },
       "Bengaluru Rural": {
         "delta": {
           "confirmed": 19
@@ -4426,7 +4419,7 @@
       "Bengaluru Urban": {
         "delta": {
           "confirmed": 1525,
-          "deceased": 43,
+          "deceased": 45,
           "recovered": 206
         },
         "meta": {
@@ -4438,7 +4431,7 @@
         },
         "total": {
           "confirmed": 18387,
-          "deceased": 272,
+          "deceased": 274,
           "migrated": 1,
           "recovered": 4046,
           "tested": 156592
