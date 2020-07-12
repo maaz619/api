@@ -2222,6 +2222,11 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 85,
+      "deceased": 2,
+      "recovered": 59
+    },
     "districts": {
       "North Goa": {
         "meta": {
@@ -2253,14 +2258,20 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 85,
+          "deceased": 2,
+          "recovered": 59
+        },
         "total": {
-          "confirmed": 625,
-          "recovered": 625
+          "confirmed": 710,
+          "deceased": 2,
+          "recovered": 684
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T23:50:08+05:30",
+      "last_updated": "2020-07-12T20:13:08+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -2268,9 +2279,9 @@
       }
     },
     "total": {
-      "confirmed": 2368,
-      "deceased": 12,
-      "recovered": 1428,
+      "confirmed": 2453,
+      "deceased": 14,
+      "recovered": 1487,
       "tested": 90817
     }
   },
@@ -3957,6 +3968,9 @@
     }
   },
   "KA": {
+    "delta": {
+      "tested": 20050
+    },
     "districts": {
       "Bagalkote": {
         "meta": {
@@ -4421,8 +4435,8 @@
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://twitter.com/DHFWKA/status/1281973010438782976?s=20"
+        "last_updated": "2020-07-12",
+        "source": "https://t.me/c/1238093174/7476"
       }
     },
     "total": {
@@ -4430,7 +4444,7 @@
       "deceased": 615,
       "migrated": 4,
       "recovered": 14718,
-      "tested": 799796
+      "tested": 839074
     }
   },
   "KL": {
@@ -7211,7 +7225,8 @@
     "delta": {
       "confirmed": 234,
       "deceased": 4,
-      "recovered": 352
+      "recovered": 352,
+      "tested": 6691
     },
     "districts": {
       "Amritsar": {
@@ -7605,15 +7620,14 @@
       "last_updated": "2020-07-12T19:26:12+05:30",
       "population": 29859000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "http://diprpunjab.gov.in/sites/default/files/Covid%20Media%20Bulletin%20-%2011-07-2020.pdf"
+        "last_updated": "2020-07-12"
       }
     },
     "total": {
       "confirmed": 7821,
       "deceased": 199,
       "recovered": 5392,
-      "tested": 388494
+      "tested": 395185
     }
   },
   "PY": {
@@ -9422,12 +9436,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 16781,
-      "deceased": 294,
-      "recovered": 10089
+      "confirmed": 16866,
+      "deceased": 296,
+      "recovered": 10148
     },
     "meta": {
-      "last_updated": "2020-07-12T20:03:06+05:30",
+      "last_updated": "2020-07-12T20:13:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -9435,10 +9449,10 @@
       }
     },
     "total": {
-      "confirmed": 867140,
-      "deceased": 22981,
+      "confirmed": 867225,
+      "deceased": 22983,
       "migrated": 382,
-      "recovered": 546320,
+      "recovered": 546379,
       "tested": 11587153
     }
   },
@@ -10775,7 +10789,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T20:03:08+05:30",
+      "last_updated": "2020-07-12T20:07:08+05:30",
       "notes": "30 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
