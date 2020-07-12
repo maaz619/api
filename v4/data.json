@@ -1622,7 +1622,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T18:19:09+05:30",
+      "last_updated": "2020-07-12T18:22:10+05:30",
       "population": 119520000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -2133,7 +2133,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T18:19:07+05:30",
+      "last_updated": "2020-07-12T18:22:07+05:30",
       "notes": "Delhi bulletins contain the counts for the previous day. We will add that data to the date on which the report is released, rather than the previous day.\n[June 16]: 344 deceased cases have been retroactively added to DL bulletin.",
       "population": 19814000,
       "tested": {
@@ -4459,8 +4459,14 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 9
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 143000,
           "tested": {
@@ -4469,12 +4475,15 @@
           }
         },
         "total": {
-          "confirmed": 721,
+          "confirmed": 725,
           "recovered": 677,
           "tested": 6941
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 147000,
           "tested": {
@@ -4483,7 +4492,7 @@
           }
         },
         "total": {
-          "confirmed": 356,
+          "confirmed": 361,
           "deceased": 1,
           "recovered": 251,
           "tested": 8352
@@ -4491,7 +4500,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-11T18:39:12+05:30",
+      "last_updated": "2020-07-12T18:22:14+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -4499,7 +4508,7 @@
       }
     },
     "total": {
-      "confirmed": 1077,
+      "confirmed": 1086,
       "deceased": 1,
       "recovered": 928,
       "tested": 15293
@@ -6812,7 +6821,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T18:19:11+05:30",
+      "last_updated": "2020-07-12T18:22:11+05:30",
       "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8978,12 +8987,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5694,
+      "confirmed": 5703,
       "deceased": 75,
       "recovered": 4996
     },
     "meta": {
-      "last_updated": "2020-07-12T18:19:06+05:30",
+      "last_updated": "2020-07-12T18:22:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-11",
@@ -8991,7 +9000,7 @@
       }
     },
     "total": {
-      "confirmed": 856053,
+      "confirmed": 856062,
       "deceased": 22762,
       "migrated": 382,
       "recovered": 541227,
