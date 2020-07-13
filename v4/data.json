@@ -724,8 +724,10 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 1001,
       "deceased": 4,
-      "recovered": 522
+      "recovered": 522,
+      "tested": 11106
     },
     "districts": {
       "Airport Quarantine": {
@@ -898,13 +900,14 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
+          "confirmed": 513,
           "deceased": 2
         },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 7043,
+          "confirmed": 7556,
           "deceased": 14,
           "recovered": 386
         }
@@ -1038,11 +1041,12 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 488,
           "deceased": 1,
           "recovered": 522
         },
         "total": {
-          "confirmed": 6262,
+          "confirmed": 6750,
           "deceased": 16,
           "migrated": 3,
           "recovered": 10290
@@ -1058,20 +1062,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T00:03:09+05:30",
+      "last_updated": "2020-07-14T00:13:09+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://twitter.com/nhm_assam/status/1282361486623424513/photo/3"
+        "last_updated": "2020-07-13"
       }
     },
     "total": {
-      "confirmed": 16807,
+      "confirmed": 17808,
       "deceased": 45,
       "migrated": 3,
       "recovered": 11417,
-      "tested": 552376
+      "tested": 563482
     }
   },
   "BR": {
@@ -7026,7 +7029,8 @@
   "MZ": {
     "delta": {
       "confirmed": 2,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 256
     },
     "districts": {
       "Aizawl": {
@@ -7124,14 +7128,14 @@
       "last_updated": "2020-07-13T23:08:10+05:30",
       "population": 1192000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-time-1172020-500pm-1272020-500-pm"
+        "last_updated": "2020-07-13",
+        "source": "https://twitter.com/dipr_mizoram/status/1282729129947750400?s=20"
       }
     },
     "total": {
       "confirmed": 233,
       "recovered": 151,
-      "tested": 16696
+      "tested": 16952
     }
   },
   "NL": {
@@ -10466,13 +10470,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 27150,
+      "confirmed": 28151,
       "deceased": 540,
       "migrated": 2,
       "recovered": 17671
     },
     "meta": {
-      "last_updated": "2020-07-14T00:03:06+05:30",
+      "last_updated": "2020-07-14T00:13:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10480,7 +10484,7 @@
       }
     },
     "total": {
-      "confirmed": 906617,
+      "confirmed": 907618,
       "deceased": 23727,
       "migrated": 384,
       "recovered": 572100,
