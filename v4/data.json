@@ -702,6 +702,9 @@
     }
   },
   "AS": {
+    "delta": {
+      "deceased": 4
+    },
     "districts": {
       "Airport Quarantine": {
         "total": {
@@ -821,11 +824,15 @@
         }
       },
       "Golaghat": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 1058674
         },
         "total": {
           "confirmed": 272,
+          "deceased": 1,
           "recovered": 88
         }
       },
@@ -1005,9 +1012,12 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 3
+        },
         "total": {
           "confirmed": 6262,
-          "deceased": 15,
+          "deceased": 18,
           "migrated": 3,
           "recovered": 9768
         }
@@ -1022,7 +1032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T23:40:08+05:30",
+      "last_updated": "2020-07-13T21:24:16+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1032,7 +1042,7 @@
     },
     "total": {
       "confirmed": 16807,
-      "deceased": 41,
+      "deceased": 45,
       "migrated": 3,
       "recovered": 10895,
       "tested": 552376
@@ -2213,8 +2223,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 13,
-      "recovered": 19
+      "confirmed": 25,
+      "recovered": 42
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2237,6 +2247,10 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 23
+        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -2245,9 +2259,9 @@
           }
         },
         "total": {
-          "confirmed": 253,
+          "confirmed": 265,
           "deceased": 1,
-          "recovered": 128,
+          "recovered": 151,
           "tested": 10444
         }
       },
@@ -2268,7 +2282,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T15:59:08+05:30",
+      "last_updated": "2020-07-13T21:24:18+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2277,10 +2291,10 @@
       }
     },
     "total": {
-      "confirmed": 513,
+      "confirmed": 525,
       "deceased": 1,
       "migrated": 4,
-      "recovered": 287,
+      "recovered": 310,
       "tested": 36310
     }
   },
@@ -5655,7 +5669,8 @@
   "ML": {
     "delta": {
       "confirmed": 21,
-      "recovered": 1
+      "recovered": 1,
+      "tested": 4
     },
     "districts": {
       "East Jaintia Hills": {
@@ -5745,14 +5760,14 @@
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
-        "last_updated": "2020-07-12"
+        "last_updated": "2020-07-13"
       }
     },
     "total": {
       "confirmed": 316,
       "deceased": 2,
       "recovered": 46,
-      "tested": 22517
+      "tested": 23880
     }
   },
   "MN": {
@@ -10019,13 +10034,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 24746,
-      "deceased": 520,
+      "confirmed": 24758,
+      "deceased": 524,
       "migrated": 2,
-      "recovered": 15301
+      "recovered": 15324
     },
     "meta": {
-      "last_updated": "2020-07-13T21:07:06+05:30",
+      "last_updated": "2020-07-13T21:24:08+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10033,10 +10048,10 @@
       }
     },
     "total": {
-      "confirmed": 904213,
-      "deceased": 23707,
+      "confirmed": 904225,
+      "deceased": 23711,
       "migrated": 384,
-      "recovered": 569730,
+      "recovered": 569753,
       "tested": 11806256
     }
   },
