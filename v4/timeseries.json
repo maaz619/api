@@ -1003,9 +1003,13 @@
         }
       },
       "2020-07-13": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 163,
-          "recovered": 100,
+          "confirmed": 166,
+          "recovered": 109,
           "tested": 18447
         }
       }
@@ -12781,13 +12785,14 @@
         "delta": {
           "confirmed": 130,
           "deceased": 3,
-          "recovered": 53
+          "recovered": 53,
+          "tested": 1777
         },
         "total": {
           "confirmed": 2583,
           "deceased": 17,
           "recovered": 1540,
-          "tested": 92191
+          "tested": 93968
         }
       }
     }
@@ -17428,13 +17433,14 @@
         "delta": {
           "confirmed": 689,
           "deceased": 7,
-          "recovered": 654
+          "recovered": 654,
+          "tested": 8799
         },
         "total": {
           "confirmed": 21929,
           "deceased": 308,
           "recovered": 16637,
-          "tested": 372621
+          "tested": 381420
         }
       }
     }
@@ -44860,16 +44866,16 @@
       },
       "2020-07-13": {
         "delta": {
-          "confirmed": 27145,
+          "confirmed": 27148,
           "deceased": 540,
           "migrated": 2,
-          "recovered": 17140
+          "recovered": 17149
         },
         "total": {
-          "confirmed": 906612,
+          "confirmed": 906615,
           "deceased": 23727,
           "migrated": 384,
-          "recovered": 571569,
+          "recovered": 571578,
           "tested": 11806256
         }
       }

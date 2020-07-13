@@ -1,5 +1,9 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 3,
+      "recovered": 9
+    },
     "districts": {
       "North and Middle Andaman": {
         "meta": {
@@ -20,14 +24,18 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 9
+        },
         "total": {
-          "confirmed": 111,
-          "recovered": 67
+          "confirmed": 114,
+          "recovered": 76
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:07:14+05:30",
+      "last_updated": "2020-07-13T22:53:11+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -35,8 +43,8 @@
       }
     },
     "total": {
-      "confirmed": 163,
-      "recovered": 100,
+      "confirmed": 166,
+      "recovered": 109,
       "tested": 18447
     }
   },
@@ -2306,7 +2314,8 @@
     "delta": {
       "confirmed": 130,
       "deceased": 3,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 1777
     },
     "districts": {
       "North Goa": {
@@ -2355,15 +2364,15 @@
       "last_updated": "2020-07-13T21:51:25+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://twitter.com/DHS_Goa/status/1282321205542842368?s=20"
+        "last_updated": "2020-07-13",
+        "source": "https://twitter.com/DHS_Goa/status/1282708739099725826?s=20"
       }
     },
     "total": {
       "confirmed": 2583,
       "deceased": 17,
       "recovered": 1540,
-      "tested": 92191
+      "tested": 93968
     }
   },
   "GJ": {
@@ -3238,7 +3247,8 @@
     "delta": {
       "confirmed": 689,
       "deceased": 7,
-      "recovered": 654
+      "recovered": 654,
+      "tested": 8799
     },
     "districts": {
       "Ambala": {
@@ -3658,15 +3668,14 @@
       "last_updated": "2020-07-13T20:43:19+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-07-20%20Evening.pdf"
+        "last_updated": "2020-07-13"
       }
     },
     "total": {
       "confirmed": 21929,
       "deceased": 308,
       "recovered": 16637,
-      "tested": 372621
+      "tested": 381420
     }
   },
   "JH": {
@@ -4023,7 +4032,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T22:45:17+05:30",
+      "last_updated": "2020-07-13T22:52:11+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10371,13 +10380,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 27145,
+      "confirmed": 27148,
       "deceased": 540,
       "migrated": 2,
-      "recovered": 17140
+      "recovered": 17149
     },
     "meta": {
-      "last_updated": "2020-07-13T22:45:07+05:30",
+      "last_updated": "2020-07-13T22:53:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10385,10 +10394,10 @@
       }
     },
     "total": {
-      "confirmed": 906612,
+      "confirmed": 906615,
       "deceased": 23727,
       "migrated": 384,
-      "recovered": 571569,
+      "recovered": 571578,
       "tested": 11806256
     }
   },
