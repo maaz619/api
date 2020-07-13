@@ -3065,42 +3065,44 @@
     "districts": {
       "Ambala": {
         "meta": {
-          "population": 1136784
+          "population": 1136784,
+          "tested": {
+            "last_updated": "2020-07-12"
+          }
         },
         "total": {
           "confirmed": 507,
           "deceased": 6,
-          "recovered": 398
+          "recovered": 398,
+          "tested": 21000
         }
       },
       "Bhiwani": {
         "meta": {
           "population": 1629109,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 645,
           "deceased": 4,
           "recovered": 470,
-          "tested": 12532
+          "tested": 12284
         }
       },
       "Charkhi Dadri": {
         "meta": {
           "population": 502276,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 89,
           "deceased": 1,
           "recovered": 56,
-          "tested": 5881
+          "tested": 5952
         }
       },
       "Faridabad": {
@@ -3122,15 +3124,14 @@
         "meta": {
           "population": 941522,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 147,
           "deceased": 1,
           "recovered": 116,
-          "tested": 9246
+          "tested": 9323
         }
       },
       "Foreign Evacuees": {
@@ -3190,30 +3191,28 @@
         "meta": {
           "population": 956907,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 493,
           "deceased": 4,
           "recovered": 330,
-          "tested": 12626
+          "tested": 13234
         }
       },
       "Jind": {
         "meta": {
           "population": 1332042,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 150,
           "deceased": 4,
           "recovered": 113,
-          "tested": 10936
+          "tested": 11007
         }
       },
       "Kaithal": {
@@ -3224,44 +3223,41 @@
         "meta": {
           "population": 1072861,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 143,
           "recovered": 107,
-          "tested": 11229
+          "tested": 11287
         }
       },
       "Karnal": {
         "meta": {
           "population": 1506323,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 519,
           "deceased": 8,
           "recovered": 354,
-          "tested": 22921
+          "tested": 23155
         }
       },
       "Kurukshetra": {
         "meta": {
           "population": 964231,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 198,
           "deceased": 1,
           "recovered": 140,
-          "tested": 14297
+          "tested": 14715
         }
       },
       "Mahendragarh": {
@@ -3329,15 +3325,14 @@
         "meta": {
           "population": 1202811,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 400,
           "deceased": 7,
           "recovered": 189,
-          "tested": 11689
+          "tested": 11853
         }
       },
       "Rewari": {
@@ -3367,30 +3362,28 @@
         "meta": {
           "population": 1058683,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 988,
           "deceased": 13,
           "recovered": 599,
-          "tested": 24648
+          "tested": 25098
         }
       },
       "Sirsa": {
         "meta": {
           "population": 1295114,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 197,
           "deceased": 1,
           "recovered": 122,
-          "tested": 11093
+          "tested": 10484
         }
       },
       "Sonipat": {
@@ -3419,15 +3412,14 @@
         "meta": {
           "population": 1214162,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1099"
+            "last_updated": "2020-07-12"
           }
         },
         "total": {
           "confirmed": 132,
           "deceased": 1,
           "recovered": 105,
-          "tested": 10751
+          "tested": 11011
         }
       }
     },
@@ -4645,7 +4637,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T19:14:09+05:30",
+      "last_updated": "2020-07-13T19:18:11+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -9330,7 +9322,7 @@
       "recovered": 6043
     },
     "meta": {
-      "last_updated": "2020-07-13T19:14:06+05:30",
+      "last_updated": "2020-07-13T19:18:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
