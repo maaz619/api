@@ -41,6 +41,9 @@
     }
   },
   "AP": {
+    "delta": {
+      "tested": 19247
+    },
     "districts": {
       "Anantapur": {
         "meta": {
@@ -255,15 +258,15 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://twitter.com/ArogyaAndhra/status/1282247597256699904?s=20"
+        "last_updated": "2020-07-13",
+        "source": "https://twitter.com/ArogyaAndhra/status/1282637680212234240?s=20"
       }
     },
     "total": {
       "confirmed": 29168,
       "deceased": 328,
       "recovered": 15412,
-      "tested": 1153849
+      "tested": 1173096
     }
   },
   "AR": {
@@ -5835,6 +5838,9 @@
     }
   },
   "MZ": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "Aizawl": {
         "meta": {
@@ -5846,12 +5852,15 @@
         }
       },
       "Champhai": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 125370
         },
         "total": {
           "confirmed": 10,
-          "recovered": 8
+          "recovered": 9
         }
       },
       "Khawzawl": {
@@ -5922,7 +5931,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T21:16:09+05:30",
+      "last_updated": "2020-07-13T17:13:10+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -5931,13 +5940,14 @@
     },
     "total": {
       "confirmed": 231,
-      "recovered": 150,
+      "recovered": 151,
       "tested": 16696
     }
   },
   "NL": {
     "delta": {
-      "confirmed": 71
+      "confirmed": 71,
+      "recovered": 13
     },
     "districts": {
       "Dimapur": {
@@ -6071,8 +6081,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 13
+        },
         "total": {
-          "recovered": 253
+          "recovered": 266
         }
       },
       "Wokha": {
@@ -6098,7 +6111,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T10:43:11+05:30",
+      "last_updated": "2020-07-13T17:13:08+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -6107,7 +6120,7 @@
     },
     "total": {
       "confirmed": 845,
-      "recovered": 327,
+      "recovered": 340,
       "tested": 24985
     }
   },
@@ -8757,10 +8770,10 @@
     "delta": {
       "confirmed": 437,
       "deceased": 13,
-      "recovered": 479
+      "recovered": 493
     },
     "meta": {
-      "last_updated": "2020-07-13T17:01:06+05:30",
+      "last_updated": "2020-07-13T17:13:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -8771,7 +8784,7 @@
       "confirmed": 879904,
       "deceased": 23200,
       "migrated": 382,
-      "recovered": 554908,
+      "recovered": 554922,
       "tested": 11806256
     }
   },
