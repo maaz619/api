@@ -1043,25 +1043,29 @@
         }
       },
       "Udalguri": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 13
+        },
         "meta": {
           "population": 832769
         },
         "total": {
-          "confirmed": 234,
+          "confirmed": 236,
           "deceased": 1,
-          "recovered": 197
+          "recovered": 210
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 335,
-          "recovered": 468
+          "confirmed": 333,
+          "recovered": 455
         },
         "total": {
-          "confirmed": 6264,
+          "confirmed": 6262,
           "deceased": 15,
           "migrated": 3,
-          "recovered": 9781
+          "recovered": 9768
         }
       },
       "West Karbi Anglong": {
@@ -1491,19 +1495,20 @@
       "Purnia": {
         "delta": {
           "confirmed": 7,
-          "recovered": 2
+          "recovered": 2,
+          "tested": 443
         },
         "meta": {
           "population": 3273127,
           "tested": {
-            "last_updated": "2020-07-11",
-            "source": "https://twitter.com/dmpurnea/status/1281906742545317890?s=20"
+            "last_updated": "2020-07-12",
+            "source": "https://twitter.com/dmpurnea/status/1282361187821391875?s=20"
           }
         },
         "total": {
           "confirmed": 370,
           "recovered": 321,
-          "tested": 8329
+          "tested": 8772
         }
       },
       "Rohtas": {
@@ -10478,13 +10483,14 @@
     "delta": {
       "confirmed": 29105,
       "deceased": 500,
-      "recovered": 18198
+      "recovered": 18198,
+      "tested": 219103
     },
     "meta": {
       "population": 1332900000,
       "tested": {
-        "last_updated": "2020-07-11",
-        "source": "https://twitter.com/ICMRDELHI/status/1282160902507130881?s=20"
+        "last_updated": "2020-07-12",
+        "source": "https://twitter.com/ICMRDELHI/status/1282518284718358528"
       }
     },
     "total": {
@@ -10492,7 +10498,7 @@
       "deceased": 23187,
       "migrated": 382,
       "recovered": 554429,
-      "tested": 11587153
+      "tested": 11806256
     }
   },
   "UN": {
