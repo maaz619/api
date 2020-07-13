@@ -328,7 +328,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T17:23:08+05:30",
+      "last_updated": "2020-07-13T17:26:08+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
@@ -4359,8 +4359,15 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 7,
+      "recovered": 18
+    },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 18
+        },
         "meta": {
           "population": 143000,
           "tested": {
@@ -4370,11 +4377,14 @@
         },
         "total": {
           "confirmed": 725,
-          "recovered": 677,
+          "recovered": 695,
           "tested": 6943
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 147000,
           "tested": {
@@ -4383,7 +4393,7 @@
           }
         },
         "total": {
-          "confirmed": 361,
+          "confirmed": 368,
           "deceased": 1,
           "recovered": 251,
           "tested": 8352
@@ -4391,7 +4401,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T18:22:14+05:30",
+      "last_updated": "2020-07-13T17:38:09+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -4399,9 +4409,9 @@
       }
     },
     "total": {
-      "confirmed": 1086,
+      "confirmed": 1093,
       "deceased": 1,
-      "recovered": 928,
+      "recovered": 946,
       "tested": 15295
     }
   },
@@ -8842,12 +8852,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2372,
+      "confirmed": 2379,
       "deceased": 50,
-      "recovered": 1545
+      "recovered": 1563
     },
     "meta": {
-      "last_updated": "2020-07-13T17:23:06+05:30",
+      "last_updated": "2020-07-13T17:38:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -8855,10 +8865,10 @@
       }
     },
     "total": {
-      "confirmed": 881839,
+      "confirmed": 881846,
       "deceased": 23237,
       "migrated": 382,
-      "recovered": 555974,
+      "recovered": 555992,
       "tested": 11806256
     }
   },
