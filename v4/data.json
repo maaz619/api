@@ -7605,13 +7605,20 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 2,
+      "recovered": 1
+    },
     "districts": {
       "East Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 281293
         },
         "total": {
-          "confirmed": 104,
+          "confirmed": 105,
           "migrated": 13,
           "recovered": 42
         }
@@ -7626,17 +7633,23 @@
         }
       },
       "South Sikkim": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 146742
         },
         "total": {
-          "confirmed": 38,
+          "confirmed": 39,
           "recovered": 26
         }
       },
       "Unknown": {
-        "total": {
+        "delta": {
           "recovered": 1
+        },
+        "total": {
+          "recovered": 2
         }
       },
       "West Sikkim": {
@@ -7650,7 +7663,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T22:56:12+05:30",
+      "last_updated": "2020-07-13T16:53:27+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -7659,9 +7672,9 @@
       }
     },
     "total": {
-      "confirmed": 164,
+      "confirmed": 166,
       "migrated": 13,
-      "recovered": 81,
+      "recovered": 82,
       "tested": 12531
     }
   },
@@ -8727,12 +8740,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 435,
+      "confirmed": 437,
       "deceased": 13,
-      "recovered": 478
+      "recovered": 479
     },
     "meta": {
-      "last_updated": "2020-07-13T15:59:06+05:30",
+      "last_updated": "2020-07-13T16:53:22+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -8740,10 +8753,10 @@
       }
     },
     "total": {
-      "confirmed": 879902,
+      "confirmed": 879904,
       "deceased": 23200,
       "migrated": 382,
-      "recovered": 554907,
+      "recovered": 554908,
       "tested": 11806256
     }
   },
