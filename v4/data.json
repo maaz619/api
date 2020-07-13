@@ -1636,26 +1636,27 @@
   "CH": {
     "delta": {
       "confirmed": 29,
-      "recovered": 6
+      "recovered": 6,
+      "tested": 151
     },
     "districts": {
       "Chandigarh": {
         "delta": {
           "confirmed": 29,
-          "recovered": 6
+          "recovered": 6,
+          "tested": 151
         },
         "meta": {
           "population": 1055450,
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1093"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
           "confirmed": 588,
           "deceased": 8,
           "recovered": 423,
-          "tested": 9571
+          "tested": 9722
         }
       }
     },
@@ -1663,21 +1664,21 @@
       "last_updated": "2020-07-13T20:28:26+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1093"
+        "last_updated": "2020-07-13"
       }
     },
     "total": {
       "confirmed": 588,
       "deceased": 8,
       "recovered": 423,
-      "tested": 9571
+      "tested": 9722
     }
   },
   "CT": {
     "delta": {
       "confirmed": 184,
-      "recovered": 49
+      "recovered": 49,
+      "tested": 3531
     },
     "districts": {
       "Balod": {
@@ -2168,15 +2169,14 @@
       "last_updated": "2020-07-13T20:54:12+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-12",
-        "source": "https://twitter.com/HealthCgGov/status/1282343390718259202/photo/1"
+        "last_updated": "2020-07-13"
       }
     },
     "total": {
       "confirmed": 4265,
       "deceased": 19,
       "recovered": 3202,
-      "tested": 209864
+      "tested": 213395
     }
   },
   "DL": {
@@ -3670,11 +3670,14 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 14,
+      "confirmed": 203,
       "deceased": 2
     },
     "districts": {
       "Bokaro": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 2061918,
           "tested": {
@@ -3683,22 +3686,28 @@
           }
         },
         "total": {
-          "confirmed": 87,
+          "confirmed": 88,
           "deceased": 2,
           "recovered": 45,
           "tested": 8830
         }
       },
       "Chatra": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1042304
         },
         "total": {
-          "confirmed": 118,
+          "confirmed": 120,
           "recovered": 52
         }
       },
       "Deoghar": {
+        "delta": {
+          "confirmed": 20
+        },
         "meta": {
           "population": 1491879,
           "tested": {
@@ -3707,7 +3716,7 @@
           }
         },
         "total": {
-          "confirmed": 65,
+          "confirmed": 85,
           "deceased": 1,
           "recovered": 45,
           "tested": 6135
@@ -3715,14 +3724,14 @@
       },
       "Dhanbad": {
         "delta": {
-          "confirmed": 5,
+          "confirmed": 10,
           "deceased": 2
         },
         "meta": {
           "population": 2682662
         },
         "total": {
-          "confirmed": 288,
+          "confirmed": 293,
           "deceased": 6,
           "recovered": 148
         }
@@ -3743,27 +3752,33 @@
       },
       "East Singhbhum": {
         "delta": {
-          "confirmed": 5
+          "confirmed": 9
         },
         "meta": {
           "population": 2291032
         },
         "total": {
-          "confirmed": 671,
+          "confirmed": 675,
           "deceased": 3,
           "recovered": 298
         }
       },
       "Garhwa": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 1322387
         },
         "total": {
-          "confirmed": 145,
+          "confirmed": 150,
           "recovered": 97
         }
       },
       "Giridih": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 2445203,
           "tested": {
@@ -3772,13 +3787,16 @@
           }
         },
         "total": {
-          "confirmed": 121,
+          "confirmed": 125,
           "deceased": 3,
           "recovered": 86,
           "tested": 6630
         }
       },
       "Godda": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1311382,
           "tested": {
@@ -3787,7 +3805,7 @@
           }
         },
         "total": {
-          "confirmed": 21,
+          "confirmed": 23,
           "deceased": 1,
           "recovered": 8,
           "tested": 5609
@@ -3804,16 +3822,22 @@
         }
       },
       "Hazaribagh": {
+        "delta": {
+          "confirmed": 39
+        },
         "meta": {
           "population": 1734005
         },
         "total": {
-          "confirmed": 256,
+          "confirmed": 295,
           "deceased": 3,
           "recovered": 184
         }
       },
       "Jamtara": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 790207,
           "tested": {
@@ -3822,27 +3846,33 @@
           }
         },
         "total": {
-          "confirmed": 31,
+          "confirmed": 33,
           "recovered": 28,
           "tested": 2209
         }
       },
       "Khunti": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 530299
         },
         "total": {
-          "confirmed": 34,
+          "confirmed": 35,
           "deceased": 1,
           "recovered": 28
         }
       },
       "Koderma": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 717169
         },
         "total": {
-          "confirmed": 276,
+          "confirmed": 282,
           "deceased": 2,
           "recovered": 173
         }
@@ -3860,15 +3890,21 @@
         }
       },
       "Lohardaga": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 461738
         },
         "total": {
-          "confirmed": 100,
+          "confirmed": 104,
           "recovered": 58
         }
       },
       "Pakur": {
+        "delta": {
+          "confirmed": 20
+        },
         "meta": {
           "population": 899200,
           "tested": {
@@ -3877,43 +3913,52 @@
           }
         },
         "total": {
-          "confirmed": 73,
+          "confirmed": 93,
           "recovered": 31,
           "tested": 4617
         }
       },
       "Palamu": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1936319
         },
         "total": {
-          "confirmed": 92,
+          "confirmed": 94,
           "recovered": 80
         }
       },
       "Ramgarh": {
+        "delta": {
+          "confirmed": 20
+        },
         "meta": {
           "population": 949159
         },
         "total": {
-          "confirmed": 171,
+          "confirmed": 191,
           "recovered": 125
         }
       },
       "Ranchi": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 42
         },
         "meta": {
           "population": 2912022
         },
         "total": {
-          "confirmed": 389,
+          "confirmed": 429,
           "deceased": 7,
           "recovered": 192
         }
       },
       "Sahibganj": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 1150038,
           "tested": {
@@ -3922,7 +3967,7 @@
           }
         },
         "total": {
-          "confirmed": 41,
+          "confirmed": 43,
           "deceased": 2,
           "recovered": 9,
           "tested": 3515
@@ -3938,27 +3983,41 @@
         }
       },
       "Simdega": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 599813
         },
         "total": {
-          "confirmed": 365,
+          "confirmed": 367,
           "deceased": 1,
           "recovered": 354
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5
+        },
+        "total": {
+          "confirmed": 5
+        }
+      },
       "West Singhbhum": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 1501619
         },
         "total": {
-          "confirmed": 93,
+          "confirmed": 96,
           "recovered": 57
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T13:53:13+05:30",
+      "last_updated": "2020-07-13T22:36:14+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -3966,7 +4025,7 @@
       }
     },
     "total": {
-      "confirmed": 3774,
+      "confirmed": 3963,
       "deceased": 33,
       "recovered": 2308,
       "tested": 180439
@@ -5792,6 +5851,10 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 17,
+      "recovered": 74
+    },
     "districts": {
       "Bishnupur": {
         "meta": {
@@ -5812,20 +5875,26 @@
         }
       },
       "Churachandpur": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 271274
         },
         "total": {
-          "confirmed": 149,
+          "confirmed": 152,
           "recovered": 58
         }
       },
       "Imphal East": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 452661
         },
         "total": {
-          "confirmed": 51,
+          "confirmed": 56,
           "recovered": 16
         }
       },
@@ -5887,11 +5956,14 @@
         }
       },
       "Senapati": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "population": 354772
         },
         "total": {
-          "confirmed": 172,
+          "confirmed": 181,
           "recovered": 21
         }
       },
@@ -5929,13 +6001,16 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "recovered": 74
+        },
         "total": {
-          "recovered": 503
+          "recovered": 577
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T19:50:09+05:30",
+      "last_updated": "2020-07-13T22:28:12+05:30",
       "population": 3103000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -5943,8 +6018,8 @@
       }
     },
     "total": {
-      "confirmed": 1609,
-      "recovered": 896,
+      "confirmed": 1626,
+      "recovered": 970,
       "tested": 63534
     }
   },
@@ -8178,7 +8253,8 @@
         "meta": {
           "population": 2584913,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8198,7 +8274,8 @@
         "meta": {
           "population": 3671999,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8225,7 +8302,8 @@
         "meta": {
           "population": 1798194,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8242,7 +8320,8 @@
         "meta": {
           "population": 1223921,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8262,7 +8341,8 @@
         "meta": {
           "population": 2604453,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8282,7 +8362,8 @@
         "meta": {
           "population": 2549121,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8301,7 +8382,8 @@
         "meta": {
           "population": 2410459,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8320,7 +8402,8 @@
         "meta": {
           "population": 2367745,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8337,7 +8420,8 @@
         "meta": {
           "population": 1113725,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8353,7 +8437,8 @@
         "meta": {
           "population": 1544392,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8372,7 +8457,8 @@
         "meta": {
           "population": 2041172,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8391,7 +8477,8 @@
         "meta": {
           "population": 1637226,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8411,7 +8498,8 @@
         "meta": {
           "population": 1207293,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8429,7 +8517,8 @@
         "meta": {
           "population": 1388906,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8454,7 +8543,8 @@
         "meta": {
           "population": 1969520,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8472,7 +8562,8 @@
         "meta": {
           "population": 1779650,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8498,7 +8589,8 @@
         "meta": {
           "population": 6663971,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8515,7 +8607,8 @@
         "meta": {
           "population": 672008,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8532,7 +8625,8 @@
         "meta": {
           "population": 1830151,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8550,7 +8644,8 @@
         "meta": {
           "population": 1411327,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8568,7 +8663,8 @@
         "meta": {
           "population": 2139658,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8587,7 +8683,8 @@
         "meta": {
           "population": 3685681,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8606,7 +8703,8 @@
         "meta": {
           "population": 1458459,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8624,7 +8722,8 @@
         "meta": {
           "population": 1950491,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8643,7 +8742,8 @@
         "meta": {
           "population": 3309234,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8671,7 +8771,8 @@
         "meta": {
           "population": 2038533,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8689,7 +8790,8 @@
         "meta": {
           "population": 868231,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8708,7 +8810,8 @@
         "meta": {
           "population": 1158283,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8726,7 +8829,8 @@
         "meta": {
           "population": 1338114,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8744,7 +8848,8 @@
         "meta": {
           "population": 2677737,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8763,7 +8868,8 @@
         "meta": {
           "population": 1037185,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8780,7 +8886,8 @@
         "meta": {
           "population": 1421711,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -8799,7 +8906,8 @@
         "meta": {
           "population": 3067549,
           "tested": {
-            "last_updated": "2020-07-13"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
           }
         },
         "total": {
@@ -10240,7 +10348,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T22:23:09+05:30",
+      "last_updated": "2020-07-13T22:28:11+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10257,13 +10365,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 26939,
+      "confirmed": 27145,
       "deceased": 540,
       "migrated": 2,
-      "recovered": 17023
+      "recovered": 17097
     },
     "meta": {
-      "last_updated": "2020-07-13T22:24:07+05:30",
+      "last_updated": "2020-07-13T22:36:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10271,10 +10379,10 @@
       }
     },
     "total": {
-      "confirmed": 906406,
+      "confirmed": 906612,
       "deceased": 23727,
       "migrated": 384,
-      "recovered": 571452,
+      "recovered": 571526,
       "tested": 11806256
     }
   },
