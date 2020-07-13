@@ -3904,15 +3904,21 @@
         "delta": {
           "confirmed": 3,
           "deceased": 1,
-          "recovered": 2
+          "recovered": 2,
+          "tested": 6135
         },
         "meta": {
-          "population": 1491879
+          "population": 1491879,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 65,
           "deceased": 1,
-          "recovered": 45
+          "recovered": 45,
+          "tested": 6135
         }
       },
       "Dhanbad": {
@@ -3988,15 +3994,21 @@
       },
       "Godda": {
         "delta": {
-          "deceased": 1
+          "deceased": 1,
+          "tested": 5609
         },
         "meta": {
-          "population": 1311382
+          "population": 1311382,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 21,
           "deceased": 1,
-          "recovered": 8
+          "recovered": 8,
+          "tested": 5609
         }
       },
       "Gumla": {
@@ -4023,12 +4035,20 @@
         }
       },
       "Jamtara": {
+        "delta": {
+          "tested": 2209
+        },
         "meta": {
-          "population": 790207
+          "population": 790207,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 31,
-          "recovered": 28
+          "recovered": 28,
+          "tested": 2209
         }
       },
       "Khunti": {
@@ -4849,7 +4869,7 @@
       "Kodagu": {
         "delta": {
           "confirmed": 15,
-          "recovered": 87,
+          "recovered": 44,
           "tested": 18
         },
         "meta": {
@@ -4862,7 +4882,7 @@
         "total": {
           "confirmed": 156,
           "deceased": 1,
-          "recovered": 104,
+          "recovered": 61,
           "tested": 10979
         }
       },
@@ -4926,6 +4946,7 @@
         "delta": {
           "confirmed": 42,
           "deceased": 3,
+          "recovered": 43,
           "tested": 75
         },
         "meta": {
@@ -4938,7 +4959,7 @@
         "total": {
           "confirmed": 815,
           "deceased": 31,
-          "recovered": 385,
+          "recovered": 428,
           "tested": 27821
         }
       },

@@ -251,7 +251,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-12T15:39:08+05:30",
+      "last_updated": "2020-07-13T17:01:08+05:30",
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
@@ -3229,12 +3229,17 @@
       },
       "Deoghar": {
         "meta": {
-          "population": 1491879
+          "population": 1491879,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 65,
           "deceased": 1,
-          "recovered": 45
+          "recovered": 45,
+          "tested": 6135
         }
       },
       "Dhanbad": {
@@ -3299,12 +3304,17 @@
       },
       "Godda": {
         "meta": {
-          "population": 1311382
+          "population": 1311382,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 21,
           "deceased": 1,
-          "recovered": 8
+          "recovered": 8,
+          "tested": 5609
         }
       },
       "Gumla": {
@@ -3329,11 +3339,16 @@
       },
       "Jamtara": {
         "meta": {
-          "population": 790207
+          "population": 790207,
+          "tested": {
+            "last_updated": "2020-07-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1114"
+          }
         },
         "total": {
           "confirmed": 31,
-          "recovered": 28
+          "recovered": 28,
+          "tested": 2209
         }
       },
       "Khunti": {
@@ -3971,7 +3986,7 @@
         "total": {
           "confirmed": 156,
           "deceased": 1,
-          "recovered": 104,
+          "recovered": 61,
           "tested": 10979
         }
       },
@@ -4030,7 +4045,7 @@
         "total": {
           "confirmed": 815,
           "deceased": 31,
-          "recovered": 385,
+          "recovered": 428,
           "tested": 27821
         }
       },
@@ -7742,7 +7757,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T16:53:27+05:30",
+      "last_updated": "2020-07-13T16:56:09+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -8824,7 +8839,7 @@
       "recovered": 479
     },
     "meta": {
-      "last_updated": "2020-07-13T16:53:22+05:30",
+      "last_updated": "2020-07-13T17:01:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
