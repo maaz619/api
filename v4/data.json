@@ -365,6 +365,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 27,
+      "recovered": 7
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -650,6 +654,16 @@
           "tested": 1715
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 27,
+          "recovered": 7
+        },
+        "total": {
+          "confirmed": 27,
+          "recovered": 7
+        }
+      },
       "Upper Siang": {
         "meta": {
           "population": 35289,
@@ -708,7 +722,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T00:17:11+05:30",
+      "last_updated": "2020-07-14T00:45:10+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -716,9 +730,9 @@
       }
     },
     "total": {
-      "confirmed": 360,
+      "confirmed": 387,
       "deceased": 2,
-      "recovered": 138,
+      "recovered": 145,
       "tested": 31520
     }
   },
@@ -10481,13 +10495,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28151,
+      "confirmed": 28178,
       "deceased": 540,
       "migrated": 2,
-      "recovered": 17676
+      "recovered": 17683
     },
     "meta": {
-      "last_updated": "2020-07-14T00:28:07+05:30",
+      "last_updated": "2020-07-14T00:45:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10495,10 +10509,10 @@
       }
     },
     "total": {
-      "confirmed": 907618,
+      "confirmed": 907645,
       "deceased": 23727,
       "migrated": 384,
-      "recovered": 572105,
+      "recovered": 572112,
       "tested": 11806256
     }
   },
