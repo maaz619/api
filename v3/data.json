@@ -10164,8 +10164,15 @@
     }
   },
   "TR": {
+    "delta": {
+      "confirmed": 26,
+      "recovered": 54
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 377988,
           "tested": {
@@ -10174,13 +10181,16 @@
           }
         },
         "total": {
-          "confirmed": 270,
+          "confirmed": 271,
           "migrated": 1,
           "recovered": 218,
           "tested": 7333
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 436868,
           "tested": {
@@ -10189,13 +10199,16 @@
           }
         },
         "total": {
-          "confirmed": 297,
+          "confirmed": 299,
           "migrated": 1,
           "recovered": 165,
           "tested": 9339
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 327391,
           "tested": {
@@ -10204,13 +10217,16 @@
           }
         },
         "total": {
-          "confirmed": 203,
+          "confirmed": 206,
           "deceased": 1,
           "recovered": 70,
           "tested": 3842
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 415946,
           "tested": {
@@ -10219,13 +10235,16 @@
           }
         },
         "total": {
-          "confirmed": 78,
+          "confirmed": 79,
           "migrated": 6,
           "recovered": 30,
           "tested": 15222
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 484233,
           "tested": {
@@ -10234,12 +10253,15 @@
           }
         },
         "total": {
-          "confirmed": 647,
+          "confirmed": 652,
           "recovered": 563,
           "tested": 9063
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 433737,
           "tested": {
@@ -10248,10 +10270,18 @@
           }
         },
         "total": {
-          "confirmed": 159,
+          "confirmed": 161,
           "migrated": 1,
           "recovered": 133,
           "tested": 8895
+        }
+      },
+      "Unknown": {
+        "delta": {
+          "recovered": 54
+        },
+        "total": {
+          "recovered": 54
         }
       },
       "Unokoti": {
@@ -10269,6 +10299,9 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "population": 917534,
           "tested": {
@@ -10277,7 +10310,7 @@
           }
         },
         "total": {
-          "confirmed": 327,
+          "confirmed": 339,
           "deceased": 1,
           "migrated": 5,
           "recovered": 171,
@@ -10286,7 +10319,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T00:17:09+05:30",
+      "last_updated": "2020-07-13T22:23:09+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10294,22 +10327,22 @@
       }
     },
     "total": {
-      "confirmed": 2067,
+      "confirmed": 2093,
       "deceased": 2,
       "migrated": 14,
-      "recovered": 1421,
+      "recovered": 1475,
       "tested": 83353
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 26913,
+      "confirmed": 26939,
       "deceased": 540,
       "migrated": 2,
-      "recovered": 16969
+      "recovered": 17023
     },
     "meta": {
-      "last_updated": "2020-07-13T22:07:07+05:30",
+      "last_updated": "2020-07-13T22:24:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-12",
@@ -10317,10 +10350,10 @@
       }
     },
     "total": {
-      "confirmed": 906380,
+      "confirmed": 906406,
       "deceased": 23727,
       "migrated": 384,
-      "recovered": 571398,
+      "recovered": 571452,
       "tested": 11806256
     }
   },
