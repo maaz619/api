@@ -35,7 +35,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T22:13:03+05:30",
+      "last_updated": "2020-07-14T22:17:05+05:30",
       "population": 397000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -2324,6 +2324,11 @@
     }
   },
   "GA": {
+    "delta": {
+      "confirmed": 170,
+      "deceased": 1,
+      "recovered": 67
+    },
     "districts": {
       "North Goa": {
         "meta": {
@@ -2345,24 +2350,31 @@
         }
       },
       "South Goa": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 639962
         },
         "total": {
           "confirmed": 1275,
-          "deceased": 14,
+          "deceased": 15,
           "recovered": 672
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 170,
+          "recovered": 67
+        },
         "total": {
-          "confirmed": 603,
-          "recovered": 603
+          "confirmed": 773,
+          "recovered": 670
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T21:51:25+05:30",
+      "last_updated": "2020-07-14T22:36:00+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -2370,9 +2382,9 @@
       }
     },
     "total": {
-      "confirmed": 2583,
-      "deceased": 17,
-      "recovered": 1540,
+      "confirmed": 2753,
+      "deceased": 18,
+      "recovered": 1607,
       "tested": 93968
     }
   },
@@ -4048,7 +4060,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T22:13:00+05:30",
+      "last_updated": "2020-07-14T22:17:01+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -7274,7 +7286,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T22:13:02+05:30",
+      "last_updated": "2020-07-14T22:17:04+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -9656,7 +9668,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T22:07:10+05:30",
+      "last_updated": "2020-07-14T22:16:59+05:30",
       "population": 37220000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10438,10 +10450,14 @@
   },
   "TR": {
     "delta": {
+      "confirmed": 90,
       "recovered": 63
     },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "population": 377988,
           "tested": {
@@ -10450,13 +10466,16 @@
           }
         },
         "total": {
-          "confirmed": 271,
+          "confirmed": 283,
           "migrated": 1,
           "recovered": 241,
           "tested": 7520
         }
       },
       "Gomati": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 436868,
           "tested": {
@@ -10465,13 +10484,16 @@
           }
         },
         "total": {
-          "confirmed": 299,
+          "confirmed": 306,
           "migrated": 1,
           "recovered": 169,
           "tested": 9853
         }
       },
       "Khowai": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "population": 327391,
           "tested": {
@@ -10480,13 +10502,16 @@
           }
         },
         "total": {
-          "confirmed": 206,
+          "confirmed": 215,
           "deceased": 1,
           "recovered": 79,
           "tested": 4002
         }
       },
       "North Tripura": {
+        "delta": {
+          "confirmed": 16
+        },
         "meta": {
           "population": 415946,
           "tested": {
@@ -10495,13 +10520,16 @@
           }
         },
         "total": {
-          "confirmed": 79,
+          "confirmed": 95,
           "migrated": 6,
           "recovered": 35,
           "tested": 15669
         }
       },
       "Sipahijala": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "population": 484233,
           "tested": {
@@ -10510,12 +10538,15 @@
           }
         },
         "total": {
-          "confirmed": 652,
+          "confirmed": 658,
           "recovered": 563,
           "tested": 9223
         }
       },
       "South Tripura": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 433737,
           "tested": {
@@ -10524,7 +10555,7 @@
           }
         },
         "total": {
-          "confirmed": 161,
+          "confirmed": 168,
           "migrated": 1,
           "recovered": 135,
           "tested": 9209
@@ -10539,6 +10570,9 @@
         }
       },
       "Unokoti": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "population": 277335,
           "tested": {
@@ -10547,12 +10581,15 @@
           }
         },
         "total": {
-          "confirmed": 86,
+          "confirmed": 90,
           "recovered": 71,
           "tested": 3239
         }
       },
       "West Tripura": {
+        "delta": {
+          "confirmed": 29
+        },
         "meta": {
           "population": 917534,
           "tested": {
@@ -10561,7 +10598,7 @@
           }
         },
         "total": {
-          "confirmed": 339,
+          "confirmed": 368,
           "deceased": 1,
           "migrated": 5,
           "recovered": 182,
@@ -10570,7 +10607,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:57:00+05:30",
+      "last_updated": "2020-07-14T22:36:01+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10578,7 +10615,7 @@
       }
     },
     "total": {
-      "confirmed": 2093,
+      "confirmed": 2183,
       "deceased": 2,
       "migrated": 14,
       "recovered": 1538,
@@ -10587,13 +10624,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28723,
-      "deceased": 586,
+      "confirmed": 28983,
+      "deceased": 587,
       "migrated": 2,
-      "recovered": 20901
+      "recovered": 20968
     },
     "meta": {
-      "last_updated": "2020-07-14T22:12:58+05:30",
+      "last_updated": "2020-07-14T22:35:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10601,10 +10638,10 @@
       }
     },
     "total": {
-      "confirmed": 936368,
-      "deceased": 24314,
+      "confirmed": 936628,
+      "deceased": 24315,
       "migrated": 389,
-      "recovered": 593013,
+      "recovered": 593080,
       "tested": 12092503
     }
   },
