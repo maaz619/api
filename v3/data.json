@@ -2201,7 +2201,8 @@
       "last_updated": "2020-07-14T21:41:01+05:30",
       "population": 28724000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://twitter.com/HealthCgGov/status/1283055977768660993?s=20"
       }
     },
     "total": {
@@ -2413,49 +2414,59 @@
     "delta": {
       "confirmed": 170,
       "deceased": 1,
-      "recovered": 67
+      "recovered": 67,
+      "tested": 2724
     },
     "districts": {
       "North Goa": {
+        "delta": {
+          "confirmed": 47,
+          "recovered": 13
+        },
         "meta": {
           "population": 817761
         },
         "total": {
-          "confirmed": 554,
+          "confirmed": 601,
           "deceased": 3,
-          "recovered": 239
+          "recovered": 252
         }
       },
       "Other State": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "Travelled by Road,Train,Flight"
         },
         "total": {
-          "confirmed": 151,
+          "confirmed": 152,
           "recovered": 26
         }
       },
       "South Goa": {
         "delta": {
-          "deceased": 1
+          "confirmed": 75,
+          "deceased": 1,
+          "recovered": 9
         },
         "meta": {
           "population": 639962
         },
         "total": {
-          "confirmed": 1275,
+          "confirmed": 1350,
           "deceased": 15,
-          "recovered": 672
+          "recovered": 681
         }
       },
       "Unknown": {
         "delta": {
-          "confirmed": 170,
-          "recovered": 67
+          "confirmed": 47,
+          "recovered": 45
         },
         "total": {
-          "confirmed": 773,
-          "recovered": 670
+          "confirmed": 650,
+          "recovered": 648
         }
       }
     },
@@ -2463,15 +2474,15 @@
       "last_updated": "2020-07-14T22:41:01+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://twitter.com/DHS_Goa/status/1282708739099725826?s=20"
+        "last_updated": "2020-07-14",
+        "source": "https://twitter.com/DHS_Goa/status/1283082553792946176?s=20"
       }
     },
     "total": {
       "confirmed": 2753,
       "deceased": 18,
       "recovered": 1607,
-      "tested": 93968
+      "tested": 96692
     }
   },
   "GJ": {
@@ -3824,7 +3835,8 @@
     "delta": {
       "confirmed": 262,
       "deceased": 3,
-      "recovered": 77
+      "recovered": 77,
+      "tested": 5195
     },
     "districts": {
       "Bokaro": {
@@ -4184,15 +4196,14 @@
       "last_updated": "2020-07-14T22:17:01+05:30",
       "population": 37403000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://twitter.com/FOBGumla/status/1282722894443773952/photo/1"
+        "last_updated": "2020-07-14"
       }
     },
     "total": {
       "confirmed": 4225,
       "deceased": 36,
       "recovered": 2428,
-      "tested": 184656
+      "tested": 189851
     }
   },
   "JK": {
@@ -8662,40 +8673,42 @@
         "delta": {
           "confirmed": 10,
           "deceased": 1,
-          "recovered": 24
+          "recovered": 24,
+          "tested": 1051
         },
         "meta": {
           "population": 2584913,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 790,
           "deceased": 25,
           "recovered": 561,
-          "tested": 31213
+          "tested": 32264
         }
       },
       "Alwar": {
         "delta": {
           "confirmed": 38,
           "deceased": 1,
-          "recovered": 74
+          "recovered": 74,
+          "tested": 1487
         },
         "meta": {
           "population": 3671999,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 1288,
           "deceased": 8,
           "recovered": 523,
-          "tested": 24812
+          "tested": 26299
         }
       },
       "BSF Camp": {
@@ -8706,220 +8719,234 @@
       },
       "Banswara": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "tested": 223
         },
         "meta": {
           "population": 1798194,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 105,
           "deceased": 2,
           "recovered": 98,
-          "tested": 6312
+          "tested": 6535
         }
       },
       "Baran": {
         "delta": {
-          "recovered": 1
+          "recovered": 1,
+          "tested": 146
         },
         "meta": {
           "population": 1223921,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 76,
           "deceased": 4,
           "recovered": 65,
-          "tested": 7537
+          "tested": 7683
         }
       },
       "Barmer": {
         "delta": {
           "confirmed": 29,
-          "recovered": 14
+          "recovered": 14,
+          "tested": 706
         },
         "meta": {
           "population": 2604453,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 742,
           "deceased": 5,
           "recovered": 455,
-          "tested": 21497
+          "tested": 22203
         }
       },
       "Bharatpur": {
         "delta": {
           "confirmed": 11,
-          "recovered": 42
+          "recovered": 42,
+          "tested": 413
         },
         "meta": {
           "population": 2549121,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 1995,
           "deceased": 42,
           "recovered": 1750,
-          "tested": 29969
+          "tested": 30382
         }
       },
       "Bhilwara": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "tested": 716
         },
         "meta": {
           "population": 2410459,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 300,
           "deceased": 6,
           "recovered": 267,
-          "tested": 38759
+          "tested": 39475
         }
       },
       "Bikaner": {
         "delta": {
           "confirmed": 106,
-          "recovered": 23
+          "recovered": 23,
+          "tested": 1929
         },
         "meta": {
           "population": 2367745,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 1061,
           "deceased": 21,
           "recovered": 379,
-          "tested": 38696
+          "tested": 40625
         }
       },
       "Bundi": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "tested": 195
         },
         "meta": {
           "population": 1113725,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 30,
           "recovered": 14,
-          "tested": 6043
+          "tested": 6238
         }
       },
       "Chittorgarh": {
+        "delta": {
+          "tested": 77
+        },
         "meta": {
           "population": 1544392,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 215,
           "deceased": 6,
           "recovered": 205,
-          "tested": 12583
+          "tested": 12660
         }
       },
       "Churu": {
         "delta": {
           "confirmed": 51,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 262
         },
         "meta": {
           "population": 2041172,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 442,
           "deceased": 2,
           "recovered": 338,
-          "tested": 13039
+          "tested": 13301
         }
       },
       "Dausa": {
         "delta": {
           "confirmed": 4,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 84
         },
         "meta": {
           "population": 1637226,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 224,
           "deceased": 4,
           "recovered": 188,
-          "tested": 13072
+          "tested": 13156
         }
       },
       "Dholpur": {
         "delta": {
           "confirmed": 26,
-          "recovered": 17
+          "recovered": 17,
+          "tested": 1136
         },
         "meta": {
           "population": 1207293,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 872,
           "deceased": 13,
           "recovered": 745,
-          "tested": 19621
+          "tested": 20757
         }
       },
       "Dungarpur": {
         "delta": {
-          "recovered": 3
+          "recovered": 3,
+          "tested": 840
         },
         "meta": {
           "population": 1388906,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 494,
           "deceased": 1,
           "recovered": 457,
-          "tested": 28168
+          "tested": 29008
         }
       },
       "Evacuees": {
@@ -8930,39 +8957,41 @@
       },
       "Ganganagar": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "tested": 154
         },
         "meta": {
           "population": 1969520,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 86,
           "deceased": 3,
           "recovered": 48,
-          "tested": 8549
+          "tested": 8703
         }
       },
       "Hanumangarh": {
         "delta": {
           "confirmed": 2,
-          "recovered": 8
+          "recovered": 8,
+          "tested": 283
         },
         "meta": {
           "population": 1779650,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 139,
           "deceased": 1,
           "recovered": 78,
-          "tested": 11172
+          "tested": 11455
         }
       },
       "Italians": {
@@ -8975,166 +9004,175 @@
         "delta": {
           "confirmed": 39,
           "deceased": 1,
-          "recovered": 26
+          "recovered": 26,
+          "tested": 2665
         },
         "meta": {
           "population": 6663971,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 4002,
           "deceased": 176,
           "recovered": 3190,
-          "tested": 135395
+          "tested": 138060
         }
       },
       "Jaisalmer": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": 560
         },
         "meta": {
           "population": 672008,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 118,
           "recovered": 113,
-          "tested": 20112
+          "tested": 20672
         }
       },
       "Jalore": {
         "delta": {
           "confirmed": 31,
-          "recovered": 62
+          "recovered": 62,
+          "tested": 1343
         },
         "meta": {
           "population": 1830151,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 710,
           "deceased": 3,
           "recovered": 356,
-          "tested": 40554
+          "tested": 41897
         }
       },
       "Jhalawar": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 594
         },
         "meta": {
           "population": 1411327,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 384,
           "recovered": 378,
-          "tested": 32272
+          "tested": 32866
         }
       },
       "Jhunjhunu": {
         "delta": {
           "confirmed": 4,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 200
         },
         "meta": {
           "population": 2139658,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 459,
           "deceased": 3,
           "recovered": 429,
-          "tested": 17971
+          "tested": 18171
         }
       },
       "Jodhpur": {
         "delta": {
           "confirmed": 128,
-          "recovered": 43
+          "recovered": 43,
+          "tested": 5229
         },
         "meta": {
           "population": 3685681,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 4052,
           "deceased": 65,
           "recovered": 2873,
-          "tested": 190215
+          "tested": 195444
         }
       },
       "Karauli": {
         "delta": {
-          "confirmed": 8
+          "confirmed": 8,
+          "tested": 25
         },
         "meta": {
           "population": 1458459,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 157,
           "deceased": 4,
           "recovered": 105,
-          "tested": 7700
+          "tested": 7725
         }
       },
       "Kota": {
         "delta": {
-          "confirmed": 44
+          "confirmed": 44,
+          "tested": 1463
         },
         "meta": {
           "population": 1950491,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 857,
           "deceased": 27,
           "recovered": 710,
-          "tested": 71587
+          "tested": 73050
         }
       },
       "Nagaur": {
         "delta": {
           "confirmed": 6,
-          "recovered": 25
+          "recovered": 25,
+          "tested": 781
         },
         "meta": {
           "population": 3309234,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 948,
           "deceased": 18,
           "recovered": 702,
-          "tested": 30698
+          "tested": 31479
         }
       },
       "Other State": {
@@ -9151,149 +9189,159 @@
       "Pali": {
         "delta": {
           "confirmed": 48,
-          "recovered": 8
+          "recovered": 8,
+          "tested": 2405
         },
         "meta": {
           "population": 2038533,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 1554,
           "deceased": 15,
           "recovered": 1240,
-          "tested": 46495
+          "tested": 48900
         }
       },
       "Pratapgarh": {
         "delta": {
           "confirmed": 2,
-          "recovered": 89
+          "recovered": 89,
+          "tested": 330
         },
         "meta": {
           "population": 868231,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 151,
           "deceased": 1,
           "recovered": 104,
-          "tested": 9096
+          "tested": 9426
         }
       },
       "Rajsamand": {
         "delta": {
           "confirmed": 5,
           "deceased": 2,
-          "recovered": 12
+          "recovered": 12,
+          "tested": 408
         },
         "meta": {
           "population": 1158283,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 392,
           "deceased": 3,
           "recovered": 308,
-          "tested": 13418
+          "tested": 13826
         }
       },
       "Sawai Madhopur": {
         "delta": {
-          "recovered": 4
+          "recovered": 4,
+          "tested": 384
         },
         "meta": {
           "population": 1338114,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 132,
           "deceased": 9,
           "recovered": 102,
-          "tested": 8840
+          "tested": 9224
         }
       },
       "Sikar": {
         "delta": {
           "confirmed": 3,
-          "recovered": 17
+          "recovered": 17,
+          "tested": 727
         },
         "meta": {
           "population": 2677737,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 709,
           "deceased": 7,
           "recovered": 644,
-          "tested": 43850
+          "tested": 44577
         }
       },
       "Sirohi": {
         "delta": {
           "confirmed": 1,
-          "recovered": 22
+          "recovered": 22,
+          "tested": 510
         },
         "meta": {
           "population": 1037185,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 678,
           "deceased": 8,
           "recovered": 596,
-          "tested": 27524
+          "tested": 28034
         }
       },
       "Tonk": {
+        "delta": {
+          "tested": 147
+        },
         "meta": {
           "population": 1421711,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 214,
           "deceased": 2,
           "recovered": 203,
-          "tested": 14063
+          "tested": 14210
         }
       },
       "Udaipur": {
         "delta": {
           "confirmed": 10,
-          "recovered": 5
+          "recovered": 5,
+          "tested": 873
         },
         "meta": {
           "population": 3067549,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/airnews_jaipur/status/1282703354347413504"
+            "last_updated": "2020-07-14",
+            "source": "http://www.rajswasthya.nic.in/"
           }
         },
         "total": {
           "confirmed": 911,
           "deceased": 7,
           "recovered": 789,
-          "tested": 42984
+          "tested": 43857
         }
       }
     },
@@ -10582,109 +10630,115 @@
     "districts": {
       "Dhalai": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 12,
+          "tested": 222
         },
         "meta": {
           "population": 377988,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 283,
           "migrated": 1,
           "recovered": 241,
-          "tested": 7520
+          "tested": 7742
         }
       },
       "Gomati": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "tested": 263
         },
         "meta": {
           "population": 436868,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 306,
           "migrated": 1,
           "recovered": 169,
-          "tested": 9853
+          "tested": 10116
         }
       },
       "Khowai": {
         "delta": {
-          "confirmed": 9
+          "confirmed": 9,
+          "tested": 73
         },
         "meta": {
           "population": 327391,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 215,
           "deceased": 1,
           "recovered": 79,
-          "tested": 4002
+          "tested": 4075
         }
       },
       "North Tripura": {
         "delta": {
-          "confirmed": 16
+          "confirmed": 16,
+          "tested": 741
         },
         "meta": {
           "population": 415946,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 95,
           "migrated": 6,
           "recovered": 35,
-          "tested": 15669
+          "tested": 16410
         }
       },
       "Sipahijala": {
         "delta": {
-          "confirmed": 6
+          "confirmed": 6,
+          "tested": 113
         },
         "meta": {
           "population": 484233,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 658,
           "recovered": 563,
-          "tested": 9223
+          "tested": 9336
         }
       },
       "South Tripura": {
         "delta": {
-          "confirmed": 7
+          "confirmed": 7,
+          "tested": 263
         },
         "meta": {
           "population": 433737,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 168,
           "migrated": 1,
           "recovered": 135,
-          "tested": 9209
+          "tested": 9472
         }
       },
       "Unknown": {
@@ -10697,30 +10751,32 @@
       },
       "Unokoti": {
         "delta": {
-          "confirmed": 4
+          "confirmed": 4,
+          "tested": 87
         },
         "meta": {
           "population": 277335,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
           "confirmed": 90,
           "recovered": 71,
-          "tested": 3239
+          "tested": 3326
         }
       },
       "West Tripura": {
         "delta": {
-          "confirmed": 29
+          "confirmed": 29,
+          "tested": 704
         },
         "meta": {
           "population": 917534,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1130"
+            "last_updated": "2020-07-14",
+            "source": "https://covid19.tripura.gov.in/Visitor/ViewStatus.aspx"
           }
         },
         "total": {
@@ -10728,7 +10784,7 @@
           "deceased": 1,
           "migrated": 5,
           "recovered": 182,
-          "tested": 27496
+          "tested": 28200
         }
       }
     },
