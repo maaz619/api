@@ -4838,6 +4838,9 @@
     }
   },
   "MH": {
+    "delta": {
+      "tested": 31075
+    },
     "districts": {
       "Ahmednagar": {
         "meta": {
@@ -5343,8 +5346,8 @@
       "notes": "297 cases were marked as non-covid deaths in MH bulletin. These have been reduced from active count\n[June 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[June 20]: 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://t.co/J1UjqDnzwT?amp=1"
+        "last_updated": "2020-07-14",
+        "source": "https://t.co/iJ0HZFH2bs?amp=1"
       }
     },
     "total": {
@@ -5352,7 +5355,7 @@
       "deceased": 10482,
       "migrated": 297,
       "recovered": 144507,
-      "tested": 1345128
+      "tested": 1376203
     }
   },
   "ML": {
@@ -7560,78 +7563,85 @@
   "PY": {
     "delta": {
       "confirmed": 63,
-      "recovered": 44
+      "recovered": 44,
+      "tested": 637
     },
     "districts": {
       "Karaikal": {
         "delta": {
-          "confirmed": 2
+          "confirmed": 2,
+          "tested": 197
         },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/13.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-14",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 99,
           "deceased": 2,
           "recovered": 42,
-          "tested": 3457
+          "tested": 3654
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 22
+        },
         "meta": {
           "population": 41816,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/13.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-14",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 21,
           "recovered": 20,
-          "tested": 1091
+          "tested": 1113
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 51,
-          "recovered": 33
+          "recovered": 33,
+          "tested": 378
         },
         "meta": {
           "notes": "21 cases(16 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/13.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-14",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 1376,
           "deceased": 16,
           "recovered": 756,
-          "tested": 20735
+          "tested": 21113
         }
       },
       "Yanam": {
         "delta": {
           "confirmed": 10,
-          "recovered": 11
+          "recovered": 11,
+          "tested": 40
         },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/13.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-14",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 35,
           "recovered": 11,
-          "tested": 1309
+          "tested": 1349
         }
       }
     },
@@ -7639,15 +7649,15 @@
       "last_updated": "2020-07-14T11:07:13+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/13.07.2020%20bulletin.pdf"
+        "last_updated": "2020-07-14",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
       }
     },
     "total": {
       "confirmed": 1531,
       "deceased": 18,
       "recovered": 829,
-      "tested": 26592
+      "tested": 27229
     }
   },
   "RJ": {
