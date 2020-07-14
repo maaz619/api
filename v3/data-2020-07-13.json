@@ -371,56 +371,62 @@
     },
     "districts": {
       "Anjaw": {
+        "delta": {
+          "tested": -21
+        },
         "meta": {
           "population": 21089,
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/DirectorateofHS/status/1282382077703286784?s=20"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
           "confirmed": 4,
-          "tested": 199
+          "tested": 178
         }
       },
       "Capital Complex": {
+        "delta": {
+          "tested": -2086
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/DirectorateofHS/status/1282382077703286784?s=20"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
-          "tested": 9887
+          "tested": 7801
         }
       },
       "Changlang": {
         "delta": {
           "confirmed": 1,
-          "recovered": 3
+          "recovered": 3,
+          "tested": -642
         },
         "meta": {
           "population": 147951,
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/DirectorateofHS/status/1282382077703286784?s=20"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
           "confirmed": 110,
           "recovered": 74,
-          "tested": 5245
+          "tested": 4603
         }
       },
       "Dibang Valley": {
+        "delta": {
+          "tested": 10
+        },
         "meta": {
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/DirectorateofHS/status/1282382077703286784?s=20"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
-          "tested": 10
+          "tested": 20
         }
       },
       "East Kameng": {
@@ -603,20 +609,20 @@
       "Papum Pare": {
         "delta": {
           "confirmed": 22,
-          "deceased": 1
+          "deceased": 1,
+          "tested": -148
         },
         "meta": {
           "population": 176385,
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/DirectorateofHS/status/1282382077703286784?s=20"
+            "last_updated": "2020-07-13"
           }
         },
         "total": {
           "confirmed": 171,
           "deceased": 1,
           "recovered": 24,
-          "tested": 880
+          "tested": 732
         }
       },
       "Shi Yomi": {
@@ -4712,20 +4718,21 @@
       },
       "Bengaluru Rural": {
         "delta": {
-          "confirmed": 21
+          "confirmed": 21,
+          "tested": 85
         },
         "meta": {
           "population": 987257,
           "tested": {
-            "last_updated": "2020-07-12",
-            "source": "https://twitter.com/B_Rural_DIPR/status/1282360220174315520?s=20"
+            "last_updated": "2020-07-13",
+            "source": "https://twitter.com/B_Rural_DIPR/status/1282847114125381635?s=20"
           }
         },
         "total": {
           "confirmed": 385,
           "deceased": 7,
           "recovered": 46,
-          "tested": 6881
+          "tested": 6966
         }
       },
       "Bengaluru Urban": {
