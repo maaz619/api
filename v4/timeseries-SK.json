@@ -694,13 +694,14 @@
       "2020-07-14": {
         "delta": {
           "confirmed": 45,
-          "recovered": -1
+          "recovered": -1,
+          "tested": 303
         },
         "total": {
           "confirmed": 211,
           "migrated": 13,
           "recovered": 86,
-          "tested": 12636
+          "tested": 12939
         }
       }
     },
@@ -1046,8 +1047,11 @@
             }
           },
           "2020-07-14": {
+            "delta": {
+              "confirmed": 39
+            },
             "total": {
-              "confirmed": 105,
+              "confirmed": 144,
               "migrated": 13,
               "recovered": 42
             }
@@ -1650,11 +1654,11 @@
           },
           "2020-07-14": {
             "delta": {
-              "confirmed": 45,
+              "confirmed": 6,
               "recovered": -1
             },
             "total": {
-              "confirmed": 45,
+              "confirmed": 6,
               "recovered": 6
             }
           }
