@@ -3011,7 +3011,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 55
+      "confirmed": 59,
+      "recovered": 6
     },
     "districts": {
       "Bilaspur": {
@@ -3062,6 +3063,10 @@
         }
       },
       "Kangra": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 6
+        },
         "meta": {
           "notes": "Death of Tibetan refugee on March 22 included in Kangra district's tally",
           "population": 1507223,
@@ -3071,9 +3076,9 @@
           }
         },
         "total": {
-          "confirmed": 312,
+          "confirmed": 314,
           "deceased": 3,
-          "recovered": 264,
+          "recovered": 270,
           "tested": 22471
         }
       },
@@ -3135,6 +3140,9 @@
         }
       },
       "Shimla": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 813384,
           "tested": {
@@ -3143,7 +3151,7 @@
           }
         },
         "total": {
-          "confirmed": 60,
+          "confirmed": 62,
           "deceased": 2,
           "migrated": 1,
           "recovered": 41,
@@ -3204,7 +3212,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T12:18:09+05:30",
+      "last_updated": "2020-07-14T20:53:02+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3213,10 +3221,10 @@
       }
     },
     "total": {
-      "confirmed": 1298,
+      "confirmed": 1302,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 927,
+      "recovered": 933,
       "tested": 101200
     }
   },
@@ -10016,6 +10024,9 @@
     }
   },
   "TR": {
+    "delta": {
+      "recovered": 63
+    },
     "districts": {
       "Dhalai": {
         "meta": {
@@ -10106,6 +10117,14 @@
           "tested": 9209
         }
       },
+      "Unknown": {
+        "delta": {
+          "recovered": 63
+        },
+        "total": {
+          "recovered": 63
+        }
+      },
       "Unokoti": {
         "meta": {
           "population": 277335,
@@ -10138,7 +10157,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T22:28:11+05:30",
+      "last_updated": "2020-07-14T20:53:01+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10149,19 +10168,19 @@
       "confirmed": 2093,
       "deceased": 2,
       "migrated": 14,
-      "recovered": 1475,
+      "recovered": 1538,
       "tested": 86211
     }
   },
   "TT": {
     "delta": {
-      "confirmed": 25873,
+      "confirmed": 25877,
       "deceased": 555,
       "migrated": 2,
-      "recovered": 18146
+      "recovered": 18215
     },
     "meta": {
-      "last_updated": "2020-07-14T20:40:57+05:30",
+      "last_updated": "2020-07-14T20:52:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10169,10 +10188,10 @@
       }
     },
     "total": {
-      "confirmed": 933518,
+      "confirmed": 933522,
       "deceased": 24283,
       "migrated": 389,
-      "recovered": 590258,
+      "recovered": 590327,
       "tested": 12092503
     }
   },
