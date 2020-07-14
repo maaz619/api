@@ -1632,10 +1632,18 @@
   },
   "CH": {
     "delta": {
+      "confirmed": 12,
+      "deceased": 2,
+      "recovered": 23,
       "tested": 112
     },
     "districts": {
       "Chandigarh": {
+        "delta": {
+          "confirmed": 12,
+          "deceased": 2,
+          "recovered": 23
+        },
         "meta": {
           "population": 1055450,
           "tested": {
@@ -1644,15 +1652,15 @@
           }
         },
         "total": {
-          "confirmed": 588,
-          "deceased": 8,
-          "recovered": 423,
+          "confirmed": 600,
+          "deceased": 10,
+          "recovered": 446,
           "tested": 9405
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T20:28:26+05:30",
+      "last_updated": "2020-07-14T20:37:04+05:30",
       "population": 1179000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -1660,9 +1668,9 @@
       }
     },
     "total": {
-      "confirmed": 588,
-      "deceased": 8,
-      "recovered": 423,
+      "confirmed": 600,
+      "deceased": 10,
+      "recovered": 446,
       "tested": 9834
     }
   },
@@ -2214,8 +2222,8 @@
   },
   "DN": {
     "delta": {
-      "confirmed": 5,
-      "recovered": 15
+      "confirmed": 16,
+      "recovered": 32
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2238,6 +2246,10 @@
         }
       },
       "Daman": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 17
+        },
         "meta": {
           "population": 191173,
           "tested": {
@@ -2246,10 +2258,10 @@
           }
         },
         "total": {
-          "confirmed": 265,
+          "confirmed": 276,
           "deceased": 1,
           "migrated": 1,
-          "recovered": 151,
+          "recovered": 168,
           "tested": 10528
         }
       },
@@ -2270,7 +2282,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T17:59:13+05:30",
+      "last_updated": "2020-07-14T20:37:06+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2279,10 +2291,10 @@
       }
     },
     "total": {
-      "confirmed": 530,
+      "confirmed": 541,
       "deceased": 1,
       "migrated": 7,
-      "recovered": 325,
+      "recovered": 342,
       "tested": 36621
     }
   },
@@ -2983,7 +2995,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:23:00+05:30",
+      "last_updated": "2020-07-14T20:26:59+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -4805,7 +4817,7 @@
       "Kannur": {
         "delta": {
           "confirmed": 12,
-          "recovered": 49
+          "recovered": 46
         },
         "meta": {
           "population": 2525637
@@ -4813,7 +4825,7 @@
         "total": {
           "confirmed": 764,
           "deceased": 6,
-          "recovered": 467
+          "recovered": 464
         }
       },
       "Kasaragod": {
@@ -4860,7 +4872,7 @@
       "Kozhikode": {
         "delta": {
           "confirmed": 58,
-          "recovered": 21
+          "recovered": 20
         },
         "meta": {
           "population": 3089543
@@ -4868,13 +4880,13 @@
         "total": {
           "confirmed": 477,
           "deceased": 2,
-          "recovered": 269
+          "recovered": 268
         }
       },
       "Malappuram": {
         "delta": {
           "confirmed": 58,
-          "recovered": 9
+          "recovered": 11
         },
         "meta": {
           "population": 4110956
@@ -4882,7 +4894,7 @@
         "total": {
           "confirmed": 1095,
           "deceased": 5,
-          "recovered": 507
+          "recovered": 509
         }
       },
       "Palakkad": {
@@ -4916,7 +4928,7 @@
       "Thiruvananthapuram": {
         "delta": {
           "confirmed": 201,
-          "recovered": 15
+          "recovered": 16
         },
         "meta": {
           "population": 3307284
@@ -4924,13 +4936,13 @@
         "total": {
           "confirmed": 1006,
           "deceased": 6,
-          "recovered": 223
+          "recovered": 224
         }
       },
       "Thrissur": {
         "delta": {
           "confirmed": 42,
-          "recovered": 9
+          "recovered": 10
         },
         "meta": {
           "population": 3110327
@@ -4938,7 +4950,7 @@
         "total": {
           "confirmed": 673,
           "deceased": 4,
-          "recovered": 421
+          "recovered": 422
         }
       },
       "Wayanad": {
@@ -6901,7 +6913,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:23:02+05:30",
+      "last_updated": "2020-07-14T20:27:01+05:30",
       "population": 82232000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -7202,7 +7214,8 @@
       "last_updated": "2020-07-14T18:15:10+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://twitter.com/MyGovNagaland/status/1283017134180728834?s=20"
       }
     },
     "total": {
@@ -7725,7 +7738,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:23:04+05:30",
+      "last_updated": "2020-07-14T20:27:02+05:30",
       "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -8838,6 +8851,10 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 45,
+      "recovered": -1
+    },
     "districts": {
       "East Sikkim": {
         "meta": {
@@ -8868,8 +8885,13 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 45,
+          "recovered": -1
+        },
         "total": {
-          "recovered": 7
+          "confirmed": 45,
+          "recovered": 6
         }
       },
       "West Sikkim": {
@@ -8883,7 +8905,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T00:28:10+05:30",
+      "last_updated": "2020-07-14T20:37:07+05:30",
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
@@ -8892,9 +8914,9 @@
       }
     },
     "total": {
-      "confirmed": 166,
+      "confirmed": 211,
       "migrated": 13,
-      "recovered": 87,
+      "recovered": 86,
       "tested": 12636
     }
   },
@@ -10133,13 +10155,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 25805,
-      "deceased": 553,
+      "confirmed": 25873,
+      "deceased": 555,
       "migrated": 2,
-      "recovered": 18107
+      "recovered": 18146
     },
     "meta": {
-      "last_updated": "2020-07-14T20:22:58+05:30",
+      "last_updated": "2020-07-14T20:36:59+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10147,10 +10169,10 @@
       }
     },
     "total": {
-      "confirmed": 933450,
-      "deceased": 24281,
+      "confirmed": 933518,
+      "deceased": 24283,
       "migrated": 389,
-      "recovered": 590219,
+      "recovered": 590258,
       "tested": 12092503
     }
   },
@@ -11659,7 +11681,7 @@
       },
       "Dehradun": {
         "delta": {
-          "confirmed": 12
+          "confirmed": 11
         },
         "meta": {
           "population": 1698560,
@@ -11669,7 +11691,7 @@
           }
         },
         "total": {
-          "confirmed": 890,
+          "confirmed": 889,
           "deceased": 28,
           "migrated": 22,
           "recovered": 666,
@@ -11678,7 +11700,7 @@
       },
       "Haridwar": {
         "delta": {
-          "confirmed": 22
+          "confirmed": 23
         },
         "meta": {
           "population": 1927029,
@@ -11688,7 +11710,7 @@
           }
         },
         "total": {
-          "confirmed": 398,
+          "confirmed": 399,
           "migrated": 8,
           "recovered": 305,
           "tested": 12995
@@ -11819,7 +11841,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T19:58:15+05:30",
+      "last_updated": "2020-07-14T20:29:00+05:30",
       "notes": "33 Migrated cases reduced from Active count",
       "population": 11141000,
       "tested": {
