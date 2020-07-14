@@ -1,5 +1,8 @@
 {
   "AN": {
+    "delta": {
+      "confirmed": 5
+    },
     "districts": {
       "North and Middle Andaman": {
         "meta": {
@@ -20,8 +23,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 5
+        },
         "total": {
-          "confirmed": 114,
+          "confirmed": 119,
           "recovered": 76
         }
       }
@@ -35,7 +41,7 @@
       }
     },
     "total": {
-      "confirmed": 166,
+      "confirmed": 171,
       "recovered": 109,
       "tested": 18609
     }
@@ -1035,7 +1041,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T21:53:00+05:30",
+      "last_updated": "2020-07-14T21:57:00+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -3101,8 +3107,8 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 59,
-      "recovered": 6,
+      "confirmed": 66,
+      "recovered": 11,
       "tested": 2321
     },
     "districts": {
@@ -3174,6 +3180,9 @@
         }
       },
       "Kinnaur": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 84298,
           "tested": {
@@ -3182,7 +3191,7 @@
           }
         },
         "total": {
-          "confirmed": 35,
+          "confirmed": 36,
           "recovered": 7,
           "tested": 2369
         }
@@ -3266,7 +3275,8 @@
       },
       "Solan": {
         "delta": {
-          "confirmed": 48
+          "confirmed": 51,
+          "recovered": 5
         },
         "meta": {
           "population": 576670,
@@ -3276,13 +3286,16 @@
           }
         },
         "total": {
-          "confirmed": 256,
+          "confirmed": 259,
           "migrated": 4,
-          "recovered": 99,
+          "recovered": 104,
           "tested": 16472
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "population": 521057,
           "tested": {
@@ -3291,7 +3304,7 @@
           }
         },
         "total": {
-          "confirmed": 141,
+          "confirmed": 144,
           "recovered": 114,
           "tested": 10049
         }
@@ -3303,7 +3316,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:57:02+05:30",
+      "last_updated": "2020-07-14T22:03:00+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -3312,10 +3325,10 @@
       }
     },
     "total": {
-      "confirmed": 1302,
+      "confirmed": 1309,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 933,
+      "recovered": 938,
       "tested": 103521
     }
   },
@@ -4386,20 +4399,21 @@
       },
       "Belagavi": {
         "delta": {
-          "confirmed": 64
+          "confirmed": 64,
+          "tested": 1005
         },
         "meta": {
           "population": 4778439,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/deobelagavi/status/1282694587853631488?s=20"
+            "last_updated": "2020-07-14",
+            "source": "https://twitter.com/deobelagavi/status/1283073881796775936?s=20"
           }
         },
         "total": {
           "confirmed": 561,
           "deceased": 14,
           "recovered": 362,
-          "tested": 30719
+          "tested": 31724
         }
       },
       "Bengaluru": {
@@ -4591,20 +4605,21 @@
         "delta": {
           "confirmed": 100,
           "deceased": 1,
-          "recovered": 32
+          "recovered": 32,
+          "tested": 549
         },
         "meta": {
           "population": 1846993,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1129"
+            "last_updated": "2020-07-14",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1149"
           }
         },
         "total": {
           "confirmed": 1259,
           "deceased": 39,
           "recovered": 451,
-          "tested": 31161
+          "tested": 31710
         }
       },
       "Gadag": {
@@ -4667,20 +4682,21 @@
         "delta": {
           "confirmed": 121,
           "deceased": 1,
-          "recovered": 13
+          "recovered": 13,
+          "tested": 837
         },
         "meta": {
           "population": 2564892,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/MiraskarRavi/status/1282711278759186433?s=20"
+            "last_updated": "2020-07-14",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1150"
           }
         },
         "total": {
           "confirmed": 2313,
           "deceased": 37,
           "recovered": 1519,
-          "tested": 80633
+          "tested": 81470
         }
       },
       "Kodagu": {
@@ -5157,7 +5173,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T19:18:11+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -5213,7 +5229,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T17:41:09+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -6004,7 +6020,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T20:07:14+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
@@ -6608,20 +6624,21 @@
         "delta": {
           "confirmed": 34,
           "deceased": 1,
-          "recovered": 9
+          "recovered": 9,
+          "tested": 379
         },
         "meta": {
           "population": 2460714,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://twitter.com/jabalpurdm/status/1282710495036760068?s=20"
+            "last_updated": "2020-07-14",
+            "source": "https://twitter.com/jabalpurdm/status/1283064773559500800?s=20"
           }
         },
         "total": {
           "confirmed": 606,
           "deceased": 16,
           "recovered": 418,
-          "tested": 20079
+          "tested": 20458
         }
       },
       "Jhabua": {
@@ -8366,7 +8383,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T19:54:14+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "population": 29859000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -10458,13 +10475,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 26920,
+      "confirmed": 26932,
       "deceased": 573,
       "migrated": 2,
-      "recovered": 19638
+      "recovered": 19643
     },
     "meta": {
-      "last_updated": "2020-07-14T21:52:58+05:30",
+      "last_updated": "2020-07-14T22:02:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10472,10 +10489,10 @@
       }
     },
     "total": {
-      "confirmed": 934565,
+      "confirmed": 934577,
       "deceased": 24301,
       "migrated": 389,
-      "recovered": 591750,
+      "recovered": 591755,
       "tested": 12092503
     }
   },
@@ -11899,7 +11916,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T18:40:09+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -12510,7 +12527,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T20:07:10+05:30",
+      "last_updated": "2020-07-14T20:12:02+05:30",
       "population": 96906000,
       "tested": {
         "last_updated": "2020-07-14",
