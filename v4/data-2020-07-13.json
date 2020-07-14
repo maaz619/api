@@ -364,6 +364,7 @@
   "AR": {
     "delta": {
       "confirmed": 27,
+      "deceased": 1,
       "recovered": 7,
       "tested": 1171
     },
@@ -393,6 +394,9 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -402,7 +406,7 @@
         },
         "total": {
           "confirmed": 109,
-          "recovered": 71,
+          "recovered": 74,
           "tested": 5245
         }
       },
@@ -560,6 +564,9 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 95950,
           "tested": {
@@ -569,7 +576,7 @@
         },
         "total": {
           "confirmed": 19,
-          "recovered": 5,
+          "recovered": 6,
           "tested": 1836
         }
       },
@@ -639,6 +646,9 @@
         }
       },
       "Tirap": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 111997,
           "tested": {
@@ -648,18 +658,18 @@
         },
         "total": {
           "confirmed": 5,
-          "recovered": 3,
+          "recovered": 5,
           "tested": 1715
         }
       },
       "Unknown": {
         "delta": {
           "confirmed": 27,
-          "recovered": 7
+          "deceased": 1
         },
         "total": {
           "confirmed": 27,
-          "recovered": 7
+          "deceased": 1
         }
       },
       "Upper Siang": {
@@ -705,6 +715,9 @@
         }
       },
       "West Siang": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 112272,
           "tested": {
@@ -714,7 +727,7 @@
         },
         "total": {
           "confirmed": 2,
-          "recovered": 1,
+          "recovered": 2,
           "tested": 636
         }
       }
@@ -728,7 +741,7 @@
     },
     "total": {
       "confirmed": 387,
-      "deceased": 2,
+      "deceased": 3,
       "recovered": 145,
       "tested": 32691
     }
@@ -10593,7 +10606,7 @@
   "TT": {
     "delta": {
       "confirmed": 28178,
-      "deceased": 540,
+      "deceased": 541,
       "migrated": 2,
       "recovered": 17683,
       "tested": 286247
@@ -10607,7 +10620,7 @@
     },
     "total": {
       "confirmed": 907645,
-      "deceased": 23727,
+      "deceased": 23728,
       "migrated": 384,
       "recovered": 572112,
       "tested": 12092503
