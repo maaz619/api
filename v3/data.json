@@ -726,6 +726,7 @@
         },
         "total": {
           "confirmed": 334,
+          "deceased": 1,
           "recovered": 156
         }
       },
@@ -792,7 +793,7 @@
         },
         "total": {
           "confirmed": 215,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 63
         }
       },
@@ -802,7 +803,7 @@
         },
         "total": {
           "confirmed": 7556,
-          "deceased": 14,
+          "deceased": 24,
           "recovered": 4587
         }
       },
@@ -920,6 +921,7 @@
         },
         "total": {
           "confirmed": 291,
+          "deceased": 1,
           "recovered": 109
         }
       },
@@ -936,7 +938,7 @@
       "Unknown": {
         "total": {
           "confirmed": 3115,
-          "deceased": 16,
+          "deceased": 3,
           "migrated": 3,
           "recovered": 2421
         }
@@ -2605,6 +2607,9 @@
     }
   },
   "HP": {
+    "delta": {
+      "confirmed": 55
+    },
     "districts": {
       "Bilaspur": {
         "meta": {
@@ -2621,15 +2626,18 @@
         }
       },
       "Chamba": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 518844,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
-          "confirmed": 61,
+          "confirmed": 68,
           "migrated": 1,
           "recovered": 51,
           "tested": 8223
@@ -2640,7 +2648,7 @@
           "population": 454293,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2656,7 +2664,7 @@
           "population": 1507223,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2671,7 +2679,7 @@
           "population": 84298,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2685,7 +2693,7 @@
           "population": 437474,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2699,7 +2707,7 @@
           "population": 31528,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2713,7 +2721,7 @@
           "population": 999518,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2728,7 +2736,7 @@
           "population": 813384,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2744,7 +2752,7 @@
           "population": 530164,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2755,15 +2763,18 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 48
+        },
         "meta": {
           "population": 576670,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
-          "confirmed": 208,
+          "confirmed": 256,
           "migrated": 4,
           "recovered": 99,
           "tested": 16210
@@ -2774,7 +2785,7 @@
           "population": 521057,
           "tested": {
             "last_updated": "2020-07-12",
-            "source": "https://t.me/c/1238093174/7530"
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1115"
           }
         },
         "total": {
@@ -2790,7 +2801,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-13T21:51:28+05:30",
+      "last_updated": "2020-07-14T12:14:09+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
@@ -2799,7 +2810,7 @@
       }
     },
     "total": {
-      "confirmed": 1243,
+      "confirmed": 1298,
       "deceased": 10,
       "migrated": 13,
       "recovered": 927,
@@ -8775,12 +8786,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 558,
+      "confirmed": 613,
       "deceased": 8,
       "recovered": 168
     },
     "meta": {
-      "last_updated": "2020-07-14T12:00:06+05:30",
+      "last_updated": "2020-07-14T12:14:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -8788,7 +8799,7 @@
       }
     },
     "total": {
-      "confirmed": 908203,
+      "confirmed": 908258,
       "deceased": 23736,
       "migrated": 384,
       "recovered": 572280,
