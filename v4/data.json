@@ -2159,6 +2159,7 @@
         "total": {
           "confirmed": 265,
           "deceased": 1,
+          "migrated": 1,
           "recovered": 151,
           "tested": 10444
         }
@@ -2173,14 +2174,14 @@
         },
         "total": {
           "confirmed": 25,
-          "migrated": 1,
+          "migrated": 3,
           "recovered": 14,
           "tested": 3581
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T16:49:13+05:30",
+      "last_updated": "2020-07-14T17:50:10+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -2191,7 +2192,7 @@
     "total": {
       "confirmed": 530,
       "deceased": 1,
-      "migrated": 4,
+      "migrated": 7,
       "recovered": 325,
       "tested": 36310
     }
@@ -6125,7 +6126,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T17:38:10+05:30",
+      "last_updated": "2020-07-14T17:42:13+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -8960,7 +8961,7 @@
       "recovered": 1849
     },
     "meta": {
-      "last_updated": "2020-07-14T17:38:06+05:30",
+      "last_updated": "2020-07-14T17:50:06+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -8970,7 +8971,7 @@
     "total": {
       "confirmed": 911629,
       "deceased": 23788,
-      "migrated": 384,
+      "migrated": 387,
       "recovered": 573961,
       "tested": 12092503
     }
