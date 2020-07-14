@@ -395,6 +395,7 @@
       },
       "Changlang": {
         "delta": {
+          "confirmed": 1,
           "recovered": 3
         },
         "meta": {
@@ -405,7 +406,7 @@
           }
         },
         "total": {
-          "confirmed": 109,
+          "confirmed": 110,
           "recovered": 74,
           "tested": 5245
         }
@@ -422,6 +423,9 @@
         }
       },
       "East Kameng": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 78413,
           "tested": {
@@ -430,6 +434,7 @@
           }
         },
         "total": {
+          "confirmed": 2,
           "tested": 279
         }
       },
@@ -565,6 +570,7 @@
       },
       "Namsai": {
         "delta": {
+          "confirmed": 2,
           "recovered": 1
         },
         "meta": {
@@ -575,7 +581,7 @@
           }
         },
         "total": {
-          "confirmed": 19,
+          "confirmed": 21,
           "recovered": 6,
           "tested": 1836
         }
@@ -594,6 +600,10 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 22,
+          "deceased": 1
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -602,7 +612,8 @@
           }
         },
         "total": {
-          "confirmed": 149,
+          "confirmed": 171,
+          "deceased": 1,
           "recovered": 24,
           "tested": 880
         }
@@ -660,16 +671,6 @@
           "confirmed": 5,
           "recovered": 5,
           "tested": 1715
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 27,
-          "deceased": 1
-        },
-        "total": {
-          "confirmed": 27,
-          "deceased": 1
         }
       },
       "Upper Siang": {
