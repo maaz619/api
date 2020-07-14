@@ -6063,7 +6063,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 543
+      "confirmed": 543,
+      "deceased": 5
     },
     "districts": {
       "Angul": {
@@ -6169,7 +6170,8 @@
       },
       "Cuttack": {
         "delta": {
-          "confirmed": 39
+          "confirmed": 39,
+          "deceased": 1
         },
         "meta": {
           "population": 2618708,
@@ -6180,7 +6182,7 @@
         },
         "total": {
           "confirmed": 1060,
-          "deceased": 10,
+          "deceased": 11,
           "recovered": 786,
           "tested": 5720
         }
@@ -6236,7 +6238,8 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 188
+          "confirmed": 188,
+          "deceased": 1
         },
         "meta": {
           "population": 3520151,
@@ -6247,7 +6250,7 @@
         },
         "total": {
           "confirmed": 4335,
-          "deceased": 45,
+          "deceased": 46,
           "recovered": 2433,
           "tested": 6632
         }
@@ -6365,14 +6368,15 @@
       },
       "Khordha": {
         "delta": {
-          "confirmed": 87
+          "confirmed": 87,
+          "deceased": 2
         },
         "meta": {
           "population": 2246341
         },
         "total": {
           "confirmed": 1423,
-          "deceased": 15,
+          "deceased": 17,
           "recovered": 935
         }
       },
@@ -6530,20 +6534,21 @@
       },
       "Sundargarh": {
         "delta": {
-          "confirmed": 52
+          "confirmed": 52,
+          "deceased": 1
         },
         "meta": {
           "population": 2080664
         },
         "total": {
           "confirmed": 725,
-          "deceased": 2,
+          "deceased": 3,
           "recovered": 318
         }
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T11:13:10+05:30",
+      "last_updated": "2020-07-14T11:23:09+05:30",
       "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6553,7 +6558,7 @@
     },
     "total": {
       "confirmed": 14280,
-      "deceased": 91,
+      "deceased": 96,
       "recovered": 9255,
       "tested": 341537
     }
@@ -7551,7 +7556,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T11:13:08+05:30",
+      "last_updated": "2020-07-14T11:17:08+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -8689,11 +8694,11 @@
   "TT": {
     "delta": {
       "confirmed": 558,
-      "deceased": 3,
+      "deceased": 8,
       "recovered": 168
     },
     "meta": {
-      "last_updated": "2020-07-14T11:13:06+05:30",
+      "last_updated": "2020-07-14T11:23:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -8702,7 +8707,7 @@
     },
     "total": {
       "confirmed": 908203,
-      "deceased": 23731,
+      "deceased": 23736,
       "migrated": 384,
       "recovered": 572280,
       "tested": 12092503
