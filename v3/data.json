@@ -1572,7 +1572,8 @@
     "delta": {
       "confirmed": 19,
       "deceased": 1,
-      "recovered": 13
+      "recovered": 13,
+      "tested": 216
     },
     "districts": {
       "Chandigarh": {
@@ -1600,15 +1601,14 @@
       "last_updated": "2020-07-15T18:49:03+05:30",
       "population": 1179000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1141"
+        "last_updated": "2020-07-15"
       }
     },
     "total": {
       "confirmed": 619,
       "deceased": 11,
       "recovered": 459,
-      "tested": 9834
+      "tested": 10050
     }
   },
   "CT": {
@@ -4376,6 +4376,9 @@
     }
   },
   "KL": {
+    "delta": {
+      "tested": 18673
+    },
     "districts": {
       "Alappuzha": {
         "meta": {
@@ -4524,8 +4527,7 @@
       "notes": "Mahe native who expired in Kannur included in Kerala's tally.\nOne patient who absconded from Palakkad to TN and one patient who returned back to Maharashtra has been reduced from active count",
       "population": 35125000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/07/Bulletin-HFWD-English-July-14.pdf"
+        "last_updated": "2020-07-15"
       }
     },
     "total": {
@@ -4533,7 +4535,7 @@
       "deceased": 35,
       "migrated": 4,
       "recovered": 4438,
-      "tested": 435043
+      "tested": 453716
     }
   },
   "LA": {
@@ -6913,14 +6915,14 @@
         "meta": {
           "population": 2490891,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 1109,
           "deceased": 56,
           "recovered": 889,
-          "tested": 29995
+          "tested": 30920
         }
       },
       "Barnala": {
@@ -6941,14 +6943,14 @@
         "meta": {
           "population": 1388859,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 151,
           "deceased": 4,
           "recovered": 95,
-          "tested": 14822
+          "tested": 15245
         }
       },
       "Faridkot": {
@@ -7010,42 +7012,42 @@
         "meta": {
           "population": 2299026,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 291,
           "deceased": 8,
           "recovered": 241,
-          "tested": 19034
+          "tested": 19703
         }
       },
       "Hoshiarpur": {
         "meta": {
           "population": 1582793,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 204,
           "deceased": 7,
           "recovered": 177,
-          "tested": 16152
+          "tested": 16713
         }
       },
       "Jalandhar": {
         "meta": {
           "population": 2181753,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 1345,
           "deceased": 28,
           "recovered": 764,
-          "tested": 27804
+          "tested": 28462
         }
       },
       "Kapurthala": {
@@ -7066,14 +7068,14 @@
         "meta": {
           "population": 3487882,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 1520,
           "deceased": 34,
           "recovered": 888,
-          "tested": 44539
+          "tested": 45564
         }
       },
       "Mansa": {
@@ -7093,14 +7095,14 @@
         "meta": {
           "population": 992289,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 152,
           "deceased": 4,
           "recovered": 112,
-          "tested": 18140
+          "tested": 18914
         }
       },
       "Pathankot": {
@@ -7121,28 +7123,28 @@
         "meta": {
           "population": 2892282,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 723,
           "deceased": 12,
           "recovered": 223,
-          "tested": 27316
+          "tested": 28131
         }
       },
       "Rupnagar": {
         "meta": {
           "population": 683349,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 141,
           "deceased": 1,
           "recovered": 106,
-          "tested": 14513
+          "tested": 14931
         }
       },
       "S.A.S. Nagar": {
@@ -7163,14 +7165,14 @@
         "meta": {
           "population": 1654408,
           "tested": {
-            "last_updated": "2020-07-09"
+            "last_updated": "2020-07-10"
           }
         },
         "total": {
           "confirmed": 667,
           "deceased": 21,
           "recovered": 545,
-          "tested": 18670
+          "tested": 18921
         }
       },
       "Shahid Bhagat Singh Nagar": {
@@ -8284,7 +8286,8 @@
     "delta": {
       "confirmed": 4496,
       "deceased": 68,
-      "recovered": 5000
+      "recovered": 5000,
+      "tested": 41382
     },
     "districts": {
       "Airport Quarantine": {
@@ -9031,19 +9034,19 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T19:14:00+05:30",
+      "last_updated": "2020-07-15T19:18:00+05:30",
       "notes": "2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://stopcorona.tn.gov.dhcp.in/wp-content/uploads/2020/07/Media-Bulletin-14.07.2020-29-Pages-English-493-KB.pdf"
+        "last_updated": "2020-07-15",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/07/Media-Bulletin-15.07.2020-27-Pages-English-479-KB.pdf"
       }
     },
     "total": {
       "confirmed": 151820,
       "deceased": 2167,
       "recovered": 102310,
-      "tested": 1695365
+      "tested": 1736747
     }
   },
   "TR": {
@@ -9183,7 +9186,7 @@
       "recovered": 6650
     },
     "meta": {
-      "last_updated": "2020-07-15T19:13:59+05:30",
+      "last_updated": "2020-07-15T19:17:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
