@@ -362,6 +362,10 @@
     }
   },
   "AR": {
+    "delta": {
+      "confirmed": 75,
+      "recovered": 8
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -388,6 +392,10 @@
         }
       },
       "Changlang": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 2
+        },
         "meta": {
           "population": 147951,
           "tested": {
@@ -396,8 +404,8 @@
           }
         },
         "total": {
-          "confirmed": 110,
-          "recovered": 74,
+          "confirmed": 113,
+          "recovered": 76,
           "tested": 4603
         }
       },
@@ -426,6 +434,9 @@
         }
       },
       "East Siang": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "population": 99019,
           "tested": {
@@ -434,7 +445,7 @@
           }
         },
         "total": {
-          "confirmed": 10,
+          "confirmed": 15,
           "recovered": 10,
           "tested": 2027
         }
@@ -475,6 +486,9 @@
         }
       },
       "Lepa Rada": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-13",
@@ -482,7 +496,7 @@
           }
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 1,
           "tested": 173
         }
@@ -502,6 +516,9 @@
         }
       },
       "Longding": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 60000,
           "tested": {
@@ -510,12 +527,15 @@
           }
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 6,
           "recovered": 2,
           "tested": 733
         }
       },
       "Lower Dibang Valley": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 53986,
           "tested": {
@@ -524,12 +544,15 @@
           }
         },
         "total": {
-          "confirmed": 3,
+          "confirmed": 4,
           "recovered": 3,
           "tested": 871
         }
       },
       "Lower Siang": {
+        "delta": {
+          "recovered": 2
+        },
         "meta": {
           "population": 80597,
           "tested": {
@@ -539,6 +562,7 @@
         },
         "total": {
           "confirmed": 3,
+          "recovered": 2,
           "tested": 484
         }
       },
@@ -556,6 +580,10 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 4
+        },
         "meta": {
           "population": 95950,
           "tested": {
@@ -564,8 +592,8 @@
           }
         },
         "total": {
-          "confirmed": 21,
-          "recovered": 6,
+          "confirmed": 33,
+          "recovered": 10,
           "tested": 1622
         }
       },
@@ -583,6 +611,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 49
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -591,7 +622,7 @@
           }
         },
         "total": {
-          "confirmed": 171,
+          "confirmed": 220,
           "deceased": 1,
           "recovered": 24,
           "tested": 732
@@ -610,6 +641,9 @@
         }
       },
       "Siang": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 31920,
           "tested": {
@@ -618,6 +652,7 @@
           }
         },
         "total": {
+          "confirmed": 1,
           "tested": 155
         }
       },
@@ -636,6 +671,9 @@
         }
       },
       "Tirap": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 111997,
           "tested": {
@@ -644,7 +682,7 @@
           }
         },
         "total": {
-          "confirmed": 5,
+          "confirmed": 6,
           "recovered": 5,
           "tested": 1593
         }
@@ -707,7 +745,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T11:07:16+05:30",
+      "last_updated": "2020-07-15T06:13:20+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -715,9 +753,9 @@
       }
     },
     "total": {
-      "confirmed": 387,
+      "confirmed": 462,
       "deceased": 3,
-      "recovered": 145,
+      "recovered": 153,
       "tested": 32691
     }
   },
@@ -10697,13 +10735,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 29842,
+      "confirmed": 29917,
       "deceased": 587,
       "migrated": 2,
-      "recovered": 20968
+      "recovered": 20976
     },
     "meta": {
-      "last_updated": "2020-07-15T00:37:58+05:30",
+      "last_updated": "2020-07-15T06:13:18+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-13",
@@ -10711,10 +10749,10 @@
       }
     },
     "total": {
-      "confirmed": 937487,
+      "confirmed": 937562,
       "deceased": 24315,
       "migrated": 389,
-      "recovered": 593080,
+      "recovered": 593088,
       "tested": 12092503
     }
   },
