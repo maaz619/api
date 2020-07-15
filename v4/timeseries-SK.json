@@ -1041,32 +1041,35 @@
           },
           "2020-07-12": {
             "delta": {
-              "confirmed": 4
+              "confirmed": 4,
+              "recovered": 1
             },
             "total": {
               "confirmed": 104,
               "migrated": 13,
-              "recovered": 42
+              "recovered": 43
             }
           },
           "2020-07-13": {
             "delta": {
-              "confirmed": 1
+              "confirmed": 1,
+              "recovered": 6
             },
             "total": {
               "confirmed": 105,
               "migrated": 13,
-              "recovered": 42
+              "recovered": 49
             }
           },
           "2020-07-14": {
             "delta": {
-              "confirmed": 39
+              "confirmed": 39,
+              "recovered": -1
             },
             "total": {
               "confirmed": 144,
               "migrated": 13,
-              "recovered": 42
+              "recovered": 48
             }
           },
           "2020-07-15": {
@@ -1076,7 +1079,7 @@
             "total": {
               "confirmed": 155,
               "migrated": 13,
-              "recovered": 42
+              "recovered": 48
             }
           }
         }
@@ -1674,36 +1677,12 @@
               "confirmed": -1
             }
           },
-          "2020-07-12": {
-            "delta": {
-              "recovered": 1
-            },
-            "total": {
-              "recovered": 1
-            }
-          },
-          "2020-07-13": {
-            "delta": {
-              "recovered": 6
-            },
-            "total": {
-              "recovered": 7
-            }
-          },
-          "2020-07-14": {
-            "delta": {
-              "recovered": -1
-            },
-            "total": {
-              "recovered": 6
-            }
-          },
           "2020-07-15": {
             "delta": {
               "recovered": 1
             },
             "total": {
-              "recovered": 7
+              "recovered": 1
             }
           }
         }

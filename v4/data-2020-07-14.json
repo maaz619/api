@@ -9409,7 +9409,8 @@
     "districts": {
       "East Sikkim": {
         "delta": {
-          "confirmed": 39
+          "confirmed": 39,
+          "recovered": -1
         },
         "meta": {
           "population": 281293
@@ -9417,7 +9418,7 @@
         "total": {
           "confirmed": 144,
           "migrated": 13,
-          "recovered": 42
+          "recovered": 48
         }
       },
       "North Sikkim": {
@@ -9439,14 +9440,6 @@
         "total": {
           "confirmed": 44,
           "recovered": 26
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "recovered": -1
-        },
-        "total": {
-          "recovered": 6
         }
       },
       "West Sikkim": {
