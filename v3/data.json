@@ -364,7 +364,8 @@
   "AR": {
     "delta": {
       "confirmed": 75,
-      "recovered": 8
+      "recovered": 8,
+      "tested": 1116
     },
     "districts": {
       "Anjaw": {
@@ -748,15 +749,14 @@
       "last_updated": "2020-07-15T06:17:00+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1131"
+        "last_updated": "2020-07-14"
       }
     },
     "total": {
       "confirmed": 462,
       "deceased": 3,
       "recovered": 153,
-      "tested": 32691
+      "tested": 33807
     }
   },
   "AS": {
@@ -10840,7 +10840,7 @@
     },
     "meta": {
       "last_updated": "2020-07-14T09:58:09+05:30",
-      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 179 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
+      "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'."
     },
     "total": {
       "confirmed": 2179
