@@ -366,7 +366,7 @@
   },
   "AR": {
     "delta": {
-      "confirmed": 26
+      "confirmed": 29
     },
     "districts": {
       "Anjaw": {
@@ -481,6 +481,9 @@
         }
       },
       "Lepa Rada": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "tested": {
             "last_updated": "2020-07-14",
@@ -488,7 +491,7 @@
           }
         },
         "total": {
-          "confirmed": 8,
+          "confirmed": 10,
           "recovered": 1,
           "tested": 215
         }
@@ -536,6 +539,9 @@
         }
       },
       "Lower Siang": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 80597,
           "tested": {
@@ -544,7 +550,7 @@
           }
         },
         "total": {
-          "confirmed": 4,
+          "confirmed": 5,
           "recovered": 2,
           "tested": 516
         }
@@ -563,6 +569,9 @@
         }
       },
       "Namsai": {
+        "delta": {
+          "confirmed": 14
+        },
         "meta": {
           "population": 95950,
           "tested": {
@@ -571,7 +580,7 @@
           }
         },
         "total": {
-          "confirmed": 24,
+          "confirmed": 38,
           "recovered": 8,
           "tested": 1913
         }
@@ -590,6 +599,9 @@
         }
       },
       "Papum Pare": {
+        "delta": {
+          "confirmed": 12
+        },
         "meta": {
           "population": 176385,
           "tested": {
@@ -598,7 +610,7 @@
           }
         },
         "total": {
-          "confirmed": 220,
+          "confirmed": 232,
           "deceased": 1,
           "recovered": 24,
           "tested": 1099
@@ -655,14 +667,6 @@
           "confirmed": 6,
           "recovered": 5,
           "tested": 1767
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "confirmed": 26
-        },
-        "total": {
-          "confirmed": 26
         }
       },
       "Upper Siang": {
@@ -723,7 +727,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-16T00:04:18+05:30",
+      "last_updated": "2020-07-16T00:08:02+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -731,7 +735,7 @@
       }
     },
     "total": {
-      "confirmed": 488,
+      "confirmed": 491,
       "deceased": 3,
       "recovered": 153,
       "tested": 33807
@@ -739,6 +743,7 @@
   },
   "AS": {
     "delta": {
+      "confirmed": 1088,
       "deceased": 2,
       "recovered": 715,
       "tested": 13335
@@ -915,13 +920,14 @@
       },
       "Kamrup Metropolitan": {
         "delta": {
+          "confirmed": 649,
           "deceased": 1
         },
         "meta": {
           "population": 1260419
         },
         "total": {
-          "confirmed": 8183,
+          "confirmed": 8832,
           "deceased": 25,
           "recovered": 4587
         }
@@ -1059,10 +1065,11 @@
       },
       "Unknown": {
         "delta": {
+          "confirmed": 439,
           "recovered": 715
         },
         "total": {
-          "confirmed": 3347,
+          "confirmed": 3786,
           "deceased": 9,
           "migrated": 3,
           "recovered": 3893
@@ -1078,7 +1085,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T23:41:00+05:30",
+      "last_updated": "2020-07-16T00:13:01+05:30",
       "notes": "Includes one case from Nagaland.\nTotal of 3 patients who migrated to other states has been reduced from Active count",
       "population": 34293000,
       "tested": {
@@ -1087,7 +1094,7 @@
       }
     },
     "total": {
-      "confirmed": 18667,
+      "confirmed": 19755,
       "deceased": 53,
       "migrated": 3,
       "recovered": 12889,
@@ -10554,6 +10561,7 @@
   "TR": {
     "delta": {
       "confirmed": 98,
+      "deceased": 1,
       "recovered": 66
     },
     "districts": {
@@ -10586,6 +10594,9 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "deceased": 1
+        },
         "meta": {
           "population": 327391,
           "tested": {
@@ -10594,7 +10605,7 @@
         },
         "total": {
           "confirmed": 215,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 80,
           "tested": 4075
         }
@@ -10680,7 +10691,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-16T00:04:03+05:30",
+      "last_updated": "2020-07-16T00:13:04+05:30",
       "population": 3992000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -10689,7 +10700,7 @@
     },
     "total": {
       "confirmed": 2281,
-      "deceased": 2,
+      "deceased": 3,
       "migrated": 14,
       "recovered": 1604,
       "tested": 88677
@@ -10697,12 +10708,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 31516,
-      "deceased": 613,
+      "confirmed": 32607,
+      "deceased": 614,
       "recovered": 20646
     },
     "meta": {
-      "last_updated": "2020-07-16T00:03:59+05:30",
+      "last_updated": "2020-07-16T00:12:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -10710,8 +10721,8 @@
       }
     },
     "total": {
-      "confirmed": 969078,
-      "deceased": 24928,
+      "confirmed": 970169,
+      "deceased": 24929,
       "migrated": 389,
       "recovered": 613735,
       "tested": 12412664
