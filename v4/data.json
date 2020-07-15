@@ -1868,8 +1868,16 @@
     }
   },
   "DN": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 11
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 11
+        },
         "meta": {
           "population": 343709,
           "tested": {
@@ -1878,9 +1886,9 @@
           }
         },
         "total": {
-          "confirmed": 240,
+          "confirmed": 244,
           "migrated": 3,
-          "recovered": 160,
+          "recovered": 171,
           "tested": 22428
         }
       },
@@ -1917,7 +1925,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T12:07:00+05:30",
+      "last_updated": "2020-07-15T14:53:02+05:30",
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
@@ -1926,10 +1934,10 @@
       }
     },
     "total": {
-      "confirmed": 541,
+      "confirmed": 545,
       "deceased": 1,
       "migrated": 7,
-      "recovered": 343,
+      "recovered": 354,
       "tested": 36621
     }
   },
@@ -8652,12 +8660,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 306,
+      "confirmed": 310,
       "deceased": 12,
-      "recovered": 98
+      "recovered": 109
     },
     "meta": {
-      "last_updated": "2020-07-15T12:26:58+05:30",
+      "last_updated": "2020-07-15T14:52:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -8665,10 +8673,10 @@
       }
     },
     "total": {
-      "confirmed": 937868,
+      "confirmed": 937872,
       "deceased": 24327,
       "migrated": 389,
-      "recovered": 593187,
+      "recovered": 593198,
       "tested": 12412664
     }
   },
