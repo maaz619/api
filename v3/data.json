@@ -3713,8 +3713,8 @@
         "meta": {
           "population": 9588910,
           "tested": {
-            "last_updated": "2020-07-13",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1127"
+            "last_updated": "2020-07-14",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1160"
           }
         },
         "total": {
@@ -3722,7 +3722,7 @@
           "deceased": 376,
           "migrated": 1,
           "recovered": 4993,
-          "tested": 179679
+          "tested": 181045
         }
       },
       "Bidar": {
@@ -4856,6 +4856,9 @@
     }
   },
   "ML": {
+    "delta": {
+      "confirmed": 19
+    },
     "districts": {
       "East Jaintia Hills": {
         "meta": {
@@ -4902,8 +4905,11 @@
         }
       },
       "Unknown": {
+        "delta": {
+          "confirmed": 19
+        },
         "total": {
-          "confirmed": 143,
+          "confirmed": 162,
           "deceased": 1,
           "recovered": 13
         }
@@ -4936,15 +4942,16 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T20:12:02+05:30",
+      "last_updated": "2020-07-15T09:46:59+05:30",
       "notes": "[June 17]:\nOne case was identified to be false positive and has been removed from the confirmed cases by ML authorities.",
       "population": 3224000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1154"
       }
     },
     "total": {
-      "confirmed": 318,
+      "confirmed": 337,
       "deceased": 2,
       "recovered": 46,
       "tested": 24517
@@ -7429,7 +7436,8 @@
       "last_updated": "2020-07-14T21:41:00+05:30",
       "population": 77264000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1151"
       }
     },
     "total": {
@@ -7490,7 +7498,8 @@
       "notes": "13 Migrated cases reduced from Active count",
       "population": 664000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1156"
       }
     },
     "total": {
@@ -8540,7 +8549,8 @@
       "last_updated": "2020-07-14T22:41:02+05:30",
       "population": 3992000,
       "tested": {
-        "last_updated": "2020-07-14"
+        "last_updated": "2020-07-14",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1155"
       }
     },
     "total": {
@@ -8553,10 +8563,10 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -655
+      "confirmed": -636
     },
     "meta": {
-      "last_updated": "2020-07-15T09:36:58+05:30",
+      "last_updated": "2020-07-15T09:46:57+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -8564,7 +8574,7 @@
       }
     },
     "total": {
-      "confirmed": 936907,
+      "confirmed": 936926,
       "deceased": 24315,
       "migrated": 389,
       "recovered": 593088,
@@ -8576,7 +8586,7 @@
       "confirmed": -655
     },
     "meta": {
-      "last_updated": "2020-07-15T09:37:00+05:30",
+      "last_updated": "2020-07-15T09:44:01+05:30",
       "notes": "MoHFW website reports that these are the 'cases that are being reassigned to states'. 655 cases were decreased in this category today by MoHFW. We have removed these cases from this category"
     },
     "total": {
