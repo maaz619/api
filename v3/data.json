@@ -6120,7 +6120,8 @@
   },
   "OR": {
     "delta": {
-      "confirmed": 618
+      "confirmed": 618,
+      "deceased": 5
     },
     "districts": {
       "Angul": {
@@ -6287,7 +6288,8 @@
       },
       "Ganjam": {
         "delta": {
-          "confirmed": 286
+          "confirmed": 286,
+          "deceased": 3
         },
         "meta": {
           "population": 3520151,
@@ -6298,7 +6300,7 @@
         },
         "total": {
           "confirmed": 4621,
-          "deceased": 46,
+          "deceased": 49,
           "recovered": 2701,
           "tested": 6632
         }
@@ -6416,14 +6418,15 @@
       },
       "Khordha": {
         "delta": {
-          "confirmed": 107
+          "confirmed": 107,
+          "deceased": 2
         },
         "meta": {
           "population": 2246341
         },
         "total": {
           "confirmed": 1530,
-          "deceased": 17,
+          "deceased": 19,
           "recovered": 972
         }
       },
@@ -6597,7 +6600,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T10:42:59+05:30",
+      "last_updated": "2020-07-15T10:52:59+05:30",
       "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
@@ -6607,7 +6610,7 @@
     },
     "total": {
       "confirmed": 14898,
-      "deceased": 96,
+      "deceased": 101,
       "recovered": 9864,
       "tested": 347226
     }
@@ -8632,10 +8635,11 @@
   },
   "TT": {
     "delta": {
-      "confirmed": -18
+      "confirmed": -18,
+      "deceased": 5
     },
     "meta": {
-      "last_updated": "2020-07-15T10:42:57+05:30",
+      "last_updated": "2020-07-15T10:52:57+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -8644,7 +8648,7 @@
     },
     "total": {
       "confirmed": 937544,
-      "deceased": 24315,
+      "deceased": 24320,
       "migrated": 389,
       "recovered": 593088,
       "tested": 12412664
