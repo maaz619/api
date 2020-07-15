@@ -44,7 +44,8 @@
     "delta": {
       "confirmed": 2432,
       "deceased": 44,
-      "recovered": 911
+      "recovered": 911,
+      "tested": 22197
     },
     "districts": {
       "Anantapur": {
@@ -331,15 +332,15 @@
       "notes": "Total includes patients from other states and a new category \"Foreign Evacuees\" which is now reported in AP bulletin.",
       "population": 52221000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://twitter.com/ArogyaAndhra/status/1282952875723767809?s=20"
+        "last_updated": "2020-07-15",
+        "source": "https://twitter.com/ArogyaAndhra/status/1283346129518657536?s=20"
       }
     },
     "total": {
       "confirmed": 35451,
       "deceased": 452,
       "recovered": 18378,
-      "tested": 1195766
+      "tested": 1217963
     }
   },
   "AR": {
@@ -2197,8 +2198,8 @@
       "notes": "3 cases are migrated to different states which are reduced from active count.",
       "population": 959000,
       "tested": {
-        "last_updated": "2020-07-13",
-        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD13072020.pdf"
+        "last_updated": "2020-07-14",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
       }
     },
     "total": {
@@ -2206,7 +2207,7 @@
       "deceased": 1,
       "migrated": 7,
       "recovered": 354,
-      "tested": 36621
+      "tested": 36905
     }
   },
   "GA": {
@@ -6363,7 +6364,8 @@
     "delta": {
       "confirmed": 618,
       "deceased": 5,
-      "recovered": 612
+      "recovered": 612,
+      "tested": 6598
     },
     "districts": {
       "Angul": {
@@ -6874,15 +6876,15 @@
       "notes": "[July 12th] 20 non-covid deaths reported in state dashboard are included in the deceased count\n[June 22nd]: NDRF/ODRF cases have been redistributed to districts based on state dashboard",
       "population": 43671000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1137"
+        "last_updated": "2020-07-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/1167"
       }
     },
     "total": {
       "confirmed": 14898,
       "deceased": 101,
       "recovered": 10476,
-      "tested": 347226
+      "tested": 353824
     }
   },
   "PB": {
@@ -7213,76 +7215,85 @@
     "delta": {
       "confirmed": 65,
       "deceased": 3,
-      "recovered": 60
+      "recovered": 60,
+      "tested": 687
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "tested": 118
+        },
         "meta": {
           "population": 200222,
           "tested": {
-            "last_updated": "2020-07-14",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-15",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 99,
           "deceased": 2,
           "recovered": 42,
-          "tested": 3654
+          "tested": 3772
         }
       },
       "Mahe": {
+        "delta": {
+          "tested": 7
+        },
         "meta": {
           "population": 41816,
           "tested": {
-            "last_updated": "2020-07-14",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-15",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 21,
           "recovered": 20,
-          "tested": 1113
+          "tested": 1120
         }
       },
       "Puducherry": {
         "delta": {
           "confirmed": 55,
           "deceased": 3,
-          "recovered": 53
+          "recovered": 53,
+          "tested": 508
         },
         "meta": {
           "notes": "23 cases(18 of TN, 1 of AP & 4 other) have been transferred,so have been reduced from the total count",
           "population": 950289,
           "tested": {
-            "last_updated": "2020-07-14",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-15",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 1431,
           "deceased": 19,
           "recovered": 809,
-          "tested": 21113
+          "tested": 21621
         }
       },
       "Yanam": {
         "delta": {
           "confirmed": 10,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 54
         },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
           "tested": {
-            "last_updated": "2020-07-14",
-            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
+            "last_updated": "2020-07-15",
+            "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
           }
         },
         "total": {
           "confirmed": 45,
           "recovered": 18,
-          "tested": 1349
+          "tested": 1403
         }
       }
     },
@@ -7290,15 +7301,15 @@
       "last_updated": "2020-07-15T17:42:00+05:30",
       "population": 1504000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/14.07.2020%20bulletin.pdf"
+        "last_updated": "2020-07-15",
+        "source": "https://health.py.gov.in/sites/default/files/NEET-PDF/15.07.2020%20bulletin.pdf"
       }
     },
     "total": {
       "confirmed": 1596,
       "deceased": 21,
       "recovered": 889,
-      "tested": 27229
+      "tested": 27916
     }
   },
   "RJ": {
