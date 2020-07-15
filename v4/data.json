@@ -2180,7 +2180,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T21:37:09+05:30",
+      "last_updated": "2020-07-15T21:48:11+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2020-07-15",
@@ -2365,7 +2365,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T21:37:11+05:30",
+      "last_updated": "2020-07-15T21:48:14+05:30",
       "population": 1540000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -3036,13 +3036,15 @@
   },
   "HP": {
     "delta": {
-      "confirmed": 14,
-      "recovered": 11
+      "confirmed": 32,
+      "recovered": 28,
+      "tested": 2213
     },
     "districts": {
       "Bilaspur": {
         "delta": {
-          "confirmed": 10
+          "confirmed": 11,
+          "recovered": 3
         },
         "meta": {
           "population": 382056,
@@ -3052,14 +3054,14 @@
           }
         },
         "total": {
-          "confirmed": 62,
-          "recovered": 38,
+          "confirmed": 63,
+          "recovered": 41,
           "tested": 4336
         }
       },
       "Chamba": {
         "delta": {
-          "confirmed": 2,
+          "confirmed": 3,
           "recovered": 3
         },
         "meta": {
@@ -3070,7 +3072,7 @@
           }
         },
         "total": {
-          "confirmed": 70,
+          "confirmed": 71,
           "migrated": 1,
           "recovered": 54,
           "tested": 8293
@@ -3078,7 +3080,7 @@
       },
       "Hamirpur": {
         "delta": {
-          "recovered": 5
+          "recovered": 19
         },
         "meta": {
           "population": 454293,
@@ -3090,7 +3092,7 @@
         "total": {
           "confirmed": 276,
           "deceased": 3,
-          "recovered": 247,
+          "recovered": 261,
           "tested": 13079
         }
       },
@@ -3129,7 +3131,7 @@
       },
       "Kullu": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 6
         },
         "meta": {
           "population": 437474,
@@ -3139,7 +3141,7 @@
           }
         },
         "total": {
-          "confirmed": 9,
+          "confirmed": 14,
           "recovered": 5,
           "tested": 3258
         }
@@ -3208,6 +3210,9 @@
         }
       },
       "Solan": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "population": 576670,
           "tested": {
@@ -3216,13 +3221,16 @@
           }
         },
         "total": {
-          "confirmed": 259,
+          "confirmed": 268,
           "migrated": 4,
           "recovered": 104,
           "tested": 17021
         }
       },
       "Una": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 521057,
           "tested": {
@@ -3231,7 +3239,7 @@
           }
         },
         "total": {
-          "confirmed": 144,
+          "confirmed": 146,
           "recovered": 114,
           "tested": 10238
         }
@@ -3243,27 +3251,27 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T18:55:01+05:30",
+      "last_updated": "2020-07-15T21:49:12+05:30",
       "notes": "HP has 14 Migrated cases which are reduced from Active #. Also, death of Tibetan refugee is included in deceased numbers, but not in confirmed",
       "population": 7300000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "https://twitter.com/nhm_hp/status/1283071858431209473?s=20"
+        "last_updated": "2020-07-15"
       }
     },
     "total": {
-      "confirmed": 1323,
+      "confirmed": 1341,
       "deceased": 10,
       "migrated": 13,
-      "recovered": 949,
-      "tested": 103521
+      "recovered": 966,
+      "tested": 105734
     }
   },
   "HR": {
     "delta": {
       "confirmed": 678,
       "deceased": 7,
-      "recovered": 577
+      "recovered": 577,
+      "tested": 11395
     },
     "districts": {
       "Ambala": {
@@ -3686,18 +3694,18 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T21:37:06+05:30",
+      "last_updated": "2020-07-15T21:48:09+05:30",
       "population": 28672000,
       "tested": {
-        "last_updated": "2020-07-14",
-        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2014-07-20.pdf"
+        "last_updated": "2020-07-15",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2015-07-20.pdf"
       }
     },
     "total": {
       "confirmed": 23306,
       "deceased": 319,
       "recovered": 17667,
-      "tested": 388760
+      "tested": 400155
     }
   },
   "JH": {
@@ -4826,7 +4834,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T21:37:01+05:30",
+      "last_updated": "2020-07-15T21:48:02+05:30",
       "notes": "4 cases are classified as non-covid related deaths in KA bulletin. They have been reduced from active cases",
       "population": 65798000,
       "tested": {
@@ -10057,12 +10065,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 28296,
+      "confirmed": 28314,
       "deceased": 586,
-      "recovered": 18197
+      "recovered": 18214
     },
     "meta": {
-      "last_updated": "2020-07-15T21:36:59+05:30",
+      "last_updated": "2020-07-15T21:49:05+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -10070,10 +10078,10 @@
       }
     },
     "total": {
-      "confirmed": 965858,
+      "confirmed": 965876,
       "deceased": 24901,
       "migrated": 389,
-      "recovered": 611286,
+      "recovered": 611303,
       "tested": 12412664
     }
   },
@@ -11503,7 +11511,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-15T21:37:04+05:30",
+      "last_updated": "2020-07-15T21:48:06+05:30",
       "population": 224979000,
       "tested": {
         "last_updated": "2020-07-14",
