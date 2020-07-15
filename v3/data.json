@@ -6108,8 +6108,16 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 2
+    },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "confirmed": 6,
+          "recovered": 1
+        },
         "meta": {
           "population": 379769,
           "tested": {
@@ -6118,8 +6126,8 @@
           }
         },
         "total": {
-          "confirmed": 222,
-          "recovered": 29,
+          "confirmed": 228,
+          "recovered": 30,
           "tested": 896
         }
       },
@@ -6137,6 +6145,9 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 270063,
           "tested": {
@@ -6146,7 +6157,7 @@
         },
         "total": {
           "confirmed": 110,
-          "recovered": 15,
+          "recovered": 16,
           "tested": 485
         }
       },
@@ -6258,7 +6269,7 @@
       }
     },
     "meta": {
-      "last_updated": "2020-07-14T18:15:10+05:30",
+      "last_updated": "2020-07-15T16:03:00+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -6266,8 +6277,8 @@
       }
     },
     "total": {
-      "confirmed": 896,
-      "recovered": 346,
+      "confirmed": 902,
+      "recovered": 348,
       "tested": 26927
     }
   },
@@ -8856,12 +8867,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1630,
+      "confirmed": 1636,
       "deceased": 12,
-      "recovered": 109
+      "recovered": 111
     },
     "meta": {
-      "last_updated": "2020-07-15T15:11:57+05:30",
+      "last_updated": "2020-07-15T16:02:58+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2020-07-14",
@@ -8869,10 +8880,10 @@
       }
     },
     "total": {
-      "confirmed": 939192,
+      "confirmed": 939198,
       "deceased": 24327,
       "migrated": 389,
-      "recovered": 593198,
+      "recovered": 593200,
       "tested": 12412664
     }
   },
